@@ -70,7 +70,7 @@ const PracticeMode = () => {
     });
   };
 
-  const renderPlaceholder = (icon: React.ReactNode, title: string, description: string) => (
+  const renderPlaceholder = (icon, title, description) => (
     <div className="flex flex-col items-center justify-center py-12">
       <Card className="p-8 text-center max-w-md">
         <div className="w-16 h-16 mx-auto mb-4 rounded-full bg-[var(--primary)]/20 flex items-center justify-center">

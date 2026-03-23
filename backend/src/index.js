@@ -18,10 +18,15 @@ const adminRoutes = require('./routes/admin');
 // Middleware
 app.use(cors());
 app.use(express.json());
-app.use('/uploads', express.static(path.join(__dirname, '../uploads')));
+
+const UPLOADS_DIR = process.env.UPLOADS_DIR
+  ? path.resolve(process.env.UPLOADS_DIR)
+  : path.join(__dirname, '../uploads');
+
+app.use('/uploads', express.static(UPLOADS_DIR));
 
 // Create uploads directory if not exists
-const uploadsDir = path.join(__dirname, '../uploads/audio');
+const uploadsDir = path.join(UPLOADS_DIR, 'audio');
 if (!fs.existsSync(uploadsDir)) {
   fs.mkdirSync(uploadsDir, { recursive: true });
 }
@@ -47,54 +52,73 @@ app.get('/api/health', (req, res) => {
   res.json({ status: 'ok', timestamp: new Date().toISOString() });
 });
 
-// Cron job: Delete submissions and comments older than 60 days
+// Cron job: Delete data older than 90 days (3 months)
 // Runs every day at 3:00 AM
 cron.schedule('0 3 * * *', async () => {
   console.log('Running cleanup job...');
-  const sixtyDaysAgo = new Date();
-  sixtyDaysAgo.setDate(sixtyDaysAgo.getDate() - 60);
+  const cutoff = new Date();
+  cutoff.setDate(cutoff.getDate() - 90);
 
   try {
-    // Get audio submissions to delete files
-    const oldAudioSubmissions = await prisma.submissions.findMany({
-      where: {
-        type: 'audio',
-        createdAt: { lt: sixtyDaysAgo }
-      }
+    const oldSubmissions = await prisma.submissions.findMany({
+      where: { createdAt: { lt: cutoff } },
+      select: { id: true, type: true, content: true }
     });
 
-    // Delete audio files
+    const oldSubmissionIds = oldSubmissions.map(s => s.id);
+
+    // Delete audio files for old submissions
+    const oldAudioSubmissions = oldSubmissions.filter(s => s.type === 'audio');
     for (const submission of oldAudioSubmissions) {
-      const filePath = path.join(__dirname, '..', submission.content);
+      const fileName = path.basename(submission.content || '');
+      if (!fileName) continue;
+      const filePath = path.join(uploadsDir, fileName);
       if (fs.existsSync(filePath)) {
         fs.unlinkSync(filePath);
-        console.log(`Deleted audio file: ${submission.content}`);
+        console.log(`Deleted audio file: ${fileName}`);
       }
     }
 
-    // Delete old comments
+    // Delete comments (older than cutoff OR linked to old submissions)
     const deletedComments = await prisma.comments.deleteMany({
       where: {
-        createdAt: { lt: sixtyDaysAgo }
+        OR: [
+          { createdAt: { lt: cutoff } },
+          ...(oldSubmissionIds.length > 0
+            ? [{ submissionId: { in: oldSubmissionIds } }]
+            : [])
+        ]
       }
     });
     console.log(`Deleted ${deletedComments.count} comments`);
 
     // Delete old submissions
     const deletedSubmissions = await prisma.submissions.deleteMany({
-      where: {
-        createdAt: { lt: sixtyDaysAgo }
-      }
+      where: oldSubmissionIds.length > 0
+        ? { id: { in: oldSubmissionIds } }
+        : { createdAt: { lt: cutoff } }
     });
     console.log(`Deleted ${deletedSubmissions.count} submissions`);
 
-    // Clean orphan audio files (files not in database)
-    const allSubmissions = await prisma.submissions.findMany({
-      where: { type: 'audio' }
+    // Delete exercises/themes older than cutoff (keep users + speaking_words)
+    const deletedExercises = await prisma.exercises.deleteMany({
+      where: { createdAt: { lt: cutoff } }
     });
-    const dbFiles = new Set(allSubmissions.map(s => path.basename(s.content)));
-    
-    const audioFiles = fs.readdirSync(uploadsDir);
+    console.log(`Deleted ${deletedExercises.count} exercises`);
+
+    const deletedThemes = await prisma.themes.deleteMany({
+      where: { createdAt: { lt: cutoff } }
+    });
+    console.log(`Deleted ${deletedThemes.count} themes`);
+
+    // Clean orphan audio files (files not in database)
+    const allAudioSubmissions = await prisma.submissions.findMany({
+      where: { type: 'audio' },
+      select: { content: true }
+    });
+    const dbFiles = new Set(allAudioSubmissions.map(s => path.basename(s.content || '')));
+
+    const audioFiles = fs.existsSync(uploadsDir) ? fs.readdirSync(uploadsDir) : [];
     for (const file of audioFiles) {
       if (!dbFiles.has(file)) {
         fs.unlinkSync(path.join(uploadsDir, file));

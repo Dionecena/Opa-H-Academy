@@ -2,15 +2,25 @@ const express = require('express');
 const router = express.Router();
 const multer = require('multer');
 const path = require('path');
+const fs = require('fs');
 const { v4: uuidv4 } = require('uuid');
 const { PrismaClient } = require('@prisma/client');
 
 const prisma = new PrismaClient();
 
+const UPLOADS_DIR = process.env.UPLOADS_DIR
+  ? path.resolve(process.env.UPLOADS_DIR)
+  : path.join(__dirname, '../../uploads');
+
+const AUDIO_DIR = path.join(UPLOADS_DIR, 'audio');
+if (!fs.existsSync(AUDIO_DIR)) {
+  fs.mkdirSync(AUDIO_DIR, { recursive: true });
+}
+
 // Configure multer for audio uploads
 const storage = multer.diskStorage({
   destination: (req, file, cb) => {
-    cb(null, path.join(__dirname, '../../uploads/audio'));
+    cb(null, AUDIO_DIR);
   },
   filename: (req, file, cb) => {
     const uniqueName = `${uuidv4()}.webm`;
@@ -134,8 +144,8 @@ router.delete('/:id', async (req, res) => {
     
     // Delete audio file if exists
     if (submission.type === 'audio') {
-      const fs = require('fs');
-      const filePath = path.join(__dirname, '../..', submission.content);
+      const fileName = path.basename(submission.content || '');
+      const filePath = path.join(AUDIO_DIR, fileName);
       if (fs.existsSync(filePath)) {
         fs.unlinkSync(filePath);
       }
