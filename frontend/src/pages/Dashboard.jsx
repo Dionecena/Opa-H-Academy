@@ -1,9 +1,9 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { motion } from 'framer-motion';
 import { 
   FileText, Pen, Mic, BookOpen, Settings, Users,
-  ChevronRight, LogOut, Award
+  ChevronRight, LogOut, Award, User as UserIcon, ChevronDown
 } from 'lucide-react';
 import { Card, Button, Header } from '../components/UI';
 import { useAuth } from '../App';
@@ -11,6 +11,7 @@ import { useAuth } from '../App';
 const Dashboard = () => {
   const { user, logout } = useAuth();
   const navigate = useNavigate();
+  const [isMenuOpen, setIsMenuOpen] = useState(false);
 
   const handleLogout = () => {
     logout();
@@ -57,27 +58,47 @@ const Dashboard = () => {
         title="OPA H ACADEMIE" 
         username={user?.username}
         action={
-          <div className="flex items-center gap-2">
-            {user?.role === 'admin' && (
-              <button
-                onClick={() => navigate('/admin')}
-                className="px-3 py-2 text-sm font-medium border border-[var(--border)] bg-[var(--bg-card)] backdrop-blur rounded-[var(--radius-sm)] hover:bg-[var(--bg-input)] transition-all"
-              >
-                <span className="flex items-center gap-2">
-                  <Settings className="w-4 h-4" />
-                  Admin
-                </span>
-              </button>
-            )}
+          <div className="relative">
             <button
-              onClick={handleLogout}
-              className="px-3 py-2 text-sm font-medium border border-[var(--border)] bg-[var(--bg-card)] backdrop-blur rounded-[var(--radius-sm)] hover:bg-[var(--bg-input)] transition-all"
+              onClick={() => setIsMenuOpen((v) => !v)}
+              className="px-3 py-2 text-sm font-medium border border-[var(--glass-border-strong)] bg-[var(--glass-bg-strong)] shadow-[var(--glass-shadow)] backdrop-blur-[calc(var(--glass-blur)+6px)] rounded-[var(--radius-sm)] hover:bg-[var(--glass-bg)] transition-all"
             >
               <span className="flex items-center gap-2">
-                <LogOut className="w-4 h-4" />
-                Logout
+                <UserIcon className="w-4 h-4" />
+                <span className="hidden sm:inline">Compte</span>
+                <ChevronDown className={`w-4 h-4 transition-transform ${isMenuOpen ? 'rotate-180' : ''}`} />
               </span>
             </button>
+
+            {isMenuOpen && (
+              <div
+                className="absolute right-0 mt-2 w-44 rounded-[var(--radius)] border border-[var(--glass-border-strong)] bg-[var(--glass-bg-strong)] shadow-[var(--glass-shadow-strong)] backdrop-blur-[calc(var(--glass-blur)+10px)] overflow-hidden"
+                onMouseLeave={() => setIsMenuOpen(false)}
+              >
+                {user?.role === 'admin' && (
+                  <button
+                    onClick={() => {
+                      setIsMenuOpen(false);
+                      navigate('/admin');
+                    }}
+                    className="w-full px-3 py-2 text-left text-sm text-[var(--text-primary)] hover:bg-[var(--glass-bg)] transition-colors flex items-center gap-2"
+                  >
+                    <Settings className="w-4 h-4" />
+                    Admin
+                  </button>
+                )}
+                <button
+                  onClick={() => {
+                    setIsMenuOpen(false);
+                    handleLogout();
+                  }}
+                  className="w-full px-3 py-2 text-left text-sm text-[var(--text-primary)] hover:bg-[var(--glass-bg)] transition-colors flex items-center gap-2"
+                >
+                  <LogOut className="w-4 h-4" />
+                  Logout
+                </button>
+              </div>
+            )}
           </div>
         }
       />
