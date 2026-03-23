@@ -109,7 +109,7 @@ const SubmissionCard = ({ submission, onCommentAdded }) => {
             </div>
             <audio
               id={`audio-${submission.id}`}
-              src={`${API_BASE.replace(/\/api\/?$/, '')}${submission.content}`}
+              src={submission.content.startsWith('http') ? submission.content : `${API_BASE.replace(/\/api\/?$/, '')}${submission.content}`}
               onEnded={() => setIsPlaying(false)}
               className="hidden"
             />

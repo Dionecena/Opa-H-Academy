@@ -1,35 +1,21 @@
 const express = require('express');
 const router = express.Router();
 const multer = require('multer');
-const path = require('path');
-const fs = require('fs');
-const { v4: uuidv4 } = require('uuid');
 const { PrismaClient } = require('@prisma/client');
+const cloudinary = require('cloudinary').v2;
 
 const prisma = new PrismaClient();
 
-const UPLOADS_DIR = process.env.UPLOADS_DIR
-  ? path.resolve(process.env.UPLOADS_DIR)
-  : path.join(__dirname, '../../uploads');
-
-const AUDIO_DIR = path.join(UPLOADS_DIR, 'audio');
-if (!fs.existsSync(AUDIO_DIR)) {
-  fs.mkdirSync(AUDIO_DIR, { recursive: true });
-}
-
-// Configure multer for audio uploads
-const storage = multer.diskStorage({
-  destination: (req, file, cb) => {
-    cb(null, AUDIO_DIR);
-  },
-  filename: (req, file, cb) => {
-    const uniqueName = `${uuidv4()}.webm`;
-    cb(null, uniqueName);
-  }
+// Configure Cloudinary
+cloudinary.config({
+  cloud_name: process.env.CLOUDINARY_CLOUD_NAME,
+  api_key: process.env.CLOUDINARY_API_KEY,
+  api_secret: process.env.CLOUDINARY_API_SECRET
 });
 
+// Use memory storage for Cloudinary upload
 const upload = multer({
-  storage,
+  storage: multer.memoryStorage(),
   limits: { fileSize: 10 * 1024 * 1024 } // 10MB max
 });
 
@@ -105,7 +91,7 @@ router.post('/text', async (req, res) => {
   }
 });
 
-// Create audio submission
+// Create audio submission (Cloudinary)
 router.post('/audio', upload.single('audio'), async (req, res) => {
   const { username, context } = req.body;
   
@@ -116,17 +102,33 @@ router.post('/audio', upload.single('audio'), async (req, res) => {
   const normalizedUsername = String(username).trim().toLowerCase();
   
   try {
-    const audioPath = `/uploads/audio/${req.file.filename}`;
+    // Upload to Cloudinary
+    const result = await new Promise((resolve, reject) => {
+      const stream = cloudinary.uploader.upload_stream(
+        {
+          resource_type: 'video', // 'video' works for audio files too
+          folder: 'opa-h-audio',
+          format: 'webm'
+        },
+        (error, result) => {
+          if (error) reject(error);
+          else resolve(result);
+        }
+      );
+      stream.end(req.file.buffer);
+    });
+
     const submission = await prisma.submissions.create({
       data: {
         username: normalizedUsername,
         type: 'audio',
         context,
-        content: audioPath
+        content: result.secure_url // Cloudinary URL
       }
     });
     res.json(submission);
   } catch (error) {
+    console.error('Cloudinary upload error:', error);
     res.status(500).json({ error: 'Erreur serveur' });
   }
 });
@@ -142,12 +144,18 @@ router.delete('/:id', async (req, res) => {
       return res.status(404).json({ error: 'Soumission non trouvée' });
     }
     
-    // Delete audio file if exists
-    if (submission.type === 'audio') {
-      const fileName = path.basename(submission.content || '');
-      const filePath = path.join(AUDIO_DIR, fileName);
-      if (fs.existsSync(filePath)) {
-        fs.unlinkSync(filePath);
+    // Delete from Cloudinary if audio
+    if (submission.type === 'audio' && submission.content.includes('cloudinary')) {
+      try {
+        // Extract public_id from URL: https://res.cloudinary.com/.../opa-h-audio/xxx.webm
+        const urlParts = submission.content.split('/');
+        const fileName = urlParts[urlParts.length - 1]; // xxx.webm
+        const publicId = `opa-h-audio/${fileName.replace('.webm', '')}`;
+        
+        await cloudinary.uploader.destroy(publicId, { resource_type: 'video' });
+      } catch (cloudErr) {
+        console.error('Cloudinary delete error:', cloudErr);
+        // Continue anyway to delete from DB
       }
     }
     

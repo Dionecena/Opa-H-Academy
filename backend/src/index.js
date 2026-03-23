@@ -1,12 +1,18 @@
 const express = require('express');
 const cors = require('cors');
 const cron = require('node-cron');
-const path = require('path');
-const fs = require('fs');
 const { PrismaClient } = require('@prisma/client');
+const cloudinary = require('cloudinary').v2;
 
 const prisma = new PrismaClient();
 const app = express();
+
+// Configure Cloudinary
+cloudinary.config({
+  cloud_name: process.env.CLOUDINARY_CLOUD_NAME,
+  api_key: process.env.CLOUDINARY_API_KEY,
+  api_secret: process.env.CLOUDINARY_API_SECRET
+});
 
 // Import routes
 const userRoutes = require('./routes/users');
@@ -18,18 +24,6 @@ const adminRoutes = require('./routes/admin');
 // Middleware
 app.use(cors());
 app.use(express.json());
-
-const UPLOADS_DIR = process.env.UPLOADS_DIR
-  ? path.resolve(process.env.UPLOADS_DIR)
-  : path.join(__dirname, '../uploads');
-
-app.use('/uploads', express.static(UPLOADS_DIR));
-
-// Create uploads directory if not exists
-const uploadsDir = path.join(UPLOADS_DIR, 'audio');
-if (!fs.existsSync(uploadsDir)) {
-  fs.mkdirSync(uploadsDir, { recursive: true });
-}
 
 // Routes
 app.use('/api/users', userRoutes);
@@ -67,15 +61,19 @@ cron.schedule('0 3 * * *', async () => {
 
     const oldSubmissionIds = oldSubmissions.map(s => s.id);
 
-    // Delete audio files for old submissions
+    // Delete audio files from Cloudinary
     const oldAudioSubmissions = oldSubmissions.filter(s => s.type === 'audio');
     for (const submission of oldAudioSubmissions) {
-      const fileName = path.basename(submission.content || '');
-      if (!fileName) continue;
-      const filePath = path.join(uploadsDir, fileName);
-      if (fs.existsSync(filePath)) {
-        fs.unlinkSync(filePath);
-        console.log(`Deleted audio file: ${fileName}`);
+      if (submission.content && submission.content.includes('cloudinary')) {
+        try {
+          const urlParts = submission.content.split('/');
+          const fileName = urlParts[urlParts.length - 1];
+          const publicId = `opa-h-audio/${fileName.replace('.webm', '')}`;
+          await cloudinary.uploader.destroy(publicId, { resource_type: 'video' });
+          console.log(`Deleted Cloudinary audio: ${publicId}`);
+        } catch (cloudErr) {
+          console.error('Cloudinary delete error:', cloudErr);
+        }
       }
     }
 
@@ -110,21 +108,6 @@ cron.schedule('0 3 * * *', async () => {
       where: { createdAt: { lt: cutoff } }
     });
     console.log(`Deleted ${deletedThemes.count} themes`);
-
-    // Clean orphan audio files (files not in database)
-    const allAudioSubmissions = await prisma.submissions.findMany({
-      where: { type: 'audio' },
-      select: { content: true }
-    });
-    const dbFiles = new Set(allAudioSubmissions.map(s => path.basename(s.content || '')));
-
-    const audioFiles = fs.existsSync(uploadsDir) ? fs.readdirSync(uploadsDir) : [];
-    for (const file of audioFiles) {
-      if (!dbFiles.has(file)) {
-        fs.unlinkSync(path.join(uploadsDir, file));
-        console.log(`Deleted orphan file: ${file}`);
-      }
-    }
 
   } catch (error) {
     console.error('Cleanup job error:', error);
