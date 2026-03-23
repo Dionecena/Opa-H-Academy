@@ -214,4 +214,57 @@ router.put('/users/:username/role', checkAdmin, async (req, res) => {
   }
 });
 
+// Change admin username (transfer admin rights)
+router.put('/transfer-admin', checkAdmin, async (req, res) => {
+  const { newUsername } = req.body;
+  const currentAdmin = String(req.headers['x-username'] || '').trim().toLowerCase();
+  
+  if (!newUsername || newUsername.trim().length < 2) {
+    return res.status(400).json({ error: 'Nouveau pseudo invalide (min 2 caractères)' });
+  }
+  
+  const normalizedNew = newUsername.trim().toLowerCase();
+  
+  if (normalizedNew === currentAdmin) {
+    return res.status(400).json({ error: 'Le nouveau pseudo doit être différent' });
+  }
+  
+  try {
+    // Check if new username already exists
+    const existingUser = await prisma.users.findUnique({
+      where: { username: normalizedNew }
+    });
+    
+    if (existingUser) {
+      // Transfer admin role to existing user
+      await prisma.$transaction([
+        prisma.users.update({
+          where: { username: currentAdmin },
+          data: { role: 'user' }
+        }),
+        prisma.users.update({
+          where: { username: normalizedNew },
+          data: { role: 'admin' }
+        })
+      ]);
+    } else {
+      // Create new admin user and demote current
+      await prisma.$transaction([
+        prisma.users.update({
+          where: { username: currentAdmin },
+          data: { role: 'user' }
+        }),
+        prisma.users.create({
+          data: { username: normalizedNew, role: 'admin' }
+        })
+      ]);
+    }
+    
+    res.json({ success: true, newAdmin: normalizedNew });
+  } catch (error) {
+    console.error('Transfer error:', error);
+    res.status(500).json({ error: 'Erreur serveur' });
+  }
+});
+
 module.exports = router;

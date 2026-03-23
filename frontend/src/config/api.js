@@ -169,6 +169,18 @@ export const api = {
       headers: { 'x-username': username }
     });
     return res.json();
+  },
+
+  transferAdmin: async (username, newUsername) => {
+    const res = await fetch(`${API_BASE}/admin/transfer-admin`, {
+      method: 'PUT',
+      headers: {
+        'Content-Type': 'application/json',
+        'x-username': username
+      },
+      body: JSON.stringify({ newUsername })
+    });
+    return res.json();
   }
 };
 

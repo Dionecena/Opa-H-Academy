@@ -3,7 +3,7 @@ import { useNavigate } from 'react-router-dom';
 import { motion } from 'framer-motion';
 import { 
   Plus, Trash2, Video, FileText,
-  Users, MessageCircle, Pen, Youtube, X
+  Users, MessageCircle, Pen, Youtube, X, UserCog, LogOut
 } from 'lucide-react';
 import { Card, Button, Header, Input, Badge, Collapsible } from '../components/UI';
 import { useAuth } from '../App';
@@ -25,6 +25,9 @@ const AdminPanel = () => {
   const [examVideoLesen, setExamVideoLesen] = useState('');
   const [examVideoSchreiben, setExamVideoSchreiben] = useState('');
   const [savingExamVideos, setSavingExamVideos] = useState(false);
+  const [newAdminUsername, setNewAdminUsername] = useState('');
+  const [transferring, setTransferring] = useState(false);
+  const [transferError, setTransferError] = useState('');
 
   useEffect(() => {
     if (user?.role === 'admin') {
@@ -175,6 +178,29 @@ const AdminPanel = () => {
   const handleDeleteTheme = async (id) => {
     await api.deleteTheme(user.username, id);
     loadData();
+  };
+
+  const handleTransferAdmin = async () => {
+    if (!newAdminUsername.trim()) return;
+    
+    setTransferring(true);
+    setTransferError('');
+    
+    try {
+      const result = await api.transferAdmin(user.username, newAdminUsername.trim());
+      
+      if (result.error) {
+        setTransferError(result.error);
+      } else {
+        // Logout current user and redirect to login
+        localStorage.removeItem('user');
+        navigate('/');
+      }
+    } catch (err) {
+      setTransferError('Erreur lors du transfert');
+    } finally {
+      setTransferring(false);
+    }
   };
 
   if (user?.role !== 'admin') {
@@ -334,6 +360,39 @@ const AdminPanel = () => {
                 </p>
               )}
             </div>
+          </div>
+        </Collapsible>
+
+        {/* Transfer Admin */}
+        <Collapsible 
+          title="Admin übertragen" 
+          icon={<UserCog className="w-5 h-5 text-[var(--danger)]" />}
+          className="mt-4"
+        >
+          <div className="space-y-3">
+            <p className="text-sm text-[var(--text-muted)]">
+              Transférez les droits d'admin à un autre utilisateur. Vous serez déconnecté.
+            </p>
+            <div className="flex gap-2">
+              <Input
+                placeholder="Nouveau pseudo admin"
+                value={newAdminUsername}
+                onChange={(e) => setNewAdminUsername(e.target.value)}
+                className="flex-1"
+                onKeyPress={(e) => e.key === 'Enter' && handleTransferAdmin()}
+              />
+              <Button 
+                variant="outline" 
+                onClick={handleTransferAdmin}
+                loading={transferring}
+                disabled={!newAdminUsername.trim()}
+              >
+                <LogOut className="w-5 h-5" />
+              </Button>
+            </div>
+            {transferError && (
+              <p className="text-sm text-[var(--danger)]">{transferError}</p>
+            )}
           </div>
         </Collapsible>
       </main>
