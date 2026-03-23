@@ -4,6 +4,8 @@ const { PrismaClient } = require('@prisma/client');
 
 const prisma = new PrismaClient();
 
+const ADMIN_USERNAME = String(process.env.ADMIN_USERNAME || '').trim().toLowerCase();
+
 // Get or create user by username
 router.post('/login', async (req, res) => {
   const { username } = req.body;
@@ -13,6 +15,7 @@ router.post('/login', async (req, res) => {
   }
 
   const normalizedUsername = username.trim().toLowerCase();
+  const shouldBeAdmin = ADMIN_USERNAME && normalizedUsername === ADMIN_USERNAME;
 
   try {
     let user = await prisma.users.findUnique({
@@ -21,7 +24,15 @@ router.post('/login', async (req, res) => {
 
     if (!user) {
       user = await prisma.users.create({
-        data: { username: normalizedUsername }
+        data: {
+          username: normalizedUsername,
+          ...(shouldBeAdmin ? { role: 'admin' } : {})
+        }
+      });
+    } else if (shouldBeAdmin && user.role !== 'admin') {
+      user = await prisma.users.update({
+        where: { username: normalizedUsername },
+        data: { role: 'admin' }
       });
     }
 
