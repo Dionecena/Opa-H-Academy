@@ -17,6 +17,8 @@ model users {
   createdAt DateTime @default(now())
   submissions   submissions[]
   comments      comments[]
+  admin_webauthn_credentials admin_webauthn_credentials[]
+  admin_sessions admin_sessions[]
 }
 
 model exercises {
@@ -65,4 +67,25 @@ model comments {
   submission   submissions @relation(fields: [submissionId], references: [id])
   user         users       @relation(fields: [username], references: [username])
   @@map("comments")
+}
+
+model admin_webauthn_credentials {
+  id           Int      @id @default(autoincrement())
+  username     String
+  credentialId String   @unique @map("credential_id")
+  publicKey    String   @map("public_key")
+  counter      Int      @default(0)
+  createdAt    DateTime @default(now())
+  user         users    @relation(fields: [username], references: [username])
+  @@map("admin_webauthn_credentials")
+}
+
+model admin_sessions {
+  id        Int      @id @default(autoincrement())
+  username  String
+  token     String   @unique
+  expiresAt DateTime @map("expires_at")
+  createdAt DateTime @default(now())
+  user      users    @relation(fields: [username], references: [username])
+  @@map("admin_sessions")
 }

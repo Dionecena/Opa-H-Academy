@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { motion } from 'framer-motion';
+import { startRegistration, startAuthentication } from '@simplewebauthn/browser';
 import { 
   Plus, Trash2, Video, FileText,
   Users, MessageCircle, Pen, Youtube, X, UserCog, LogOut
@@ -12,6 +13,12 @@ import api from '../config/api';
 const AdminPanel = () => {
   const navigate = useNavigate();
   const { user } = useAuth();
+
+  const isMobile = (() => {
+    if (typeof navigator === 'undefined') return false;
+    const ua = navigator.userAgent || '';
+    return /Android|iPhone|iPad|iPod/i.test(ua);
+  })();
   
   const [stats, setStats] = useState({});
   const [words, setWords] = useState([]);
@@ -29,11 +36,70 @@ const AdminPanel = () => {
   const [transferring, setTransferring] = useState(false);
   const [transferError, setTransferError] = useState('');
 
+  const [adminToken, setAdminToken] = useState('');
+  const [adminTokenExpiresAt, setAdminTokenExpiresAt] = useState('');
+  const [unlocking, setUnlocking] = useState(false);
+  const [registering, setRegistering] = useState(false);
+  const [unlockError, setUnlockError] = useState('');
+
+  const clearAdminSession = () => {
+    setAdminToken('');
+    setAdminTokenExpiresAt('');
+    try {
+      sessionStorage.removeItem('adminSession');
+    } catch (_) {}
+  };
+
+  const formatWebAuthnError = (err) => {
+    const name = String(err?.name || '').trim();
+    const msg = String(err?.message || '').trim();
+
+    if (name === 'NotAllowedError') {
+      return "Opération annulée ou expirée. Réessaie et valide la fenêtre système (FaceID/TouchID/PIN).";
+    }
+    if (name === 'InvalidStateError') {
+      return "Cette passkey existe déjà sur cet appareil pour ce site. Utilise plutôt 'Déverrouiller Admin' ou supprime l'ancienne passkey.";
+    }
+    if (name === 'SecurityError') {
+      return "Sécurité WebAuthn refusée. Vérifie que tu es sur http://localhost:3000 (ou HTTPS en production) et que l'origine correspond.";
+    }
+    if (name === 'NotSupportedError') {
+      return "Ton navigateur/appareil ne supporte pas les passkeys/WebAuthn.";
+    }
+
+    if (msg) {
+      // Avoid showing the long W3C URL
+      return msg.split(' See: https://www.w3.org/TR/webauthn-2/#sctn-privacy-considerations-client.')[0];
+    }
+    return 'Erreur passkey';
+  };
+
   useEffect(() => {
     if (user?.role === 'admin') {
-      loadData();
+      try {
+        const saved = JSON.parse(sessionStorage.getItem('adminSession') || 'null');
+        if (saved?.token && saved?.expiresAt) {
+          if (new Date(saved.expiresAt).getTime() > Date.now()) {
+            setAdminToken(saved.token);
+            setAdminTokenExpiresAt(saved.expiresAt);
+          } else {
+            sessionStorage.removeItem('adminSession');
+          }
+        }
+      } catch (_) {
+        try {
+          sessionStorage.removeItem('adminSession');
+        } catch (_) {}
+      }
     }
   }, [user]);
+
+  useEffect(() => {
+    if (user?.role === 'admin' && adminToken) {
+      loadData();
+    }
+    // eslint-disable-next-line
+  }, [adminToken]);
 
   const buildExamTemplate = (sectionId) => {
     if (sectionId === 'hoeren') {
@@ -99,12 +165,19 @@ const AdminPanel = () => {
   };
 
   const loadData = async () => {
+    if (!adminToken) return;
+
     const [statsData, wordsData, themesData, exercisesData] = await Promise.all([
-      api.getAdminStats(user.username),
-      api.getWords(user.username),
-      api.getThemes(),
+      api.getAdminStats(user.username, adminToken),
+      api.getWords(user.username, adminToken),
+      api.getAdminThemes(user.username, adminToken),
       api.getExercises('exam')
     ]);
+
+    if (statsData?.error && (String(statsData.error).includes('verrouill') || String(statsData.error).includes('expir'))) {
+      clearAdminSession();
+      return;
+    }
     
     setStats(statsData);
     setWords(wordsData);
@@ -122,19 +195,18 @@ const AdminPanel = () => {
   };
 
   const upsertExamVideo = async ({ section, url, existing }) => {
-    const base = section === 'hoeren' || section === 'lesen' ? buildExamTemplate(section) : { section: 'schreiben' };
     const payload = {
-      title: section === 'hoeren' ? 'Exam Hören' : section === 'lesen' ? 'Exam Lesen' : 'Exam Schreiben',
+      title: `${section} Video`,
       type: 'exam',
-      videoUrl: url.trim() || null,
-      questions: { ...base, section },
-      content: null
+      videoUrl: url,
+      questions: section === 'schreiben' ? { section: 'schreiben' } : (existing?.questions || buildExamTemplate(section)),
+      content: existing?.content || null
     };
 
     if (existing?.id) {
-      return api.updateExercise(user.username, existing.id, payload);
+      return api.updateExercise(user.username, adminToken, existing.id, payload);
     }
-    return api.addExercise(user.username, payload);
+    return api.addExercise(user.username, adminToken, payload);
   };
 
   const handleSaveExamVideos = async () => {
@@ -158,25 +230,25 @@ const AdminPanel = () => {
 
   const handleAddWord = async () => {
     if (!newWord.trim()) return;
-    await api.addWord(user.username, newWord.trim());
+    await api.addWord(user.username, adminToken, newWord.trim());
     setNewWord('');
     loadData();
   };
 
   const handleDeleteWord = async (id) => {
-    await api.deleteWord(user.username, id);
+    await api.deleteWord(user.username, adminToken, id);
     loadData();
   };
 
   const handleAddTheme = async () => {
     if (!newTheme.trim()) return;
-    await api.addTheme(user.username, newTheme.trim());
+    await api.addTheme(user.username, adminToken, newTheme.trim());
     setNewTheme('');
     loadData();
   };
 
   const handleDeleteTheme = async (id) => {
-    await api.deleteTheme(user.username, id);
+    await api.deleteTheme(user.username, adminToken, id);
     loadData();
   };
 
@@ -187,7 +259,7 @@ const AdminPanel = () => {
     setTransferError('');
     
     try {
-      const result = await api.transferAdmin(user.username, newAdminUsername.trim());
+      const result = await api.transferAdmin(user.username, adminToken, newAdminUsername.trim());
       
       if (result.error) {
         setTransferError(result.error);
@@ -203,12 +275,104 @@ const AdminPanel = () => {
     }
   };
 
+  const handleRegisterPasskey = async () => {
+    setRegistering(true);
+    setUnlockError('');
+    try {
+      const options = await api.webauthnRegisterOptions(user.username, { platformOnly: isMobile });
+      if (options?.error) {
+        setUnlockError(options.error);
+        return;
+      }
+      const attResp = await startRegistration(options);
+      const result = await api.webauthnRegisterVerify(user.username, attResp);
+      if (result?.error) {
+        setUnlockError(result.error);
+      }
+    } catch (err) {
+      setUnlockError(formatWebAuthnError(err));
+    } finally {
+      setRegistering(false);
+    }
+  };
+
+  const handleUnlockAdmin = async () => {
+    setUnlocking(true);
+    setUnlockError('');
+    try {
+      const options = await api.webauthnAuthOptions(user.username, { platformOnly: isMobile });
+      if (options?.error) {
+        setUnlockError(options.error);
+        return;
+      }
+
+      const authResp = await startAuthentication(options);
+      const result = await api.webauthnAuthVerify(user.username, authResp);
+      if (result?.error) {
+        setUnlockError(result.error);
+        return;
+      }
+
+      if (result?.token && result?.expiresAt) {
+        setAdminToken(result.token);
+        setAdminTokenExpiresAt(result.expiresAt);
+        sessionStorage.setItem('adminSession', JSON.stringify({ token: result.token, expiresAt: result.expiresAt }));
+      } else {
+        setUnlockError('Réponse invalide');
+      }
+    } catch (err) {
+      setUnlockError(formatWebAuthnError(err));
+    } finally {
+      setUnlocking(false);
+    }
+  };
+
   if (user?.role !== 'admin') {
     return (
       <div className="min-h-screen flex items-center justify-center">
         <Card className="p-8 text-center">
           <p className="text-[var(--danger)]">Zugriff verweigert</p>
         </Card>
+      </div>
+    );
+  }
+
+  if (!adminToken) {
+    return (
+      <div className="min-h-screen">
+        <Header
+          title="Admin"
+          subtitle="Déverrouillage requis"
+          onBack={() => navigate('/dashboard')}
+        />
+
+        <main className="max-w-4xl mx-auto px-4 pb-10">
+          <Card className="p-6">
+            <p className="text-sm text-[var(--text-muted)] mb-4">
+              Pour accéder aux fonctions admin, déverrouille avec une passkey (FaceID/TouchID/PIN).
+            </p>
+            <div className="flex flex-col sm:flex-row gap-2">
+              <Button
+                onClick={handleUnlockAdmin}
+                loading={unlocking}
+                fullWidth
+              >
+                Déverrouiller Admin
+              </Button>
+              <Button
+                variant="outline"
+                onClick={handleRegisterPasskey}
+                loading={registering}
+                fullWidth
+              >
+                Enregistrer une passkey
+              </Button>
+            </div>
+            {unlockError && (
+              <p className="text-sm text-[var(--danger)] mt-3">{unlockError}</p>
+            )}
+          </Card>
+        </main>
       </div>
     );
   }
@@ -221,6 +385,17 @@ const AdminPanel = () => {
       />
 
       <main className="flex-1 p-4">
+        <div className="max-w-4xl mx-auto mb-4">
+          <Card className="p-4 flex items-center justify-between" animate={false}>
+            <div className="text-sm text-[var(--text-muted)]">
+              Session admin active jusqu'à {adminTokenExpiresAt ? new Date(adminTokenExpiresAt).toLocaleString() : '...'}
+            </div>
+            <Button variant="outline" onClick={clearAdminSession}>
+              Verrouiller
+            </Button>
+          </Card>
+        </div>
+
         {/* Stats */}
         <motion.div
           initial={{ opacity: 0, y: 20 }}

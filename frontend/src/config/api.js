@@ -85,98 +85,176 @@ export const api = {
   },
 
   // Admin
-  getAdminStats: async (username) => {
+  getAdminStats: async (username, adminToken) => {
     const res = await fetch(`${API_BASE}/admin/stats`, {
-      headers: { 'x-username': username }
+      headers: {
+        'x-username': username,
+        ...(adminToken ? { Authorization: `Bearer ${adminToken}` } : {})
+      }
     });
     return res.json();
   },
 
-  addExercise: async (username, data) => {
-    const res = await fetch(`${API_BASE}/admin/exercises`, {
+  getAdminThemes: async (username, adminToken) => {
+    const res = await fetch(`${API_BASE}/admin/themes`, {
+      headers: {
+        'x-username': username,
+        ...(adminToken ? { Authorization: `Bearer ${adminToken}` } : {})
+      }
+    });
+    return res.json();
+  },
+
+  webauthnRegisterOptions: async (username, { platformOnly } = {}) => {
+    const res = await fetch(`${API_BASE}/admin/webauthn/register/options`, {
       method: 'POST',
-      headers: { 
-        'Content-Type': 'application/json',
-        'x-username': username 
-      },
-      body: JSON.stringify(data)
-    });
-    return res.json();
-  },
-
-  updateExercise: async (username, id, data) => {
-    const res = await fetch(`${API_BASE}/admin/exercises/${id}`, {
-      method: 'PUT',
       headers: {
         'Content-Type': 'application/json',
         'x-username': username
       },
+      body: JSON.stringify({ platformOnly: Boolean(platformOnly) })
+    });
+    return res.json();
+  },
+
+  webauthnRegisterVerify: async (username, credential) => {
+    const res = await fetch(`${API_BASE}/admin/webauthn/register/verify`, {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'x-username': username
+      },
+      body: JSON.stringify(credential)
+    });
+    return res.json();
+  },
+
+  webauthnAuthOptions: async (username, { platformOnly } = {}) => {
+    const res = await fetch(`${API_BASE}/admin/webauthn/auth/options`, {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'x-username': username
+      },
+      body: JSON.stringify({ platformOnly: Boolean(platformOnly) })
+    });
+    return res.json();
+  },
+
+  webauthnAuthVerify: async (username, assertion) => {
+    const res = await fetch(`${API_BASE}/admin/webauthn/auth/verify`, {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'x-username': username
+      },
+      body: JSON.stringify(assertion)
+    });
+    return res.json();
+  },
+
+  addExercise: async (username, adminToken, data) => {
+    const res = await fetch(`${API_BASE}/admin/exercises`, {
+      method: 'POST',
+      headers: { 
+        'Content-Type': 'application/json',
+        'x-username': username,
+        ...(adminToken ? { Authorization: `Bearer ${adminToken}` } : {})
+      },
       body: JSON.stringify(data)
     });
     return res.json();
   },
 
-  deleteExercise: async (username, id) => {
+  updateExercise: async (username, adminToken, id, data) => {
     const res = await fetch(`${API_BASE}/admin/exercises/${id}`, {
-      method: 'DELETE',
-      headers: { 'x-username': username }
+      method: 'PUT',
+      headers: {
+        'Content-Type': 'application/json',
+        'x-username': username,
+        ...(adminToken ? { Authorization: `Bearer ${adminToken}` } : {})
+      },
+      body: JSON.stringify(data)
     });
     return res.json();
   },
 
-  addWord: async (username, word) => {
+  deleteExercise: async (username, adminToken, id) => {
+    const res = await fetch(`${API_BASE}/admin/exercises/${id}`, {
+      method: 'DELETE',
+      headers: {
+        'x-username': username,
+        ...(adminToken ? { Authorization: `Bearer ${adminToken}` } : {})
+      }
+    });
+    return res.json();
+  },
+
+  addWord: async (username, adminToken, word) => {
     const res = await fetch(`${API_BASE}/admin/words`, {
       method: 'POST',
       headers: { 
         'Content-Type': 'application/json',
-        'x-username': username 
+        'x-username': username,
+        ...(adminToken ? { Authorization: `Bearer ${adminToken}` } : {})
       },
       body: JSON.stringify({ word })
     });
     return res.json();
   },
 
-  getWords: async (username) => {
+  getWords: async (username, adminToken) => {
     const res = await fetch(`${API_BASE}/admin/words`, {
-      headers: { 'x-username': username }
+      headers: {
+        'x-username': username,
+        ...(adminToken ? { Authorization: `Bearer ${adminToken}` } : {})
+      }
     });
     return res.json();
   },
 
-  deleteWord: async (username, id) => {
+  deleteWord: async (username, adminToken, id) => {
     const res = await fetch(`${API_BASE}/admin/words/${id}`, {
       method: 'DELETE',
-      headers: { 'x-username': username }
+      headers: {
+        'x-username': username,
+        ...(adminToken ? { Authorization: `Bearer ${adminToken}` } : {})
+      }
     });
     return res.json();
   },
 
-  addTheme: async (username, title) => {
+  addTheme: async (username, adminToken, title) => {
     const res = await fetch(`${API_BASE}/admin/themes`, {
       method: 'POST',
       headers: { 
         'Content-Type': 'application/json',
-        'x-username': username 
+        'x-username': username,
+        ...(adminToken ? { Authorization: `Bearer ${adminToken}` } : {})
       },
       body: JSON.stringify({ title })
     });
     return res.json();
   },
 
-  deleteTheme: async (username, id) => {
+  deleteTheme: async (username, adminToken, id) => {
     const res = await fetch(`${API_BASE}/admin/themes/${id}`, {
       method: 'DELETE',
-      headers: { 'x-username': username }
+      headers: {
+        'x-username': username,
+        ...(adminToken ? { Authorization: `Bearer ${adminToken}` } : {})
+      }
     });
     return res.json();
   },
 
-  transferAdmin: async (username, newUsername) => {
+  transferAdmin: async (username, adminToken, newUsername) => {
     const res = await fetch(`${API_BASE}/admin/transfer-admin`, {
       method: 'PUT',
       headers: {
         'Content-Type': 'application/json',
-        'x-username': username
+        'x-username': username,
+        ...(adminToken ? { Authorization: `Bearer ${adminToken}` } : {})
       },
       body: JSON.stringify({ newUsername })
     });
