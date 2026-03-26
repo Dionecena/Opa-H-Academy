@@ -1,6 +1,6 @@
 /* Simple PWA service worker for offline shell caching */
 
-const CACHE_NAME = 'opa-h-academy-v1';
+const CACHE_NAME = 'opa-h-academy-v2';
 
 const APP_SHELL = [
   '/',
@@ -30,6 +30,14 @@ self.addEventListener('activate', (event) => {
 self.addEventListener('fetch', (event) => {
   const { request } = event;
 
+  // SPA navigation fallback (important for PWA standalone + direct deep links like /admin)
+  if (request.mode === 'navigate') {
+    event.respondWith(
+      fetch(request).catch(() => caches.match('/index.html'))
+    );
+    return;
+  }
+
   // Only handle GET requests
   if (request.method !== 'GET') return;
 
@@ -47,9 +55,11 @@ self.addEventListener('fetch', (event) => {
       if (cached) return cached;
       return fetch(request)
         .then((response) => {
-          // Cache a copy
-          const copy = response.clone();
-          caches.open(CACHE_NAME).then((cache) => cache.put(request, copy));
+          // Cache a copy only if OK
+          if (response && response.ok) {
+            const copy = response.clone();
+            caches.open(CACHE_NAME).then((cache) => cache.put(request, copy));
+          }
           return response;
         })
         .catch(() => caches.match('/index.html'));
