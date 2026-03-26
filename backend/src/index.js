@@ -17,6 +17,7 @@ cloudinary.config({
 // Import routes
 const userRoutes = require('./routes/users');
 const exerciseRoutes = require('./routes/exercises');
+const grammarExerciseRoutes = require('./routes/grammarExercises');
 const submissionRoutes = require('./routes/submissions');
 const commentRoutes = require('./routes/comments');
 const adminRoutes = require('./routes/admin');
@@ -28,6 +29,7 @@ app.use(express.json());
 // Routes
 app.use('/api/users', userRoutes);
 app.use('/api/exercises', exerciseRoutes);
+app.use('/api/grammar-exercises', grammarExerciseRoutes);
 app.use('/api/submissions', submissionRoutes);
 app.use('/api/comments', commentRoutes);
 app.use('/api/admin', adminRoutes);

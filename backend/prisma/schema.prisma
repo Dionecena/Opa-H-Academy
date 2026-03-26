@@ -32,6 +32,24 @@ model exercises {
   @@map("exercises")
 }
 
+model grammar_exercises {
+  id        Int      @id @default(autoincrement())
+  uid       String   @unique
+  theme     String
+  sousTheme String?  @map("sous_theme")
+  niveau    String
+  exType    String   @map("ex_type")
+  difficulty String
+  score     Int
+  data      Json
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+  @@index([theme])
+  @@index([niveau])
+  @@index([theme, niveau])
+  @@map("grammar_exercises")
+}
+
 model speaking_words {
   id        Int      @id @default(autoincrement())
   word      String

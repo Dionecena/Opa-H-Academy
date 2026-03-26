@@ -1,0 +1,1073 @@
+[
+  {
+    "id": "adj-nom-akk-01",
+    "theme": "Adjektivendungen",
+    "sous_theme": "Nominativ - definiter und indefiniter Artikel",
+    "niveau": "A2",
+    "type": "completer",
+    "consigne": "Adjektiv im Nominativ (definiter und indefiniter Artikel). Ergänzen Sie die Endungen.",
+    "questions": [
+      {
+        "question": "Ist das der nett___ Lehrer? Ja, das ist ein nett___ Lehrer.",
+        "options": ["e / er", "er / e", "e / e", "er / er"],
+        "reponse": "e / er"
+      },
+      {
+        "question": "Ist das die neu___ Tasche? Ja, das ist eine neu___ Tasche.",
+        "options": ["e / e", "er / e", "e / er", "er / er"],
+        "reponse": "e / e"
+      },
+      {
+        "question": "Ist das das bequem___ Sofa? Ja, das ist ein bequem___ Sofa.",
+        "options": ["e / es", "es / e", "e / e", "es / es"],
+        "reponse": "e / es"
+      },
+      {
+        "question": "Sind das die günstig___ Tassen? Ja, das sind günstig___ Tassen.",
+        "options": ["en / en", "e / e", "en / e", "e / en"],
+        "reponse": "en / en"
+      },
+      {
+        "question": "Ist das der gut___ Herd? Ja, das ist ein gut___ Herd.",
+        "options": ["e / er", "er / e", "e / e", "er / er"],
+        "reponse": "e / er"
+      },
+      {
+        "question": "Ist das das intelligent___ Kind? Ja, das ist ein intelligent___ Kind.",
+        "options": ["e / es", "es / e", "e / e", "es / es"],
+        "reponse": "e / es"
+      },
+      {
+        "question": "Sind das die dumm___ Leute? Ja, das sind dumm___ Leute.",
+        "options": ["en / en", "e / e", "en / e", "e / en"],
+        "reponse": "en / en"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "adj-nom-akk-02",
+    "theme": "Adjektivendungen",
+    "sous_theme": "Akkusativ - indefiniter und definiter Artikel",
+    "niveau": "A2",
+    "type": "completer",
+    "consigne": "Adjektive im Akkusativ (indefiniter und definiter Artikel). Ergänzen Sie die Endungen.",
+    "questions": [
+      {
+        "question": "Ich suche ein bequem___ Sofa. Kaufst du das bequem___ Sofa?",
+        "options": ["es / e", "e / es", "es / es", "e / e"],
+        "reponse": "es / e"
+      },
+      {
+        "question": "Ich suche eine groß___ Tasche. Kaufst du die groß___ Tasche?",
+        "options": ["e / e", "er / e", "e / er", "er / er"],
+        "reponse": "e / e"
+      },
+      {
+        "question": "Ich suche schön___ Schuhe. Kaufst du die schön___ Schuhe?",
+        "options": ["e / en", "en / en", "e / e", "en / e"],
+        "reponse": "e / en"
+      },
+      {
+        "question": "Ich suche einen gut___ Kühlschrank. Kaufst du den gut___ Kühlschrank?",
+        "options": ["en / en", "e / en", "en / e", "e / e"],
+        "reponse": "en / en"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "adj-nom-akk-03",
+    "theme": "Adjektivendungen",
+    "sous_theme": "Nominativ und Akkusativ - Endungen ergänzen",
+    "niveau": "A2",
+    "type": "completer",
+    "consigne": "Ergänzen Sie die Endungen (wenn nötig).",
+    "questions": [
+      {
+        "question": "Nominativ maskulin: Unser Hund ist nicht dumm. Es ist ein intelligent___ Hund. Der intelligent___ Hund gehört uns. Das ist unser intelligent___ Hund.",
+        "options": ["er / e / er", "e / er / e", "er / er / er", "e / e / e"],
+        "reponse": "er / e / er"
+      },
+      {
+        "question": "Nominativ neutral: Das Kaninchen ist süß. Es ist ein weiß___ Kaninchen. Das süß___ Kaninchen hat leider zu viele Kinder. Mein süß___ Kaninchen liebt seine Kinder.",
+        "options": ["es / e / e", "e / es / es", "es / es / es", "e / e / e"],
+        "reponse": "es / e / e"
+      },
+      {
+        "question": "Nominativ feminin: Die Katze ist faul. Eine faul___ Katze ist gern zu Hause. Die faul___ Katze gefällt uns sehr. Meine faul___ Katze schläft den ganzen Tag.",
+        "options": ["e / e / e", "er / er / er", "e / er / er", "er / e / e"],
+        "reponse": "e / e / e"
+      },
+      {
+        "question": "Nominativ Plural: Die Vögel singen schön. Die frei___ Vögel singen schöner als die Vögel im Käfig. Frei___ Vögel sind keine traurig___ Vögel.",
+        "options": ["en / en", "e / e", "en / e", "e / en"],
+        "reponse": "en / en"
+      },
+      {
+        "question": "Akkusativ: Wir lieben den intelligent___ Hund, das süß___ Kaninchen, die faul___ Katze und die frei___ Vögel.",
+        "options": ["en / e / e / en", "e / en / en / e", "en / en / en / en", "e / e / e / e"],
+        "reponse": "en / e / e / en"
+      },
+      {
+        "question": "Akkusativ: Wir mögen einen intelligent___ Hund, ein süß___ Kaninchen, eine faul___ Katze und frei___ Vögel.",
+        "options": ["en / es / e / e", "er / es / e / en", "en / es / e / en", "er / e / e / e"],
+        "reponse": "en / es / e / e"
+      },
+      {
+        "question": "Akkusativ: Ich liebe meinen intelligent___ Hund, mein süß___ Kaninchen, meine faul___ Katze, meine schön___ Tiere.",
+        "options": ["en / es / e / en", "er / es / e / e", "en / e / e / en", "er / e / e / e"],
+        "reponse": "en / es / e / en"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "adj-nom-akk-04",
+    "theme": "Adjektivendungen",
+    "sous_theme": "Im Kleidungsgeschäft",
+    "niveau": "A2",
+    "type": "completer",
+    "consigne": "IM KLEIDUNGSGESCHÄFT. Nominativ oder Akkusativ? Ergänzen Sie die Endungen.",
+    "questions": [
+      {
+        "question": "Ich suche einen rot___ Rock.",
+        "options": ["en", "er", "e", "es"],
+        "reponse": "en"
+      },
+      {
+        "question": "Hm, einen rot___ Rock. Wie finden Sie den kurz___ rot___ Rock hier?",
+        "options": ["en / en / en", "er / er / er", "en / e / en", "er / e / er"],
+        "reponse": "en / en / en"
+      },
+      {
+        "question": "Wow! Der kurz___ Rock sieht schick aus! Und die weiß___ Bluse hier auch!",
+        "options": ["e / e", "er / en", "e / en", "er / e"],
+        "reponse": "e / e"
+      },
+      {
+        "question": "Vielleicht sollten Sie lieber eine gelb___ Bluse nehmen.",
+        "options": ["e", "en", "er", "es"],
+        "reponse": "e"
+      },
+      {
+        "question": "Okay, ich nehme die gelb___ Bluse. Und ich suche noch ein schön___ Kleid.",
+        "options": ["e / es", "en / es", "e / e", "en / e"],
+        "reponse": "e / es"
+      },
+      {
+        "question": "Schauen Sie mal. Wie finden Sie das blau___ Kleid hier?",
+        "options": ["e", "en", "es", "er"],
+        "reponse": "e"
+      },
+      {
+        "question": "Das gefällt mir nicht. Aber das schwarz___ Kleid da ist toll!",
+        "options": ["e", "en", "es", "er"],
+        "reponse": "e"
+      },
+      {
+        "question": "Sie brauchen dann noch schwarz___ Schuhe.",
+        "options": ["en", "e", "er", "es"],
+        "reponse": "en"
+      },
+      {
+        "question": "Ich ziehe die rot___ Schuhe an. Das sieht auch super aus!",
+        "options": ["en", "e", "er", "es"],
+        "reponse": "en"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "adj-nom-akk-05",
+    "theme": "Adjektivendungen",
+    "sous_theme": "Die neue Wohnung",
+    "niveau": "A2",
+    "type": "completer",
+    "consigne": "DIE NEUE WOHNUNG. Nominativ oder Akkusativ? Ergänzen Sie die Endungen (wenn nötig).",
+    "questions": [
+      {
+        "question": "wir haben eine neu___ Wohnung!",
+        "options": ["e", "en", "er", "es"],
+        "reponse": "e"
+      },
+      {
+        "question": "Sie liegt im Zentrum und ist nicht so teuer___.",
+        "options": ["-", "e", "en", "er"],
+        "reponse": "-"
+      },
+      {
+        "question": "Wir haben ein groß___ Wohnzimmer, einen klein___ Flur, eine modern___ Küche und zwei schön___ Schlafzimmer.",
+        "options": ["es / en / e / e", "es / er / e / en", "es / en / e / en", "es / en / en / e"],
+        "reponse": "es / en / e / e"
+      },
+      {
+        "question": "Hoffentlich ist ein Schlafzimmer bald ein süß___ Kinderzimmer!",
+        "options": ["es", "e", "en", "er"],
+        "reponse": "es"
+      },
+      {
+        "question": "Für das Wohnzimmer wollen wir neu___ Möbel kaufen.",
+        "options": ["e", "en", "er", "es"],
+        "reponse": "e"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "adj-dat-01",
+    "theme": "Adjektivendungen",
+    "sous_theme": "Dativ - Datum",
+    "niveau": "A2",
+    "type": "ordre",
+    "consigne": "Datum: am + Dativ. Schreiben Sie. Wann haben/hatten Sie Zeit?",
+    "questions": [
+      {
+        "question": "12. Mai",
+        "options": [],
+        "reponse": "am zwölften Mai"
+      },
+      {
+        "question": "2. November",
+        "options": [],
+        "reponse": "am zweiten November"
+      },
+      {
+        "question": "4. Januar",
+        "options": [],
+        "reponse": "am vierten Januar"
+      },
+      {
+        "question": "10. August",
+        "options": [],
+        "reponse": "am zehnten August"
+      },
+      {
+        "question": "3. Juli",
+        "options": [],
+        "reponse": "am dritten Juli"
+      },
+      {
+        "question": "nächster Sonntag",
+        "options": [],
+        "reponse": "am nächsten Sonntag"
+      },
+      {
+        "question": "übernächster Freitag",
+        "options": [],
+        "reponse": "am übernächsten Freitag"
+      },
+      {
+        "question": "letzter Samstag",
+        "options": [],
+        "reponse": "am letzten Samstag"
+      },
+      {
+        "question": "nächstes Wochenende",
+        "options": [],
+        "reponse": "am nächsten Wochenende"
+      },
+      {
+        "question": "vorletztes Wochenende",
+        "options": [],
+        "reponse": "am vorletzten Wochenende"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "adj-dat-02",
+    "theme": "Adjektivendungen",
+    "sous_theme": "Dativ - mit Tieren",
+    "niveau": "A2",
+    "type": "completer",
+    "consigne": "Adjektive im Dativ. Ergänzen Sie die Endungen.",
+    "questions": [
+      {
+        "question": "Wir leben mit einem intelligent___ Hund, einer faul___ Katze, einem süß___ Kaninchen und viel___ klein___ Kaninchenkindern zusammen.",
+        "options": ["en / en / en / en / en", "er / en / en / en / en", "en / en / en / en / en", "en / e / en / en / en"],
+        "reponse": "en / en / en / en / en"
+      },
+      {
+        "question": "Ich gehe mit dem intelligent___ Hund spazieren.",
+        "options": ["en", "er", "e", "es"],
+        "reponse": "en"
+      },
+      {
+        "question": "Mit der faul___ Katze, mit dem süß___ Kaninchen und mit den klein___ Kaninchenkindern geht das nicht.",
+        "options": ["en / en / en", "er / en / en", "en / er / en", "er / er / en"],
+        "reponse": "en / en / en"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "adj-dat-03",
+    "theme": "Adjektivendungen",
+    "sous_theme": "Eine Party - Dativ",
+    "niveau": "A2",
+    "type": "completer",
+    "consigne": "EINE PARTY. Adjektive im Dativ (indefiniter und definiter Artikel). Ergänzen Sie die Endungen.",
+    "questions": [
+      {
+        "question": "Ich komme mit einem nett___ Freund. Kommst du mit deinem neu___ Freund?",
+        "options": ["en / en", "er / er", "en / er", "er / en"],
+        "reponse": "en / en"
+      },
+      {
+        "question": "Sie kommt mit einer spanisch___ Freundin. Kommt sie mit der nett___ Frau aus Spanien?",
+        "options": ["en / en", "er / en", "en / er", "er / er"],
+        "reponse": "en / en"
+      },
+      {
+        "question": "Er kommt mit neu___ Nachbarn. Kommt er mit den neu___ Nachbarn aus Frankfurt?",
+        "options": ["en / en", "e / en", "en / e", "e / e"],
+        "reponse": "en / en"
+      },
+      {
+        "question": "Wir kommen mit einem klein___ Kind. Kommt ihr mit eurem klein___ Kind?",
+        "options": ["en / en", "er / er", "en / er", "er / en"],
+        "reponse": "en / en"
+      },
+      {
+        "question": "Sie kommt mit einem sympathisch___ Mann. Kommt sie mit dem sympathisch___ Mann aus Rom?",
+        "options": ["en / en", "er / er", "en / er", "er / en"],
+        "reponse": "en / en"
+      },
+      {
+        "question": "Ich komme mit vier klein___ Hunden. Nein, du kannst nicht mit den klein___ Hunden kommen!",
+        "options": ["en / en", "er / en", "en / er", "er / er"],
+        "reponse": "en / en"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "adj-all-01",
+    "theme": "Adjektivendungen",
+    "sous_theme": "Eine Einladung - Nominativ, Akkusativ, Dativ",
+    "niveau": "A2",
+    "type": "completer",
+    "consigne": "EINE EINLADUNG. Nominativ, Akkusativ oder Dativ? Ergänzen Sie die Endungen (wenn nötig).",
+    "questions": [
+      {
+        "question": "am nächst___ Samstag mache ich eine groß___ Party.",
+        "options": ["en / e", "en / en", "e / e", "e / en"],
+        "reponse": "en / e"
+      },
+      {
+        "question": "Ich feiere in einem schön___ Restaurant und lade alle meine gut___ Freunde ein.",
+        "options": ["en / en", "en / e", "e / en", "e / e"],
+        "reponse": "en / en"
+      },
+      {
+        "question": "Also musst du kommen! Du kannst auch deinen neu___ Freund mitbringen.",
+        "options": ["en", "er", "e", "es"],
+        "reponse": "en"
+      },
+      {
+        "question": "Ich mache ein groß___ Fest, weil ich einen ganz toll___ Job gefunden habe!",
+        "options": ["es / en", "es / er", "e / en", "e / er"],
+        "reponse": "es / en"
+      },
+      {
+        "question": "Am erst___ Juni beginne ich meine neu___ Arbeit bei einer sehr bekannt___ Firma hier in Düsseldorf.",
+        "options": ["en / e / en", "en / en / en", "e / e / en", "e / en / en"],
+        "reponse": "en / e / en"
+      },
+      {
+        "question": "Ich glaube, mein neu___ Chef ist nett___, ich habe ein gut___ Gehalt und vor allem eine interessant___ Arbeit.",
+        "options": ["er / - / es / e", "er / e / es / e", "en / - / es / en", "er / - / en / e"],
+        "reponse": "er / - / es / e"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "adj-all-02",
+    "theme": "Adjektivendungen",
+    "sous_theme": "Ein Märchen - Nominativ, Akkusativ, Dativ",
+    "niveau": "A2",
+    "type": "completer",
+    "consigne": "EIN MÄRCHEN. Nominativ, Akkusativ oder Dativ? Ergänzen Sie die Endungen (wenn nötig).",
+    "questions": [
+      {
+        "question": "Es war einmal ein sehr schön___ Mädchen.",
+        "options": ["es", "e", "en", "er"],
+        "reponse": "es"
+      },
+      {
+        "question": "Es lebte in einem groß___ Schloss mit seiner lieb___ Mutter und seinem reich___ Vater.",
+        "options": ["en / en / en", "en / e / en", "en / en / e", "e / en / en"],
+        "reponse": "en / en / en"
+      },
+      {
+        "question": "Es hatte alles, aber es war einsam___.",
+        "options": ["-", "e", "en", "er"],
+        "reponse": "-"
+      },
+      {
+        "question": "Eines Tages machte die jung___ Frau einen lang___ Spaziergang durch den groß___ Schlosspark, denn das Wetter war wunderbar___.",
+        "options": ["e / en / en / -", "en / en / en / -", "e / er / en / -", "e / en / er / -"],
+        "reponse": "e / en / en / -"
+      },
+      {
+        "question": "Da traf sie einen sehr attraktiv___ jung___ Mann. Er war ein Prinz.",
+        "options": ["en / en", "er / en", "en / er", "er / er"],
+        "reponse": "en / en"
+      },
+      {
+        "question": "Der Prinz sprach sofort mit der schön___ jung___ Frau.",
+        "options": ["en / en", "e / en", "en / e", "e / e"],
+        "reponse": "en / en"
+      },
+      {
+        "question": "Sie fand den jung___ Mann sehr schön___.",
+        "options": ["en / -", "er / -", "en / e", "er / e"],
+        "reponse": "en / -"
+      },
+      {
+        "question": "Er war ein groß___, sportlich___ Mann. Sie verliebten sich.",
+        "options": ["er / er", "en / en", "er / en", "en / er"],
+        "reponse": "er / er"
+      },
+      {
+        "question": "Also trafen sie sich am nächst___ und übernächst___ und überübernächst___ Tag wieder.",
+        "options": ["en / en / en", "en / en / en", "e / e / e", "en / e / en"],
+        "reponse": "en / en / en"
+      },
+      {
+        "question": "Am viert___ Tag küsste der Prinz das schön___ Mädchen.",
+        "options": ["en / e", "en / en", "e / e", "e / en"],
+        "reponse": "en / e"
+      },
+      {
+        "question": "Und als sie sich küssten, da war der Prinz plötzlich ein klein___, grün___, hässlich___ Frosch!",
+        "options": ["er / er / er", "es / es / es", "er / es / er", "es / er / es"],
+        "reponse": "er / er / er"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "komp-01",
+    "theme": "Komparativ",
+    "sous_theme": "Formen bilden",
+    "niveau": "A2",
+    "type": "completer",
+    "consigne": "Ergänzen Sie den Komparativ.",
+    "questions": [
+      {
+        "question": "klein –",
+        "options": ["kleiner", "kleinere", "klein", "kleinern"],
+        "reponse": "kleiner"
+      },
+      {
+        "question": "langsam –",
+        "options": ["langsamer", "langsamere", "langsam", "langsamern"],
+        "reponse": "langsamer"
+      },
+      {
+        "question": "interessant –",
+        "options": ["interessanter", "interessantere", "interessant", "interessantern"],
+        "reponse": "interessanter"
+      },
+      {
+        "question": "schlecht –",
+        "options": ["schlechter", "schlechtere", "schlimmer", "schlimmere"],
+        "reponse": "schlechter"
+      },
+      {
+        "question": "alt –",
+        "options": ["älter", "alter", "ältere", "altern"],
+        "reponse": "älter"
+      },
+      {
+        "question": "gesund –",
+        "options": ["gesünder", "gesunder", "gesündere", "gesundern"],
+        "reponse": "gesünder"
+      },
+      {
+        "question": "groß –",
+        "options": ["größer", "großer", "größere", "großern"],
+        "reponse": "größer"
+      },
+      {
+        "question": "hoch –",
+        "options": ["höher", "hocher", "höhere", "hochern"],
+        "reponse": "höher"
+      },
+      {
+        "question": "gut –",
+        "options": ["besser", "bessere", "guter", "gutere"],
+        "reponse": "besser"
+      },
+      {
+        "question": "viel –",
+        "options": ["mehr", "vieler", "mehrere", "vielern"],
+        "reponse": "mehr"
+      },
+      {
+        "question": "gern –",
+        "options": ["lieber", "liebere", "gerner", "gernere"],
+        "reponse": "lieber"
+      },
+      {
+        "question": "teuer –",
+        "options": ["teurer", "teuerer", "teurere", "teuern"],
+        "reponse": "teurer"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "komp-02",
+    "theme": "Komparativ",
+    "sous_theme": "Deutschland und Europa",
+    "niveau": "A2",
+    "type": "completer",
+    "consigne": "DEUTSCHLAND UND EUROPA. Ergänzen Sie den Komparativ.",
+    "questions": [
+      {
+        "question": "Österreich ist ___ (groß) als die Schweiz, aber ___ (klein) als Deutschland.",
+        "options": ["größer / kleiner", "großer / kleiner", "größere / kleinere", "großere / kleinerere"],
+        "reponse": "größer / kleiner"
+      },
+      {
+        "question": "Deutschland hat ___ (viel) Einwohner als die beiden anderen deutschsprachigen Länder.",
+        "options": ["mehr", "vieler", "mehrere", "vielerer"],
+        "reponse": "mehr"
+      },
+      {
+        "question": "Das Leben in der Schweiz ist ___ (teuer) als in Deutschland.",
+        "options": ["teurer", "teuerer", "teurere", "teuern"],
+        "reponse": "teurer"
+      },
+      {
+        "question": "Aber die Gehälter sind in der Schweiz auch ___ (hoch) als in Deutschland und Österreich.",
+        "options": ["höher", "hocher", "höhere", "hochern"],
+        "reponse": "höher"
+      },
+      {
+        "question": "In der Schweiz und in Österreich gibt es ___ (viel) Berge als in Deutschland.",
+        "options": ["mehr", "vieler", "mehrere", "vielerer"],
+        "reponse": "mehr"
+      },
+      {
+        "question": "Die österreichische Küche ist sicher ___ (bekannt) als die schweizerische Küche.",
+        "options": ["bekannter", "bekanntere", "bekanntern", "bekannt"],
+        "reponse": "bekannter"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "komp-03",
+    "theme": "Komparativ",
+    "sous_theme": "Als oder wie? - Vergleichssätze",
+    "niveau": "A2",
+    "type": "associer",
+    "consigne": "Als oder wie? Kombinieren Sie und schreiben Sie Sätze.",
+    "questions": [
+      {
+        "question": "Ich trinke lieber Kaffee",
+        "options": ["als Tee.", "wie Tee.", "als Kaffee.", "wie Kaffee."],
+        "reponse": "als Tee."
+      },
+      {
+        "question": "Meine Tochter liebe ich genauso sehr",
+        "options": ["wie ihren Vater.", "als ihren Vater.", "wie meine Tochter.", "als meine Tochter."],
+        "reponse": "wie ihren Vater."
+      },
+      {
+        "question": "Deutsch lernen macht so viel Spaß",
+        "options": ["wie surfen, eine Party machen, Sport treiben.", "als surfen, eine Party machen, Sport treiben.", "wie Deutsch.", "als Deutsch."],
+        "reponse": "wie surfen, eine Party machen, Sport treiben."
+      },
+      {
+        "question": "Ich kann das genauso gut",
+        "options": ["wie du.", "als du.", "wie ich.", "als ich."],
+        "reponse": "wie du."
+      },
+      {
+        "question": "Ich kenne den Sohn von Marie besser",
+        "options": ["als meinen Sohn.", "wie meinen Sohn.", "als den Sohn.", "wie den Sohn."],
+        "reponse": "als meinen Sohn."
+      },
+      {
+        "question": "Sie geht öfter ins Kino",
+        "options": ["als ins Theater.", "wie ins Theater.", "als ins Kino.", "wie ins Kino."],
+        "reponse": "als ins Theater."
+      },
+      {
+        "question": "Sie sprechen fast so gut Deutsch",
+        "options": ["wie ein Deutscher.", "als ein Deutscher.", "wie Deutsch.", "als Deutsch."],
+        "reponse": "wie ein Deutscher."
+      },
+      {
+        "question": "Der Film heute war besser",
+        "options": ["als der Film letzte Woche.", "wie der Film letzte Woche.", "als der Film heute.", "wie der Film heute."],
+        "reponse": "als der Film letzte Woche."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "komp-04",
+    "theme": "Komparativ",
+    "sous_theme": "Vergleichssätze schreiben",
+    "niveau": "A2",
+    "type": "ordre",
+    "consigne": "Schreiben Sie Vergleichssätze mit wie und als.",
+    "questions": [
+      {
+        "question": "Mezut läuft genauso schnell wie Sami. (schnell laufen)",
+        "options": [],
+        "reponse": "Mezut läuft genauso schnell wie Sami."
+      },
+      {
+        "question": "Marco läuft schneller als Mezut und Sami. (schnell laufen)",
+        "options": [],
+        "reponse": "Marco läuft schneller als Mezut und Sami."
+      },
+      {
+        "question": "(in meiner Tasse • in deiner Tasse • viel Kaffee • sein)",
+        "options": [],
+        "reponse": "In meiner Tasse ist genauso viel Kaffee wie in deiner Tasse."
+      },
+      {
+        "question": "(in Marias Tasse • viel Kaffee • in meiner und deiner Tasse • sein)",
+        "options": [],
+        "reponse": "In Marias Tasse ist mehr Kaffee als in meiner und deiner Tasse."
+      },
+      {
+        "question": "(Lena • lange schlafen • Jonas)",
+        "options": [],
+        "reponse": "Lena schläft länger als Jonas."
+      },
+      {
+        "question": "(Mia • lange schlafen • Lena und Jonas)",
+        "options": [],
+        "reponse": "Mia schläft länger als Lena und Jonas."
+      },
+      {
+        "question": "(in Frankfurt • der Kirchturm • das Hochhaus • groß sein)",
+        "options": [],
+        "reponse": "In Frankfurt ist das Hochhaus größer als der Kirchturm."
+      },
+      {
+        "question": "(der Messeturm • der Kirchturm • groß sein)",
+        "options": [],
+        "reponse": "Der Messeturm ist größer als der Kirchturm."
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "komp-05",
+    "theme": "Komparativ",
+    "sous_theme": "Besser oder lieber?",
+    "niveau": "A2",
+    "type": "completer",
+    "consigne": "Besser oder lieber? Antworten Sie wie im Beispiel.",
+    "questions": [
+      {
+        "question": "Schmeckt das Eis gut? Ja, ___ als dein Pudding.",
+        "options": ["besser", "lieber", "guter", "gerner"],
+        "reponse": "besser"
+      },
+      {
+        "question": "Möchtest du gerne einen Kaffee? Ja, ___ als einen Tee.",
+        "options": ["lieber", "besser", "gerner", "guter"],
+        "reponse": "lieber"
+      },
+      {
+        "question": "Findest du die Brötchen gut? Ja, ___ als das Brot.",
+        "options": ["besser", "lieber", "guter", "gerner"],
+        "reponse": "besser"
+      },
+      {
+        "question": "Trinkst du gerne Kakao? Ja, ___ als Milch.",
+        "options": ["lieber", "besser", "gerner", "guter"],
+        "reponse": "lieber"
+      },
+      {
+        "question": "Spielst du gerne Karten? Ja, ___ als Fußball.",
+        "options": ["lieber", "besser", "gerner", "guter"],
+        "reponse": "lieber"
+      },
+      {
+        "question": "Passt das Kleid gut? Ja, ___ als die Hose.",
+        "options": ["besser", "lieber", "guter", "gerner"],
+        "reponse": "besser"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "komp-06",
+    "theme": "Komparativ",
+    "sous_theme": "Adjektivendungen im Komparativ",
+    "niveau": "A2",
+    "type": "completer",
+    "consigne": "Ergänzen Sie die Adjektivendungen (wenn nötig).",
+    "questions": [
+      {
+        "question": "Anna ist Sofias älter___ Schwester und Leonie ist ihre Freundin. Leonie ist genauso alt___ wie Anna.",
+        "options": ["e / -", "er / -", "e / e", "er / e"],
+        "reponse": "e / -"
+      },
+      {
+        "question": "Sie hat einen jüngeren und einen älter___ Bruder.",
+        "options": ["en", "er", "e", "-"],
+        "reponse": "en"
+      },
+      {
+        "question": "Max kauft lieber teuer___ Sachen. Elena findet das nicht gut.",
+        "options": ["e", "en", "er", "-"],
+        "reponse": "e"
+      },
+      {
+        "question": "Sie sagt: Die teurer___ Sachen sind oft nicht besser___ als die billiger___ Sachen.",
+        "options": ["en / - / en", "e / - / e", "en / e / en", "e / e / e"],
+        "reponse": "en / - / en"
+      },
+      {
+        "question": "Der älter___ Bruder meines Vaters wohnt in Chicago, der jüngeren Bruder wohnt in unserer Stadt.",
+        "options": ["e / e", "er / er", "e / er", "er / e"],
+        "reponse": "e / e"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "sup-01",
+    "theme": "Superlativ",
+    "sous_theme": "Formen ergänzen",
+    "niveau": "A2",
+    "type": "completer",
+    "consigne": "Ergänzen Sie die fehlenden Formen.",
+    "questions": [
+      {
+        "question": "freundlich – freundlicher – am freundlichsten – der freundlichste Mann",
+        "options": ["freundlichste", "freundlichere", "freundlichern", "freundlich"],
+        "reponse": "freundlichste"
+      },
+      {
+        "question": "nett – netter – am nettesten – ___ Frau",
+        "options": ["die netteste", "die nettere", "die nette", "die nettern"],
+        "reponse": "die netteste"
+      },
+      {
+        "question": "groß – größer – am größten – ___ Mann",
+        "options": ["der größte", "der größere", "der große", "der größern"],
+        "reponse": "der größte"
+      },
+      {
+        "question": "viel – mehr – am meisten – ___ Leute",
+        "options": ["die meisten", "die mehreren", "die vielen", "die mehren"],
+        "reponse": "die meisten"
+      },
+      {
+        "question": "gut – besser – ___ – das beste Kleid",
+        "options": ["am besten", "am besseren", "am guten", "am gutesten"],
+        "reponse": "am besten"
+      },
+      {
+        "question": "hoch – höher – am höchsten – ___ Haus",
+        "options": ["das höchste", "das höhere", "das hohe", "das höchern"],
+        "reponse": "das höchste"
+      },
+      {
+        "question": "teuer – teurer – am teuersten – ___ Schuhe",
+        "options": ["die teuersten", "die teureren", "die teueren", "die teuerst"],
+        "reponse": "die teuersten"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "sup-02",
+    "theme": "Superlativ",
+    "sous_theme": "am oder Artikel + Endung",
+    "niveau": "A2",
+    "type": "completer",
+    "consigne": "Wie heißt der Superlativ? Ergänzen Sie am wenn nötig und die richtige Endung -e oder -en.",
+    "questions": [
+      {
+        "question": "Das Auto ist sehr teuer. Wie kommen wir zum Bahnhof? Das schnell___ Auto.",
+        "options": ["ste", "sten", "ere", "er"],
+        "reponse": "ste"
+      },
+      {
+        "question": "Die Dinge müssen nicht immer auch die (gut) sein.",
+        "options": ["besten", "beste", "besseren", "bessere"],
+        "reponse": "besten"
+      },
+      {
+        "question": "Das Kleid ist zwar teuer, aber ich finde es nicht gut. Das teuer___ Kleid.",
+        "options": ["ste", "sten", "ere", "er"],
+        "reponse": "ste"
+      },
+      {
+        "question": "Die Leute suchen lange, bis sie eine passend___ Wohnung finden.",
+        "options": ["e", "en", "ere", "er"],
+        "reponse": "e"
+      },
+      {
+        "question": "Ich freue mich über den schön___ Balkon in meiner neuen Wohnung.",
+        "options": ["en", "e", "sten", "ste"],
+        "reponse": "en"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "sup-03",
+    "theme": "Superlativ",
+    "sous_theme": "Endung -e oder -en?",
+    "niveau": "A2",
+    "type": "completer",
+    "consigne": "Ergänzen Sie die Endung: -e oder -en?",
+    "questions": [
+      {
+        "question": "Der Rhein ist der längst___ Fluss Deutschlands.",
+        "options": ["e", "en", "er", "ere"],
+        "reponse": "e"
+      },
+      {
+        "question": "Auf den höchst___ Bergen der Schweiz liegt das ganze Jahr Schnee.",
+        "options": ["en", "e", "er", "ere"],
+        "reponse": "en"
+      },
+      {
+        "question": "Die größt___ österreichische Stadt ist Wien.",
+        "options": ["e", "en", "er", "ere"],
+        "reponse": "e"
+      },
+      {
+        "question": "Graz ist die zweitgrößt___ Stadt.",
+        "options": ["e", "en", "er", "ere"],
+        "reponse": "e"
+      },
+      {
+        "question": "Welche Stadt ist die drittgrößt___?",
+        "options": ["e", "en", "er", "ere"],
+        "reponse": "e"
+      },
+      {
+        "question": "Das größt___ deutsche Unternehmen ist die VW-AG.",
+        "options": ["e", "en", "er", "ere"],
+        "reponse": "e"
+      },
+      {
+        "question": "Die bekanntest___ deutschen Automarken sind Mercedes, BMW und VW.",
+        "options": ["en", "e", "er", "ere"],
+        "reponse": "en"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "sup-04",
+    "theme": "Superlativ",
+    "sous_theme": "Superlative ergänzen",
+    "niveau": "A2",
+    "type": "completer",
+    "consigne": "Superlative. Ergänzen Sie ein passendes Adjektiv im Superlativ: trocken • lang • viel • tief • hoch.",
+    "questions": [
+      {
+        "question": "Der ___ Fluss der Welt ist der Nil. Er ist 6.671 km lang.",
+        "options": ["längste", "längsten", "länger", "lange"],
+        "reponse": "längste"
+      },
+      {
+        "question": "Der ___ See der Welt ist der Baikalsee. Er ist 1.637 m tief.",
+        "options": ["tiefste", "tiefsten", "tiefere", "tiefe"],
+        "reponse": "tiefste"
+      },
+      {
+        "question": "Das ___ Gebiet in der Welt ist die Atacama-Wüste. Dort regnet es fast nie.",
+        "options": ["trockenste", "trockensten", "trockenere", "trockene"],
+        "reponse": "trockenste"
+      },
+      {
+        "question": "Der ___ Wasserfall liegt in Venezuela. Er hat eine Höhe von 978 Metern.",
+        "options": ["höchste", "höchsten", "höhere", "hohe"],
+        "reponse": "höchste"
+      },
+      {
+        "question": "Die Länder mit den ___ Einwohnern sind China und Indien.",
+        "options": ["meisten", "meiste", "mehreren", "mehrere"],
+        "reponse": "meisten"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "sup-05",
+    "theme": "Superlativ",
+    "sous_theme": "am liebsten, am besten",
+    "niveau": "A2",
+    "type": "completer",
+    "consigne": "Superlative. Ergänzen Sie die Sätze mit den passenden Adjektiven im Superlativ.",
+    "questions": [
+      {
+        "question": "Kaffee mag ich lieber als Saft, aber ___ mag ich Tee.",
+        "options": ["am liebsten", "am besten", "lieber", "besser"],
+        "reponse": "am liebsten"
+      },
+      {
+        "question": "Tennis und Volleyball finde ich gut, aber ___ finde ich Fußball.",
+        "options": ["am besten", "am liebsten", "besser", "lieber"],
+        "reponse": "am besten"
+      },
+      {
+        "question": "Ich gehe gerne ins Theater und in die Oper, aber ___ gehe ich ins Kino.",
+        "options": ["am liebsten", "am besten", "lieber", "besser"],
+        "reponse": "am liebsten"
+      },
+      {
+        "question": "Das rote und das weiße Kleid sind schick, aber ___ ist das gelbe Kleid.",
+        "options": ["am schicksten", "am schönsten", "schicker", "schöner"],
+        "reponse": "am schicksten"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "sup-06",
+    "theme": "Superlativ",
+    "sous_theme": "am oder der/die/das?",
+    "niveau": "A2",
+    "type": "completer",
+    "consigne": "Ergänzen Sie am oder der, die, das und beantworten Sie die Fragen.",
+    "questions": [
+      {
+        "question": "Welches Tier kann ___ schnellsten laufen?",
+        "options": ["am", "das", "der", "die"],
+        "reponse": "am"
+      },
+      {
+        "question": "Wie heißt ___ höchste Berg der Erde?",
+        "options": ["der", "am", "die", "das"],
+        "reponse": "der"
+      },
+      {
+        "question": "Welches Land hat ___ meisten Einwohner?",
+        "options": ["die", "am", "der", "das"],
+        "reponse": "die"
+      },
+      {
+        "question": "Welches Land ist ___ kleinsten?",
+        "options": ["das", "am", "der", "die"],
+        "reponse": "das"
+      },
+      {
+        "question": "Wo regnet es ___ meisten?",
+        "options": ["am", "der", "die", "das"],
+        "reponse": "am"
+      },
+      {
+        "question": "Kennen Sie ___ kleinste Land Europas?",
+        "options": ["das", "am", "der", "die"],
+        "reponse": "das"
+      },
+      {
+        "question": "Welcher Mann ist ___ reichsten?",
+        "options": ["der", "am", "die", "das"],
+        "reponse": "der"
+      },
+      {
+        "question": "Welcher Fluss ist ___ längste Fluss der Welt?",
+        "options": ["der", "am", "die", "das"],
+        "reponse": "der"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "sup-07",
+    "theme": "Superlativ",
+    "sous_theme": "Meine drei Kinder - Komparativ oder Superlativ",
+    "niveau": "A2",
+    "type": "completer",
+    "consigne": "MEINE DREI KINDER. Ergänzen Sie die Adjektive im Komparativ oder Superlativ.",
+    "questions": [
+      {
+        "question": "Daniel ist ein Jahr ___ (jung) als Lena und zwei Jahre ___ (alt) als Lisa.",
+        "options": ["jünger / älter", "jüngere / ältere", "jüngsten / ältesten", "jung / alt"],
+        "reponse": "jünger / älter"
+      },
+      {
+        "question": "aber er konnte ___ (früh) lesen als Lena.",
+        "options": ["früher", "frühere", "frühesten", "früh"],
+        "reponse": "früher"
+      },
+      {
+        "question": "Lena ist die ___ (gut) Schülerin in ihrer Klasse.",
+        "options": ["beste", "bessere", "gute", "besser"],
+        "reponse": "beste"
+      },
+      {
+        "question": "Daniel ist jetzt schon ___ (groß) als Lena.",
+        "options": ["größer", "größere", "größte", "groß"],
+        "reponse": "größer"
+      },
+      {
+        "question": "Lisa ist jetzt noch ___ (klein) als Lena, aber ich glaube, sie wird mal die ___ (groß) von den Kindern.",
+        "options": ["kleiner / größte", "kleinere / größere", "kleineren / größeren", "klein / groß"],
+        "reponse": "kleiner / größte"
+      },
+      {
+        "question": "Lena hat ___ (lang) Haare als Daniel, aber Lisa hat die ___ (lang) Haare.",
+        "options": ["längere / längsten", "länger / längste", "längeren / längsten", "lang / lange"],
+        "reponse": "längere / längsten"
+      },
+      {
+        "question": "Daniel liest ___ (viel) als Lena.",
+        "options": ["mehr", "mehrere", "meisten", "viel"],
+        "reponse": "mehr"
+      },
+      {
+        "question": "Lena spielt ___ (gern) am Computer.",
+        "options": ["am liebsten", "lieber", "am besten", "besser"],
+        "reponse": "am liebsten"
+      },
+      {
+        "question": "Aber sie kann ___ (schnell) laufen als die beiden anderen.",
+        "options": ["schneller", "schnellere", "schnellsten", "schnell"],
+        "reponse": "schneller"
+      },
+      {
+        "question": "Jedes Kind kann etwas ___ (gut) als seine Geschwister, aber ich liebe kein Kind ___ (viel) als die anderen.",
+        "options": ["besser / mehr", "bessere / mehre", "besten / meisten", "gut / viel"],
+        "reponse": "besser / mehr"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  }
+]

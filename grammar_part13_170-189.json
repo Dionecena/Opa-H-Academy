@@ -1,0 +1,1493 @@
+[
+  {
+    "id": "indirekt-frage-01",
+    "theme": "Indirekte Fragen",
+    "sous_theme": "Direkte zu indirekte Fragen",
+    "niveau": "B1",
+    "type": "ordre",
+    "consigne": "URLAUB IM HOTEL. Schreiben Sie indirekte Fragen.",
+    "questions": [
+      {
+        "question": "Wie viel kostet ein Doppelzimmer?",
+        "options": [],
+        "reponse": "Können Sie mir sagen, wie viel ein Doppelzimmer kostet?"
+      },
+      {
+        "question": "Liegt das Hotel zentral?",
+        "options": [],
+        "reponse": "Wissen Sie, ob das Hotel zentral liegt?"
+      },
+      {
+        "question": "Wie viel kostet das Frühstück?",
+        "options": [],
+        "reponse": "Können Sie mir sagen, wie viel das Frühstück kostet?"
+      },
+      {
+        "question": "Von wann bis wann kann man frühstücken?",
+        "options": [],
+        "reponse": "Wissen Sie, von wann bis wann man frühstücken kann?"
+      },
+      {
+        "question": "Gibt es einen Swimmingpool?",
+        "options": [],
+        "reponse": "Können Sie mir sagen, ob es einen Swimmingpool gibt?"
+      },
+      {
+        "question": "Wo kann ich parken?",
+        "options": [],
+        "reponse": "Wissen Sie, wo ich parken kann?"
+      },
+      {
+        "question": "Kann ich meinen Hund mitbringen?",
+        "options": [],
+        "reponse": "Können Sie mir sagen, ob ich meinen Hund mitbringen kann?"
+      },
+      {
+        "question": "Kann ich mit Kreditkarte zahlen?",
+        "options": [],
+        "reponse": "Wissen Sie, ob ich mit Kreditkarte zahlen kann?"
+      },
+      {
+        "question": "Wo ist der Frühstücksraum?",
+        "options": [],
+        "reponse": "Können Sie mir sagen, wo der Frühstücksraum ist?"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "indirekt-frage-02",
+    "theme": "Indirekte Fragen",
+    "sous_theme": "Indirekte zu direkte Fragen",
+    "niveau": "B1",
+    "type": "ordre",
+    "consigne": "PARTY, PARTY. Schreiben Sie direkte Fragen.",
+    "questions": [
+      {
+        "question": "Weißt du, wann die Party beginnt?",
+        "options": [],
+        "reponse": "Wann beginnt die Party?"
+      },
+      {
+        "question": "Hast du gehört, wie viele Gäste kommen?",
+        "options": [],
+        "reponse": "Wie viele Gäste kommen?"
+      },
+      {
+        "question": "Weißt du, ob Aaron auch eingeladen ist?",
+        "options": [],
+        "reponse": "Ist Aaron auch eingeladen?"
+      },
+      {
+        "question": "Hast du eine Ahnung, was es zu essen gibt?",
+        "options": [],
+        "reponse": "Was gibt es zu essen?"
+      },
+      {
+        "question": "Hast du dich schon informiert, wo die Party stattfindet?",
+        "options": [],
+        "reponse": "Wo findet die Party statt?"
+      },
+      {
+        "question": "Weißt du schon, ob du zu der Party gehst?",
+        "options": [],
+        "reponse": "Gehst du zu der Party?"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "indirekt-frage-03",
+    "theme": "Indirekte Fragen",
+    "sous_theme": "Fragen an Frau Stern",
+    "niveau": "B1",
+    "type": "ordre",
+    "consigne": "FRAGEN AN FRAU STERN. Schreiben Sie indirekte Fragen.",
+    "questions": [
+      {
+        "question": "Wann können wir Ihren nächsten Film sehen?",
+        "options": [],
+        "reponse": "Frau Stern, darf ich Sie fragen, wann wir Ihren nächsten Film sehen können?"
+      },
+      {
+        "question": "Wovon handelt der Film?",
+        "options": [],
+        "reponse": "Darf ich Sie fragen, wovon der Film handelt?"
+      },
+      {
+        "question": "Spielen Sie die Hauptrolle?",
+        "options": [],
+        "reponse": "Könnten Sie mir sagen, ob Sie die Hauptrolle spielen?"
+      },
+      {
+        "question": "Wie lange haben Sie an dem Film gearbeitet?",
+        "options": [],
+        "reponse": "Darf ich fragen, wie lange Sie an dem Film gearbeitet haben?"
+      },
+      {
+        "question": "Wo haben Sie den Film gedreht?",
+        "options": [],
+        "reponse": "Könnten Sie mir sagen, wo Sie den Film gedreht haben?"
+      },
+      {
+        "question": "Konnten Sie Ihre Tochter zum Set mitnehmen?",
+        "options": [],
+        "reponse": "Darf ich fragen, ob Sie Ihre Tochter zum Set mitnehmen konnten?"
+      },
+      {
+        "question": "Wie hat Ihnen die Zusammenarbeit mit dem Regisseur gefallen?",
+        "options": [],
+        "reponse": "Könnten Sie mir sagen, wie Ihnen die Zusammenarbeit mit dem Regisseur gefallen hat?"
+      },
+      {
+        "question": "Werden Sie für den Oscar nominiert?",
+        "options": [],
+        "reponse": "Darf ich fragen, ob Sie für den Oscar nominiert werden?"
+      },
+      {
+        "question": "Wann fangen Sie mit dem nächsten Film an?",
+        "options": [],
+        "reponse": "Könnten Sie mir sagen, wann Sie mit dem nächsten Film anfangen?"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "indirekt-frage-04",
+    "theme": "Indirekte Fragen",
+    "sous_theme": "ob oder dass?",
+    "niveau": "B1",
+    "type": "completer",
+    "consigne": "Ergänzen Sie ob oder dass.",
+    "questions": [
+      {
+        "question": "Weißt du, ___ es in Deutschland Palmen gibt?",
+        "options": ["ob", "dass"],
+        "reponse": "ob"
+      },
+      {
+        "question": "Ich habe gehört, ___ es zum Beispiel am Bodensee Palmen gibt.",
+        "options": ["dass", "ob"],
+        "reponse": "dass"
+      },
+      {
+        "question": "Aber ich frage mich, ___ in Deutschland auch Ananas wachsen?",
+        "options": ["ob", "dass"],
+        "reponse": "ob"
+      },
+      {
+        "question": "Oh, ich habe auch keine Ahnung, ___ hier Obst aus südlichen Ländern wächst.",
+        "options": ["ob", "dass"],
+        "reponse": "ob"
+      },
+      {
+        "question": "Aber ich bin sicher, ___ es Äpfel und Birnen gibt.",
+        "options": ["dass", "ob"],
+        "reponse": "dass"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "indirekt-frage-05",
+    "theme": "Indirekte Fragen",
+    "sous_theme": "wenn oder ob?",
+    "niveau": "B1",
+    "type": "completer",
+    "consigne": "Ergänzen Sie wenn oder ob.",
+    "questions": [
+      {
+        "question": "Ich bleibe zu Hause, ___ es regnet. Aber keiner weiß, ___ es heute noch regnet.",
+        "options": ["wenn / ob", "ob / wenn", "wenn / wenn", "ob / ob"],
+        "reponse": "wenn / ob"
+      },
+      {
+        "question": "Er wollte wissen, ___ sie mit ins Kino kommt. Aber sie hat gesagt, dass sie nur geht, ___ ihre Freundin auch mitkommt.",
+        "options": ["ob / wenn", "wenn / ob", "ob / ob", "wenn / wenn"],
+        "reponse": "ob / wenn"
+      },
+      {
+        "question": "___ sie dieses Mal wieder nicht zu meiner Party kommt, weiß ich nicht, ___ ich sie noch einmal einlade!",
+        "options": ["Wenn / ob", "Ob / wenn", "Wenn / wenn", "Ob / ob"],
+        "reponse": "Wenn / ob"
+      },
+      {
+        "question": "Es ist die Frage, ___ wir besser mit dem Auto oder mit dem Zug fahren. Ich würde lieber mit dem Zug fahren, ___ es nicht so teuer wäre.",
+        "options": ["ob / wenn", "wenn / ob", "ob / ob", "wenn / wenn"],
+        "reponse": "ob / wenn"
+      },
+      {
+        "question": "Ich weiß nicht, ___ er wirklich krank ist. Aber ___ er krank ist, sollte er zum Arzt gehen.",
+        "options": ["ob / wenn", "wenn / ob", "ob / ob", "wenn / wenn"],
+        "reponse": "ob / wenn"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "infinitiv-zu-01",
+    "theme": "Infinitiv mit zu",
+    "sous_theme": "Kombinieren",
+    "niveau": "B1",
+    "type": "associer",
+    "consigne": "Was passt? Kombinieren Sie.",
+    "questions": [
+      {
+        "question": "Ich versuche,",
+        "options": ["drei Kilogramm abzunehmen.", "in diesem Sommer in die USA zu reisen.", "auf dem Dach spazieren zu gehen.", "zu verlieren."],
+        "reponse": "drei Kilogramm abzunehmen."
+      },
+      {
+        "question": "Es ist nicht schön,",
+        "options": ["zu verlieren.", "drei Kilogramm abzunehmen.", "in diesem Sommer in die USA zu reisen.", "auf dem Dach spazieren zu gehen."],
+        "reponse": "zu verlieren."
+      },
+      {
+        "question": "Ich habe die Chance,",
+        "options": ["in diesem Sommer in die USA zu reisen.", "drei Kilogramm abzunehmen.", "auf dem Dach spazieren zu gehen.", "zu verlieren."],
+        "reponse": "in diesem Sommer in die USA zu reisen."
+      },
+      {
+        "question": "Ich finde es gefährlich,",
+        "options": ["auf dem Dach spazieren zu gehen.", "in diesem Sommer in die USA zu reisen.", "drei Kilogramm abzunehmen.", "zu verlieren."],
+        "reponse": "auf dem Dach spazieren zu gehen."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "infinitiv-zu-02",
+    "theme": "Infinitiv mit zu",
+    "sous_theme": "Sätze schreiben",
+    "niveau": "B1",
+    "type": "ordre",
+    "consigne": "Ergänzen Sie die Satzanfänge und schreiben Sie Sätze mit Infinitiv mit zu.",
+    "questions": [
+      {
+        "question": "Es macht Spaß, (tanzen / in einen Club gehen / mit Leuten sprechen / Tennis spielen)",
+        "options": [],
+        "reponse": "Es macht Spaß, in einen Club zu gehen und zu tanzen."
+      },
+      {
+        "question": "Ich habe Probleme, (um 5.00 Uhr aufstehen / in der Firma anrufen / mit dem Rauchen aufhören)",
+        "options": [],
+        "reponse": "Ich habe Probleme, um 5.00 Uhr aufzustehen."
+      },
+      {
+        "question": "Es ist schön, (sonntags nicht arbeiten müssen / lange schlafen können / spazieren gehen)",
+        "options": [],
+        "reponse": "Es ist schön, sonntags nicht arbeiten zu müssen."
+      },
+      {
+        "question": "Ich hoffe, (meine Freunde treffen / am Abend eine Serie sehen / besser Deutsch sprechen)",
+        "options": [],
+        "reponse": "Ich hoffe, meine Freunde zu treffen."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "infinitiv-zu-03",
+    "theme": "Infinitiv mit zu",
+    "sous_theme": "Sätze bilden",
+    "niveau": "B1",
+    "type": "ordre",
+    "consigne": "Schreiben Sie die Sätze mit Infinitiv mit zu.",
+    "questions": [
+      {
+        "question": "Ich habe keine Chance, • werden • Millionär • .",
+        "options": [],
+        "reponse": "Ich habe keine Chance, Millionär zu werden."
+      },
+      {
+        "question": "Ich versuche, • freundlich • sein • zu allen Leuten • .",
+        "options": [],
+        "reponse": "Ich versuche, zu allen Leuten freundlich zu sein."
+      },
+      {
+        "question": "Ich vergesse immer, • mitnehmen • einen Schirm • .",
+        "options": [],
+        "reponse": "Ich vergesse immer, einen Schirm mitzunehmen."
+      },
+      {
+        "question": "Es ist gefährlich, • gehen • spazieren • nachts im Park • .",
+        "options": [],
+        "reponse": "Es ist gefährlich, nachts im Park spazieren zu gehen."
+      },
+      {
+        "question": "Mein Freund hat nie Zeit, • mit mir • gehen • ins Café • .",
+        "options": [],
+        "reponse": "Mein Freund hat nie Zeit, mit mir ins Café zu gehen."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "infinitiv-zu-04",
+    "theme": "Infinitiv mit zu",
+    "sous_theme": "zu ergänzen",
+    "niveau": "B1",
+    "type": "completer",
+    "consigne": "Wo fehlt zu? Ergänzen Sie zu (wenn nötig).",
+    "questions": [
+      {
+        "question": "Ich empfehle dir, in dieses Restaurant ___ gehen.",
+        "options": ["zu", "(kein zu)", "zu", "zu"],
+        "reponse": "zu"
+      },
+      {
+        "question": "Er beginnt jetzt, einen Kurs ___ machen.",
+        "options": ["zu", "(kein zu)", "zu", "zu"],
+        "reponse": "zu"
+      },
+      {
+        "question": "Wir versuchen immer, neue Gerichte ___ kochen.",
+        "options": ["zu", "(kein zu)", "zu", "zu"],
+        "reponse": "zu"
+      },
+      {
+        "question": "Es gibt Probleme, eine neue Wohnung ___ finden.",
+        "options": ["zu", "(kein zu)", "zu", "zu"],
+        "reponse": "zu"
+      },
+      {
+        "question": "Ich habe keine Zeit, heute zu dir ___ kommen.",
+        "options": ["zu", "(kein zu)", "zu", "zu"],
+        "reponse": "zu"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "infinitiv-zu-05",
+    "theme": "Infinitiv mit zu",
+    "sous_theme": "Infinitiv mit zu oder dass?",
+    "niveau": "B1",
+    "type": "ordre",
+    "consigne": "ELTERN UND KINDER. Infinitiv mit zu oder dass? Schreiben Sie Sätze.",
+    "questions": [
+      {
+        "question": "Ich habe das Glück, (drei Kinder haben)",
+        "options": [],
+        "reponse": "Ich habe das Glück, drei Kinder zu haben."
+      },
+      {
+        "question": "Ich habe das Glück, (meine drei Kinder gesund sein)",
+        "options": [],
+        "reponse": "Ich habe das Glück, dass meine drei Kinder gesund sind."
+      },
+      {
+        "question": "Wir haben den Traum, (unsere Kinder berühmt und reich werden)",
+        "options": [],
+        "reponse": "Wir haben den Traum, dass unsere Kinder berühmt und reich werden."
+      },
+      {
+        "question": "Meine Nachbarin hat keine Zeit, (sich um ihre Kinder kümmern)",
+        "options": [],
+        "reponse": "Meine Nachbarin hat keine Zeit, sich um ihre Kinder zu kümmern."
+      },
+      {
+        "question": "Ich schlage ihr vor, (ihre kleine Tochter morgen zu mir kommen)",
+        "options": [],
+        "reponse": "Ich schlage ihr vor, dass ihre kleine Tochter morgen zu mir kommt."
+      },
+      {
+        "question": "Hier hat sie die Chance, (in Ruhe ihre Hausaufgaben machen)",
+        "options": [],
+        "reponse": "Hier hat sie die Chance, in Ruhe ihre Hausaufgaben zu machen."
+      },
+      {
+        "question": "Ich hoffe, (ihr bei den Hausaufgaben helfen können)",
+        "options": [],
+        "reponse": "Ich hoffe, ihr bei den Hausaufgaben helfen zu können."
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "infinitiv-ohne-01",
+    "theme": "Infinitiv ohne zu",
+    "sous_theme": "Verben ergänzen",
+    "niveau": "B1",
+    "type": "completer",
+    "consigne": "Was tun die Leute? Ergänzen Sie die Verben: vorbeifahren sehen • schwimmen gehen • liegen bleiben • spielen hören • liegen lassen • Ski fahren gehen • essen gehen • fahren lernen.",
+    "questions": [
+      {
+        "question": "Der Mann geht Ski ___.",
+        "options": ["fahren", "gehen", "laufen", "machen"],
+        "reponse": "fahren"
+      },
+      {
+        "question": "Sie ___ schwimmen.",
+        "options": ["geht", "geht", "läuft", "macht"],
+        "reponse": "geht"
+      },
+      {
+        "question": "Das Publikum ___ die Pianistin spielen.",
+        "options": ["hört", "sieht", "hört", "beobachtet"],
+        "reponse": "hört"
+      },
+      {
+        "question": "Er ___ im Bett liegen.",
+        "options": ["bleibt", "bleibt", "liegt", "ruht"],
+        "reponse": "bleibt"
+      },
+      {
+        "question": "Die Leute ___ das Schiff vorbeifahren.",
+        "options": ["sehen", "beobachten", "sehen", "schauen"],
+        "reponse": "sehen"
+      },
+      {
+        "question": "Das Paar ___ essen.",
+        "options": ["geht", "geht", "fährt", "läuft"],
+        "reponse": "geht"
+      },
+      {
+        "question": "Sie ___ das Buch liegen.",
+        "options": ["lässt", "legt", "lässt", "vergisst"],
+        "reponse": "lässt"
+      },
+      {
+        "question": "Das Kind ___ Fahrrad fahren.",
+        "options": ["lernt", "lernt", "kann", "will"],
+        "reponse": "lernt"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "infinitiv-ohne-02",
+    "theme": "Infinitiv ohne zu",
+    "sous_theme": "Infinitiv mit oder ohne zu?",
+    "niveau": "B1",
+    "type": "completer",
+    "consigne": "Infinitiv mit oder ohne zu? Ergänzen Sie zu (wenn nötig).",
+    "questions": [
+      {
+        "question": "Es ist verboten, hier ___ essen.",
+        "options": ["zu", "(kein zu)", "zu", "zu"],
+        "reponse": "zu"
+      },
+      {
+        "question": "Ich will heute Abend kochen. (zu?)",
+        "options": ["(kein zu)", "zu", "(kein zu)", "(kein zu)"],
+        "reponse": "(kein zu)"
+      },
+      {
+        "question": "Er erlaubt seiner Tochter, den Film ___ sehen.",
+        "options": ["zu", "(kein zu)", "zu", "zu"],
+        "reponse": "zu"
+      },
+      {
+        "question": "Wir gehen am Sonntag tanzen. (zu?)",
+        "options": ["(kein zu)", "zu", "(kein zu)", "(kein zu)"],
+        "reponse": "(kein zu)"
+      },
+      {
+        "question": "Es ist sehr schön, ihn ___ sehen.",
+        "options": ["zu", "(kein zu)", "zu", "zu"],
+        "reponse": "zu"
+      },
+      {
+        "question": "Ich höre meinen Nachbarn Klavier spielen. (zu?)",
+        "options": ["(kein zu)", "zu", "(kein zu)", "(kein zu)"],
+        "reponse": "(kein zu)"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "infinitiv-ohne-03",
+    "theme": "Infinitiv ohne zu",
+    "sous_theme": "Mit oder ohne zu?",
+    "niveau": "B1",
+    "type": "completer",
+    "consigne": "Infinitiv mit oder ohne zu? Ergänzen Sie.",
+    "questions": [
+      {
+        "question": "Ich möchte am Wochenende immer lange schlafen. (zu?)",
+        "options": ["(kein zu)", "zu", "(kein zu)", "(kein zu)"],
+        "reponse": "(kein zu)"
+      },
+      {
+        "question": "Es ist immer schön, ins Kino ___ gehen.",
+        "options": ["zu", "(kein zu)", "zu", "zu"],
+        "reponse": "zu"
+      },
+      {
+        "question": "Ich versuche jetzt, mit dem Rauchen aufzuhören. (zu?)",
+        "options": ["zu", "(kein zu)", "zu", "zu"],
+        "reponse": "zu"
+      },
+      {
+        "question": "Wir haben keine Zeit, die Hausaufgaben ___ machen.",
+        "options": ["zu", "(kein zu)", "zu", "zu"],
+        "reponse": "zu"
+      },
+      {
+        "question": "Ich sehe ihn kommen. (zu?)",
+        "options": ["(kein zu)", "zu", "(kein zu)", "(kein zu)"],
+        "reponse": "(kein zu)"
+      },
+      {
+        "question": "Meine Tochter bleibt immer lange am Computer sitzen. (zu?)",
+        "options": ["(kein zu)", "zu", "(kein zu)", "(kein zu)"],
+        "reponse": "(kein zu)"
+      },
+      {
+        "question": "Das Kind darf nicht so viel Eis essen. (zu?)",
+        "options": ["(kein zu)", "zu", "(kein zu)", "(kein zu)"],
+        "reponse": "(kein zu)"
+      },
+      {
+        "question": "Ich hoffe sehr, drei Kilo abnehmen ___ können.",
+        "options": ["zu", "(kein zu)", "zu", "zu"],
+        "reponse": "zu"
+      },
+      {
+        "question": "Willst du deinem Nachbarn wirklich 3000 € leihen? (zu?)",
+        "options": ["(kein zu)", "zu", "(kein zu)", "(kein zu)"],
+        "reponse": "(kein zu)"
+      },
+      {
+        "question": "Er hat große Angst, durch die Prüfung ___ fallen.",
+        "options": ["zu", "(kein zu)", "zu", "zu"],
+        "reponse": "zu"
+      },
+      {
+        "question": "Wir lassen unseren Sohn abends bis 22 Uhr ausgehen. (zu?)",
+        "options": ["(kein zu)", "zu", "(kein zu)", "(kein zu)"],
+        "reponse": "(kein zu)"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "relativ-01",
+    "theme": "Relativsätze",
+    "sous_theme": "Kombinieren",
+    "niveau": "B1",
+    "type": "associer",
+    "consigne": "Was passt zusammen? Kombinieren Sie.",
+    "questions": [
+      {
+        "question": "Das ist die Nachbarin,",
+        "options": ["die jeden Tag einkaufen geht.", "der so aussieht wie Brad Pitt.", "das nachts immer weint.", "die hier immer Fußball spielen."],
+        "reponse": "die jeden Tag einkaufen geht."
+      },
+      {
+        "question": "Das ist der Student aus dem dritten Stock,",
+        "options": ["der so aussieht wie Brad Pitt.", "die jeden Tag einkaufen geht.", "das nachts immer weint.", "die hier immer Fußball spielen."],
+        "reponse": "der so aussieht wie Brad Pitt."
+      },
+      {
+        "question": "Da ist das kleine Kind,",
+        "options": ["das nachts immer weint.", "die jeden Tag einkaufen geht.", "der so aussieht wie Brad Pitt.", "die hier immer Fußball spielen."],
+        "reponse": "das nachts immer weint."
+      },
+      {
+        "question": "Das sind die Jugendlichen,",
+        "options": ["die hier immer Fußball spielen.", "die jeden Tag einkaufen geht.", "der so aussieht wie Brad Pitt.", "das nachts immer weint."],
+        "reponse": "die hier immer Fußball spielen."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "relativ-02",
+    "theme": "Relativsätze",
+    "sous_theme": "Relativsätze ordnen",
+    "niveau": "B1",
+    "type": "ordre",
+    "consigne": "UNORDNUNG. Schreiben Sie die Relativsätze.",
+    "questions": [
+      {
+        "question": "Wo ist das Ladegerät, • immer hier im Regal • das • liegt • ?",
+        "options": [],
+        "reponse": "Wo ist das Ladegerät, das immer hier im Regal liegt?"
+      },
+      {
+        "question": "Wo ist mein Kuli, • hat • gelegen • der • gestern hier auf dem Tisch • ?",
+        "options": [],
+        "reponse": "Wo ist mein Kuli, der gestern hier auf dem Tisch gelegen hat?"
+      },
+      {
+        "question": "Wer hat meine Jacke gesehen, • die • war • hier auf dem Stuhl • ?",
+        "options": [],
+        "reponse": "Wer hat meine Jacke gesehen, die hier auf dem Stuhl war?"
+      },
+      {
+        "question": "Wem gehört das Handy, • auf dem Boden • liegt • das • ?",
+        "options": [],
+        "reponse": "Wem gehört das Handy, das auf dem Boden liegt?"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "relativ-03",
+    "theme": "Relativsätze",
+    "sous_theme": "Relativpronomen ergänzen",
+    "niveau": "B1",
+    "type": "completer",
+    "consigne": "BERÜHMTE MENSCHEN AUS DEUTSCHLAND. Ergänzen Sie das Relativpronomen.",
+    "questions": [
+      {
+        "question": "Einstein, ___ 1921 den Nobelpreis bekommen hat, war ein großer Physiker.",
+        "options": ["der", "den", "dem", "dessen"],
+        "reponse": "der"
+      },
+      {
+        "question": "Angela Merkel, ___ als erste Frau Bundeskanzlerin wurde, hat auch Physik studiert.",
+        "options": ["die", "deren", "der", "die"],
+        "reponse": "die"
+      },
+      {
+        "question": "Johann Wolfgang von Goethe und Friedrich Schiller, ___ zu den größten deutschen Dichtern gehören, waren viele Jahre lang gut befreundet.",
+        "options": ["die", "deren", "der", "die"],
+        "reponse": "die"
+      },
+      {
+        "question": "Johann Sebastian Bach, ___ in Eisenach geboren ist und nicht weit gereist ist, ist jetzt in der ganzen Welt bekannt.",
+        "options": ["der", "den", "dem", "dessen"],
+        "reponse": "der"
+      },
+      {
+        "question": "Anne-Sophie Mutter, ___ mit fünf Jahren schon einen ersten Wettbewerb gewonnen hat, ist heute eine weltbekannte Geigerin.",
+        "options": ["die", "deren", "der", "die"],
+        "reponse": "die"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "relativ-04",
+    "theme": "Relativsätze",
+    "sous_theme": "Wer oder was ist das?",
+    "niveau": "B1",
+    "type": "ordre",
+    "consigne": "Wer oder was ist das? Schreiben Sie Relativsätze.",
+    "questions": [
+      {
+        "question": "Das ist mein Kollege Herr Schmidt. Er kommt immer schon um 7 Uhr.",
+        "options": [],
+        "reponse": "Das ist mein Kollege Herr Schmidt, der immer schon um 7 Uhr kommt."
+      },
+      {
+        "question": "Das ist das Büro. Das Büro ist immer ab halb neun geöffnet.",
+        "options": [],
+        "reponse": "Das ist das Büro, das immer ab halb neun geöffnet ist."
+      },
+      {
+        "question": "Das ist Frau Markus. Sie ist immer sehr hilfsbereit.",
+        "options": [],
+        "reponse": "Das ist Frau Markus, die immer sehr hilfsbereit ist."
+      },
+      {
+        "question": "Das ist Herr Möbius. Er ist erst vor einem halben Jahr zu uns gekommen.",
+        "options": [],
+        "reponse": "Das ist Herr Möbius, der erst vor einem halben Jahr zu uns gekommen ist."
+      },
+      {
+        "question": "Das ist unser Firmenauto. Das Auto steht immer auf diesem Parkplatz.",
+        "options": [],
+        "reponse": "Das ist unser Firmenauto, das immer auf diesem Parkplatz steht."
+      },
+      {
+        "question": "Das sind Herr Meier und Herr Naumann. Sie arbeiten normalerweise in einer anderen Abteilung.",
+        "options": [],
+        "reponse": "Das sind Herr Meier und Herr Naumann, die normalerweise in einer anderen Abteilung arbeiten."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "relativ-05",
+    "theme": "Relativsätze",
+    "sous_theme": "Relativsätze mitten im Satz",
+    "niveau": "B1",
+    "type": "ordre",
+    "consigne": "Relativsätze mitten im Satz. Schreiben Sie Sätze.",
+    "questions": [
+      {
+        "question": "Meine Tante kommt morgen zu Besuch. Meine Tante kann sehr gut Kuchen backen.",
+        "options": [],
+        "reponse": "Meine Tante, die sehr gut Kuchen backen kann, kommt morgen zu Besuch."
+      },
+      {
+        "question": "Mein Onkel ist nach Afrika gefahren. Mein Onkel wohnt in Hamburg.",
+        "options": [],
+        "reponse": "Mein Onkel, der in Hamburg wohnt, ist nach Afrika gefahren."
+      },
+      {
+        "question": "Meine Cousinen studieren in Berlin. Meine Cousinen wollen Lehrerinnen werden.",
+        "options": [],
+        "reponse": "Meine Cousinen, die Lehrerinnen werden wollen, studieren in Berlin."
+      },
+      {
+        "question": "Mein Bruder heiratet nächste Woche. Mein Bruder wollte eigentlich immer Single bleiben.",
+        "options": [],
+        "reponse": "Mein Bruder, der eigentlich immer Single bleiben wollte, heiratet nächste Woche."
+      },
+      {
+        "question": "Meine Schwester ist in der Klinik. Sie hat gerade ein Baby bekommen.",
+        "options": [],
+        "reponse": "Meine Schwester, die gerade ein Baby bekommen hat, ist in der Klinik."
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "relativ-06",
+    "theme": "Relativsätze",
+    "sous_theme": "Relativpronomen mit Kasus",
+    "niveau": "B1",
+    "type": "completer",
+    "consigne": "Ergänzen Sie die Relativpronomen.",
+    "questions": [
+      {
+        "question": "Das ist der Mann, ___ so gut aussieht. / ___ ich gestern kennengelernt habe. / ___ ich gerne gefallen möchte. / mit ___ ich gerne tanzen möchte.",
+        "options": ["der / den / dem / dem", "den / der / dem / den", "der / dem / den / der", "den / den / dem / dem"],
+        "reponse": "der / den / dem / dem"
+      },
+      {
+        "question": "Das ist die Frau, ___ toll singen kann. / ___ ich schon zweimal im Radio gehört habe. / ___ ich Blumen schenken möchte. / von ___ ich dir gestern erzählt habe.",
+        "options": ["die / die / der / der", "die / der / die / die", "der / die / der / die", "die / die / die / der"],
+        "reponse": "die / die / der / der"
+      },
+      {
+        "question": "Das ist das Kind, ___ so lustig lacht. / ___ ich so gern habe. / ___ ich gestern ein Eis gegeben habe. / mit ___ mein Sohn gerne spielt.",
+        "options": ["das / das / dem / dem", "das / dem / das / dem", "dem / das / dem / das", "das / das / das / dem"],
+        "reponse": "das / das / dem / dem"
+      },
+      {
+        "question": "Das sind die Leute, ___ immer Party machen. / ___ ich am Samstag zu meiner Party eingeladen habe. / ___ ich beim Umzug geholfen habe. / auf ___ ich jetzt eine halbe Stunde gewartet habe.",
+        "options": ["die / die / denen / die", "die / die / denen / denen", "die / denen / die / denen", "die / die / denen / die"],
+        "reponse": "die / die / denen / die"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "relativ-07",
+    "theme": "Relativsätze",
+    "sous_theme": "Präpositionen im Relativsatz",
+    "niveau": "B1",
+    "type": "ordre",
+    "consigne": "Machen Sie aus zwei Sätzen einen Hauptsatz mit Relativsatz.",
+    "questions": [
+      {
+        "question": "Das ist der Mann. Meine Nachbarin hat mir viel von dem Mann erzählt.",
+        "options": [],
+        "reponse": "Das ist der Mann, von dem meine Nachbarin mir viel erzählt hat."
+      },
+      {
+        "question": "Das ist die Frau. Die Frau wohnt seit zwei Jahren in unserem Haus.",
+        "options": [],
+        "reponse": "Das ist die Frau, die seit zwei Jahren in unserem Haus wohnt."
+      },
+      {
+        "question": "Das ist das Kind. Ich sehe das Kind jeden Tag auf dem Spielplatz.",
+        "options": [],
+        "reponse": "Das ist das Kind, das ich jeden Tag auf dem Spielplatz sehe."
+      },
+      {
+        "question": "Das sind die Jugendlichen. Die Skatehalle gefällt den Jugendlichen sehr gut.",
+        "options": [],
+        "reponse": "Das sind die Jugendlichen, denen die Skatehalle sehr gut gefällt."
+      },
+      {
+        "question": "Ich wünsche dem Jungen viel Glück. Der Junge muss heute seine Abschlussprüfung machen.",
+        "options": [],
+        "reponse": "Ich wünsche dem Jungen, der heute seine Abschlussprüfung machen muss, viel Glück."
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "temp-wenn-als-01",
+    "theme": "Temporale Nebensätze",
+    "sous_theme": "wenn und als",
+    "niveau": "B1",
+    "type": "ordre",
+    "consigne": "Schreiben Sie Sätze mit wenn und als.",
+    "questions": [
+      {
+        "question": "Wenn: du • heute Abend • kommen / wir • können • gleich • ins Kino gehen • .",
+        "options": [],
+        "reponse": "Wenn du heute Abend kommst, können wir gleich ins Kino gehen."
+      },
+      {
+        "question": "Wenn: Sie • Zeit • haben / ich • möchte • Sie • gerne zu einem Kaffee • einladen • .",
+        "options": [],
+        "reponse": "Wenn Sie Zeit haben, möchte ich Sie gerne zu einem Kaffee einladen."
+      },
+      {
+        "question": "Wenn: alles • fertig sein / wir • können • nach Hause • gehen • .",
+        "options": [],
+        "reponse": "Wenn alles fertig ist, können wir nach Hause gehen."
+      },
+      {
+        "question": "Als: er • gekommen • ist / sie • hat • sofort • den Raum • verlassen • .",
+        "options": [],
+        "reponse": "Als er gekommen ist, hat sie sofort den Raum verlassen."
+      },
+      {
+        "question": "Als: sie • die neue Stelle • bekommen • hat / sie • hat • mit ihren Freunden eine Party • gemacht • .",
+        "options": [],
+        "reponse": "Als sie die neue Stelle bekommen hat, hat sie mit ihren Freunden eine Party gemacht."
+      },
+      {
+        "question": "Als: er • letzte Woche • den Unfall • hatte / das Auto • musste • in die Werkstatt • gebracht werden • .",
+        "options": [],
+        "reponse": "Als er letzte Woche den Unfall hatte, musste das Auto in die Werkstatt gebracht werden."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "temp-wenn-als-02",
+    "theme": "Temporale Nebensätze",
+    "sous_theme": "wenn oder als ergänzen",
+    "niveau": "B1",
+    "type": "completer",
+    "consigne": "Ergänzen Sie wenn oder als.",
+    "questions": [
+      {
+        "question": "___ sie morgen Zeit hat, will sie shoppen gehen.",
+        "options": ["Wenn", "Als"],
+        "reponse": "Wenn"
+      },
+      {
+        "question": "___ er gestern Zeit hatte, hat er die Wohnung aufgeräumt.",
+        "options": ["Als", "Wenn"],
+        "reponse": "Als"
+      },
+      {
+        "question": "___ ich nächste Woche nach Madrid komme, besuche ich dich.",
+        "options": ["Wenn", "Als"],
+        "reponse": "Wenn"
+      },
+      {
+        "question": "___ ich letzte Woche in Madrid war, habe ich ein tolles Fußballspiel gesehen.",
+        "options": ["Als", "Wenn"],
+        "reponse": "Als"
+      },
+      {
+        "question": "___ er letztes Jahr in unsere Stadt kam, kannte er keinen Menschen.",
+        "options": ["Als", "Wenn"],
+        "reponse": "Als"
+      },
+      {
+        "question": "___ er jetzt in der Stadt spazieren geht, trifft er immer Bekannte.",
+        "options": ["Wenn", "Als"],
+        "reponse": "Wenn"
+      },
+      {
+        "question": "___ ich vor einer Stunde nach Hause kam, hatte Marlen schon ein Essen gekocht.",
+        "options": ["Als", "Wenn"],
+        "reponse": "Als"
+      },
+      {
+        "question": "___ ich nächste Woche nach Hause komme, bin ich alleine und muss selbst kochen.",
+        "options": ["Wenn", "Als"],
+        "reponse": "Wenn"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "temp-konnekt-01",
+    "theme": "Temporale Nebensätze",
+    "sous_theme": "bevor, nachdem, während, seit",
+    "niveau": "B1",
+    "type": "ordre",
+    "consigne": "Aktivität 1 und Aktivität 2. Schreiben Sie Sätze mit bevor.",
+    "questions": [
+      {
+        "question": "Zähne putzen • ins Bett gehen",
+        "options": [],
+        "reponse": "Ich putze mir die Zähne, bevor ich ins Bett gehe."
+      },
+      {
+        "question": "die Fenster schließen • aus dem Haus gehen",
+        "options": [],
+        "reponse": "Ich schließe die Fenster, bevor ich aus dem Haus gehe."
+      },
+      {
+        "question": "die Koffer packen • eine Reise machen",
+        "options": [],
+        "reponse": "Ich packe die Koffer, bevor ich eine Reise mache."
+      },
+      {
+        "question": "einkaufen müssen • kochen können",
+        "options": [],
+        "reponse": "Ich muss einkaufen, bevor ich kochen kann."
+      },
+      {
+        "question": "Geld abheben • einkaufen gehen",
+        "options": [],
+        "reponse": "Ich hebe Geld ab, bevor ich einkaufen gehe."
+      },
+      {
+        "question": "meinen Mann küssen • zur Arbeit gehen",
+        "options": [],
+        "reponse": "Ich küsse meinen Mann, bevor ich zur Arbeit gehe."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "temp-konnekt-02",
+    "theme": "Temporale Nebensätze",
+    "sous_theme": "während - Gleichzeitigkeit",
+    "niveau": "B1",
+    "type": "ordre",
+    "consigne": "Was passiert gleichzeitig? Schreiben Sie Sätze mit während.",
+    "questions": [
+      {
+        "question": "Der Mann kocht / die Frau putzt die Küche",
+        "options": [],
+        "reponse": "Während der Mann kocht, putzt die Frau die Küche."
+      },
+      {
+        "question": "Die Kinder spielen / die Eltern arbeiten",
+        "options": [],
+        "reponse": "Während die Kinder spielen, arbeiten die Eltern."
+      },
+      {
+        "question": "Er liest ein Buch / sie hört Musik",
+        "options": [],
+        "reponse": "Während er ein Buch liest, hört sie Musik."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "temp-konnekt-03",
+    "theme": "Temporale Nebensätze",
+    "sous_theme": "nachdem",
+    "niveau": "B1",
+    "type": "ordre",
+    "consigne": "Was passt zusammen? Schreiben Sie Sätze mit nachdem.",
+    "questions": [
+      {
+        "question": "ich • Eintrittskarte kaufen / ins Kino gehen",
+        "options": [],
+        "reponse": "Nachdem ich eine Eintrittskarte gekauft habe, gehe ich ins Kino."
+      },
+      {
+        "question": "er • zehn Kilometer joggen / großen Durst haben",
+        "options": [],
+        "reponse": "Nachdem er zehn Kilometer gejoggt ist, hat er großen Durst."
+      },
+      {
+        "question": "wir • 16 Stunden fliegen / in Australien ankommen",
+        "options": [],
+        "reponse": "Nachdem wir 16 Stunden geflogen sind, kommen wir in Australien an."
+      },
+      {
+        "question": "du • sechs Stück Kuchen essen / Bauchschmerzen haben",
+        "options": [],
+        "reponse": "Nachdem du sechs Stück Kuchen gegessen hast, hast du Bauchschmerzen."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "temp-konnekt-04",
+    "theme": "Temporale Nebensätze",
+    "sous_theme": "seit(dem)",
+    "niveau": "B1",
+    "type": "ordre",
+    "consigne": "Was hat sich verändert? Schreiben Sie Sätze mit seit(dem).",
+    "questions": [
+      {
+        "question": "er hat fünf Kilogramm abgenommen • er isst keine Schokolade mehr",
+        "options": [],
+        "reponse": "Seitdem er keine Schokolade mehr isst, hat er fünf Kilogramm abgenommen."
+      },
+      {
+        "question": "er fühlt sich wohler • er hat fünf Kilogramm abgenommen",
+        "options": [],
+        "reponse": "Seitdem er fünf Kilogramm abgenommen hat, fühlt er sich wohler."
+      },
+      {
+        "question": "er ist fit und treibt Sport • er ist schlanker",
+        "options": [],
+        "reponse": "Seitdem er schlanker ist, ist er fit und treibt Sport."
+      },
+      {
+        "question": "er hat eine Freundin gefunden • er ist fit, schlank und sportlich",
+        "options": [],
+        "reponse": "Seitdem er fit, schlank und sportlich ist, hat er eine Freundin gefunden."
+      },
+      {
+        "question": "er ist glücklich • er hat eine nette Freundin",
+        "options": [],
+        "reponse": "Seitdem er eine nette Freundin hat, ist er glücklich."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "final-01",
+    "theme": "Finalsätze",
+    "sous_theme": "um ... zu",
+    "niveau": "B1",
+    "type": "ordre",
+    "consigne": "Wozu? Schreiben Sie Sätze mit um ... zu.",
+    "questions": [
+      {
+        "question": "Wozu lesen Sie Zeitung? (ich möchte mich informieren)",
+        "options": [],
+        "reponse": "Ich lese Zeitung, um mich zu informieren."
+      },
+      {
+        "question": "Wozu lernen Sie Deutsch? (ich möchte meinen deutschen Mann verstehen)",
+        "options": [],
+        "reponse": "Ich lerne Deutsch, um meinen deutschen Mann zu verstehen."
+      },
+      {
+        "question": "Wozu arbeiten Sie so viel? (ich will Karriere machen)",
+        "options": [],
+        "reponse": "Ich arbeite so viel, um Karriere zu machen."
+      },
+      {
+        "question": "Wozu brauchen Sie Ihr Auto? (ich fahre zur Arbeit)",
+        "options": [],
+        "reponse": "Ich brauche mein Auto, um zur Arbeit zu fahren."
+      },
+      {
+        "question": "Wozu laden Sie Ihre Nachbarn ein? (ich möchte sie kennenlernen)",
+        "options": [],
+        "reponse": "Ich lade meine Nachbarn ein, um sie kennenzulernen."
+      },
+      {
+        "question": "Wozu spielen Sie Schach? (wir wollen unser Gehirn trainieren)",
+        "options": [],
+        "reponse": "Wir spielen Schach, um unser Gehirn zu trainieren."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "final-02",
+    "theme": "Finalsätze",
+    "sous_theme": "damit",
+    "niveau": "B1",
+    "type": "ordre",
+    "consigne": "Wozu? Schreiben Sie Sätze mit damit.",
+    "questions": [
+      {
+        "question": "Wozu ziehen Sie aufs Land? (mein Kind soll in der Natur aufwachsen)",
+        "options": [],
+        "reponse": "Ich ziehe aufs Land, damit mein Kind in der Natur aufwächst."
+      },
+      {
+        "question": "Wozu ist er ganz leise? (sein Kind soll nicht aufwachen)",
+        "options": [],
+        "reponse": "Er ist ganz leise, damit sein Kind nicht aufwacht."
+      },
+      {
+        "question": "Wozu arbeitet er so viel? (er will ein besseres Leben haben)",
+        "options": [],
+        "reponse": "Er arbeitet so viel, damit er ein besseres Leben hat."
+      },
+      {
+        "question": "Wozu geht Frau Meier zum Zahnarzt? (er soll ihr einen Zahn ziehen)",
+        "options": [],
+        "reponse": "Frau Meier geht zum Zahnarzt, damit er ihr einen Zahn zieht."
+      },
+      {
+        "question": "Wozu geht er ins Fitness-Studio? (seine Frau soll ihn wieder attraktiv finden)",
+        "options": [],
+        "reponse": "Er geht ins Fitness-Studio, damit seine Frau ihn wieder attraktiv findet."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "final-03",
+    "theme": "Finalsätze",
+    "sous_theme": "um...zu oder damit?",
+    "niveau": "B1",
+    "type": "ordre",
+    "consigne": "MARIAS LEBEN. Schreiben Sie Sätze mit um ... zu oder damit.",
+    "questions": [
+      {
+        "question": "Maria lernt Deutsch, • sie • in Deutschland • arbeiten • .\n→ Struktur: um ... zu (même sujet)\n→ Beispiel: Ich lerne Deutsch, um in Deutschland zu arbeiten.",
+        "options": [],
+        "reponse": "Maria lernt Deutsch, um in Deutschland zu arbeiten."
+      },
+      {
+        "question": "Sie macht jetzt ein Praktikum, • sie • den Beruf • kennenlernen • .\n→ Struktur: um ... zu (même sujet)\n→ Beispiel: Er macht ein Praktikum, um den Beruf kennenzulernen.",
+        "options": [],
+        "reponse": "Sie macht jetzt ein Praktikum, um den Beruf kennenzulernen."
+      },
+      {
+        "question": "Sie arbeitet viel, • das Projekt • fertig werden • .\n→ Struktur: damit (sujet différent)\n→ Beispiel: Ich arbeite viel, damit das Projekt fertig wird.",
+        "options": [],
+        "reponse": "Sie arbeitet viel, damit das Projekt fertig wird."
+      },
+      {
+        "question": "Abends geht sie in den Club, • sie • neue Leute • kennenlernen • .\n→ Struktur: um ... zu (même sujet)\n→ Beispiel: Sie geht in den Club, um neue Leute kennenzulernen.",
+        "options": [],
+        "reponse": "Abends geht sie in den Club, um neue Leute kennenzulernen."
+      },
+      {
+        "question": "Sie möchte ein Flugticket kaufen, • ihre Mutter • zu Besuch kommen können • .\n→ Struktur: damit (sujet différent)\n→ Beispiel: Ich kaufe ein Ticket, damit meine Mutter zu Besuch kommen kann.",
+        "options": [],
+        "reponse": "Sie möchte ein Flugticket kaufen, damit ihre Mutter zu Besuch kommen kann."
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "doppelkonn-01",
+    "theme": "Doppelkonnektoren",
+    "sous_theme": "sowohl...als auch, nicht nur...sondern auch",
+    "niveau": "B1",
+    "type": "ordre",
+    "consigne": "Schreiben Sie Sätze mit sowohl ... als auch und nicht nur ... sondern auch.",
+    "questions": [
+      {
+        "question": "Heute • gehen • wir • ins Restaurant • ins Kino • .\n→ Struktur: sowohl ... als auch (addition positive)\n→ Beispiel: Wir gehen sowohl ins Restaurant als auch ins Kino.",
+        "options": [],
+        "reponse": "Heute gehen wir sowohl ins Restaurant als auch ins Kino."
+      },
+      {
+        "question": "Elena • schön • intelligent • ist • .\n→ Struktur: sowohl ... als auch (addition positive)\n→ Beispiel: Sie ist sowohl schön als auch intelligent.",
+        "options": [],
+        "reponse": "Elena ist sowohl schön als auch intelligent."
+      },
+      {
+        "question": "Die Reise • war • interessant • entspannend • .\n→ Struktur: nicht nur ... sondern auch (accent sur le second)\n→ Beispiel: Die Reise war nicht nur interessant, sondern auch entspannend.",
+        "options": [],
+        "reponse": "Die Reise war nicht nur interessant, sondern auch entspannend."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "doppelkonn-02",
+    "theme": "Doppelkonnektoren",
+    "sous_theme": "entweder...oder",
+    "niveau": "B1",
+    "type": "ordre",
+    "consigne": "Schreiben Sie Sätze mit entweder ... oder.",
+    "questions": [
+      {
+        "question": "Liva • möchte • studieren • eine Ausbildung machen • .",
+        "options": [],
+        "reponse": "Liva möchte entweder studieren oder eine Ausbildung machen."
+      },
+      {
+        "question": "Theo • möchte • fahren • nach Island • nach Finnland • .",
+        "options": [],
+        "reponse": "Theo möchte entweder nach Island oder nach Finnland fahren."
+      },
+      {
+        "question": "Emilia • heute • trifft • Finn • Jonas • .",
+        "options": [],
+        "reponse": "Emilia trifft heute entweder Finn oder Jonas."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "doppelkonn-03",
+    "theme": "Doppelkonnektoren",
+    "sous_theme": "weder...noch",
+    "niveau": "B1",
+    "type": "ordre",
+    "consigne": "Schreiben Sie Sätze mit weder ... noch.",
+    "questions": [
+      {
+        "question": "Tatjana • trinkt • Kaffee • Tee • . Nur Saft.",
+        "options": [],
+        "reponse": "Tatjana trinkt weder Kaffee noch Tee."
+      },
+      {
+        "question": "Malina • Italienisch • Spanisch • kann • sprechen • . Aber Bulgarisch, Englisch und Russisch.",
+        "options": [],
+        "reponse": "Malina kann weder Italienisch noch Spanisch sprechen."
+      },
+      {
+        "question": "Paul • will • baden • duschen • . Er hasst Wasser.",
+        "options": [],
+        "reponse": "Paul will weder baden noch duschen."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "doppelkonn-04",
+    "theme": "Doppelkonnektoren",
+    "sous_theme": "Alle Doppelkonnektoren",
+    "niveau": "B1",
+    "type": "completer",
+    "consigne": "Ergänzen Sie die Sätze mit dem passenden Konnektor: sowohl ... als auch • nicht nur ... sondern auch • entweder ... oder • weder ... noch.",
+    "questions": [
+      {
+        "question": "In der Nähe des Bahnhofs gibt es ___ Hotels ___ kleine Pensionen. (+/+)",
+        "options": ["sowohl ... als auch", "nicht nur ... sondern auch", "entweder ... oder", "weder ... noch"],
+        "reponse": "sowohl ... als auch"
+      },
+      {
+        "question": "Wir haben noch kein Zimmer gefunden: ___ in einem Hotel ___ in einer Pension. (-/-)",
+        "options": ["weder ... noch", "nicht nur ... sondern auch", "entweder ... oder", "sowohl ... als auch"],
+        "reponse": "weder ... noch"
+      },
+      {
+        "question": "Jetzt ist es zu spät, ___ sehr kalt. (+/+)",
+        "options": ["nicht nur ... sondern auch", "weder ... noch", "entweder ... oder", "sowohl ... als auch"],
+        "reponse": "nicht nur ... sondern auch"
+      },
+      {
+        "question": "Wir müssen im Auto unter der Brücke schlafen. (a oder b)",
+        "options": ["entweder ... oder", "weder ... noch", "sowohl ... als auch", "nicht nur ... sondern auch"],
+        "reponse": "entweder ... oder"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "vergleich-01",
+    "theme": "Vergleichssätze",
+    "sous_theme": "je...desto Kombinieren",
+    "niveau": "B1",
+    "type": "associer",
+    "consigne": "Je ... desto. Was passt zusammen? Kombinieren Sie.",
+    "questions": [
+      {
+        "question": "Je weniger man schläft,",
+        "options": ["desto müder ist man.", "desto mehr Regale brauche ich.", "desto mehr Kopfschmerzen hat man am nächsten Morgen.", "desto weniger verstehe ich."],
+        "reponse": "desto müder ist man."
+      },
+      {
+        "question": "Je mehr Bücher ich habe,",
+        "options": ["desto mehr Regale brauche ich.", "desto müder ist man.", "desto mehr Kopfschmerzen hat man am nächsten Morgen.", "desto weniger verstehe ich."],
+        "reponse": "desto mehr Regale brauche ich."
+      },
+      {
+        "question": "Je mehr Alkohol man trinkt,",
+        "options": ["desto mehr Kopfschmerzen hat man am nächsten Morgen.", "desto müder ist man.", "desto mehr Regale brauche ich.", "desto weniger verstehe ich."],
+        "reponse": "desto mehr Kopfschmerzen hat man am nächsten Morgen."
+      },
+      {
+        "question": "Je schneller du sprichst,",
+        "options": ["desto weniger verstehe ich.", "desto müder ist man.", "desto mehr Regale brauche ich.", "desto mehr Kopfschmerzen hat man am nächsten Morgen."],
+        "reponse": "desto weniger verstehe ich."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "vergleich-02",
+    "theme": "Vergleichssätze",
+    "sous_theme": "Komparative ergänzen",
+    "niveau": "B1",
+    "type": "completer",
+    "consigne": "DIE GESUNDHEIT. Ergänzen Sie die Komparative.",
+    "questions": [
+      {
+        "question": "Je ___ (gesund) man lebt, desto ___ (wohl) fühlt man sich.",
+        "options": ["gesünder / wohler", "gesunder / wohler", "gesünder / wohleren", "gesunder / wohleren"],
+        "reponse": "gesünder / wohler"
+      },
+      {
+        "question": "Je ___ (gut) man isst, desto ___ (wahrscheinlich) bleibt man gesund.",
+        "options": ["besser / wahrscheinlicher", "guter / wahrscheinlicher", "besser / wahrscheinlicheren", "guter / wahrscheinlicheren"],
+        "reponse": "besser / wahrscheinlicher"
+      },
+      {
+        "question": "Je ___ (lang) man lebt, desto ___ (viel) Erfahrung hat man.",
+        "options": ["länger / mehr", "langer / mehr", "länger / mehrer", "langer / mehrer"],
+        "reponse": "länger / mehr"
+      },
+      {
+        "question": "Je ___ (lecker) etwas schmeckt, umso ___ (gern) isst man es.",
+        "options": ["leckerer / lieber", "lecker / gern", "leckerer / gerner", "lecker / lieber"],
+        "reponse": "leckerer / lieber"
+      },
+      {
+        "question": "Je ___ (salzig) das Essen ist, desto ___ (durstig) wird man.",
+        "options": ["salziger / durstiger", "salziger / durstiger", "salzigeren / durstigeren", "salziger / durstigeren"],
+        "reponse": "salziger / durstiger"
+      },
+      {
+        "question": "Je ___ (intensiv) man trainiert, umso ___ (kräftig) wird man.",
+        "options": ["intensiver / kräftiger", "intensiver / kräftiger", "intensiveren / kräftigeren", "intensiver / kräftigeren"],
+        "reponse": "intensiver / kräftiger"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "vergleich-03",
+    "theme": "Vergleichssätze",
+    "sous_theme": "Sätze ordnen",
+    "niveau": "B1",
+    "type": "ordre",
+    "consigne": "DIE LIEBE. Ordnen Sie die Sätze und schreiben Sie sie mit je...desto/umso.",
+    "questions": [
+      {
+        "question": "je • sie • kennt • sympathischer • sie • besser • ihn • umso • findet • ihn • .",
+        "options": [],
+        "reponse": "Je besser sie ihn kennt, umso sympathischer findet sie ihn."
+      },
+      {
+        "question": "netter • desto • er • je • ist • ist • sie • verliebter • .",
+        "options": [],
+        "reponse": "Je netter er ist, desto verliebter ist sie."
+      },
+      {
+        "question": "er • ist • nervöser • desto • liebt • sie • er • mehr • je • .",
+        "options": [],
+        "reponse": "Je mehr er sie liebt, desto nervöser ist er."
+      },
+      {
+        "question": "unsicherer • er • umso • süßer • sie • ihn • je • wird • findet • .",
+        "options": [],
+        "reponse": "Je unsicherer er wird, umso süßer findet sie ihn."
+      },
+      {
+        "question": "je • sie • länger • wird • er • unruhiger • mit dem Heiratsantrag • desto • wartet • .",
+        "options": [],
+        "reponse": "Je länger er mit dem Heiratsantrag wartet, desto unruhiger wird sie."
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "vergleich-04",
+    "theme": "Vergleichssätze",
+    "sous_theme": "zu Bildern Sätze schreiben",
+    "niveau": "B1",
+    "type": "ordre",
+    "consigne": "Schreiben Sie zu den Bildern Sätze mit je ... desto/umso.",
+    "questions": [
+      {
+        "question": "wenig schlafen – müde",
+        "options": [],
+        "reponse": "Je weniger er schläft, desto müder ist er."
+      },
+      {
+        "question": "viel Alkohol – betrunken",
+        "options": [],
+        "reponse": "Je mehr Alkohol man trinkt, desto betrunken wird man."
+      },
+      {
+        "question": "viele Autos – Luft schlecht",
+        "options": [],
+        "reponse": "Je mehr Autos es gibt, desto schlechter wird die Luft."
+      },
+      {
+        "question": "fleißig – Zeugnis gut",
+        "options": [],
+        "reponse": "Je fleißiger man ist, desto besser wird das Zeugnis."
+      },
+      {
+        "question": "viel Kaffee – nervös",
+        "options": [],
+        "reponse": "Je mehr Kaffee man trinkt, desto nervöser wird man."
+      },
+      {
+        "question": "hoch steigen – schwer atmen können",
+        "options": [],
+        "reponse": "Je höher man steigt, desto schwerer kann man atmen."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "vergleich-05",
+    "theme": "Vergleichssätze",
+    "sous_theme": "Sätze neu schreiben",
+    "niveau": "B1",
+    "type": "ordre",
+    "consigne": "DAS WETTER. Schreiben Sie die Sätze neu mit je ... desto/umso.",
+    "questions": [
+      {
+        "question": "Wenn es viel regnet, ist es nass.",
+        "options": [],
+        "reponse": "Je mehr es regnet, desto nasser ist es."
+      },
+      {
+        "question": "Wenn es kalt ist, muss ich viel anziehen.",
+        "options": [],
+        "reponse": "Je kälter es ist, desto mehr muss ich anziehen."
+      },
+      {
+        "question": "Wenn es dunkel ist, kann ich schlecht sehen.",
+        "options": [],
+        "reponse": "Je dunkler es ist, desto schlechter kann ich sehen."
+      },
+      {
+        "question": "Wenn das Wetter gut ist, sind die Leute fröhlich.",
+        "options": [],
+        "reponse": "Je besser das Wetter ist, desto fröhlicher sind die Leute."
+      },
+      {
+        "question": "Wenn ich lange in der Sonne liege, werde ich braun.",
+        "options": [],
+        "reponse": "Je länger ich in der Sonne liege, desto brauner werde ich."
+      },
+      {
+        "question": "Wenn es viel geschneit hat, kann man gut Ski fahren.",
+        "options": [],
+        "reponse": "Je mehr es geschneit hat, desto besser kann man Ski fahren."
+      },
+      {
+        "question": "Wenn es viel Nebel gibt, kann man schlecht sehen.",
+        "options": [],
+        "reponse": "Je mehr Nebel es gibt, desto schlechter kann man sehen."
+      },
+      {
+        "question": "Wenn die Nacht klar ist, kann man viele Sterne sehen.",
+        "options": [],
+        "reponse": "Je klarer die Nacht ist, desto mehr Sterne kann man sehen."
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  }
+]

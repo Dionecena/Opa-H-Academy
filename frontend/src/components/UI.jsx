@@ -314,30 +314,30 @@ export const EmptyState = ({ icon: Icon, title, description, action }) => (
 
 // Header Component
 export const Header = ({ title, subtitle, back, action, username }) => (
-  <header className="sticky top-0 z-40 bg-[var(--glass-bg)] border-b border-[var(--glass-border)] shadow-[var(--glass-shadow)] backdrop-blur-[calc(var(--glass-blur)+6px)]">
-    <div className="container flex items-center justify-between h-14">
-      <div className="flex items-center gap-3">
+  <header className="fixed top-0 left-0 right-0 z-40 bg-[var(--glass-bg)] border-b border-[var(--glass-border)] shadow-[var(--glass-shadow)] backdrop-blur-[calc(var(--glass-blur)+6px)]">
+    <div className="flex items-center justify-between h-14 px-3">
+      <div className="flex items-center gap-2 min-w-0 flex-1">
         {back && (
           <button 
             onClick={back}
-            className="p-2 hover:bg-[var(--bg-input)] rounded-lg transition-colors"
+            className="p-2 -ml-2 hover:bg-[var(--bg-input)] rounded-lg transition-colors flex-shrink-0 min-w-[44px] min-h-[44px] flex items-center justify-center"
           >
             <ChevronDown className="w-5 h-5 rotate-90" />
           </button>
         )}
-        <div>
-          <h1 className="font-semibold text-lg">{title}</h1>
+        <div className="min-w-0 flex-1">
+          <h1 className="font-semibold text-base truncate">{title}</h1>
           {subtitle && (
-            <p className="text-xs text-[var(--text-muted)]">{subtitle}</p>
+            <p className="text-xs text-[var(--text-muted)] truncate">{subtitle}</p>
           )}
         </div>
       </div>
-      <div className="flex items-center gap-3">
+      <div className="flex items-center gap-2 flex-shrink-0">
         <ThemeToggle />
         {username && (
-          <div className="flex items-center gap-2 text-sm text-[var(--text-secondary)]">
+          <div className="hidden sm:flex items-center gap-2 text-sm text-[var(--text-secondary)]">
             <User className="w-4 h-4" />
-            <span>{username}</span>
+            <span className="truncate max-w-[100px]">{username}</span>
           </div>
         )}
         {action}

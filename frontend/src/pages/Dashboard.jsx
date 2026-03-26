@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { motion } from 'framer-motion';
 import { 
-  FileText, Pen, Mic, BookOpen, Settings, Users,
+  FileText, Pen, Mic, BookOpen, Settings, Users, Book,
   ChevronRight, LogOut, Award, User as UserIcon, ChevronDown
 } from 'lucide-react';
 import { Card, Button, Header } from '../components/UI';
@@ -26,6 +26,14 @@ const Dashboard = () => {
       icon: FileText,
       color: 'from-blue-500 to-blue-600',
       path: '/exam'
+    },
+    {
+      id: 'grammar',
+      title: 'Grammatik Übungen',
+      subtitle: 'Verben, Pronomen, Satzbau',
+      icon: Book,
+      color: 'from-amber-500 to-amber-600',
+      path: '/grammar'
     },
     {
       id: 'practice',
@@ -103,7 +111,7 @@ const Dashboard = () => {
         }
       />
 
-      <main className="flex-1">
+      <main className="flex-1 pt-16">
         <div className="container py-6">
           <motion.div
             initial={{ opacity: 0, y: 10 }}

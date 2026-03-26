@@ -1,0 +1,1106 @@
+[
+  {
+    "id": "genitiv-01",
+    "theme": "Genitiv",
+    "sous_theme": "Genitiv bei Nomen ergänzen",
+    "niveau": "B1",
+    "type": "ordre",
+    "consigne": "Ergänzen Sie den Genitiv.",
+    "questions": [
+      {
+        "question": "Da steht das Auto meiner Chefin.",
+        "options": [],
+        "reponse": "Da steht das Auto meiner Chefin."
+      },
+      {
+        "question": "Daneben ist das Fahrrad d___ Assistentin.",
+        "options": [],
+        "reponse": "Daneben ist das Fahrrad der Assistentin."
+      },
+      {
+        "question": "Sie arbeitet heute im Büro d___ neuen Chef.",
+        "options": [],
+        "reponse": "Sie arbeitet heute im Büro des neuen Chefs."
+      },
+      {
+        "question": "Der Chef ist der Bruder mein___ Freund.",
+        "options": [],
+        "reponse": "Der Chef ist der Bruder meines Freundes."
+      },
+      {
+        "question": "Mein Freund ist ein guter Kunde d___ Geschäft.",
+        "options": [],
+        "reponse": "Mein Freund ist ein guter Kunde des Geschäfts."
+      },
+      {
+        "question": "Es gibt auch einen Parkplatz für die Kunden d___ Geschäft___.",
+        "options": [],
+        "reponse": "Es gibt auch einen Parkplatz für die Kunden des Geschäfts."
+      },
+      {
+        "question": "Der Name d___ Straße ist 'Kaufmeile'.",
+        "options": [],
+        "reponse": "Der Name der Straße ist 'Kaufmeile'."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "genitiv-02",
+    "theme": "Genitiv",
+    "sous_theme": "Wem gehört das?",
+    "niveau": "B1",
+    "type": "ordre",
+    "consigne": "Wem gehört das? Schreiben Sie Sätze mit Genitiv.",
+    "questions": [
+      {
+        "question": "die Puppe / Rudi",
+        "options": [],
+        "reponse": "Das ist Rudis Puppe."
+      },
+      {
+        "question": "die Pfeife / Susi",
+        "options": [],
+        "reponse": "Das ist Susis Pfeife."
+      },
+      {
+        "question": "das Bilderbuch / Judith",
+        "options": [],
+        "reponse": "Das ist Judiths Bilderbuch."
+      },
+      {
+        "question": "die Fußballschuhe / Tobias",
+        "options": [],
+        "reponse": "Das ist Tobias' Fußballschuhe."
+      },
+      {
+        "question": "der Lippenstift / Susi",
+        "options": [],
+        "reponse": "Das ist Susis Lippenstift."
+      },
+      {
+        "question": "das Kleid / Judith",
+        "options": [],
+        "reponse": "Das ist Judiths Kleid."
+      },
+      {
+        "question": "die Schultasche / Rudi",
+        "options": [],
+        "reponse": "Das ist Rudis Schultasche."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "genitiv-03",
+    "theme": "Genitiv",
+    "sous_theme": "Genitiv bilden",
+    "niveau": "B1",
+    "type": "ordre",
+    "consigne": "Bilden Sie den Genitiv.",
+    "questions": [
+      {
+        "question": "die Seite / das Buch",
+        "options": [],
+        "reponse": "die Seite des Buches"
+      },
+      {
+        "question": "der Lehrer / die Kinder",
+        "options": [],
+        "reponse": "der Lehrer der Kinder"
+      },
+      {
+        "question": "die Probleme / Eltern",
+        "options": [],
+        "reponse": "die Probleme der Eltern"
+      },
+      {
+        "question": "der Geburtstag / eine Freundin",
+        "options": [],
+        "reponse": "der Geburtstag einer Freundin"
+      },
+      {
+        "question": "der Ring / die Königin",
+        "options": [],
+        "reponse": "der Ring der Königin"
+      },
+      {
+        "question": "ein Assistent / die Ärztin",
+        "options": [],
+        "reponse": "ein Assistent der Ärztin"
+      },
+      {
+        "question": "die Wünsche / Kunden",
+        "options": [],
+        "reponse": "die Wünsche der Kunden"
+      },
+      {
+        "question": "das Jahr / die Hochzeit",
+        "options": [],
+        "reponse": "das Jahr der Hochzeit"
+      },
+      {
+        "question": "die Größe / der Garten",
+        "options": [],
+        "reponse": "die Größe des Gartens"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "genitiv-04",
+    "theme": "Genitiv",
+    "sous_theme": "von + Dativ zu Genitiv",
+    "niveau": "B1",
+    "type": "ordre",
+    "consigne": "NEID. Namen und Nomen. Schreiben Sie die Sätze neu und benutzen Sie den Genitiv.",
+    "questions": [
+      {
+        "question": "Der Freund von meiner Freundin hat schöne Augen.",
+        "options": [],
+        "reponse": "Der Freund meiner Freundin hat schöne Augen."
+      },
+      {
+        "question": "Die Tasche von Luisa ist schöner als meine.",
+        "options": [],
+        "reponse": "Luisas Tasche ist schöner als meine."
+      },
+      {
+        "question": "Das Auto von Kathrin ist schneller als mein Motorrad.",
+        "options": [],
+        "reponse": "Kathrins Auto ist schneller als mein Motorrad."
+      },
+      {
+        "question": "Die Geschwister von meinen Freunden sind netter als meine.",
+        "options": [],
+        "reponse": "Die Geschwister meiner Freunde sind netter als meine."
+      },
+      {
+        "question": "Das Haus von meiner Schwester war teurer als unseres.",
+        "options": [],
+        "reponse": "Das Haus meiner Schwester war teurer als unseres."
+      },
+      {
+        "question": "Die Tür von ihrem Haus ist moderner als die Tür von unserem Haus.",
+        "options": [],
+        "reponse": "Die Tür ihres Hauses ist moderner als die Tür unseres Hauses."
+      },
+      {
+        "question": "Das Gehalt von meinem Schwager ist viel besser als das von meinem Mann.",
+        "options": [],
+        "reponse": "Das Gehalt meines Schwagers ist viel besser als das meines Mannes."
+      },
+      {
+        "question": "Die Äpfel von meinen Nachbarn sind röter als unsere.",
+        "options": [],
+        "reponse": "Die Äpfel meiner Nachbarn sind röter als unsere."
+      },
+      {
+        "question": "Aber die Probleme von meinen Nachbarn sind größer als meine.",
+        "options": [],
+        "reponse": "Aber die Probleme meiner Nachbarn sind größer als meine."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "genitiv-05",
+    "theme": "Genitiv",
+    "sous_theme": "Fragen mit Genitiv beantworten",
+    "niveau": "B1",
+    "type": "ordre",
+    "consigne": "Antworten Sie auf die Fragen wie im Beispiel. Benutzen Sie den Genitiv.",
+    "questions": [
+      {
+        "question": "Arri? Wer ist das? (die Frau / mein Freund)",
+        "options": [],
+        "reponse": "Das ist die Frau meines Freundes."
+      },
+      {
+        "question": "Wer ist diese Frau? (die Besitzerin / das Geschäft)",
+        "options": [],
+        "reponse": "Das ist die Besitzerin des Geschäfts."
+      },
+      {
+        "question": "Bruno? Wer ist das? (der Mann / Madeleine)",
+        "options": [],
+        "reponse": "Das ist der Mann Madeleines."
+      },
+      {
+        "question": "Wer ist dieser Mann? (der Autor / der Bestseller)",
+        "options": [],
+        "reponse": "Das ist der Autor des Bestsellers."
+      },
+      {
+        "question": "Wer ist Frau Blume? (die Lehrerin / mein Kind)",
+        "options": [],
+        "reponse": "Das ist die Lehrerin meines Kindes."
+      },
+      {
+        "question": "Anja? Wer ist das? (die Freundin / Leonie)",
+        "options": [],
+        "reponse": "Das ist die Freundin Leonies."
+      },
+      {
+        "question": "Wer ist Herr Pilz? (der Kollege / mein Mann)",
+        "options": [],
+        "reponse": "Das ist der Kollege meines Mannes."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "genitiv-06",
+    "theme": "Genitiv",
+    "sous_theme": "Wörter mit Genitiv erklären",
+    "niveau": "B1",
+    "type": "ordre",
+    "consigne": "Was ist das? Erklären Sie die Wörter mit dem Genitiv.",
+    "questions": [
+      {
+        "question": "die Wassertemperatur",
+        "options": [],
+        "reponse": "Das ist die Temperatur des Wassers."
+      },
+      {
+        "question": "der Bankdirektor",
+        "options": [],
+        "reponse": "Das ist der Direktor der Bank."
+      },
+      {
+        "question": "das Tischbein",
+        "options": [],
+        "reponse": "Das ist das Bein des Tisches."
+      },
+      {
+        "question": "das Kinderzimmer",
+        "options": [],
+        "reponse": "Das ist das Zimmer der Kinder."
+      },
+      {
+        "question": "der Autofahrer",
+        "options": [],
+        "reponse": "Das ist der Fahrer des Autos."
+      },
+      {
+        "question": "die Haustür",
+        "options": [],
+        "reponse": "Das ist die Tür des Hauses."
+      },
+      {
+        "question": "die Haarfarbe",
+        "options": [],
+        "reponse": "Das ist die Farbe des Haares."
+      },
+      {
+        "question": "das Reiseprogramm",
+        "options": [],
+        "reponse": "Das ist das Programm der Reise."
+      },
+      {
+        "question": "die Landesgrenze",
+        "options": [],
+        "reponse": "Das ist die Grenze des Landes."
+      },
+      {
+        "question": "die Chefsekretärin",
+        "options": [],
+        "reponse": "Das ist die Sekretärin des Chefs."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "genitiv-07",
+    "theme": "Genitiv",
+    "sous_theme": "Fragen mit Genitiv-Antworten",
+    "niveau": "B1",
+    "type": "ordre",
+    "consigne": "ALLES VERGESSEN? Antworten Sie auf die Fragen. Benutzen Sie den Genitiv.",
+    "questions": [
+      {
+        "question": "Weißt du, wie alt der Chef ist? (das Alter)",
+        "options": [],
+        "reponse": "Ich habe das Alter des Chefs vergessen."
+      },
+      {
+        "question": "Wisst ihr, wie viel die Schuhe gekostet haben? (der Preis)",
+        "options": [],
+        "reponse": "Wir haben den Preis der Schuhe vergessen."
+      },
+      {
+        "question": "Wissen Sie, wie lang der Fluss ist? (die Länge)",
+        "options": [],
+        "reponse": "Ich habe die Länge des Flusses vergessen."
+      },
+      {
+        "question": "Weißt du, wie der Film heißt? (der Titel)",
+        "options": [],
+        "reponse": "Ich habe den Titel des Films vergessen."
+      },
+      {
+        "question": "Wisst ihr, wo unser Lehrer wohnt? (die Adresse)",
+        "options": [],
+        "reponse": "Wir haben die Adresse unseres Lehrers vergessen."
+      },
+      {
+        "question": "Wissen Sie, wie groß der Schrank ist? (die Größe)",
+        "options": [],
+        "reponse": "Ich habe die Größe des Schranks vergessen."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "genitiv-08",
+    "theme": "Genitiv",
+    "sous_theme": "Kombinieren mit Genitiv",
+    "niveau": "B1",
+    "type": "associer",
+    "consigne": "Kombinieren Sie und schreiben Sie Sätze mit Genitiv.",
+    "questions": [
+      {
+        "question": "Zu Beginn",
+        "options": ["(der) Abend • war es ein bisschen langweilig.", "(der) Kurs • bekommen Sie ein Zertifikat.", "(die) Einwohner (Pl.) • haben vier oder mehr Kinder.", "(der) Bahnhof • gibt es viele Hotels.", "(das) Jahr • ist die Einkaufsstraße.", "(die) Stadt • ist für mich der Sommer."],
+        "reponse": "(der) Abend • war es ein bisschen langweilig."
+      },
+      {
+        "question": "Am Ende",
+        "options": ["(der) Kurs • bekommen Sie ein Zertifikat.", "(der) Abend • war es ein bisschen langweilig.", "(die) Einwohner (Pl.) • haben vier oder mehr Kinder.", "(der) Bahnhof • gibt es viele Hotels.", "(das) Jahr • ist die Einkaufsstraße.", "(die) Stadt • ist für mich der Sommer."],
+        "reponse": "(der) Kurs • bekommen Sie ein Zertifikat."
+      },
+      {
+        "question": "In der Mitte",
+        "options": ["(die) Stadt • ist die Einkaufsstraße.", "(der) Abend • war es ein bisschen langweilig.", "(der) Kurs • bekommen Sie ein Zertifikat.", "(die) Einwohner (Pl.) • haben vier oder mehr Kinder.", "(der) Bahnhof • gibt es viele Hotels.", "(das) Jahr • ist für mich der Sommer."],
+        "reponse": "(die) Stadt • ist die Einkaufsstraße."
+      },
+      {
+        "question": "Die beste Zeit",
+        "options": ["(das) Jahr • ist für mich der Sommer.", "(der) Abend • war es ein bisschen langweilig.", "(der) Kurs • bekommen Sie ein Zertifikat.", "(die) Einwohner (Pl.) • haben vier oder mehr Kinder.", "(der) Bahnhof • gibt es viele Hotels.", "(die) Stadt • ist die Einkaufsstraße."],
+        "reponse": "(das) Jahr • ist für mich der Sommer."
+      },
+      {
+        "question": "Fünf Prozent",
+        "options": ["(die) Einwohner (Pl.) • haben vier oder mehr Kinder.", "(der) Abend • war es ein bisschen langweilig.", "(der) Kurs • bekommen Sie ein Zertifikat.", "(der) Bahnhof • gibt es viele Hotels.", "(das) Jahr • ist für mich der Sommer.", "(die) Stadt • ist die Einkaufsstraße."],
+        "reponse": "(die) Einwohner (Pl.) • haben vier oder mehr Kinder."
+      },
+      {
+        "question": "In der Nähe",
+        "options": ["(der) Bahnhof • gibt es viele Hotels.", "(der) Abend • war es ein bisschen langweilig.", "(der) Kurs • bekommen Sie ein Zertifikat.", "(die) Einwohner (Pl.) • haben vier oder mehr Kinder.", "(das) Jahr • ist für mich der Sommer.", "(die) Stadt • ist die Einkaufsstraße."],
+        "reponse": "(der) Bahnhof • gibt es viele Hotels."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "n-dekl-01",
+    "theme": "n-Deklination",
+    "sous_theme": "Nationalitäten - Akkusativ",
+    "niveau": "B1",
+    "type": "ordre",
+    "consigne": "NATIONALITÄTEN. Unterstreichen Sie die Nomen der n-Deklination und ergänzen Sie die Akkusativformen.",
+    "questions": [
+      {
+        "question": "der Türke,",
+        "options": [],
+        "reponse": "den Türken"
+      },
+      {
+        "question": "der Schwede,",
+        "options": [],
+        "reponse": "den Schweden"
+      },
+      {
+        "question": "der Japaner,",
+        "options": [],
+        "reponse": "den Japaner"
+      },
+      {
+        "question": "der Finne,",
+        "options": [],
+        "reponse": "den Finnen"
+      },
+      {
+        "question": "der Chinese,",
+        "options": [],
+        "reponse": "den Chinesen"
+      },
+      {
+        "question": "der Italiener,",
+        "options": [],
+        "reponse": "den Italiener"
+      },
+      {
+        "question": "der Spanier,",
+        "options": [],
+        "reponse": "den Spanier"
+      },
+      {
+        "question": "der Portugiese,",
+        "options": [],
+        "reponse": "den Portugiesen"
+      },
+      {
+        "question": "der Grieche,",
+        "options": [],
+        "reponse": "den Griechen"
+      },
+      {
+        "question": "der Ire,",
+        "options": [],
+        "reponse": "den Iren"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "n-dekl-02",
+    "theme": "n-Deklination",
+    "sous_theme": "Tiere - Akkusativ",
+    "niveau": "B1",
+    "type": "ordre",
+    "consigne": "TIERE. Unterstreichen Sie die Nomen der n-Deklination und ergänzen Sie die Akkusativformen.",
+    "questions": [
+      {
+        "question": "der Löwe,",
+        "options": [],
+        "reponse": "den Löwen"
+      },
+      {
+        "question": "der Bär,",
+        "options": [],
+        "reponse": "den Bären"
+      },
+      {
+        "question": "die Katze,",
+        "options": [],
+        "reponse": "die Katze (keine n-Deklination)"
+      },
+      {
+        "question": "der Rabe,",
+        "options": [],
+        "reponse": "den Raben"
+      },
+      {
+        "question": "der Tiger,",
+        "options": [],
+        "reponse": "den Tiger (keine n-Deklination)"
+      },
+      {
+        "question": "der Affe,",
+        "options": [],
+        "reponse": "den Affen"
+      },
+      {
+        "question": "der Ochse,",
+        "options": [],
+        "reponse": "den Ochsen"
+      },
+      {
+        "question": "der Hund,",
+        "options": [],
+        "reponse": "den Hund (keine n-Deklination)"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "n-dekl-03",
+    "theme": "n-Deklination",
+    "sous_theme": "Nomen der n-Deklination erkennen",
+    "niveau": "B1",
+    "type": "completer",
+    "consigne": "Unterstreichen Sie die Nomen der n-Deklination.",
+    "questions": [
+      {
+        "question": "der Schüler – der Student",
+        "options": ["der Student (n-Deklination)", "der Schüler (n-Deklination)", "beide", "keines"],
+        "reponse": "der Student (n-Deklination)"
+      },
+      {
+        "question": "der Christ – der Moslem",
+        "options": ["der Christ (n-Deklination)", "der Moslem (n-Deklination)", "beide", "keines"],
+        "reponse": "der Christ (n-Deklination)"
+      },
+      {
+        "question": "der Automat – die Maschine",
+        "options": ["der Automat (n-Deklination)", "die Maschine (n-Deklination)", "beide", "keines"],
+        "reponse": "der Automat (n-Deklination)"
+      },
+      {
+        "question": "der Präsident – der Kanzler",
+        "options": ["der Präsident (n-Deklination)", "der Kanzler (n-Deklination)", "beide", "keines"],
+        "reponse": "der Präsident (n-Deklination)"
+      },
+      {
+        "question": "der Mann – der Herr",
+        "options": ["der Herr (n-Deklination)", "der Mann (n-Deklination)", "beide", "keines"],
+        "reponse": "der Herr (n-Deklination)"
+      },
+      {
+        "question": "der Kollege – der Freund",
+        "options": ["der Kollege (n-Deklination)", "der Freund (n-Deklination)", "beide", "keines"],
+        "reponse": "der Kollege (n-Deklination)"
+      },
+      {
+        "question": "der König – der Prinz",
+        "options": ["der Prinz (n-Deklination)", "der König (n-Deklination)", "beide", "keines"],
+        "reponse": "der Prinz (n-Deklination)"
+      },
+      {
+        "question": "der Arbeiter – der Bauer",
+        "options": ["der Bauer (n-Deklination)", "der Arbeiter (n-Deklination)", "beide", "keines"],
+        "reponse": "der Bauer (n-Deklination)"
+      },
+      {
+        "question": "der Engländer – der Brite",
+        "options": ["beide (n-Deklination)", "der Engländer (n-Deklination)", "der Brite (n-Deklination)", "keines"],
+        "reponse": "beide (n-Deklination)"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "n-dekl-04",
+    "theme": "n-Deklination",
+    "sous_theme": "Singular oder Plural?",
+    "niveau": "B1",
+    "type": "completer",
+    "consigne": "Singular oder Plural? Notieren Sie hinter den Nomen.",
+    "questions": [
+      {
+        "question": "Kennst du meine Kollegen?",
+        "options": ["Plural", "Singular"],
+        "reponse": "Plural"
+      },
+      {
+        "question": "Ja, den Kollegen aus der Buchhaltung kenne ich.",
+        "options": ["Singular", "Plural"],
+        "reponse": "Singular"
+      },
+      {
+        "question": "Hast du mit den Nachbarn gesprochen?",
+        "options": ["Plural", "Singular"],
+        "reponse": "Plural"
+      },
+      {
+        "question": "Nein, ich habe mir nur von meinem Nachbarn oben Kaffee geliehen.",
+        "options": ["Singular", "Plural"],
+        "reponse": "Singular"
+      },
+      {
+        "question": "Hast du mit dem Menschen da gesprochen?",
+        "options": ["Singular", "Plural"],
+        "reponse": "Singular"
+      },
+      {
+        "question": "Welchen Menschen meinst du?",
+        "options": ["Singular", "Plural"],
+        "reponse": "Singular"
+      },
+      {
+        "question": "Ich kann das Problem des Touristen verstehen.",
+        "options": ["Singular", "Plural"],
+        "reponse": "Singular"
+      },
+      {
+        "question": "Ich denke, die Touristen haben keine Probleme, nur Spaß.",
+        "options": ["Plural", "Singular"],
+        "reponse": "Plural"
+      },
+      {
+        "question": "Gehen wir heute zum Griechen essen?",
+        "options": ["Singular", "Plural"],
+        "reponse": "Singular"
+      },
+      {
+        "question": "Im Studierendenwohnheim bei mir wohnen Griechen, die oft kochen.",
+        "options": ["Plural", "Singular"],
+        "reponse": "Plural"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "n-dekl-05",
+    "theme": "n-Deklination",
+    "sous_theme": "Sätze schreiben",
+    "niveau": "B1",
+    "type": "ordre",
+    "consigne": "Schreiben Sie Sätze. Achtung: Nicht alle Nomen sind n-Deklination.",
+    "questions": [
+      {
+        "question": "Die Dame • küssen • der Herr • .",
+        "options": [],
+        "reponse": "Die Dame küsst den Herrn."
+      },
+      {
+        "question": "Der Herr • küssen • die Dame • .",
+        "options": [],
+        "reponse": "Der Herr küsst die Dame."
+      },
+      {
+        "question": "Der Tourist • fotografieren • der Löwe • .",
+        "options": [],
+        "reponse": "Der Tourist fotografiert den Löwen."
+      },
+      {
+        "question": "Der Prinz • gratulieren • die Königin • .",
+        "options": [],
+        "reponse": "Der Prinz gratuliert der Königin."
+      },
+      {
+        "question": "Die Königin • danken • der Prinz • .",
+        "options": [],
+        "reponse": "Die Königin dankt dem Prinzen."
+      },
+      {
+        "question": "Der Franzose • einladen • der Chinese • .",
+        "options": [],
+        "reponse": "Der Franzose lädt den Chinesen ein."
+      },
+      {
+        "question": "Der Nachbar • füttern • der Hund • .",
+        "options": [],
+        "reponse": "Der Nachbar füttert den Hund."
+      },
+      {
+        "question": "Der Hund • suchen • der Hase • .",
+        "options": [],
+        "reponse": "Der Hund sucht den Hasen."
+      },
+      {
+        "question": "Der Lieferant • bringen • der Neffe • ein Elefant • .",
+        "options": [],
+        "reponse": "Der Lieferant bringt dem Neffen einen Elefanten."
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "n-dekl-06",
+    "theme": "n-Deklination",
+    "sous_theme": "Eine ungewöhnliche Bestellung",
+    "niveau": "B1",
+    "type": "completer",
+    "consigne": "EINE UNGEWÖHNLICHE BESTELLUNG. Ergänzen Sie -(e)n (wenn nötig).",
+    "questions": [
+      {
+        "question": "An Herr___ Müller",
+        "options": ["Herrn", "Herr", "Herrs", "Herren"],
+        "reponse": "Herrn"
+      },
+      {
+        "question": "Sehr geehrter Herr___ Müller,",
+        "options": ["Herr", "Herrn", "Herrs", "Herren"],
+        "reponse": "Herr"
+      },
+      {
+        "question": "vielen Dank für Ihren Brief. Ich habe wirklich einen Elefant___ bei Ihnen bestellt.",
+        "options": ["Elefanten", "Elefant", "Elefanten", "Elefants"],
+        "reponse": "Elefanten"
+      },
+      {
+        "question": "Ich kann mir vorstellen, dass es nicht leicht ist, einen Lieferant___ zu finden.",
+        "options": ["Lieferanten", "Lieferant", "Lieferants", "Lieferanten"],
+        "reponse": "Lieferanten"
+      },
+      {
+        "question": "Aber ich bin Ihr Kunde___, und wenn Sie Elefant___ anbieten,",
+        "options": ["Kunde / Elefanten", "Kunde / Elefanten", "Kunden / Elefanten", "Kunden / Elefant"],
+        "reponse": "Kunde / Elefanten"
+      },
+      {
+        "question": "dann müssen Sie auch einen Weg finden, mir das Tier zu schicken, damit Ihre Kunde___ zufrieden sind.",
+        "options": ["Kunden", "Kunde", "Kundes", "Kunden"],
+        "reponse": "Kunden"
+      },
+      {
+        "question": "Also, ich erwarte die Lieferung mit meinem Elefant___ in den nächsten Tagen.",
+        "options": ["Elefanten", "Elefant", "Elefanten", "Elefants"],
+        "reponse": "Elefanten"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "adj-nom-01",
+    "theme": "Adjektive als Nomen",
+    "sous_theme": "Personen - Tabelle ergänzen",
+    "niveau": "B1",
+    "type": "completer",
+    "consigne": "Ergänzen Sie die Adjektive als Nomen und die Artikel.",
+    "questions": [
+      {
+        "question": "angestellt (Mann)",
+        "options": ["ein Angestellter", "ein Angestellte", "der Angestellte", "einen Angestellten"],
+        "reponse": "ein Angestellter"
+      },
+      {
+        "question": "verwandt (Mann)",
+        "options": ["ein Verwandter", "ein Verwandte", "der Verwandte", "einen Verwandten"],
+        "reponse": "ein Verwandter"
+      },
+      {
+        "question": "bekannt (Frau)",
+        "options": ["eine Bekannte", "ein Bekannter", "die Bekannte", "einer Bekannten"],
+        "reponse": "eine Bekannte"
+      },
+      {
+        "question": "arbeitslos (Mann)",
+        "options": ["ein Arbeitsloser", "ein Arbeitslose", "der Arbeitslose", "einen Arbeitslosen"],
+        "reponse": "ein Arbeitsloser"
+      },
+      {
+        "question": "erwachsen (Mann/Frau)",
+        "options": ["der/die Erwachsene", "ein Erwachsener", "eine Erwachsene", "einen Erwachsenen"],
+        "reponse": "der/die Erwachsene"
+      },
+      {
+        "question": "krank (Mann)",
+        "options": ["ein Kranker", "ein Kranke", "der Kranke", "einen Kranken"],
+        "reponse": "ein Kranker"
+      },
+      {
+        "question": "verlobt (Frau)",
+        "options": ["eine Verlobte", "ein Verlobter", "die Verlobte", "einer Verlobten"],
+        "reponse": "eine Verlobte"
+      },
+      {
+        "question": "deutsch (Mann)",
+        "options": ["ein Deutscher", "ein Deutsche", "der Deutsche", "einen Deutschen"],
+        "reponse": "ein Deutscher"
+      },
+      {
+        "question": "verrückt (Frau)",
+        "options": ["eine Verrückte", "ein Verrückter", "die Verrückte", "einer Verrückten"],
+        "reponse": "eine Verrückte"
+      },
+      {
+        "question": "selbstständig (Mann)",
+        "options": ["ein Selbstständiger", "ein Selbstständige", "der Selbstständige", "einen Selbstständigen"],
+        "reponse": "ein Selbstständiger"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "adj-nom-02",
+    "theme": "Adjektive als Nomen",
+    "sous_theme": "Endungen ergänzen",
+    "niveau": "B1",
+    "type": "completer",
+    "consigne": "Ergänzen Sie die Endungen.",
+    "questions": [
+      {
+        "question": "der Bekannte: Das ist ein Bekannt___. Siehst du den Bekannt___? Was ist mit dem Bekannt___? Da steht das Auto des Bekannt___",
+        "options": ["er / en / en / en", "e / en / en / en", "er / er / en / en", "e / e / en / en"],
+        "reponse": "er / en / en / en"
+      },
+      {
+        "question": "der Deutsche: Da sitzt ein Deutsch___. Kennst du den Deutsch___? Gehst du zu dem Deutsch___? Ich bin der Nachbar des Deutsch___",
+        "options": ["er / en / en / en", "e / en / en / en", "er / er / en / en", "e / e / en / en"],
+        "reponse": "er / en / en / en"
+      },
+      {
+        "question": "die Deutsche: Meine Freundin ist eine Deutsch___. Wie findest du die Deutsch___? Arbeitest du mit der Deutsch___? Ja, ich bin die Kollegin der Deutsch___",
+        "options": ["e / e / en / en", "e / en / en / en", "er / en / en / en", "e / e / e / en"],
+        "reponse": "e / e / en / en"
+      },
+      {
+        "question": "der Verrückte: Er ist wirklich ein Verrückt___. Magst du den Verrückt___? Ich wohne bei dem Verrückt___. Ich bin der Untermieter des Verrückt___",
+        "options": ["er / en / en / en", "e / en / en / en", "er / er / en / en", "e / e / en / en"],
+        "reponse": "er / en / en / en"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "adj-nom-03",
+    "theme": "Adjektive als Nomen",
+    "sous_theme": "Selbstständig sein",
+    "niveau": "B1",
+    "type": "completer",
+    "consigne": "SELBSTSTÄNDIG SEIN. Ergänzen Sie die Endungen.",
+    "questions": [
+      {
+        "question": "Selbstständig___ müssen nicht nur täglich mehr als acht Stunden arbeiten,",
+        "options": ["Selbstständige", "Selbstständiger", "Selbstständigen", "Selbstständiges"],
+        "reponse": "Selbstständige"
+      },
+      {
+        "question": "sondern sie machen meistens auch weniger Urlaub als ein Angestellt___",
+        "options": ["Angestellter", "Angestellte", "Angestellten", "Angestelltes"],
+        "reponse": "Angestellter"
+      },
+      {
+        "question": "Die Arbeitszeit eines Angestellt___ ist klar,",
+        "options": ["Angestellten", "Angestellter", "Angestellte", "Angestelltes"],
+        "reponse": "Angestellten"
+      },
+      {
+        "question": "aber ein Angestellt___ muss machen, was sein Vorgesetzt___ sagt.",
+        "options": ["Angestellter / Vorgesetzter", "Angestellte / Vorgesetzte", "Angestellten / Vorgesetzten", "Angestellter / Vorgesetzten"],
+        "reponse": "Angestellter / Vorgesetzter"
+      },
+      {
+        "question": "Der Selbstständig___ ist sein eigener Vorgesetzt___",
+        "options": ["Selbstständige / Vorgesetzter", "Selbstständiger / Vorgesetzter", "Selbstständigen / Vorgesetzten", "Selbstständiger / Vorgesetzten"],
+        "reponse": "Selbstständiger / Vorgesetzter"
+      },
+      {
+        "question": "Ein Arbeitslos___ hat viel Freizeit, aber weniger Geld als ein Angestellt___",
+        "options": ["Arbeitsloser / Angestellter", "Arbeitslose / Angestellte", "Arbeitslosen / Angestellten", "Arbeitsloser / Angestellte"],
+        "reponse": "Arbeitsloser / Angestellter"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "adj-nom-04",
+    "theme": "Adjektive als Nomen",
+    "sous_theme": "Normales Nomen oder Adjektiv als Nomen?",
+    "niveau": "B1",
+    "type": "completer",
+    "consigne": "Ergänzen Sie die Endungen. Normales Nomen oder Adjektiv als Nomen?",
+    "questions": [
+      {
+        "question": "Was ist der Unterschied zwischen einem Freund und einem Bekannt___?",
+        "options": ["Bekannten", "Bekannter", "Bekannte", "Bekanntes"],
+        "reponse": "Bekannten"
+      },
+      {
+        "question": "einem Arbeiter und einem Angestellt___?",
+        "options": ["Angestellten", "Angestellter", "Angestellte", "Angestelltes"],
+        "reponse": "Angestellten"
+      },
+      {
+        "question": "einem Bruder und einem Verwandt___?",
+        "options": ["Verwandten", "Verwandter", "Verwandte", "Verwandtes"],
+        "reponse": "Verwandten"
+      },
+      {
+        "question": "einem Krank___ und einem Arzt?",
+        "options": ["Kranken", "Kranker", "Kranke", "Krankes"],
+        "reponse": "Kranken"
+      },
+      {
+        "question": "einem Deutsch___ und einem Schweizer?",
+        "options": ["Deutschen", "Deutscher", "Deutsche", "Deutsches"],
+        "reponse": "Deutschen"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "adj-nom-05",
+    "theme": "Adjektive als Nomen",
+    "sous_theme": "Eine Nachricht - Endungen",
+    "niveau": "B1",
+    "type": "completer",
+    "consigne": "EINE NACHRICHT. Ergänzen Sie die Endungen.",
+    "questions": [
+      {
+        "question": "Gestern war ich auf der Hochzeit einer Bekannt___",
+        "options": ["Bekannten", "Bekannter", "Bekannte", "Bekanntes"],
+        "reponse": "Bekannten"
+      },
+      {
+        "question": "Stell dir vor, sie hatte ihren Ex-Verlobt___ eingeladen!",
+        "options": ["Ex-Verlobten", "Ex-Verlobter", "Ex-Verlobte", "Ex-Verlobtes"],
+        "reponse": "Ex-Verlobten"
+      },
+      {
+        "question": "Ich denke wirklich, sie ist eine Verrückt___",
+        "options": ["Verrückte", "Verrückter", "Verrückten", "Verrücktes"],
+        "reponse": "Verrückte"
+      },
+      {
+        "question": "Die anderen Gäste waren vor allem Verwandt___, auch viele Kinder und Jugendlich___",
+        "options": ["Verwandte / Jugendliche", "Verwandten / Jugendlichen", "Verwandter / Jugendlicher", "Verwandtes / Jugendliches"],
+        "reponse": "Verwandte / Jugendliche"
+      },
+      {
+        "question": "Ich habe zum Glück einen alten Bekannt___ getroffen,",
+        "options": ["Bekannten", "Bekannter", "Bekannte", "Bekanntes"],
+        "reponse": "Bekannten"
+      },
+      {
+        "question": "deshalb habe ich nicht die ganze Zeit alleine da gesessen wie eine Dumm___",
+        "options": ["Dumme", "Dummer", "Dummen", "Dummes"],
+        "reponse": "Dumme"
+      },
+      {
+        "question": "Würdest du deine Ex-Verlobt___ zu deiner Hochzeit einladen?",
+        "options": ["Ex-Verlobte", "Ex-Verlobter", "Ex-Verlobten", "Ex-Verlobtes"],
+        "reponse": "Ex-Verlobte"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "adj-nom-neut-01",
+    "theme": "Adjektive als Nomen",
+    "sous_theme": "Neutrale Nomen - Beim Essen",
+    "niveau": "B1",
+    "type": "completer",
+    "consigne": "BEIM ESSEN. Ergänzen Sie den Dialog mit den passenden Nomen (Adjektive als neutrale Nomen).",
+    "questions": [
+      {
+        "question": "Was ist das ___ (rot) da im Essen?",
+        "options": ["Rote", "Roter", "Roten", "Rotes"],
+        "reponse": "Rote"
+      },
+      {
+        "question": "Da ist nichts ___ (rot)!",
+        "options": ["Rotes", "Rote", "Roter", "Roten"],
+        "reponse": "Rotes"
+      },
+      {
+        "question": "Doch, da ist etwas ___ (rot).",
+        "options": ["Rotes", "Rote", "Roter", "Roten"],
+        "reponse": "Rotes"
+      },
+      {
+        "question": "Da ist viel ___ (grün) und das ist Spinat!",
+        "options": ["Grünes", "Grüne", "Grüner", "Grünen"],
+        "reponse": "Grünes"
+      },
+      {
+        "question": "Ich sehe viel ___ (grün) und auch ein bisschen ___ (rot).",
+        "options": ["Grünes / Rotes", "Grüne / Rote", "Grüner / Roter", "Grünen / Roten"],
+        "reponse": "Grünes / Rotes"
+      },
+      {
+        "question": "Das ___ (wenig) ist ein bisschen Paprika!",
+        "options": ["Wenige", "Weniges", "Weniger", "Wenigen"],
+        "reponse": "Wenige"
+      },
+      {
+        "question": "Kannst du vielleicht auch mal etwas ___ (positiv) über das Essen sagen?",
+        "options": ["Positives", "Positive", "Positiver", "Positiven"],
+        "reponse": "Positives"
+      },
+      {
+        "question": "Das ___ (grün) und ___ (rot) hier ist das ___ (gut im Superlativ), was ich je in meinem Leben gegessen habe.",
+        "options": ["Grüne / Rote / Beste", "Grünes / Rotes / Beste", "Grüner / Roter / Bester", "Grünen / Roten / Besten"],
+        "reponse": "Grüne / Rote / Beste"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "adj-nom-neut-02",
+    "theme": "Adjektive als Nomen",
+    "sous_theme": "Im Geschäft",
+    "niveau": "B1",
+    "type": "completer",
+    "consigne": "IM GESCHÄFT. Ergänzen Sie den Dialog mit den passenden Nomen.",
+    "questions": [
+      {
+        "question": "Möchten Sie etwas ___ (teuer) oder etwas ___ (billig)?",
+        "options": ["Teures / Billiges", "Teure / Billige", "Teurer / Billiger", "Teuren / Billigen"],
+        "reponse": "Teures / Billiges"
+      },
+      {
+        "question": "Nein, ich möchte nichts ___ (billig), aber auch nichts sehr ___ (teuer).",
+        "options": ["Billiges / Teures", "Billige / Teure", "Billiger / Teurer", "Billigen / Teuren"],
+        "reponse": "Billiges / Teures"
+      },
+      {
+        "question": "Lieber etwas ___ (schön) oder etwas ___ (praktisch)?",
+        "options": ["Schönes / Praktisches", "Schöne / Praktische", "Schöner / Praktischer", "Schönen / Praktischen"],
+        "reponse": "Schönes / Praktisches"
+      },
+      {
+        "question": "Nichts ___ (praktisch), lieber etwas ___ (schön).",
+        "options": ["Praktisches / Schönes", "Praktische / Schöne", "Praktischer / Schöner", "Praktischen / Schönen"],
+        "reponse": "Praktisches / Schönes"
+      },
+      {
+        "question": "Vielleicht etwas ___ (dekorativ)?",
+        "options": ["Dekoratives", "Dekorative", "Dekorativer", "Dekorativen"],
+        "reponse": "Dekoratives"
+      },
+      {
+        "question": "Welche Farbe denn? Etwas ___ (rot) sieht immer gut aus.",
+        "options": ["Rotes", "Rote", "Roter", "Roten"],
+        "reponse": "Rotes"
+      },
+      {
+        "question": "Nein, lieber etwas ___ (grün). In ihrem Zimmer ist wenig ___ (rot), aber viel ___ (gelb) und ___ (grün).",
+        "options": ["Grünes / Rotes / Gelbes / Grünes", "Grüne / Rote / Gelbe / Grüne", "Grüner / Roter / Gelber / Grüner", "Grünen / Roten / Gelben / Grünen"],
+        "reponse": "Grünes / Rotes / Gelbes / Grünes"
+      },
+      {
+        "question": "Nein, nichts ___ (lebendig).",
+        "options": ["Lebendiges", "Lebendige", "Lebendiger", "Lebendigen"],
+        "reponse": "Lebendiges"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "adj-nom-neut-03",
+    "theme": "Adjektive als Nomen",
+    "sous_theme": "Träume - Adjektiv oder Nomen?",
+    "niveau": "B1",
+    "type": "completer",
+    "consigne": "TRÄUME. Adjektiv oder Nomen? Ergänzen Sie die Adjektive mit der richtigen Endung.",
+    "questions": [
+      {
+        "question": "Viele Menschen träumen davon, etwas ___ (groß) zu erreichen,",
+        "options": ["Großes", "Große", "Großer", "Großen"],
+        "reponse": "Großes"
+      },
+      {
+        "question": "wie zum Beispiel ein ___ (berühmt) Sänger oder eine ___ (groß) Sängerin zu werden.",
+        "options": ["berühmter / große", "berühmte / großer", "berühmtes / großes", "berühmten / großen"],
+        "reponse": "berühmter / große"
+      },
+      {
+        "question": "Beim Träumen ist es das ___ (wichtig im Superlativ), sich nichts ___ (unrealistisch) zu wünschen.",
+        "options": ["Wichtigste / Unrealistisches", "Wichtigste / Unrealistische", "Wichtiger / Unrealistischer", "Wichtigen / Unrealistischen"],
+        "reponse": "Wichtigste / Unrealistisches"
+      },
+      {
+        "question": "Dann bedeutet Träumen viel ___ (gut).",
+        "options": ["Gutes", "Gute", "Guter", "Guten"],
+        "reponse": "Gutes"
+      },
+      {
+        "question": "Es gibt uns ein ___ (wichtig) Ziel im Leben und es ist eine ___ (stark) Motivation.",
+        "options": ["wichtiges / starke", "wichtige / starkes", "wichtiger / starker", "wichtigen / starken"],
+        "reponse": "wichtiges / starke"
+      },
+      {
+        "question": "Ich wünsche ___ (schön) Träume! Und alles ___ (gut)!",
+        "options": ["schöne / Gute", "schönes / Gutes", "schöner / Guter", "schönen / Guten"],
+        "reponse": "schöne / Gute"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  }
+]

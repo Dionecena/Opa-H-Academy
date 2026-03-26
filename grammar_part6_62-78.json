@@ -1,0 +1,1870 @@
+[
+  {
+    "id": "praet-sein-01",
+    "theme": "Präteritum",
+    "sous_theme": "sein und haben - Tim war krank",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "TIM WAR KRANK. Ergänzen Sie sein und haben im Präteritum.",
+    "questions": [
+      {
+        "question": "Denis: Hallo Tim, wo ___ (sein) du denn gestern?",
+        "options": ["warst", "war", "waren", "wart"],
+        "reponse": "warst"
+      },
+      {
+        "question": "Tim: Ich ___ (sein) zu Hause. Ich ___ (sein) krank.",
+        "options": ["war / war", "warst / warst", "waren / waren", "war / warst"],
+        "reponse": "war / war"
+      },
+      {
+        "question": "Denis: Wir ___ (haben) gestern einen neuen Lehrer. Wir ___ (haben) viel Spaß.",
+        "options": ["hatten / hatten", "hatte / hatte", "haben / haben", "hattet / hattet"],
+        "reponse": "hatten / hatten"
+      },
+      {
+        "question": "Tim: Und ___ (haben) ihr gestern Nachmittag Sport?",
+        "options": ["hattet", "hatten", "hatte", "habt"],
+        "reponse": "hattet"
+      },
+      {
+        "question": "Denis: Ja, wir ___ (sein) auf dem Sportplatz.",
+        "options": ["waren", "war", "warst", "wart"],
+        "reponse": "waren"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "praet-sein-02",
+    "theme": "Präteritum",
+    "sous_theme": "sein und haben - Kombinieren",
+    "niveau": "A1",
+    "type": "associer",
+    "consigne": "Was passt zusammen? Kombinieren Sie und schreiben Sie Sätze.",
+    "questions": [
+      {
+        "question": "Ich",
+        "options": ["war müde.", "war in Paris.", "hatte keine Zeit.", "waren im Büro.", "hattest Probleme.", "hatten eine Party."],
+        "reponse": "war müde."
+      },
+      {
+        "question": "Thomas",
+        "options": ["war in Paris.", "war müde.", "hatte keine Zeit.", "waren im Büro.", "hattest Probleme.", "hatten eine Party."],
+        "reponse": "war in Paris."
+      },
+      {
+        "question": "Herr und Frau Müller",
+        "options": ["waren im Büro.", "war in Paris.", "war müde.", "hatte keine Zeit.", "hattest Probleme.", "hatten eine Party."],
+        "reponse": "waren im Büro."
+      },
+      {
+        "question": "Ihr",
+        "options": ["hattest Probleme.", "hatten eine Party.", "waren im Büro.", "war müde.", "hatte keine Zeit.", "war in Paris."],
+        "reponse": "hattest Probleme."
+      },
+      {
+        "question": "Du",
+        "options": ["hatte keine Zeit.", "hattest Probleme.", "waren im Büro.", "war müde.", "war in Paris.", "hatten eine Party."],
+        "reponse": "hatte keine Zeit."
+      },
+      {
+        "question": "Meine Schwester und ich",
+        "options": ["hatten eine Party.", "hattest Probleme.", "hatte keine Zeit.", "waren im Büro.", "war müde.", "war in Paris."],
+        "reponse": "hatten eine Party."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "praet-sein-03",
+    "theme": "Präteritum",
+    "sous_theme": "sein und haben - Gespräch im Büro",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "GESPRÄCH IM BÜRO. Ergänzen Sie sein und haben im Präteritum.",
+    "questions": [
+      {
+        "question": "Anna: Hallo, Emma. Wo ___ (sein) du denn am Freitag? ___ (haben) du Urlaub?",
+        "options": ["warst / Hattest", "war / Hatte", "waren / Hatten", "wart / Hattet"],
+        "reponse": "warst / Hattest"
+      },
+      {
+        "question": "Emma: Nein, ich ___ (sein) zu Hause. Meine beiden Kinder ___ (sein) krank.",
+        "options": ["war / waren", "warst / warst", "waren / waren", "war / war"],
+        "reponse": "war / waren"
+      },
+      {
+        "question": "Emma: Sie ___ (haben) Fieber.",
+        "options": ["hatten", "hatte", "haben", "hattet"],
+        "reponse": "hatten"
+      },
+      {
+        "question": "Anna: ___ (sein) ihr beim Arzt?",
+        "options": ["Wart", "War", "Waren", "Waren"],
+        "reponse": "Wart"
+      },
+      {
+        "question": "Emma: Ja, wir ___ (sein) beim Arzt. Und du? ___ (haben) ihr viel Arbeit im Büro?",
+        "options": ["waren / Hattet", "war / Hatte", "waren / Hatten", "wart / Hattet"],
+        "reponse": "waren / Hattet"
+      },
+      {
+        "question": "Anna: Nein, ich ___ (haben) nicht so viel Arbeit. Die Chefin ___ (sein) nicht da.",
+        "options": ["hatte / war", "hatten / waren", "hatte / warst", "hattet / wart"],
+        "reponse": "hatte / war"
+      },
+      {
+        "question": "Anna: Sie ___ (haben) einen Termin in Rom. Wir ___ (haben) also keinen Stress.",
+        "options": ["hatte / hatten", "hatten / hatten", "hatte / hatte", "hattet / hattet"],
+        "reponse": "hatte / hatten"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "praet-sein-04",
+    "theme": "Präteritum",
+    "sous_theme": "Präsens oder Präteritum - Liebesgeschichte",
+    "niveau": "A1",
+    "type": "choisir",
+    "consigne": "EINE LIEBESGESCHICHTE. Präsens oder Präteritum? Streichen Sie durch.",
+    "questions": [
+      {
+        "question": "Früher war/bin ich Single.",
+        "options": ["war", "bin"],
+        "reponse": "war"
+      },
+      {
+        "question": "Ich habe/hatte oft eine Freundin, aber nie lange.",
+        "options": ["hatte", "habe"],
+        "reponse": "hatte"
+      },
+      {
+        "question": "Jetzt war/bin ich verheiratet.",
+        "options": ["bin", "war"],
+        "reponse": "bin"
+      },
+      {
+        "question": "Meine Frau ist/war aus Korea.",
+        "options": ["ist", "war"],
+        "reponse": "ist"
+      },
+      {
+        "question": "In Korea ist/war sie Assistentin.",
+        "options": ["war", "ist"],
+        "reponse": "war"
+      },
+      {
+        "question": "Wir sind/waren 2019 zusammen in Seoul.",
+        "options": ["waren", "sind"],
+        "reponse": "waren"
+      },
+      {
+        "question": "Wir sind/waren dann sofort gute Freunde.",
+        "options": ["waren", "sind"],
+        "reponse": "waren"
+      },
+      {
+        "question": "Heute sind/waren wir ein Paar.",
+        "options": ["sind", "waren"],
+        "reponse": "sind"
+      },
+      {
+        "question": "Wir sind/waren sehr glücklich!",
+        "options": ["sind", "waren"],
+        "reponse": "sind"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "praet-sein-05",
+    "theme": "Präteritum",
+    "sous_theme": "sein und haben - Urlaub in München",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "URLAUB IN MÜNCHEN. Ergänzen Sie sein oder haben im Präteritum (12x) oder Präsens (2x).",
+    "questions": [
+      {
+        "question": "Gestern ___ wir in München.",
+        "options": ["waren", "sind", "war", "ist"],
+        "reponse": "waren"
+      },
+      {
+        "question": "Zum Glück ___ das Wetter schön.",
+        "options": ["war", "ist", "waren", "sind"],
+        "reponse": "war"
+      },
+      {
+        "question": "Das war gut, denn wir ___ auch keinen Schirm.",
+        "options": ["hatten", "haben", "hatte", "hat"],
+        "reponse": "hatten"
+      },
+      {
+        "question": "Ich ___ bei meiner Tante.",
+        "options": ["war", "bin", "waren", "sind"],
+        "reponse": "war"
+      },
+      {
+        "question": "Sie ___ einen Tag Urlaub – extra für mich!",
+        "options": ["hatte", "hat", "hatten", "haben"],
+        "reponse": "hatte"
+      },
+      {
+        "question": "Mein Freund ___ im Museum. Er sagt, es ___ sehr interessant da.",
+        "options": ["war / war", "ist / ist", "war / ist", "ist / war"],
+        "reponse": "war / war"
+      },
+      {
+        "question": "Aber ich ___ gestern keine Zeit für das Museum.",
+        "options": ["hatte", "habe", "hat", "hatten"],
+        "reponse": "hatte"
+      },
+      {
+        "question": "Am Abend ___ wir wieder zusammen. Mein Freund ___ müde. Ich ___ wach.",
+        "options": ["waren / war / war", "sind / ist / bin", "waren / war / war", "war / warst / warst"],
+        "reponse": "waren / war / war"
+      },
+      {
+        "question": "Am Dienstag ___ wir wieder in Frankfurt, und heute, am Mittwoch ___ ich wieder im Büro.",
+        "options": ["waren / bin", "sind / bin", "waren / war", "war / war"],
+        "reponse": "waren / bin"
+      },
+      {
+        "question": "Aber ich ___ keine Lust.",
+        "options": ["habe", "hatte", "haben", "hatten"],
+        "reponse": "habe"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "praet-sein-06",
+    "theme": "Präteritum",
+    "sous_theme": "Was war früher? - Sätze schreiben",
+    "niveau": "A1",
+    "type": "ordre",
+    "consigne": "WAS WAR FRÜHER? Schreiben Sie Sätze im Präteritum.",
+    "questions": [
+      {
+        "question": "Heute habe ich vier Kinder.",
+        "options": [],
+        "reponse": "Früher hatte ich keine Kinder."
+      },
+      {
+        "question": "Heute bin ich alt.",
+        "options": [],
+        "reponse": "Früher war ich jung."
+      },
+      {
+        "question": "Heute haben wir Autos.",
+        "options": [],
+        "reponse": "Früher hatten wir keine Autos."
+      },
+      {
+        "question": "Heute haben wir viel Geld.",
+        "options": [],
+        "reponse": "Früher hatten wir wenig Geld."
+      },
+      {
+        "question": "Heute hat er ein Haus.",
+        "options": [],
+        "reponse": "Früher hatte er kein Haus."
+      },
+      {
+        "question": "Heute haben die Kinder einen Computer.",
+        "options": [],
+        "reponse": "Früher hatten die Kinder keinen Computer."
+      },
+      {
+        "question": "Heute sind viele Leute allein.",
+        "options": [],
+        "reponse": "Früher waren viele Leute nicht allein."
+      },
+      {
+        "question": "Heute hast du eine Familie.",
+        "options": [],
+        "reponse": "Früher hattest du keine Familie."
+      },
+      {
+        "question": "Heute habt ihr Geld.",
+        "options": [],
+        "reponse": "Früher hattet ihr kein Geld."
+      },
+      {
+        "question": "Heute ist sie glücklich.",
+        "options": [],
+        "reponse": "Früher war sie nicht glücklich."
+      },
+      {
+        "question": "Heute habe ich keine Zeit.",
+        "options": [],
+        "reponse": "Früher hatte ich Zeit."
+      },
+      {
+        "question": "Heute ist der Mann alt.",
+        "options": [],
+        "reponse": "Früher war der Mann jung."
+      },
+      {
+        "question": "Heute hat man ein Handy.",
+        "options": [],
+        "reponse": "Früher hatte man kein Handy."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "praet-sein-07",
+    "theme": "Präteritum",
+    "sous_theme": "Waren Sie auf dem Meeting?",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "WAREN SIE AUF DEM MEETING? Ergänzen Sie.",
+    "questions": [
+      {
+        "question": "Herr Meier: Guten Morgen, Herr Müller. ___ Sie gestern auf dem Meeting?",
+        "options": ["Waren", "Wart", "War", "Waren"],
+        "reponse": "Waren"
+      },
+      {
+        "question": "Herr Müller: Ja, es ___ sehr interessant. Wir ___ eine lange Diskussion.",
+        "options": ["war / hatten", "ist / haben", "war / hatte", "waren / hatten"],
+        "reponse": "war / hatten"
+      },
+      {
+        "question": "Wo ___ Sie denn gestern?",
+        "options": ["waren", "war", "wart", "warst"],
+        "reponse": "waren"
+      },
+      {
+        "question": "Herr Meier: Ich ___ auf Geschäftsreise. Ich ___ ein Meeting in London.",
+        "options": ["war / hatte", "warst / hattest", "waren / hatten", "war / hatte"],
+        "reponse": "war / hatte"
+      },
+      {
+        "question": "Die Kollegen ___ dort Probleme.",
+        "options": ["hatten", "hatte", "haben", "hat"],
+        "reponse": "hatten"
+      },
+      {
+        "question": "Herr Müller: ___ Ihr Meeting gut?",
+        "options": ["War", "Waren", "Wart", "Ist"],
+        "reponse": "War"
+      },
+      {
+        "question": "Herr Meier: Ja, wir ___ viele Diskussionen, aber am Ende ___ alle zufrieden.",
+        "options": ["hatten / waren", "hatten / war", "hatte / war", "haben / sind"],
+        "reponse": "hatten / waren"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "perf-hab-01",
+    "theme": "Perfekt",
+    "sous_theme": "mit haben - Das Wochenende",
+    "niveau": "A1",
+    "type": "ordre",
+    "consigne": "DAS WOCHENENDE. Schreiben Sie Sätze.",
+    "questions": [
+      {
+        "question": "Er • am letzten Wochenende • hat • gearbeitet • .",
+        "options": [],
+        "reponse": "Er hat am letzten Wochenende gearbeitet."
+      },
+      {
+        "question": "gesehen • Ich • habe • meine Freunde nicht • .",
+        "options": [],
+        "reponse": "Ich habe meine Freunde nicht gesehen."
+      },
+      {
+        "question": "Was • du • getrunken • in der Bar • hast • ?",
+        "options": [],
+        "reponse": "Was hast du in der Bar getrunken?"
+      },
+      {
+        "question": "ihr • Habt • gelesen • schon den Post im Internet • ?",
+        "options": [],
+        "reponse": "Habt ihr schon den Post im Internet gelesen?"
+      },
+      {
+        "question": "verstanden • die Durchsage • Sie • Haben • ?",
+        "options": [],
+        "reponse": "Haben Sie die Durchsage verstanden?"
+      },
+      {
+        "question": "Wir • gefragt • haben • ihn viele Dinge • .",
+        "options": [],
+        "reponse": "Wir haben ihn viele Dinge gefragt."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "perf-hab-02",
+    "theme": "Perfekt",
+    "sous_theme": "mit haben - Infinitiv finden",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "DAS WAR GESTERN. Wie heißt der Infinitiv? Schreiben Sie.",
+    "questions": [
+      {
+        "question": "Er hat ein Mineralwasser getrunken.",
+        "options": ["trinken", "tranken", "getrunken", "trank"],
+        "reponse": "trinken"
+      },
+      {
+        "question": "Er hat gestern mit Freunden Deutsch gelernt.",
+        "options": ["lernen", "lernte", "gelernt", "lernten"],
+        "reponse": "lernen"
+      },
+      {
+        "question": "Sie hat gestern die Zeitung gelesen.",
+        "options": ["lesen", "las", "gelesen", "lasen"],
+        "reponse": "lesen"
+      },
+      {
+        "question": "Sie haben zusammen einen Film gesehen.",
+        "options": ["sehen", "sah", "gesehen", "sahen"],
+        "reponse": "sehen"
+      },
+      {
+        "question": "Dann haben sie im Restaurant gegessen und getrunken.",
+        "options": ["essen / trinken", "aßen / tranken", "gegessen / getrunken", "aß / trank"],
+        "reponse": "essen / trinken"
+      },
+      {
+        "question": "Da haben sie Freunde aus dem Sprachkurs getroffen.",
+        "options": ["treffen", "trafen", "getroffen", "traf"],
+        "reponse": "treffen"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "perf-hab-03",
+    "theme": "Perfekt",
+    "sous_theme": "mit haben - Antworten schreiben",
+    "niveau": "A1",
+    "type": "ordre",
+    "consigne": "Schreiben Sie Antworten.",
+    "questions": [
+      {
+        "question": "Was haben Sie gegessen?",
+        "options": [],
+        "reponse": "Ich habe eine Pizza gegessen."
+      },
+      {
+        "question": "Was haben Sie getrunken?",
+        "options": [],
+        "reponse": "Ich habe einen Kaffee getrunken."
+      },
+      {
+        "question": "Was haben Sie gelesen?",
+        "options": [],
+        "reponse": "Ich habe eine Zeitung gelesen."
+      },
+      {
+        "question": "Was haben Sie gesehen?",
+        "options": [],
+        "reponse": "Ich habe einen Film gesehen."
+      },
+      {
+        "question": "Was haben Sie nicht verstanden?",
+        "options": [],
+        "reponse": "Ich habe das Wort nicht verstanden."
+      },
+      {
+        "question": "Was haben Sie gespielt?",
+        "options": [],
+        "reponse": "Ich habe Fußball gespielt."
+      },
+      {
+        "question": "Was haben Sie gehört?",
+        "options": [],
+        "reponse": "Ich habe Musik gehört."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "perf-hab-04",
+    "theme": "Perfekt",
+    "sous_theme": "mit haben - Das Treffen",
+    "niveau": "A1",
+    "type": "ordre",
+    "consigne": "DAS TREFFEN. Schreiben Sie eine Geschichte im Perfekt.",
+    "questions": [
+      {
+        "question": "lesen: sie • eine Anzeige im Internet",
+        "options": [],
+        "reponse": "Sie hat eine Anzeige im Internet gelesen."
+      },
+      {
+        "question": "telefonieren: sie • mit dem Mann",
+        "options": [],
+        "reponse": "Sie hat mit dem Mann telefoniert."
+      },
+      {
+        "question": "treffen: sie • am Samstag • den Mann",
+        "options": [],
+        "reponse": "Sie hat am Samstag den Mann getroffen."
+      },
+      {
+        "question": "trinken: sie (Pl.) • in einem Restaurant einen Wein",
+        "options": [],
+        "reponse": "Sie haben in einem Restaurant einen Wein getrunken."
+      },
+      {
+        "question": "essen: sie (Pl.) • viel",
+        "options": [],
+        "reponse": "Sie haben viel gegessen."
+      },
+      {
+        "question": "bezahlen: sie • alles",
+        "options": [],
+        "reponse": "Sie hat alles bezahlt."
+      },
+      {
+        "question": "sagen: er • „Danke schön\"",
+        "options": [],
+        "reponse": "Er hat „Danke schön\" gesagt."
+      },
+      {
+        "question": "wiedersehen: sie • ihn • nicht",
+        "options": [],
+        "reponse": "Sie hat ihn nicht wiedergesehen."
+      },
+      {
+        "question": "lesen: sie • keine Anzeigen im Internet mehr",
+        "options": [],
+        "reponse": "Sie hat keine Anzeigen im Internet mehr gelesen."
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "perf-hab-05",
+    "theme": "Perfekt",
+    "sous_theme": "mit haben - Brief ergänzen",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "Ergänzen Sie die Verben im Perfekt.",
+    "questions": [
+      {
+        "question": "Ich habe gestern einen tollen Mann ___ (kennenlernen).",
+        "options": ["kennengelernt", "kennen gelernt", "kannte", "kennen"],
+        "reponse": "kennengelernt"
+      },
+      {
+        "question": "Ich habe ihn in der Kantine ___ (treffen).",
+        "options": ["getroffen", "traf", "treffen", "getreffen"],
+        "reponse": "getroffen"
+      },
+      {
+        "question": "Wir haben zusammen ___ (essen) und dann haben wir noch einen Kaffee ___ (trinken).",
+        "options": ["gegessen / getrunken", "aßen / tranken", "gegessen / getrunke", "aß / trank"],
+        "reponse": "gegessen / getrunken"
+      },
+      {
+        "question": "Er hat mich ___ (fragen): „Was machen Sie morgen Abend?\"",
+        "options": ["gefragt", "fragte", "fragen", "gefrägt"],
+        "reponse": "gefragt"
+      },
+      {
+        "question": "Ich habe die ganze Nacht nicht ___ (schlafen).",
+        "options": ["geschlafen", "schlief", "schlafen", "geschlafen"],
+        "reponse": "geschlafen"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "perf-sein-01",
+    "theme": "Perfekt",
+    "sous_theme": "mit sein - Besuch aus London",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "BESUCH AUS LONDON. Perfekt mit sein. Ergänzen Sie.",
+    "questions": [
+      {
+        "question": "Vor einer Woche ___ ein Kollege aus London gekommen.",
+        "options": ["ist", "hat", "war", "ist"],
+        "reponse": "ist"
+      },
+      {
+        "question": "Sein Flugzeug ___ um 16 Uhr gelandet und ich ___ pünktlich da gewesen.",
+        "options": ["ist / bin", "hat / habe", "ist / habe", "hat / bin"],
+        "reponse": "ist / bin"
+      },
+      {
+        "question": "Wir ___ zusammen mit dem Taxi in die Firma gefahren.",
+        "options": ["sind", "haben", "waren", "sind"],
+        "reponse": "sind"
+      },
+      {
+        "question": "Dann ___ etwas passiert: Der Kollege ___ auf der Treppe gefallen.",
+        "options": ["ist / ist", "hat / hat", "ist / hat", "hat / ist"],
+        "reponse": "ist / ist"
+      },
+      {
+        "question": "Wir ___ dann gleich mit dem Taxi weiter ins Krankenhaus gefahren.",
+        "options": ["sind", "haben", "waren", "sind"],
+        "reponse": "sind"
+      },
+      {
+        "question": "Da ___ wir drei Stunden geblieben und wir ___ erst nach 18 Uhr zurück in die Firma gekommen.",
+        "options": ["sind / sind", "haben / haben", "sind / haben", "haben / sind"],
+        "reponse": "sind / sind"
+      },
+      {
+        "question": "Deshalb ___ der Kollege noch einen Tag länger hier geblieben.",
+        "options": ["ist", "hat", "war", "ist"],
+        "reponse": "ist"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "perf-sein-02",
+    "theme": "Perfekt",
+    "sous_theme": "mit sein - Urlaub in Rom",
+    "niveau": "A1",
+    "type": "associer",
+    "consigne": "URLAUB IN ROM. Was passt zusammen? Kombinieren Sie.",
+    "questions": [
+      {
+        "question": "Ich bin",
+        "options": ["nach Rom geflogen.", "im Hotel gewohnt.", "Spaghetti gegessen.", "das Collosseum gesehen."],
+        "reponse": "nach Rom geflogen."
+      },
+      {
+        "question": "Ich habe",
+        "options": ["im Hotel gewohnt.", "nach Rom geflogen.", "Spaghetti gegessen.", "das Collosseum gesehen."],
+        "reponse": "im Hotel gewohnt."
+      },
+      {
+        "question": "Ich habe",
+        "options": ["Spaghetti gegessen.", "nach Rom geflogen.", "im Hotel gewohnt.", "das Collosseum gesehen."],
+        "reponse": "Spaghetti gegessen."
+      },
+      {
+        "question": "Ich habe",
+        "options": ["das Collosseum gesehen.", "nach Rom geflogen.", "im Hotel gewohnt.", "Spaghetti gegessen."],
+        "reponse": "das Collosseum gesehen."
+      },
+      {
+        "question": "Ich bin",
+        "options": ["jeden Tag früh aufgestanden.", "im Vatikan gewesen.", "eine Woche geblieben.", "viel Spaß gehabt."],
+        "reponse": "jeden Tag früh aufgestanden."
+      },
+      {
+        "question": "Ich bin",
+        "options": ["im Vatikan gewesen.", "jeden Tag früh aufgestanden.", "eine Woche geblieben.", "viel Spaß gehabt."],
+        "reponse": "im Vatikan gewesen."
+      },
+      {
+        "question": "Ich bin",
+        "options": ["eine Woche geblieben.", "jeden Tag früh aufgestanden.", "im Vatikan gewesen.", "viel Spaß gehabt."],
+        "reponse": "eine Woche geblieben."
+      },
+      {
+        "question": "Ich habe",
+        "options": ["viel Spaß gehabt.", "jeden Tag früh aufgestanden.", "im Vatikan gewesen.", "eine Woche geblieben."],
+        "reponse": "viel Spaß gehabt."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "perf-sein-03",
+    "theme": "Perfekt",
+    "sous_theme": "sein oder haben - Letzte Woche",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "LETZTE WOCHE. Perfekt mit sein oder haben? Ergänzen Sie.",
+    "questions": [
+      {
+        "question": "Letzte Woche ___ ich um 8 Uhr ins Büro gekommen und ich ___ mit der Arbeit angefangen.",
+        "options": ["bin / habe", "habe / bin", "bin / bin", "habe / habe"],
+        "reponse": "bin / habe"
+      },
+      {
+        "question": "In der Mittagspause ___ ich zum Essen gegangen und ___ mit Kollegen gesprochen.",
+        "options": ["bin / habe", "habe / bin", "bin / bin", "habe / habe"],
+        "reponse": "bin / habe"
+      },
+      {
+        "question": "Am Nachmittag ___ ich zu einer Kundin gefahren. Ich ___ eine Stunde dort geblieben.",
+        "options": ["bin / bin", "habe / habe", "bin / habe", "habe / bin"],
+        "reponse": "bin / bin"
+      },
+      {
+        "question": "Dann ___ ich bis 18 Uhr im Büro gearbeitet.",
+        "options": ["habe", "bin", "hatte", "war"],
+        "reponse": "habe"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "perf-sein-04",
+    "theme": "Perfekt",
+    "sous_theme": "sein oder haben - Ein Drama",
+    "niveau": "A2",
+    "type": "completer",
+    "consigne": "EIN DRAMA. Sein oder haben? Ergänzen Sie.",
+    "questions": [
+      {
+        "question": "Gestern ___ etwas Dramatisches passiert.",
+        "options": ["ist", "hat", "war", "hatte"],
+        "reponse": "ist"
+      },
+      {
+        "question": "Ich ___ geduscht und gefrühstückt und dann ___ ich aus dem Haus gegangen.",
+        "options": ["habe / bin", "bin / habe", "habe / habe", "bin / bin"],
+        "reponse": "habe / bin"
+      },
+      {
+        "question": "Vor der Tür ___ ich gesehen: Ich ___ meinen Schlüssel im Haus vergessen!",
+        "options": ["habe / habe", "bin / bin", "habe / bin", "bin / habe"],
+        "reponse": "habe / habe"
+      },
+      {
+        "question": "Also ___ ich durch das Fenster ins Haus gestiegen.",
+        "options": ["bin", "habe", "ist", "hat"],
+        "reponse": "bin"
+      },
+      {
+        "question": "In dem Moment ___ ein Polizeiauto gekommen. Die Polizisten ___ mich im Fenster gesehen.",
+        "options": ["ist / haben", "hat / ist", "ist / ist", "hat / haben"],
+        "reponse": "ist / haben"
+      },
+      {
+        "question": "Ich ___ lange mit den Polizisten gesprochen und die Situation erklärt.",
+        "options": ["habe", "bin", "hatte", "war"],
+        "reponse": "habe"
+      },
+      {
+        "question": "Ein Polizist ___ dann die Tür geöffnet und ich ___ meinen Schlüssel geholt und ___ schnell zur Arbeit gefahren.",
+        "options": ["hat / habe / bin", "hat / habe / habe", "ist / habe / bin", "hat / habe / habe"],
+        "reponse": "hat / habe / bin"
+      },
+      {
+        "question": "Aber natürlich ___ ich zu spät gewesen.",
+        "options": ["bin", "habe", "war", "hatte"],
+        "reponse": "bin"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "perf-sein-05",
+    "theme": "Perfekt",
+    "sous_theme": "mit sein - Ankunft auf Hawaii",
+    "niveau": "A1",
+    "type": "ordre",
+    "consigne": "ANKUNFT AUF HAWAII. Schreiben Sie Sätze im Perfekt.",
+    "questions": [
+      {
+        "question": "machen: letztes Jahr • wir • drei Wochen Urlaub • auf Hawaii",
+        "options": [],
+        "reponse": "Letztes Jahr haben wir drei Wochen Urlaub auf Hawaii gemacht."
+      },
+      {
+        "question": "starten: das Flugzeug • um 8 Uhr • in Frankfurt",
+        "options": [],
+        "reponse": "Das Flugzeug ist um 8 Uhr in Frankfurt gestartet."
+      },
+      {
+        "question": "ankommen: wir • um 15 Uhr • in Honolulu",
+        "options": [],
+        "reponse": "Wir sind um 15 Uhr in Honolulu angekommen."
+      },
+      {
+        "question": "fahren: wir • gleich • ins Hotel",
+        "options": [],
+        "reponse": "Wir sind gleich ins Hotel gefahren."
+      },
+      {
+        "question": "auspacken: wir • unsere Koffer",
+        "options": [],
+        "reponse": "Wir haben unsere Koffer ausgepackt."
+      },
+      {
+        "question": "gehen: ins Bett • wir • dann",
+        "options": [],
+        "reponse": "Wir sind dann ins Bett gegangen."
+      },
+      {
+        "question": "aufwachen: wir • nach vier Stunden",
+        "options": [],
+        "reponse": "Wir sind nach vier Stunden aufgewacht."
+      },
+      {
+        "question": "besichtigen: wir • dann • die Stadt",
+        "options": [],
+        "reponse": "Wir haben dann die Stadt besichtigt."
+      },
+      {
+        "question": "essen: in einem schönen Restaurant • wir",
+        "options": [],
+        "reponse": "Wir haben in einem schönen Restaurant gegessen."
+      },
+      {
+        "question": "tanzen: danach • wir • in einem Club",
+        "options": [],
+        "reponse": "Danach haben wir in einem Club getanzt."
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "part-01",
+    "theme": "Partizip Perfekt",
+    "sous_theme": "Die Panne - Partizip ergänzen",
+    "niveau": "A2",
+    "type": "completer",
+    "consigne": "DIE PANNE. Ergänzen Sie das Partizip Perfekt.",
+    "questions": [
+      {
+        "question": "Letztes Jahr habe ich in Heidelberg ___ (studieren).",
+        "options": ["studiert", "studieren", "studierte", "studieren"],
+        "reponse": "studiert"
+      },
+      {
+        "question": "Unterwegs ist etwas ___ (explodieren).",
+        "options": ["explodiert", "explodieren", "explodierte", "explodieren"],
+        "reponse": "explodiert"
+      },
+      {
+        "question": "Wir haben ___ (diskutieren), was wir jetzt machen.",
+        "options": ["diskutiert", "diskutieren", "diskutierte", "diskutieren"],
+        "reponse": "diskutiert"
+      },
+      {
+        "question": "Ein Freund hat dann ___ (probieren), den Reifen zu wechseln.",
+        "options": ["probiert", "probieren", "probierte", "probieren"],
+        "reponse": "probiert"
+      },
+      {
+        "question": "Und er hat wirklich das Auto ___ (reparieren)!",
+        "options": ["repariert", "reparieren", "reparierte", "reparieren"],
+        "reponse": "repariert"
+      },
+      {
+        "question": "Wir haben ihm ___ (gratulieren) und sind gut in München angekommen.",
+        "options": ["gratuliert", "gratulieren", "gratulierte", "gratulieren"],
+        "reponse": "gratuliert"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "part-02",
+    "theme": "Partizip Perfekt",
+    "sous_theme": "Infinitiv finden",
+    "niveau": "A2",
+    "type": "completer",
+    "consigne": "Wie heißt der Infinitiv? Schreiben Sie.",
+    "questions": [
+      {
+        "question": "abgeholt",
+        "options": ["abholen", "abholte", "abgeholt", "abholten"],
+        "reponse": "abholen"
+      },
+      {
+        "question": "angekommen",
+        "options": ["ankommen", "ankam", "angekommen", "ankamen"],
+        "reponse": "ankommen"
+      },
+      {
+        "question": "angefangen",
+        "options": ["anfangen", "fing an", "angefangen", "fingen an"],
+        "reponse": "anfangen"
+      },
+      {
+        "question": "ausgestiegen",
+        "options": ["aussteigen", "stieg aus", "ausgestiegen", "stiegen aus"],
+        "reponse": "aussteigen"
+      },
+      {
+        "question": "bekommen",
+        "options": ["bekommen", "bekam", "bekamen", "bekomme"],
+        "reponse": "bekommen"
+      },
+      {
+        "question": "gedacht",
+        "options": ["denken", "dachte", "gedacht", "dachten"],
+        "reponse": "denken"
+      },
+      {
+        "question": "empfohlen",
+        "options": ["empfehlen", "empfahl", "empfahlen", "empfohlen"],
+        "reponse": "empfehlen"
+      },
+      {
+        "question": "gegessen",
+        "options": ["essen", "aß", "aßen", "gegessen"],
+        "reponse": "essen"
+      },
+      {
+        "question": "geflogen",
+        "options": ["fliegen", "flog", "flogen", "geflogen"],
+        "reponse": "fliegen"
+      },
+      {
+        "question": "gefallen",
+        "options": ["gefallen", "gefiel", "gefielen", "gefallen"],
+        "reponse": "gefallen"
+      },
+      {
+        "question": "gewonnen",
+        "options": ["gewinnen", "gewann", "gewannen", "gewonnen"],
+        "reponse": "gewinnen"
+      },
+      {
+        "question": "gekannt",
+        "options": ["kennen", "kannte", "kannten", "gekannt"],
+        "reponse": "kennen"
+      },
+      {
+        "question": "mitgebracht",
+        "options": ["mitbringen", "brachte mit", "mitgebracht", "brachten mit"],
+        "reponse": "mitbringen"
+      },
+      {
+        "question": "genommen",
+        "options": ["nehmen", "nahm", "nahmen", "genommen"],
+        "reponse": "nehmen"
+      },
+      {
+        "question": "geschlafen",
+        "options": ["schlafen", "schlief", "schliefen", "geschlafen"],
+        "reponse": "schlafen"
+      },
+      {
+        "question": "geschwommen",
+        "options": ["schwimmen", "schwamm", "schwammen", "geschwommen"],
+        "reponse": "schwimmen"
+      },
+      {
+        "question": "getrunken",
+        "options": ["trinken", "trank", "tranken", "getrunken"],
+        "reponse": "trinken"
+      },
+      {
+        "question": "verloren",
+        "options": ["verlieren", "verlor", "verloren", "verloren"],
+        "reponse": "verlieren"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "part-03",
+    "theme": "Partizip Perfekt",
+    "sous_theme": "Trennbar oder untrennbar",
+    "niveau": "A2",
+    "type": "completer",
+    "consigne": "Einfach, trennbar oder untrennbar? Ergänzen Sie den Beginn von den Partizipien.",
+    "questions": [
+      {
+        "question": "anrufen – ___gerufen",
+        "options": ["an", "ge", "gean", "ange"],
+        "reponse": "an"
+      },
+      {
+        "question": "einsteigen – ___gestiegen",
+        "options": ["ein", "ge", "geein", "einge"],
+        "reponse": "ein"
+      },
+      {
+        "question": "antworten – geantworted",
+        "options": ["ge", "an", "gean", "ange"],
+        "reponse": "ge"
+      },
+      {
+        "question": "aufmachen – ___gemacht",
+        "options": ["auf", "ge", "geauf", "aufge"],
+        "reponse": "auf"
+      },
+      {
+        "question": "bringen – ___bracht",
+        "options": ["ge", "brin", "gebrin", "gebracht"],
+        "reponse": "ge"
+      },
+      {
+        "question": "entschuldigen – ___entschuldigt",
+        "options": ["ge", "ent", "geent", "entge"],
+        "reponse": "ge"
+      },
+      {
+        "question": "versuchen – ___sucht",
+        "options": ["ge", "ver", "gever", "verge"],
+        "reponse": "ge"
+      },
+      {
+        "question": "waschen – ___gewaschen",
+        "options": ["ge", "wasch", "ge", "ge"],
+        "reponse": "ge"
+      },
+      {
+        "question": "geben – ___gegeben",
+        "options": ["ge", "gab", "ge", "ge"],
+        "reponse": "ge"
+      },
+      {
+        "question": "bestellen – ___bestellt",
+        "options": ["ge", "be", "gebe", "bege"],
+        "reponse": "ge"
+      },
+      {
+        "question": "erzählen – ___zählt",
+        "options": ["ge", "er", "geer", "erge"],
+        "reponse": "ge"
+      },
+      {
+        "question": "umziehen – ___gezogen",
+        "options": ["um", "ge", "geum", "umge"],
+        "reponse": "um"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "part-04",
+    "theme": "Partizip Perfekt",
+    "sous_theme": "Meine Reise nach China",
+    "niveau": "A2",
+    "type": "completer",
+    "consigne": "MEINE REISE NACH CHINA. Ergänzen Sie das Partizip Perfekt.",
+    "questions": [
+      {
+        "question": "2019 habe ich eine Reise nach China ___ (machen).",
+        "options": ["gemacht", "machen", "machte", "gemachen"],
+        "reponse": "gemacht"
+      },
+      {
+        "question": "Ich habe an einer Gruppenreise ___ (teilnehmen).",
+        "options": ["teilgenommen", "genommen", "teilgenommen", "teilgenommen"],
+        "reponse": "teilgenommen"
+      },
+      {
+        "question": "Wir sind elf Stunden nach Peking ___ (fliegen).",
+        "options": ["geflogen", "fliegen", "flogen", "gefliegen"],
+        "reponse": "geflogen"
+      },
+      {
+        "question": "Wir haben im Flugzeug schlecht ___ (schlafen).",
+        "options": ["geschlafen", "schlafen", "schliefen", "geschlafen"],
+        "reponse": "geschlafen"
+      },
+      {
+        "question": "und sind morgens um 7 Uhr ___ (ankommen).",
+        "options": ["angekommen", "kommen", "kamen", "gekommen"],
+        "reponse": "angekommen"
+      },
+      {
+        "question": "Dann sind wir mit dem Bus ins Hotel ___ (fahren).",
+        "options": ["gefahren", "fahren", "fuhren", "gefahren"],
+        "reponse": "gefahren"
+      },
+      {
+        "question": "und haben unsere Koffer ___ (auspacken).",
+        "options": ["ausgepackt", "packen", "packten", "gepackt"],
+        "reponse": "ausgepackt"
+      },
+      {
+        "question": "Aber eine Stunde später sind wir schon wieder ___ (losfahren).",
+        "options": ["losgefahren", "fahren", "fuhren", "gefahren"],
+        "reponse": "losgefahren"
+      },
+      {
+        "question": "und haben den Kaiserpalast ___ (besichtigen).",
+        "options": ["besichtigt", "besichtigen", "besichtigte", "besichtigen"],
+        "reponse": "besichtigt"
+      },
+      {
+        "question": "Wir sind zwei Stunden durch den Palast ___ (laufen).",
+        "options": ["gelaufen", "laufen", "liefen", "gelaufen"],
+        "reponse": "gelaufen"
+      },
+      {
+        "question": "Dann haben wir Pause ___ (machen) und zu Mittag ___ (essen).",
+        "options": ["gemacht / gegessen", "machen / essen", "machte / aß", "gemachen / geessen"],
+        "reponse": "gemacht / gegessen"
+      },
+      {
+        "question": "Aber danach sind wir auf den Tian-an-men-Platz ___ (gehen).",
+        "options": ["gegangen", "gehen", "gingen", "gegangen"],
+        "reponse": "gegangen"
+      },
+      {
+        "question": "und haben Mao ___ (ansehen).",
+        "options": ["angesehen", "ansehen", "ansahen", "angesehn"],
+        "reponse": "angesehen"
+      },
+      {
+        "question": "Vor dem Mausoleum haben wir 30 Minuten ___ (warten).",
+        "options": ["gewartet", "warten", "warteten", "gewartet"],
+        "reponse": "gewartet"
+      },
+      {
+        "question": "In der Nähe haben wir ein paar Souvenirs ___ (einkaufen).",
+        "options": ["eingekauft", "kaufen", "kauften", "gekauft"],
+        "reponse": "eingekauft"
+      },
+      {
+        "question": "und haben typisch chinesische Peking-Ente ___ (probieren).",
+        "options": ["probiert", "probieren", "probierte", "probiert"],
+        "reponse": "probiert"
+      },
+      {
+        "question": "Nach dem Abendessen haben wir dann noch eine Peking-Oper ___ (besuchen).",
+        "options": ["besucht", "besuchen", "besuchte", "besucht"],
+        "reponse": "besucht"
+      },
+      {
+        "question": "und ich bin fast ___ (einschlafen).",
+        "options": ["eingeschlafen", "schlafen", "schliefen", "geschlafen"],
+        "reponse": "eingeschlafen"
+      },
+      {
+        "question": "Ich weiß nicht mehr, wie ich ins Hotel ___ (zurückkommen) bin.",
+        "options": ["zurückgekommen", "kommen", "kam", "gekommen"],
+        "reponse": "zurückgekommen"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "praet-mod-01",
+    "theme": "Präteritum",
+    "sous_theme": "Modalverben - Meine Kindheit",
+    "niveau": "A2",
+    "type": "completer",
+    "consigne": "MEINE KINDHEIT. Ergänzen Sie die Modalverben im Präteritum.",
+    "questions": [
+      {
+        "question": "Jana: Hattest du eine schöne Kindheit? Annika: Ja, sehr. Ich ___ (müssen) nie im Haushalt helfen.",
+        "options": ["musste", "muss", "mussten", "musstest"],
+        "reponse": "musste"
+      },
+      {
+        "question": "und ___ (dürfen) so viel Eis essen, wie ich ___ (wollen).",
+        "options": ["durfte / wollte", "darf / will", "durften / wollten", "durftest / wolltest"],
+        "reponse": "durfte / wollte"
+      },
+      {
+        "question": "Und du, ___ (müssen) du im Haushalt helfen?",
+        "options": ["musstest", "musste", "mussten", "muss"],
+        "reponse": "musstest"
+      },
+      {
+        "question": "Jana: Ja, aber ich ___ (dürfen) auch oft machen, was ich ___ (wollen).",
+        "options": ["durfte / wollte", "darf / will", "durften / wollten", "durftest / wolltest"],
+        "reponse": "durfte / wollte"
+      },
+      {
+        "question": "___ (müssen) du viel für die Schule lernen?",
+        "options": ["Musstest", "Musste", "Mussten", "Muss"],
+        "reponse": "Musstest"
+      },
+      {
+        "question": "Annika: Ja, ich ___ (sollen) studieren, also ___ (sollen) ich viel lernen.",
+        "options": ["sollte / sollte", "soll / soll", "sollten / sollten", "solltest / solltest"],
+        "reponse": "sollte / sollte"
+      },
+      {
+        "question": "Mein Vater ___ (wollen) früher studieren, aber er ___ (dürfen) nicht.",
+        "options": ["wollte / durfte", "will / darf", "wollten / durften", "wolltest / durftest"],
+        "reponse": "wollte / durfte"
+      },
+      {
+        "question": "weil seine Eltern nicht genug Geld hatten. Also ___ (wollen) mein Vater, dass ich studiere.",
+        "options": ["wollte", "will", "wollten", "wolltest"],
+        "reponse": "wollte"
+      },
+      {
+        "question": "Aber ich ___ (wollen) immer nur spielen oder ins Schwimmbad gehen.",
+        "options": ["wollte", "will", "wollten", "wolltest"],
+        "reponse": "wollte"
+      },
+      {
+        "question": "Jana: Wann ___ (können) du schwimmen?",
+        "options": ["konntest", "konnte", "konnten", "kannst"],
+        "reponse": "konntest"
+      },
+      {
+        "question": "Annika: Ich ___ (können) erst mit sechs Jahren schwimmen.",
+        "options": ["konnte", "kann", "konnten", "kannst"],
+        "reponse": "konnte"
+      },
+      {
+        "question": "aber meine kleine Schwester ___ (können) schon mit drei Jahren schwimmen.",
+        "options": ["konnte", "kann", "konnten", "kannst"],
+        "reponse": "konnte"
+      },
+      {
+        "question": "Wir ___ (wollen) jeden Tag ins Schwimmbad gehen, aber wir ___ (dürfen) nur einmal pro Woche gehen.",
+        "options": ["wollten / durften", "wollen / dürfen", "wollte / durfte", "wolltest / durftest"],
+        "reponse": "wollten / durften"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "praet-mod-02",
+    "theme": "Präteritum",
+    "sous_theme": "Modalverben - Sprachenlernen für den Job",
+    "niveau": "A2",
+    "type": "completer",
+    "consigne": "SPRACHENLERNEN FÜR DEN JOB. Welches Modalverb ist richtig? Schreiben Sie in der richtigen Form.",
+    "questions": [
+      {
+        "question": "Letztes Jahr ___ (können/wollen) ich in der Exportabteilung arbeiten, aber ich ___ (dürfen/müssen) nicht.",
+        "options": ["wollte / durfte", "konnte / musste", "wollte / musste", "konnte / durfte"],
+        "reponse": "wollte / durfte"
+      },
+      {
+        "question": "weil ich kein Französisch ___ (wollen/können).",
+        "options": ["konnte", "wollte", "konnte", "wollte"],
+        "reponse": "konnte"
+      },
+      {
+        "question": "Wir arbeiten nämlich mit Frankreich zusammen. Deshalb ___ (müssen/können) ich Französisch lernen.",
+        "options": ["musste", "konnte", "musste", "konnte"],
+        "reponse": "musste"
+      },
+      {
+        "question": "Zuerst habe ich zwei Mal pro Woche in der Firma gelernt. Nach zwei Monaten ___ (dürfen/können) ich noch nicht viel Französisch.",
+        "options": ["konnte", "durfte", "konnte", "durfte"],
+        "reponse": "konnte"
+      },
+      {
+        "question": "Also ___ (können/müssen) ich einen Sprachkurs in Frankreich machen.",
+        "options": ["musste", "konnte", "musste", "konnte"],
+        "reponse": "musste"
+      },
+      {
+        "question": "Ich musste zwei Wochen Urlaub nehmen, dann ___ (wollen/können) ich nach Paris fahren.",
+        "options": ["konnte", "wollte", "konnte", "wollte"],
+        "reponse": "konnte"
+      },
+      {
+        "question": "Im Sprachkurs ___ (dürfen/müssen) ich jeden Tag Hausaufgaben machen.",
+        "options": ["musste", "durfte", "musste", "durfte"],
+        "reponse": "musste"
+      },
+      {
+        "question": "Ich ___ (müssen/wollen) gern alle Sehenswürdigkeiten in und um Paris besichtigen.",
+        "options": ["wollte", "musste", "wollte", "musste"],
+        "reponse": "wollte"
+      },
+      {
+        "question": "aber das ___ (können/müssen) ich nicht, weil ich nicht genug Zeit hatte.",
+        "options": ["konnte", "musste", "konnte", "musste"],
+        "reponse": "konnte"
+      },
+      {
+        "question": "Nach zwei Wochen ___ (dürfen/können) ich viel sprechen und verstehen.",
+        "options": ["konnte", "durfte", "konnte", "durfte"],
+        "reponse": "konnte"
+      },
+      {
+        "question": "und ich ___ (dürfen/müssen) dann auch in der Exportabteilung arbeiten.",
+        "options": ["durfte", "musste", "durfte", "musste"],
+        "reponse": "durfte"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "praet-mod-03",
+    "theme": "Präteritum",
+    "sous_theme": "Modalverben - Gegenteil",
+    "niveau": "A2",
+    "type": "ordre",
+    "consigne": "MICHAEL UND SEIN FREUND. Ergänzen Sie im Präteritum mit dem Gegenteil.",
+    "questions": [
+      {
+        "question": "Jetzt, mit 65, musst du nicht mehr arbeiten. Aber vor drei Monaten musstest du noch arbeiten.",
+        "options": [],
+        "reponse": "Aber vor drei Monaten musstest du noch arbeiten."
+      },
+      {
+        "question": "Du kannst jetzt jeden Tag lang schlafen. Aber früher ...",
+        "options": [],
+        "reponse": "Aber früher konntest du nicht jeden Tag lang schlafen."
+      },
+      {
+        "question": "Meine jüngste Enkelin kann jetzt, mit sechs, schon lesen. Aber letztes Jahr, mit fünf Jahren, ...",
+        "options": [],
+        "reponse": "Aber letztes Jahr, mit fünf Jahren, konnte sie noch nicht lesen."
+      },
+      {
+        "question": "Jetzt ist meine älteste Enkelin schon 21 und kann Auto fahren. Aber vor drei Jahren ...",
+        "options": [],
+        "reponse": "Aber vor drei Jahren konnte sie noch nicht Auto fahren."
+      },
+      {
+        "question": "Und mein Enkel darf jetzt, mit 18 Jahren, heiraten. Letztes Jahr ...",
+        "options": [],
+        "reponse": "Letztes Jahr durfte er noch nicht heiraten."
+      },
+      {
+        "question": "Heute möchte ich gar nicht mehr rauchen. Aber früher ...",
+        "options": [],
+        "reponse": "Aber früher wollte ich rauchen."
+      },
+      {
+        "question": "Seit 2007 dürfen die Gäste im Restaurant nicht mehr rauchen. Aber bis 2006 ...",
+        "options": [],
+        "reponse": "Aber bis 2006 durften die Gäste im Restaurant rauchen."
+      },
+      {
+        "question": "Jetzt, mit 65, willst du viel Schokolade essen. Und früher ...",
+        "options": [],
+        "reponse": "Und früher wolltest du nicht so viel Schokolade essen."
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "praet-mod-04",
+    "theme": "Präteritum",
+    "sous_theme": "Modalverben - Präsens oder Präteritum",
+    "niveau": "A2",
+    "type": "choisir",
+    "consigne": "Präsens oder Präteritum? Streichen Sie durch.",
+    "questions": [
+      {
+        "question": "Lionel ist jetzt 2 Jahre alt und kann/konnte jetzt sprechen.",
+        "options": ["kann", "konnte"],
+        "reponse": "kann"
+      },
+      {
+        "question": "Vor einem Jahr kann/konnte er noch nicht sprechen.",
+        "options": ["konnte", "kann"],
+        "reponse": "konnte"
+      },
+      {
+        "question": "Er hat oft geweint, wenn er etwas haben will/wollte.",
+        "options": ["wollte", "will"],
+        "reponse": "wollte"
+      },
+      {
+        "question": "Wenn er jetzt etwas will/wollte, sagt er das Wort.",
+        "options": ["will", "wollte"],
+        "reponse": "will"
+      },
+      {
+        "question": "Lionel kann/konnte mit eineinhalb Jahren in die Kita gehen.",
+        "options": ["konnte", "kann"],
+        "reponse": "konnte"
+      },
+      {
+        "question": "Da muss/musste er immer alleine essen.",
+        "options": ["musste", "muss"],
+        "reponse": "musste"
+      },
+      {
+        "question": "Lionel möchte/wollte jetzt schon in die Schule gehen.",
+        "options": ["möchte", "wollte"],
+        "reponse": "möchte"
+      },
+      {
+        "question": "Aber er muss/musste noch warten.",
+        "options": ["muss", "musste"],
+        "reponse": "muss"
+      },
+      {
+        "question": "In Deutschland können/konnten Kinder erst mit 6 Jahren in die Schule gehen.",
+        "options": ["können", "konnten"],
+        "reponse": "können"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "zeit-01",
+    "theme": "Zeitengebrauch",
+    "sous_theme": "Zeit erkennen - Meine Kindheit",
+    "niveau": "A2",
+    "type": "identifier",
+    "consigne": "MEINE KINDHEIT. Welche Zeit steht in den Sätzen? Präsens, Perfekt oder Präteritum?",
+    "questions": [
+      {
+        "question": "Ich habe zwei Geschwister.",
+        "options": ["Präsens", "Perfekt", "Präteritum"],
+        "reponse": "Präsens"
+      },
+      {
+        "question": "Ich war nie im Kindergarten.",
+        "options": ["Präteritum", "Präsens", "Perfekt"],
+        "reponse": "Präteritum"
+      },
+      {
+        "question": "Ich hatte oft Streit mit meiner großen Schwester.",
+        "options": ["Präteritum", "Präsens", "Perfekt"],
+        "reponse": "Präteritum"
+      },
+      {
+        "question": "Ich bin gerne in die Schule gegangen.",
+        "options": ["Perfekt", "Präsens", "Präteritum"],
+        "reponse": "Perfekt"
+      },
+      {
+        "question": "denn da war es nicht so langweilig wie zu Hause.",
+        "options": ["Präteritum", "Präsens", "Perfekt"],
+        "reponse": "Präteritum"
+      },
+      {
+        "question": "Mit sieben Jahren konnte ich lesen und schreiben.",
+        "options": ["Präteritum", "Präsens", "Perfekt"],
+        "reponse": "Präteritum"
+      },
+      {
+        "question": "und von da an habe ich immer viel gelesen.",
+        "options": ["Perfekt", "Präsens", "Präteritum"],
+        "reponse": "Perfekt"
+      },
+      {
+        "question": "Ich habe auch mit meinen Freunden gespielt.",
+        "options": ["Perfekt", "Präsens", "Präteritum"],
+        "reponse": "Perfekt"
+      },
+      {
+        "question": "aber ich habe nicht so gerne Sport gemacht.",
+        "options": ["Perfekt", "Präsens", "Präteritum"],
+        "reponse": "Perfekt"
+      },
+      {
+        "question": "Ich wollte Journalistin werden.",
+        "options": ["Präteritum", "Präsens", "Perfekt"],
+        "reponse": "Präteritum"
+      },
+      {
+        "question": "aber nach Meinung meines Vaters sollte ich Apothekerin werden.",
+        "options": ["Präteritum", "Präsens", "Perfekt"],
+        "reponse": "Präteritum"
+      },
+      {
+        "question": "Heute bin ich Lehrerin.",
+        "options": ["Präsens", "Perfekt", "Präteritum"],
+        "reponse": "Präsens"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "zeit-02",
+    "theme": "Zeitengebrauch",
+    "sous_theme": "Umzug - Präteritum oder Perfekt",
+    "niveau": "A2",
+    "type": "completer",
+    "consigne": "UMZUG. Präteritum oder Perfekt? Ergänzen Sie die Verben.",
+    "questions": [
+      {
+        "question": "Gestern ___ ich bei meinen Freunden (sein).",
+        "options": ["war", "bin", "war", "bin"],
+        "reponse": "war"
+      },
+      {
+        "question": "Ich ___ ihnen beim Umzug helfen (wollen).",
+        "options": ["wollte", "habe", "wollte", "habe"],
+        "reponse": "wollte"
+      },
+      {
+        "question": "Vorher ___ sie ein kleines Haus (haben).",
+        "options": ["hatten", "haben", "hatten", "haben"],
+        "reponse": "hatten"
+      },
+      {
+        "question": "Letzten Monat ___ sie ein großes Haus (kaufen).",
+        "options": ["haben gekauft", "kauften", "haben gekauft", "kauften"],
+        "reponse": "haben gekauft"
+      },
+      {
+        "question": "Wir ___ viele Möbel tragen (müssen).",
+        "options": ["mussten", "haben", "mussten", "haben"],
+        "reponse": "mussten"
+      },
+      {
+        "question": "Am Abend ___ wir fertig (sein).",
+        "options": ["waren", "sind", "waren", "sind"],
+        "reponse": "waren"
+      },
+      {
+        "question": "Dann ___ wir zusammen (essen) und (trinken).",
+        "options": ["haben gegessen / getrunken", "aßen / tranken", "haben gegessen / getrunken", "aßen / tranken"],
+        "reponse": "haben gegessen / getrunken"
+      },
+      {
+        "question": "Um 22 Uhr ___ ich nach Hause (fahren).",
+        "options": ["bin gefahren", "fuhr", "bin gefahren", "fuhr"],
+        "reponse": "bin gefahren"
+      },
+      {
+        "question": "Ich ___ todmüde (sein).",
+        "options": ["war", "bin", "war", "bin"],
+        "reponse": "war"
+      },
+      {
+        "question": "Ich ___ gleich ins Bett (gehen).",
+        "options": ["bin gegangen", "ging", "bin gegangen", "ging"],
+        "reponse": "bin gegangen"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "zeit-03",
+    "theme": "Zeitengebrauch",
+    "sous_theme": "Ein freier Tag - Text transformieren",
+    "niveau": "A2",
+    "type": "ordre",
+    "consigne": "EIN FREIER TAG. Schreiben Sie den Text in der Vergangenheit.",
+    "questions": [
+      {
+        "question": "Heute bin ich glücklich. Ich muss nicht arbeiten.",
+        "options": [],
+        "reponse": "Gestern war ich glücklich. Ich musste nicht arbeiten."
+      },
+      {
+        "question": "Ich habe Zeit und ich kann machen, was ich will.",
+        "options": [],
+        "reponse": "Ich hatte Zeit und ich konnte machen, was ich wollte."
+      },
+      {
+        "question": "Ich rufe meine Freundin an. Sie besucht mich.",
+        "options": [],
+        "reponse": "Ich habe meine Freundin angerufen. Sie hat mich besucht."
+      },
+      {
+        "question": "Dann kaufen wir zusammen ein.",
+        "options": [],
+        "reponse": "Dann haben wir zusammen eingekauft."
+      },
+      {
+        "question": "Danach machen wir einen Spaziergang am Main und essen in einem schönen Restaurant.",
+        "options": [],
+        "reponse": "Danach haben wir einen Spaziergang am Main gemacht und haben in einem schönen Restaurant gegessen."
+      },
+      {
+        "question": "Am Abend sehen wir uns noch einen Film im Kino an.",
+        "options": [],
+        "reponse": "Am Abend haben wir uns noch einen Film im Kino angesehen."
+      },
+      {
+        "question": "Im Bett lese ich noch ein bisschen, dann schlafe ich.",
+        "options": [],
+        "reponse": "Im Bett habe ich noch ein bisschen gelesen, dann habe ich geschlafen."
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "refl-01",
+    "theme": "Reflexive Verben",
+    "sous_theme": "Reflexivpronomen ergänzen - Dialog",
+    "niveau": "A2",
+    "type": "completer",
+    "consigne": "Ergänzen Sie die Reflexivpronomen.",
+    "questions": [
+      {
+        "question": "Wann treffen wir ___?",
+        "options": ["uns", "euch", "sich", "mich"],
+        "reponse": "uns"
+      },
+      {
+        "question": "Ich muss noch umziehen, es dauert vielleicht noch eine halbe Stunde. Gut, dann beeil ___",
+        "options": ["dich", "euch", "sich", "uns"],
+        "reponse": "dich"
+      },
+      {
+        "question": "ich freue ___ schon auf die Party.",
+        "options": ["mich", "dich", "sich", "uns"],
+        "reponse": "mich"
+      },
+      {
+        "question": "Warum kommt Hannes nicht? Er hat ___ verletzt und muss jetzt erst einmal ausruhen.",
+        "options": ["sich", "mich", "dich", "uns"],
+        "reponse": "sich"
+      },
+      {
+        "question": "Schade, wir haben uns schon so auf ihn gefreut.",
+        "options": ["uns", "euch", "sich", "mich"],
+        "reponse": "uns"
+      },
+      {
+        "question": "Ja, er hat auch sehr ___ geärgert, aber da kann man nichts machen.",
+        "options": ["sich", "mich", "dich", "uns"],
+        "reponse": "sich"
+      },
+      {
+        "question": "Schatz, hast du schon ___ rasiert?",
+        "options": ["dich", "sich", "mich", "uns"],
+        "reponse": "dich"
+      },
+      {
+        "question": "Nein, Liebling, ich dusche ___ erst noch. Bist du schon fertig?",
+        "options": ["mich", "dich", "sich", "uns"],
+        "reponse": "mich"
+      },
+      {
+        "question": "Nein, ich habe die ganze Zeit um die Kinder gekümmert.",
+        "options": ["mich", "dich", "sich", "uns"],
+        "reponse": "mich"
+      },
+      {
+        "question": "Sie wollten nicht ___ waschen. Jetzt muss ich noch ___ schminken.",
+        "options": ["sich / mich", "mich / dich", "sich / sich", "uns / euch"],
+        "reponse": "sich / mich"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "refl-02",
+    "theme": "Reflexive Verben",
+    "sous_theme": "Reflexivpronomen ergänzen - Kurs",
+    "niveau": "A2",
+    "type": "completer",
+    "consigne": "Ergänzen Sie die Reflexivpronomen.",
+    "questions": [
+      {
+        "question": "Guten Tag, wir möchten ___ vorstellen: Mein Name ist Khedira und das ist meine Frau.",
+        "options": ["uns", "euch", "sich", "mich"],
+        "reponse": "uns"
+      },
+      {
+        "question": "Guten Tag, herzlich willkommen im Kurs. Haben Sie schon im Sekretariat angemeldet?",
+        "options": ["sich", "uns", "euch", "mich"],
+        "reponse": "sich"
+      },
+      {
+        "question": "Könnt ihr noch an Luisa erinnern?",
+        "options": ["euch", "uns", "sich", "mich"],
+        "reponse": "euch"
+      },
+      {
+        "question": "Ja, natürlich, ich bin auch noch in Kontakt mit ihr. Wir schreiben regelmäßig Mails.",
+        "options": [],
+        "reponse": "erinnern (euch)"
+      },
+      {
+        "question": "Oh, das ist gut. Wenn ihr mal treffen wollt, dann sag mir Bescheid.",
+        "options": ["euch", "uns", "sich", "mich"],
+        "reponse": "euch"
+      },
+      {
+        "question": "Ich komme auch gerne. Ja, klar. Luisa freut ___ bestimmt auch.",
+        "options": ["sich", "uns", "euch", "mich"],
+        "reponse": "sich"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "refl-03",
+    "theme": "Reflexive Verben",
+    "sous_theme": "Akkusativpronomen oder Reflexivpronomen",
+    "niveau": "A2",
+    "type": "completer",
+    "consigne": "Akkusativpronomen oder Reflexivpronomen? Ergänzen Sie.",
+    "questions": [
+      {
+        "question": "Ich wasche das Baby. Ich wasche ___. Dann wasche ich selbst.",
+        "options": ["es / mich", "mich / es", "es / es", "mich / mich"],
+        "reponse": "es / mich"
+      },
+      {
+        "question": "Du setzt deinen Sohn auf den Stuhl. Du setzt ___ auf den Stuhl. Dann setzt du selbst.",
+        "options": ["ihn / dich", "dich / ihn", "ihn / ihn", "dich / dich"],
+        "reponse": "ihn / dich"
+      },
+      {
+        "question": "Sie kämmt ihre Tochter. Sie kämmt ___. Dann kämmt sie selbst.",
+        "options": ["sie / sich", "sich / sie", "sie / sie", "sich / sich"],
+        "reponse": "sie / sich"
+      },
+      {
+        "question": "Er stellt seine Frau vor. Er stellt ___ vor. Dann stellt er selbst vor.",
+        "options": ["sie / sich", "sich / sie", "sie / sie", "sich / sich"],
+        "reponse": "sie / sich"
+      },
+      {
+        "question": "Das Mädchen meldet seine Freundin an. Es meldet ___ an. Dann meldet es selbst an.",
+        "options": ["sie / sich", "sich / sie", "sie / sie", "sich / sich"],
+        "reponse": "sie / sich"
+      },
+      {
+        "question": "Wir fotografieren die Kinder. Wir fotografieren ___. Dann fotografieren wir selbst.",
+        "options": ["sie / uns", "uns / sie", "sie / sie", "uns / uns"],
+        "reponse": "sie / uns"
+      },
+      {
+        "question": "Sie ziehen ihre Kinder an. Sie ziehen ___ an. Dann ziehen sie selbst an.",
+        "options": ["sie / sich", "sich / sie", "sie / sie", "sich / sich"],
+        "reponse": "sie / sich"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "refl-04",
+    "theme": "Reflexive Verben",
+    "sous_theme": "Reflexiv oder nicht reflexiv",
+    "niveau": "A2",
+    "type": "completer",
+    "consigne": "Reflexiv oder nicht reflexiv? Ergänzen Sie sich oder „–\".",
+    "questions": [
+      {
+        "question": "Er interessiert ___ sehr für Politik, aber er möchte nicht Politiker werden.",
+        "options": ["sich", "-", "mich", "dich"],
+        "reponse": "sich"
+      },
+      {
+        "question": "Hast du schon gehört, Till und Mathilde haben geheiratet. Ja, sie waren sehr schnell, sie haben vor zwei Monaten kennengelernt",
+        "options": ["-", "sich", "uns", "euch"],
+        "reponse": "-"
+      },
+      {
+        "question": "dann haben sie vor einem Monat ___ verliebt und schon wollen sie heiraten.",
+        "options": ["sich", "-", "uns", "euch"],
+        "reponse": "sich"
+      },
+      {
+        "question": "Frau Westhoff ist berufstätig. Wer kümmert ___ um ihre Kinder, wenn sie arbeitet?",
+        "options": ["sich", "-", "uns", "euch"],
+        "reponse": "sich"
+      },
+      {
+        "question": "Ihre Nachbarin hat auch ein Kind und betreut auch die Kinder von Frau Westhoff.",
+        "options": ["-", "sich", "uns", "euch"],
+        "reponse": "-"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "refl-05",
+    "theme": "Reflexive Verben",
+    "sous_theme": "Der Restaurantbesuch - Perfekt",
+    "niveau": "A2",
+    "type": "ordre",
+    "consigne": "DER RESTAURANTBESUCH. Schreiben Sie die Sätze im Perfekt.",
+    "questions": [
+      {
+        "question": "Jutta freut sich auf das Wochenende.",
+        "options": [],
+        "reponse": "Jutta hat sich auf das Wochenende gefreut."
+      },
+      {
+        "question": "Sie erinnert sich an ein Restaurant.",
+        "options": [],
+        "reponse": "Sie hat sich an ein Restaurant erinnert."
+      },
+      {
+        "question": "Sie zieht sich schick an.",
+        "options": [],
+        "reponse": "Sie hat sich schick angezogen."
+      },
+      {
+        "question": "Sie trifft sich mit Paolo.",
+        "options": [],
+        "reponse": "Sie hat sich mit Paolo getroffen."
+      },
+      {
+        "question": "Aber Paolo und Jutta ärgern sich über das schlechte Essen.",
+        "options": [],
+        "reponse": "Aber Paolo und Jutta haben sich über das schlechte Essen geärgert."
+      },
+      {
+        "question": "Sie beschweren sich beim Kellner.",
+        "options": [],
+        "reponse": "Sie haben sich beim Kellner beschwert."
+      },
+      {
+        "question": "Der Kellner entschuldigt sich und bringt ihnen ein Glas Sekt.",
+        "options": [],
+        "reponse": "Der Kellner hat sich entschuldigt und ihnen ein Glas Sekt gebracht."
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "refl-06",
+    "theme": "Reflexive Verben",
+    "sous_theme": "Sätze schreiben",
+    "niveau": "A2",
+    "type": "ordre",
+    "consigne": "Schreiben Sie Sätze.",
+    "questions": [
+      {
+        "question": "Er ist noch im Bad, weil • will • er • rasieren • sich",
+        "options": [],
+        "reponse": "Er ist noch im Bad, weil er sich rasieren will."
+      },
+      {
+        "question": "Sie steht vor dem Spiegel, weil • schminkt • sie • sich",
+        "options": [],
+        "reponse": "Sie steht vor dem Spiegel, weil sie sich schminkt."
+      },
+      {
+        "question": "Ich glaube, dass • die Kinder • haben • sich • über die Geschenke • gefreut",
+        "options": [],
+        "reponse": "Ich glaube, dass sich die Kinder über die Geschenke gefreut haben."
+      },
+      {
+        "question": "Ich kann nicht kommen, weil • mich • ich • muss • anmelden",
+        "options": [],
+        "reponse": "Ich kann nicht kommen, weil ich mich anmelden muss."
+      },
+      {
+        "question": "Was macht ihr, wenn • geärgert habt • euch • ihr • bei der Arbeit",
+        "options": [],
+        "reponse": "Was macht ihr, wenn ihr euch bei der Arbeit geärgert habt?"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  }
+]

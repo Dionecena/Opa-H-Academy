@@ -1,0 +1,1823 @@
+[
+  {
+    "id": "poss-01",
+    "theme": "Possessivartikel",
+    "sous_theme": "Nominativ - Formen",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "Ergänzen Sie die Possessivartikel im Nominativ.",
+    "questions": [
+      {
+        "question": "Hier bin ich und das ist ___ Kind.",
+        "options": ["mein", "meine", "meinem", "meinen"],
+        "reponse": "mein"
+      },
+      {
+        "question": "Das bist du und ___ Vater.",
+        "options": ["dein", "deine", "deinem", "deinen"],
+        "reponse": "dein"
+      },
+      {
+        "question": "Da ist Thomas und ___ Mutter.",
+        "options": ["seine", "sein", "seinem", "seinen"],
+        "reponse": "seine"
+      },
+      {
+        "question": "Hier sind Judy und ___ Tochter.",
+        "options": ["ihre", "ihr", "ihrem", "ihren"],
+        "reponse": "ihre"
+      },
+      {
+        "question": "Das sind wir und ___ Kinder.",
+        "options": ["unsere", "unser", "unserem", "unseren"],
+        "reponse": "unsere"
+      },
+      {
+        "question": "Und das seid ihr und ___ Eltern.",
+        "options": ["eure", "euer", "eurem", "euren"],
+        "reponse": "eure"
+      },
+      {
+        "question": "Hier stehen Aiping und Mark und ___ zwei Katzen.",
+        "options": ["ihre", "ihr", "ihrem", "ihren"],
+        "reponse": "ihre"
+      },
+      {
+        "question": "Guten Tag, Herr Schmidt, kommt ___ Frau auch?",
+        "options": ["Ihre", "Ihr", "Ihrem", "Ihren"],
+        "reponse": "Ihre"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "poss-02",
+    "theme": "Possessivartikel",
+    "sous_theme": "Familie Schmitz - Nominativ",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "FAMILIE SCHMITZ. Ergänzen Sie die Possessivartikel im Nominativ.",
+    "questions": [
+      {
+        "question": "Das ist Jörg. Das ist ___ Frau, Jasmin.",
+        "options": ["seine", "sein", "seinem", "seinen"],
+        "reponse": "seine"
+      },
+      {
+        "question": "Das sind ___ Kinder.",
+        "options": ["seine", "sein", "seinem", "seinen"],
+        "reponse": "seine"
+      },
+      {
+        "question": "Das ist ___ Fahrrad.",
+        "options": ["sein", "seine", "seinem", "seinen"],
+        "reponse": "sein"
+      },
+      {
+        "question": "Das ist ___ Tasche.",
+        "options": ["seine", "sein", "seinem", "seinen"],
+        "reponse": "seine"
+      },
+      {
+        "question": "Das ist ___ Laptop.",
+        "options": ["sein", "seine", "seinem", "seinen"],
+        "reponse": "sein"
+      },
+      {
+        "question": "Das sind ___ Bücher.",
+        "options": ["seine", "sein", "seinem", "seinen"],
+        "reponse": "seine"
+      },
+      {
+        "question": "Das ist Jasmin. Das ist ___ Mann, Jörg.",
+        "options": ["ihr", "ihre", "ihrem", "ihren"],
+        "reponse": "ihr"
+      },
+      {
+        "question": "Das sind ___ Kinder.",
+        "options": ["ihre", "ihr", "ihrem", "ihren"],
+        "reponse": "ihre"
+      },
+      {
+        "question": "Das ist ___ Fahrrad.",
+        "options": ["ihr", "ihre", "ihrem", "ihren"],
+        "reponse": "ihr"
+      },
+      {
+        "question": "Das ist ___ Tasche.",
+        "options": ["ihre", "ihr", "ihrem", "ihren"],
+        "reponse": "ihre"
+      },
+      {
+        "question": "Das sind ___ Kinder. Das ist ___ Tochter Susi.",
+        "options": ["ihre / ihre", "ihr / ihr", "ihre / ihr", "ihr / ihre"],
+        "reponse": "ihre / ihre"
+      },
+      {
+        "question": "Das ist ___ Sohn Thomas. Das ist ___ Haus.",
+        "options": ["ihr / ihr", "ihre / ihre", "ihr / ihre", "ihre / ihr"],
+        "reponse": "ihr / ihr"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "poss-03",
+    "theme": "Possessivartikel",
+    "sous_theme": "Tante Cornelia - Dialog",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "TANTE CORNELIA KOMMT ZU BESUCH. Ergänzen Sie die Possessivartikel.",
+    "questions": [
+      {
+        "question": "Tante Cornelia: Thomas und Susi, wo ist denn ___ Papa jetzt?",
+        "options": ["euer", "eure", "eurem", "euren"],
+        "reponse": "euer"
+      },
+      {
+        "question": "Thomas und Susi: ___ Papa ist in der Küche.",
+        "options": ["Unser", "Unsere", "Unserem", "Unseren"],
+        "reponse": "Unser"
+      },
+      {
+        "question": "Tante Cornelia: Und wo ist ___ Mama?",
+        "options": ["eure", "euer", "eurem", "euren"],
+        "reponse": "eure"
+      },
+      {
+        "question": "Thomas und Susi: ___ Mutter ist auf der Arbeit.",
+        "options": ["Unsere", "Unser", "Unserem", "Unseren"],
+        "reponse": "Unsere"
+      },
+      {
+        "question": "Tante Cornelia: Und wie heißen ___ Freunde?",
+        "options": ["eure", "euer", "eurem", "euren"],
+        "reponse": "eure"
+      },
+      {
+        "question": "Thomas und Susi: ___ Freunde sind ___ Mama und ___ Papa.",
+        "options": ["Unsere / unsere / unser", "Unser / unsere / unsere", "Unsere / unser / unsere", "Unsere / unsere / unsere"],
+        "reponse": "Unsere / unsere / unser"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "poss-04",
+    "theme": "Possessivartikel",
+    "sous_theme": "ihr oder Ihr - Bedeutung",
+    "niveau": "A1",
+    "type": "choisir",
+    "consigne": "Was bedeutet ihr oder Ihr? Kreuzen Sie an.",
+    "questions": [
+      {
+        "question": "Frau Mall: Guten Tag, Frau Dorn. Wie geht es Ihrer Tochter Lisa?",
+        "options": ["Frau Dorns Tochter", "Frau Malls Tochter", "Lisas Tochter", "Tims Tochter"],
+        "reponse": "Frau Dorns Tochter"
+      },
+      {
+        "question": "Frau Dorn: Wieder gut. Sie ist jetzt bei ihren Großeltern.",
+        "options": ["Lisas Großeltern", "Frau Dorns Großeltern", "Frau Malls Großeltern", "Tims Großeltern"],
+        "reponse": "Lisas Großeltern"
+      },
+      {
+        "question": "Frau Dorn: Und wie geht es Ihrer Familie?",
+        "options": ["Frau Malls Familie", "Frau Dorns Familie", "Lisas Familie", "Tims Familie"],
+        "reponse": "Frau Malls Familie"
+      },
+      {
+        "question": "Frau Dorn: Wo sind denn Ihre Kinder Tim und Tom jetzt?",
+        "options": ["Frau Malls Kinder", "Frau Dorns Kinder", "Lisas Kinder", "Großelterns Kinder"],
+        "reponse": "Frau Malls Kinder"
+      },
+      {
+        "question": "Frau Mall: Die sind zu ihren Freunden gefahren.",
+        "options": ["Tims und Toms Freunde", "Frau Malls Freunde", "Frau Dorns Freunde", "Lisas Freunde"],
+        "reponse": "Tims und Toms Freunde"
+      },
+      {
+        "question": "Frau Mall: Übrigens: Ihr Mann hat angerufen.",
+        "options": ["Frau Dorns Mann", "Frau Malls Mann", "Lisas Mann", "Tims Mann"],
+        "reponse": "Frau Dorns Mann"
+      },
+      {
+        "question": "Frau Mall: Ihr Auto ist fertig repariert.",
+        "options": ["Frau Dorns Auto", "Frau Malls Auto", "Lisas Auto", "Tims Auto"],
+        "reponse": "Frau Dorns Auto"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "poss-05",
+    "theme": "Possessivartikel",
+    "sous_theme": "Mein Geburtstag - Kontext",
+    "niveau": "A2",
+    "type": "completer",
+    "consigne": "MEIN GEBURTSTAG. Ergänzen Sie die Possessivartikel.",
+    "questions": [
+      {
+        "question": "An meinem Geburtstag fahre ich immer nach Hamburg zu ___ Familie.",
+        "options": ["meiner", "mein", "meinem", "meinen"],
+        "reponse": "meiner"
+      },
+      {
+        "question": "___ Bruder Tom wohnt mit ___ Frau Doris im Haus von ___ Eltern.",
+        "options": ["Mein / seiner / ihren", "Mein / seiner / ihrer", "Meine / seiner / ihren", "Mein / sein / ihren"],
+        "reponse": "Mein / seiner / ihren"
+      },
+      {
+        "question": "Tom hat Zwillinge: Finn und Leonie. Leonie liebt ___ Bruder sehr.",
+        "options": ["ihren", "ihr", "ihrem", "ihre"],
+        "reponse": "ihren"
+      },
+      {
+        "question": "Auch Finn mag ___ Schwester sehr gern.",
+        "options": ["seine", "sein", "seinem", "seinen"],
+        "reponse": "seine"
+      },
+      {
+        "question": "Beide Kinder lieben ___ Großeltern.",
+        "options": ["ihre", "ihr", "ihrem", "ihren"],
+        "reponse": "ihre"
+      },
+      {
+        "question": "___ Schwester Katharina lebt auch in Hamburg.",
+        "options": ["Meine", "Mein", "Meinem", "Meinen"],
+        "reponse": "Meine"
+      },
+      {
+        "question": "Wir feiern alle zusammen ___ Geburtstag bei ___ Eltern.",
+        "options": ["meinen / meinen", "mein / meinen", "meinen / meiner", "meine / meinen"],
+        "reponse": "meinen / meinen"
+      },
+      {
+        "question": "Katharina kommt immer mit ___ Freund Joachim und ___ Tochter Ana.",
+        "options": ["ihrem / seiner", "ihre / sein", "ihrem / sein", "ihr / seiner"],
+        "reponse": "ihrem / seiner"
+      },
+      {
+        "question": "___ Eltern finden es wunderbar, wenn ___ Kinder alle bei ihnen sind.",
+        "options": ["Die / ihre", "Die / ihre", "Ihre / die", "Die / die"],
+        "reponse": "Die / ihre"
+      },
+      {
+        "question": "Ich bekomme von ___ Geschwistern immer viele Geschenke.",
+        "options": ["meinen", "meine", "meinem", "meiner"],
+        "reponse": "meinen"
+      },
+      {
+        "question": "___ Kinder malen mir immer schöne Bilder.",
+        "options": ["Die", "Der", "Dem", "Den"],
+        "reponse": "Die"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "dem-01",
+    "theme": "Artikel interrogativ und demonstrativ",
+    "sous_theme": "Nominativ - welcher/dieser",
+    "niveau": "A1",
+    "type": "associer",
+    "consigne": "Nominativ. Was passt zusammen? Kombinieren Sie.",
+    "questions": [
+      {
+        "question": "Welcher Kollege?",
+        "options": ["Dieser.", "Diese.", "Dieses.", "Die."],
+        "reponse": "Dieser."
+      },
+      {
+        "question": "Welche Tür?",
+        "options": ["Diese.", "Dieser.", "Dieses.", "Den."],
+        "reponse": "Diese."
+      },
+      {
+        "question": "Welches Buch?",
+        "options": ["Dieses.", "Dieser.", "Diese.", "Das."],
+        "reponse": "Dieses."
+      },
+      {
+        "question": "Welche Socken?",
+        "options": ["Diese.", "Dieser.", "Dieses.", "Die."],
+        "reponse": "Diese."
+      }
+    ],
+    "difficulty": "facile",
+    "score": 1
+  },
+  {
+    "id": "dem-02",
+    "theme": "Artikel interrogativ und demonstrativ",
+    "sous_theme": "Nominativ - Endungen",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "Nominativ. Ergänzen Sie die Endungen.",
+    "questions": [
+      {
+        "question": "Der Mantel ist schön! – Welch___ Mantel? – Dies___ hier.",
+        "options": ["er / er", "er / en", "en / er", "er / es"],
+        "reponse": "er / er"
+      },
+      {
+        "question": "Die Hose ist schön! – Welch___ Hose? – Dies___ hier.",
+        "options": ["e / e", "er / er", "es / es", "en / en"],
+        "reponse": "e / e"
+      },
+      {
+        "question": "Die Schuhe sind schön! – Welch___ Schuhe? – Dies___ hier.",
+        "options": ["e / e", "er / er", "en / en", "es / es"],
+        "reponse": "e / e"
+      },
+      {
+        "question": "Das Kleid ist schön! – Welch___ Kleid? – Dies___ hier.",
+        "options": ["es / es", "er / er", "e / e", "en / en"],
+        "reponse": "es / es"
+      },
+      {
+        "question": "Die Jacke ist schön! – Welch___ Jacke? – Dies___ hier.",
+        "options": ["e / e", "er / er", "es / es", "en / en"],
+        "reponse": "e / e"
+      },
+      {
+        "question": "Das T-Shirt ist schön! – Welch___ T-Shirt? – Dies___ hier.",
+        "options": ["es / es", "er / er", "e / e", "en / en"],
+        "reponse": "es / es"
+      },
+      {
+        "question": "Der Anzug ist schön! – Welch___ Anzug? – Dies___ hier.",
+        "options": ["er / er", "es / es", "e / e", "en / en"],
+        "reponse": "er / er"
+      },
+      {
+        "question": "Die Socken sind schön! – Welch___ Socken? – Dies___ hier.",
+        "options": ["e / e", "er / er", "es / es", "en / en"],
+        "reponse": "e / e"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "dem-03",
+    "theme": "Artikel interrogativ und demonstrativ",
+    "sous_theme": "Nominativ - Kinder",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "Nominativ. Ergänzen Sie die Endungen.",
+    "questions": [
+      {
+        "question": "Erzieherin: Welch___ Kinder sind denn Ihre Kinder?",
+        "options": ["e", "er", "es", "en"],
+        "reponse": "e"
+      },
+      {
+        "question": "Mutter: Das kleine Mädchen da rechts und der blonde Junge da hinten. Erzieherin: Dies___ Mädchen?",
+        "options": ["es", "er", "e", "en"],
+        "reponse": "es"
+      },
+      {
+        "question": "Mutter: Ja. Hallo, Lisa! Erzieherin: Und welch___ Junge?",
+        "options": ["er", "e", "es", "en"],
+        "reponse": "er"
+      },
+      {
+        "question": "Mutter: Dies___ blonde, süße Junge da hinten!",
+        "options": ["er", "e", "es", "en"],
+        "reponse": "er"
+      },
+      {
+        "question": "Erzieherin: Oh, dies___ Kind war problematisch.",
+        "options": ["es", "er", "e", "en"],
+        "reponse": "es"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "dem-04",
+    "theme": "Artikel interrogativ und demonstrativ",
+    "sous_theme": "Nominativ und Akkusativ - Tasche",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "Nominativ und Akkusativ. Ergänzen Sie die Endungen.",
+    "questions": [
+      {
+        "question": "Linda: Welch___ Tasche findest du schöner? Dies___ hier oder dies___ da?",
+        "options": ["e / e / e", "er / er / er", "es / es / es", "en / en / en"],
+        "reponse": "e / e / e"
+      },
+      {
+        "question": "Jette: Ich finde dies___ schöner.",
+        "options": ["e", "er", "es", "en"],
+        "reponse": "e"
+      },
+      {
+        "question": "Jette: Aber welch___ ist auch gut zum Einkaufen?",
+        "options": ["e", "er", "es", "en"],
+        "reponse": "e"
+      },
+      {
+        "question": "Linda: Keine. Aber das ist egal. Ich nehme dies___ .",
+        "options": ["e", "er", "es", "en"],
+        "reponse": "e"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "dem-05",
+    "theme": "Artikel interrogativ und demonstrativ",
+    "sous_theme": "Dativ - kombinieren",
+    "niveau": "A1",
+    "type": "associer",
+    "consigne": "Dativ. Was passt zusammen? Ergänzen Sie die Endungen und kombinieren Sie.",
+    "questions": [
+      {
+        "question": "Mit welch___ Freundin gehst du ins Kino?",
+        "options": ["er", "em", "en", "e"],
+        "reponse": "er"
+      },
+      {
+        "question": "Zu welch___ Arzt gehst du?",
+        "options": ["em", "er", "en", "e"],
+        "reponse": "em"
+      },
+      {
+        "question": "Aus welch___ Land kommt Gyros?",
+        "options": ["em", "er", "en", "e"],
+        "reponse": "em"
+      },
+      {
+        "question": "Bei welch___ Lehrerin haben wir Unterricht?",
+        "options": ["er", "em", "en", "e"],
+        "reponse": "er"
+      },
+      {
+        "question": "Von welch___ Freund hast du das Geschenk?",
+        "options": ["em", "er", "en", "e"],
+        "reponse": "em"
+      },
+      {
+        "question": "Welch___ Kind hast du geholfen?",
+        "options": ["em", "er", "en", "e"],
+        "reponse": "em"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "dem-06",
+    "theme": "Artikel interrogativ und demonstrativ",
+    "sous_theme": "In der Klasse - alle Kasus",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "IN DER KLASSE. Nominativ, Akkusativ und Dativ. Ergänzen Sie die Endungen.",
+    "questions": [
+      {
+        "question": "Scarlett: Welch___ Lehrer haben wir heute?",
+        "options": ["er", "e", "es", "en"],
+        "reponse": "er"
+      },
+      {
+        "question": "Jun: Dies___ hübschen. Er heißt Herr Weiher, glaube ich.",
+        "options": ["en", "er", "e", "es"],
+        "reponse": "en"
+      },
+      {
+        "question": "Scarlett: Und welch___ Übungen waren die Hausaufgabe?",
+        "options": ["e", "er", "es", "en"],
+        "reponse": "e"
+      },
+      {
+        "question": "Jun: Dies___ hier auf Seite 63.",
+        "options": ["e", "er", "es", "en"],
+        "reponse": "e"
+      },
+      {
+        "question": "Jun: Mit welch___ Buch hast du früher gelernt?",
+        "options": ["em", "er", "en", "e"],
+        "reponse": "em"
+      },
+      {
+        "question": "Scarlett: Ohne Buch. Nur mit einer App. Jun: Ach ja? Mit welch___ App denn?",
+        "options": ["er", "em", "en", "e"],
+        "reponse": "er"
+      },
+      {
+        "question": "Scarlett: Schau mal, mit dies___ hier.",
+        "options": ["er", "em", "en", "e"],
+        "reponse": "er"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "dem-07",
+    "theme": "Artikel interrogativ und demonstrativ",
+    "sous_theme": "Raum - alle Kasus",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "Nominativ, Akkusativ und Dativ. Ergänzen Sie die Endungen.",
+    "questions": [
+      {
+        "question": "Antonio: In welch___ Raum lernen wir heute?",
+        "options": ["em", "er", "en", "e"],
+        "reponse": "em"
+      },
+      {
+        "question": "Chen: Ich glaube, wir bleiben in dies___ hier.",
+        "options": ["em", "er", "en", "e"],
+        "reponse": "em"
+      },
+      {
+        "question": "Antonio: Oh, ich mag dies___ Raum nicht. Es ist so kalt hier.",
+        "options": ["en", "er", "em", "e"],
+        "reponse": "en"
+      },
+      {
+        "question": "Chen: Ich bin gerne in dies___ Raum, weil er groß ist.",
+        "options": ["em", "er", "en", "e"],
+        "reponse": "em"
+      },
+      {
+        "question": "Welch___ Raum findest du gut?",
+        "options": ["en", "er", "em", "e"],
+        "reponse": "en"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "pron-akk-01",
+    "theme": "Personalpronomen",
+    "sous_theme": "Akkusativ - kombinieren",
+    "niveau": "A1",
+    "type": "associer",
+    "consigne": "Personalpronomen im Akkusativ. Was passt zusammen? Kombinieren Sie.",
+    "questions": [
+      {
+        "question": "Magst du die neue Kollegin?",
+        "options": ["Ja, ich mag sie.", "Nein, ich mag ihn nicht.", "Ja, ich nehme sie.", "Nein, ich nehme es nicht."],
+        "reponse": "Ja, ich mag sie."
+      },
+      {
+        "question": "Liebst du den Mann?",
+        "options": ["Nein, ich mag ihn nicht.", "Ja, ich mag sie.", "Wir lieben euch!", "Ja, ich nehme sie."],
+        "reponse": "Nein, ich mag ihn nicht."
+      },
+      {
+        "question": "Essen Sie die Spaghetti?",
+        "options": ["Ja, ich nehme sie.", "Nein, ich mag ihn nicht.", "Ja, ich mag sie.", "Nein, ich nehme es nicht."],
+        "reponse": "Ja, ich nehme sie."
+      },
+      {
+        "question": "Liebst du mich?",
+        "options": ["Na ja, ich mag dich.", "Nein, ich mag ihn nicht.", "Wir lieben euch!", "Ja, ich mag sie."],
+        "reponse": "Na ja, ich mag dich."
+      },
+      {
+        "question": "Kaufst du das Auto?",
+        "options": ["Nein, ich nehme es nicht.", "Ja, ich nehme sie.", "Nein, ich mag ihn nicht.", "Wir lieben euch!"],
+        "reponse": "Nein, ich nehme es nicht."
+      },
+      {
+        "question": "Mögt ihr uns?",
+        "options": ["Wir lieben euch!", "Na ja, ich mag dich.", "Ja, ich mag sie.", "Nein, ich nehme es nicht."],
+        "reponse": "Wir lieben euch!"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "pron-akk-02",
+    "theme": "Personalpronomen",
+    "sous_theme": "Akkusativ - Kontext",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "Personalpronomen im Akkusativ. Ergänzen Sie.",
+    "questions": [
+      {
+        "question": "In vier Monaten bekommen wir noch ein Baby. Es ist ein Mädchen. Wir lieben ___ (das Mädchen) jetzt schon.",
+        "options": ["es", "sie", "ihn", "ihm"],
+        "reponse": "es"
+      },
+      {
+        "question": "Leider ist dann unsere Wohnung zu klein, aber wir mögen ___ (unsere Wohnung) sehr.",
+        "options": ["sie", "es", "ihn", "ihm"],
+        "reponse": "sie"
+      },
+      {
+        "question": "Und wir brauchen auch ein großes Auto. Mein Mann möchte ___ (das Auto) am liebsten schon jetzt kaufen.",
+        "options": ["es", "sie", "ihn", "ihm"],
+        "reponse": "es"
+      },
+      {
+        "question": "Ich kenne ___ (meinen Mann).",
+        "options": ["ihn", "es", "sie", "ihm"],
+        "reponse": "ihn"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "pron-dat-01",
+    "theme": "Personalpronomen",
+    "sous_theme": "Dativ - Sätze ergänzen",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "Personalpronomen im Dativ. Ergänzen Sie.",
+    "questions": [
+      {
+        "question": "Der Vater kauft den Kindern ein Eis. Er kauft ___ auch Schokolade.",
+        "options": ["ihnen", "ihm", "ihr", "es"],
+        "reponse": "ihnen"
+      },
+      {
+        "question": "Der Kellner bringt der Dame einen Tee. Er bringt ___ auch ein Stück Torte.",
+        "options": ["ihr", "ihm", "ihnen", "es"],
+        "reponse": "ihr"
+      },
+      {
+        "question": "Ich bestelle dir und mir eine Pizza. Und ich bestelle ___ zwei Cola.",
+        "options": ["uns", "euch", "ihnen", "dir"],
+        "reponse": "uns"
+      },
+      {
+        "question": "Der Mann schenkt seiner Freundin Blumen. Er schenkt ___ auch einen Ring.",
+        "options": ["ihr", "ihm", "ihnen", "es"],
+        "reponse": "ihr"
+      },
+      {
+        "question": "Er bezahlt dir und deiner Schwester die Cola. Und er bezahlt ___ das Essen.",
+        "options": ["euch", "uns", "ihnen", "dir"],
+        "reponse": "euch"
+      },
+      {
+        "question": "Der Lehrer gibt den Studierenden Hausaufgaben. Er gibt ___ auch einen Test.",
+        "options": ["ihnen", "ihm", "ihr", "uns"],
+        "reponse": "ihnen"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "pron-dat-02",
+    "theme": "Personalpronomen",
+    "sous_theme": "Dativ - Wie geht es",
+    "niveau": "A1",
+    "type": "ordre",
+    "consigne": "Personalpronomen im Dativ. Schreiben Sie die Antworten.",
+    "questions": [
+      {
+        "question": "Wie geht es Ihnen?",
+        "options": [],
+        "reponse": "Es geht mir gut."
+      },
+      {
+        "question": "Wie geht es Ihrem Vater?",
+        "options": [],
+        "reponse": "Es geht ihm gut."
+      },
+      {
+        "question": "Wie geht es Ihrer Mutter?",
+        "options": [],
+        "reponse": "Es geht ihr gut."
+      },
+      {
+        "question": "Wie geht es Ihren Eltern?",
+        "options": [],
+        "reponse": "Es geht ihnen gut."
+      },
+      {
+        "question": "Wie geht es dir?",
+        "options": [],
+        "reponse": "Es geht mir gut."
+      },
+      {
+        "question": "Wie geht es Ihnen und Ihrer Frau?",
+        "options": [],
+        "reponse": "Es geht uns gut."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "pron-dat-03",
+    "theme": "Personalpronomen",
+    "sous_theme": "Dativ - Im Büro",
+    "niveau": "A2",
+    "type": "completer",
+    "consigne": "IM BÜRO. Personalpronomen im Dativ. Ergänzen Sie.",
+    "questions": [
+      {
+        "question": "Chef: Herr Bauer, sagen Sie bitte Herrn Schütz, ich möchte mit ___ sprechen.",
+        "options": ["ihm", "ihnen", "dir", "uns"],
+        "reponse": "ihm"
+      },
+      {
+        "question": "Chef: Und mit ___, Herr Bauer, möchte ich später auch sprechen.",
+        "options": ["Ihnen", "ihm", "dir", "uns"],
+        "reponse": "Ihnen"
+      },
+      {
+        "question": "Herr Bauer: Herr Schütz, der Chef möchte mit ___ sprechen.",
+        "options": ["Ihnen", "ihm", "dir", "uns"],
+        "reponse": "Ihnen"
+      },
+      {
+        "question": "Herr Bauer: Und mit ___ später leider auch.",
+        "options": ["Ihnen", "ihm", "dir", "uns"],
+        "reponse": "Ihnen"
+      },
+      {
+        "question": "Herr Schütz: Können Sie bitte meine Frau anrufen und ___ sagen, ich komme später?",
+        "options": ["ihr", "ihm", "ihnen", "uns"],
+        "reponse": "ihr"
+      },
+      {
+        "question": "Herr Schütz: Unsere Freunde wollen heute mit ___ ins Theater gehen.",
+        "options": ["uns", "euch", "ihnen", "dir"],
+        "reponse": "uns"
+      },
+      {
+        "question": "Herr Bauer: Ja, gerne, mache ich. Gehen Sie jetzt zum Chef. Ich muss ja später auch noch zu ___.",
+        "options": ["ihm", "Ihnen", "dir", "uns"],
+        "reponse": "ihm"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "pron-akdat-01",
+    "theme": "Personalpronomen",
+    "sous_theme": "Akkusativ und Dativ - Antworten",
+    "niveau": "A2",
+    "type": "ordre",
+    "consigne": "Personalpronomen im Akkusativ und Dativ. Schreiben Sie die Antworten wie im Beispiel.",
+    "questions": [
+      {
+        "question": "Gehst du mit mir ins Theater?",
+        "options": [],
+        "reponse": "Ja, nur mit dir, nie ohne dich!"
+      },
+      {
+        "question": "Fährst du mit deiner Freundin nach Paris?",
+        "options": [],
+        "reponse": "Ja, nur mit ihr, nie ohne sie!"
+      },
+      {
+        "question": "Gehen Sie mit Ihren Kindern ins Schwimmbad?",
+        "options": [],
+        "reponse": "Ja, nur mit ihnen, nie ohne sie!"
+      },
+      {
+        "question": "Gehst du mit mir und meinem Bruder ins Kino?",
+        "options": [],
+        "reponse": "Ja, nur mit uns, nie ohne uns!"
+      },
+      {
+        "question": "Spielst du mit deinem Kind?",
+        "options": [],
+        "reponse": "Ja, nur mit ihm, nie ohne es!"
+      },
+      {
+        "question": "Gehst du mit deinem Freund spazieren?",
+        "options": [],
+        "reponse": "Ja, nur mit ihm, nie ohne ihn!"
+      },
+      {
+        "question": "Fahren eure Freunde mit euch in Urlaub?",
+        "options": [],
+        "reponse": "Ja, nur mit uns, nie ohne uns!"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "pron-akdat-02",
+    "theme": "Personalpronomen",
+    "sous_theme": "Der Traumann - Brief",
+    "niveau": "A2",
+    "type": "completer",
+    "consigne": "DER TRAUMANN. Ergänzen Sie die Personalpronomen im Nominativ, Akkusativ und Dativ.",
+    "questions": [
+      {
+        "question": "Ich habe meinen Traummann getroffen! ___ ist so nett.",
+        "options": ["Er", "Ihn", "Ihm", "Es"],
+        "reponse": "Er"
+      },
+      {
+        "question": "Ich habe ___ gestern auf einer Party kennengelernt.",
+        "options": ["ihn", "er", "ihm", "es"],
+        "reponse": "ihn"
+      },
+      {
+        "question": "___ hat mich angesehen und ich habe ___ gesehen und – wow!!!",
+        "options": ["Er / ihn", "Er / ihm", "Ihn / er", "Ihm / ihn"],
+        "reponse": "Er / ihn"
+      },
+      {
+        "question": "Ich habe die ganze Nacht mit ___ getanzt.",
+        "options": ["ihm", "ihn", "er", "es"],
+        "reponse": "ihm"
+      },
+      {
+        "question": "Ich mag ___ so. Und ___ ist auch sehr attraktiv.",
+        "options": ["ihn / Er", "ihm / Er", "ihn / Ihn", "er / Ihm"],
+        "reponse": "ihn / Er"
+      },
+      {
+        "question": "Er gefällt ___ sehr.",
+        "options": ["mir", "mich", "ich", "dir"],
+        "reponse": "mir"
+      },
+      {
+        "question": "Er hat ___ nach Hause gebracht und ___ nach meiner Handynummer gefragt.",
+        "options": ["mich / mich", "mir / mir", "mich / mir", "mir / mich"],
+        "reponse": "mich / mir"
+      },
+      {
+        "question": "Morgen treffe ich ___ wieder!",
+        "options": ["ihn", "ihm", "er", "es"],
+        "reponse": "ihn"
+      },
+      {
+        "question": "Ich glaube, ich liebe ___ und er liebt ___.",
+        "options": ["ihn / mich", "ihm / mir", "ihn / mir", "ihm / mich"],
+        "reponse": "ihn / mich"
+      },
+      {
+        "question": "___ bin so glücklich! Ruf ___ mal an!",
+        "options": ["Ich / mich", "Ich / mir", "Mir / mich", "Mich / mir"],
+        "reponse": "Ich / mich"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "verb-akdat-01",
+    "theme": "Verben mit Akkusativ und Dativ",
+    "sous_theme": "Sätze schreiben - Kasus erkennen",
+    "niveau": "A2",
+    "type": "ordre",
+    "consigne": "Schreiben Sie Sätze. Welches Nomen steht im Akkusativ, welches im Dativ?",
+    "questions": [
+      {
+        "question": "Mann • schreiben • Freundin • Nachricht",
+        "options": [],
+        "reponse": "Der Mann schreibt der Freundin eine Nachricht. (Akkusativ: Nachricht, Dativ: Freundin)"
+      },
+      {
+        "question": "Dr. König • geben • Frau • Tabletten",
+        "options": [],
+        "reponse": "Dr. König gibt der Frau die Tabletten. (Akkusativ: Tabletten, Dativ: Frau)"
+      },
+      {
+        "question": "Wir • zeigen • Gäste • Haus",
+        "options": [],
+        "reponse": "Wir zeigen den Gästen das Haus. (Akkusativ: Haus, Dativ: Gäste)"
+      },
+      {
+        "question": "Vater • kaufen • Sohn • Computer",
+        "options": [],
+        "reponse": "Der Vater kauft dem Sohn einen Computer. (Akkusativ: Computer, Dativ: Sohn)"
+      },
+      {
+        "question": "Mutter • schenken • Tochter • Handy",
+        "options": [],
+        "reponse": "Die Mutter schenkt der Tochter ein Handy. (Akkusativ: Handy, Dativ: Tochter)"
+      },
+      {
+        "question": "Ich • verkaufen • Freund • Auto",
+        "options": [],
+        "reponse": "Ich verkaufe dem Freund das Auto. (Akkusativ: Auto, Dativ: Freund)"
+      },
+      {
+        "question": "Er • servieren • Freunde • Kaffee",
+        "options": [],
+        "reponse": "Er serviert den Freunden den Kaffee. (Akkusativ: Kaffee, Dativ: Freunde)"
+      },
+      {
+        "question": "Wir • kochen • Kind • Suppe",
+        "options": [],
+        "reponse": "Wir kochen dem Kind eine Suppe. (Akkusativ: Suppe, Dativ: Kind)"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "verb-akdat-02",
+    "theme": "Verben mit Akkusativ und Dativ",
+    "sous_theme": "Unterstreichen - Kasus identifizieren",
+    "niveau": "A2",
+    "type": "identifier",
+    "consigne": "Was ist der Nominativ (Subjekt), der Akkusativ (Objekt) und der Dativ? Unterstreichen Sie.",
+    "questions": [
+      {
+        "question": "Ich gehe jetzt ins Kaufhaus. Da kaufe ich meiner Frau einen Ring und meinem Sohn schenke ich einen Ball und meinem Töchterchen ein Auto.",
+        "options": ["Nominativ: Ich; Akkusativ: einen Ring, einen Ball, ein Auto; Dativ: meiner Frau, meinem Sohn, meinem Töchterchen", "Nominativ: Kaufhaus; Akkusativ: Frau, Sohn; Dativ: Ring, Ball, Auto", "Nominativ: Ring, Ball; Akkusativ: Frau, Sohn; Dativ: Kaufhaus", "Nominativ: Frau, Sohn; Akkusativ: Kaufhaus; Dativ: Ring, Ball"],
+        "reponse": "Nominativ: Ich; Akkusativ: einen Ring, einen Ball, ein Auto; Dativ: meiner Frau, meinem Sohn, meinem Töchterchen"
+      },
+      {
+        "question": "Meinen beiden Kindern kaufe ich Süßigkeiten. Ich liebe meine Familie.",
+        "options": ["Nominativ: Ich; Akkusativ: Süßigkeiten, meine Familie; Dativ: Meinen beiden Kindern", "Nominativ: Kinder; Akkusativ: ich; Dativ: Süßigkeiten", "Nominativ: Süßigkeiten; Akkusativ: Kinder; Dativ: ich", "Nominativ: Familie; Akkusativ: Kindern; Dativ: ich"],
+        "reponse": "Nominativ: Ich; Akkusativ: Süßigkeiten, meine Familie; Dativ: Meinen beiden Kindern"
+      },
+      {
+        "question": "Im Café schicke ich meinem Vater Fotos. Dann gehe ich ins Kino. Ich mag Filme sehr.",
+        "options": ["Nominativ: Ich; Akkusativ: Fotos, Filme; Dativ: meinem Vater", "Nominativ: Fotos; Akkusativ: Vater; Dativ: Café", "Nominativ: Kino; Akkusativ: ich; Dativ: Fotos", "Nominativ: Vater; Akkusativ: Kino; Dativ: ich"],
+        "reponse": "Nominativ: Ich; Akkusativ: Fotos, Filme; Dativ: meinem Vater"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "verb-akdat-03",
+    "theme": "Verben mit Akkusativ und Dativ",
+    "sous_theme": "Verben ordnen",
+    "niveau": "A2",
+    "type": "classer",
+    "consigne": "Ordnen Sie die Verben.",
+    "questions": [
+      {
+        "question": "schenken, kaufen, servieren, essen, kommen, trinken, verkaufen, lachen, wohnen, schlafen, gehen, lesen, geben, treffen, lieben, besuchen, haben, möchten, sein, finden, bringen, zeigen",
+        "options": [],
+        "reponse": "Nur ein Subjekt: kommen, lachen, wohnen, schlafen, gehen, sein | Ein Subjekt und ein Objekt: essen, trinken, lesen, treffen, lieben, besuchen, haben, möchten, finden | Ein Subjekt, ein Objekt und eine Person: schenken, kaufen, servieren, verkaufen, geben, bringen, zeigen"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "verb-akdat-04",
+    "theme": "Verben mit Akkusativ und Dativ",
+    "sous_theme": "Weihnachten - Artikel ergänzen",
+    "niveau": "A2",
+    "type": "completer",
+    "consigne": "WEIHNACHTEN. Ergänzen Sie die Artikel (wenn nötig).",
+    "questions": [
+      {
+        "question": "Am 24.12. kommt in Deutschland d___ Weihnachtsmann.",
+        "options": ["er", "en", "em", "e"],
+        "reponse": "er"
+      },
+      {
+        "question": "Er bringt d___ Kinder___ d___ Geschenke.",
+        "options": ["en / -n / die", "em / -n / der", "en / - / das", "en / -n / die"],
+        "reponse": "en / -n / die"
+      },
+      {
+        "question": "D___ Eltern schenkt er manchmal auch etwas.",
+        "options": ["Den", "Der", "Dem", "Die"],
+        "reponse": "Den"
+      },
+      {
+        "question": "D___ Kinder möchten d___ Weihnachtsmann gerne sehen.",
+        "options": ["Die / den", "Der / dem", "Das / das", "Die / der"],
+        "reponse": "Die / den"
+      },
+      {
+        "question": "Meistens kommt er heimlich und legt d___ Geschenke unter den Weihnachtsbaum.",
+        "options": ["die", "der", "das", "den"],
+        "reponse": "die"
+      },
+      {
+        "question": "Oft schenkt er d___ Kinder___ Spielsachen, d___ Vater ein___ Krawatte und d___ Mutter ein___ Flasche Parfüm.",
+        "options": ["en / -n / der / eine / der / eine", "em / -n / dem / ein / der / eine", "en / - / der / eine / der / eine", "en / -n / dem / eine / der / eine"],
+        "reponse": "en / -n / der / eine / der / eine"
+      },
+      {
+        "question": "D___ Kinder packen d___ Geschenke aus und spielen gleich mit den neuen Sachen.",
+        "options": ["Die / die", "Der / der", "Das / das", "Die / der"],
+        "reponse": "Die / die"
+      },
+      {
+        "question": "Am 25.12. besucht d___ Familie oft d___ Großeltern.",
+        "options": ["die / die", "der / die", "das / das", "die / der"],
+        "reponse": "die / die"
+      },
+      {
+        "question": "D___ Großmutter kocht dann ein___ gutes Essen und die Kinder zeigen d___ Großeltern d___ neuen Geschenke.",
+        "options": ["Die / ein / den / die", "Der / ein / dem / das", "Die / ein / den / die", "Die / eine / den / die"],
+        "reponse": "Die / ein / den / die"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "verb-akdat-05",
+    "theme": "Verben mit Akkusativ und Dativ",
+    "sous_theme": "Vaters Geburtstag - Artikel ergänzen",
+    "niveau": "A2",
+    "type": "completer",
+    "consigne": "VATERS GEBURTSTAG. Ergänzen Sie die Artikel (wenn nötig).",
+    "questions": [
+      {
+        "question": "Mein___ Vater hat Geburtstag. Ich schenke mein___ Vater ein___ Kugelschreiber.",
+        "options": ["- / em / eine", "er / en / eine", "- / em / ein", "er / en / ein"],
+        "reponse": "- / em / eine"
+      },
+      {
+        "question": "Mein___ Vater ist glücklich. Er findet d___ Kugelschreiber super!",
+        "options": ["- / en", "- / die", "er / den", "- / den"],
+        "reponse": "- / en"
+      },
+      {
+        "question": "Mein___ Schwester gibt mein___ Vater ihr___ schönstes Foto.",
+        "options": ["- / em / ihr", "e / em / ihr", "- / en / ihre", "e / em / ihre"],
+        "reponse": "- / em / ihr"
+      },
+      {
+        "question": "Mein___ Mutter schenkt ihr___ Mann ein___ Pullover.",
+        "options": ["- / em / einen", "e / em / einen", "- / em / ein", "e / en / einen"],
+        "reponse": "- / em / einen"
+      },
+      {
+        "question": "Am Nachmittag kommen d___ Gäste. D___ Gäste besuchen mein___ Vater.",
+        "options": ["ie / ie / -", "ie / ie / en", "en / en / -", "ie / ie / en"],
+        "reponse": "ie / ie / en"
+      },
+      {
+        "question": "Ich serviere d___ Gästen d___ Kaffee.",
+        "options": ["en / en", "em / en", "en / dem", "em / dem"],
+        "reponse": "en / en"
+      },
+      {
+        "question": "Mein___ Schwester kauft ein___ Kuchen. D___ Gäste trinken d___ Kaffee.",
+        "options": ["- / en / ie / en", "e / en / ie / en", "- / en / ie / en", "e / - / ie / en"],
+        "reponse": "- / en / ie / en"
+      },
+      {
+        "question": "D___ Kuchen ist wunderbar. Mein___ Vater trägt sein___ neuen Pullover.",
+        "options": ["Der / - / en", "Der / - / en", "Den / - / en", "Der / er / en"],
+        "reponse": "Der / - / en"
+      },
+      {
+        "question": "Um 20 Uhr gehen d___ Gäste nach Hause. Mein___ Schwester bringt mein___ Vater mit dem Auto ins Restaurant.",
+        "options": ["ie / - / en", "ie / - / en", "en / - / em", "ie / e / em"],
+        "reponse": "ie / - / en"
+      },
+      {
+        "question": "Er trifft sein___ Freunde im Restaurant. Mein___ Mutter räumt d___ Wohnung auf.",
+        "options": ["e / - / ie", "en / - / ie", "e / - / ie", "en / e / ie"],
+        "reponse": "e / - / ie"
+      },
+      {
+        "question": "Um 24 Uhr holt mein___ Mutter mein___ Vater im Restaurant ab.",
+        "options": ["- / en", "- / en", "e / en", "- / em"],
+        "reponse": "- / en"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "verb-akdat-06",
+    "theme": "Verben mit Akkusativ und Dativ",
+    "sous_theme": "Ein Geschenk - Pronomen",
+    "niveau": "A2",
+    "type": "completer",
+    "consigne": "EIN GESCHENK. Ergänzen Sie die Personalpronomen.",
+    "questions": [
+      {
+        "question": "Mein Bruder hat morgen Geburtstag. Ich mag ___ sehr.",
+        "options": ["ihn", "ihm", "er", "es"],
+        "reponse": "ihn"
+      },
+      {
+        "question": "Deshalb möchte ich ___ ein schönes Geschenk kaufen.",
+        "options": ["ihm", "ihn", "er", "es"],
+        "reponse": "ihm"
+      },
+      {
+        "question": "Im Geschäft suche ich die Verkäuferin und frage ___: „Haben Sie sehr gute Herrenuhren?\"",
+        "options": ["sie", "ihr", "ihnen", "es"],
+        "reponse": "sie"
+      },
+      {
+        "question": "Die Verkäuferin sagt: „Ich zeige ___ gern ein paar schöne Herrenuhren.\"",
+        "options": ["Ihnen", "ihnen", "Sie", "sie"],
+        "reponse": "Ihnen"
+      },
+      {
+        "question": "Die Uhren sind wirklich sehr schön. Ich kaufe eine wunderbare Uhr und bezahle ___ an der Kasse.",
+        "options": ["sie", "ihnen", "es", "ihr"],
+        "reponse": "sie"
+      },
+      {
+        "question": "Morgen fahre ich zu meinem Bruder und gebe ___ die Uhr.",
+        "options": ["ihm", "ihn", "er", "es"],
+        "reponse": "ihm"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "verb-dat-01",
+    "theme": "Verben mit Nominativ und Dativ",
+    "sous_theme": "Sätze mit Person im Dativ",
+    "niveau": "A2",
+    "type": "ordre",
+    "consigne": "Schreiben Sie Sätze mit der Person im Dativ.",
+    "questions": [
+      {
+        "question": "Mann • antworten • Frau",
+        "options": [],
+        "reponse": "Der Mann antwortet der Frau."
+      },
+      {
+        "question": "Eltern • gratulieren • Tochter",
+        "options": [],
+        "reponse": "Die Eltern gratulieren der Tochter."
+      },
+      {
+        "question": "Kind • helfen • Mann",
+        "options": [],
+        "reponse": "Das Kind hilft dem Mann."
+      },
+      {
+        "question": "Kinder • zuhören • Oma",
+        "options": [],
+        "reponse": "Die Kinder hören der Oma zu."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "verb-dat-02",
+    "theme": "Verben mit Nominativ und Dativ",
+    "sous_theme": "Sätze mit Sache im Nominativ",
+    "niveau": "A2",
+    "type": "ordre",
+    "consigne": "Schreiben Sie Sätze mit der Sache im Nominativ.",
+    "questions": [
+      {
+        "question": "Haus • gefallen • Leute",
+        "options": [],
+        "reponse": "Das Haus gefällt den Leuten."
+      },
+      {
+        "question": "Wein • schmecken • Frau • nicht",
+        "options": [],
+        "reponse": "Der Wein schmeckt der Frau nicht."
+      },
+      {
+        "question": "Schuhe • passen • Mann • gut",
+        "options": [],
+        "reponse": "Die Schuhe passen dem Mann gut."
+      },
+      {
+        "question": "Auto • gehören • Chef",
+        "options": [],
+        "reponse": "Das Auto gehört dem Chef."
+      },
+      {
+        "question": "Jacke • stehen • Mädchen • nicht gut",
+        "options": [],
+        "reponse": "Die Jacke steht dem Mädchen nicht gut."
+      },
+      {
+        "question": "Film • gefallen • Freunde",
+        "options": [],
+        "reponse": "Der Film gefällt den Freunden."
+      },
+      {
+        "question": "Kopf • wehtun • Frau",
+        "options": [],
+        "reponse": "Der Kopf tut der Frau weh."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "verb-dat-03",
+    "theme": "Verben mit Nominativ und Dativ",
+    "sous_theme": "Verben mit Dativ anwenden",
+    "niveau": "A2",
+    "type": "ordre",
+    "consigne": "Schreiben Sie Sätze mit den Verben antworten, danken, glauben, gratulieren, helfen, zuhören.",
+    "questions": [
+      {
+        "question": "Ich frage den Mann. Er ___\n→ Verb: antworten\n→ Beispiel: Sie antwortet dem Lehrer.",
+        "options": [],
+        "reponse": "Er antwortet mir."
+      },
+      {
+        "question": "Du hast mir sehr geholfen. Ich ___\n→ Verb: danken\n→ Beispiel: Ich danke meiner Mutter.",
+        "options": [],
+        "reponse": "Ich danke dir."
+      },
+      {
+        "question": "Du bist ein guter Freund. Was du sagst, ist immer richtig. Ich ___\n→ Verb: glauben\n→ Beispiel: Er glaubt seinem Bruder.",
+        "options": [],
+        "reponse": "Ich glaube dir."
+      },
+      {
+        "question": "Anastasia hat Geburtstag. Wir ___\n→ Verb: gratulieren\n→ Beispiel: Ich gratuliere meinem Vater.",
+        "options": [],
+        "reponse": "Wir gratulieren ihr."
+      },
+      {
+        "question": "Du hast Probleme. Ich ___\n→ Verb: helfen\n→ Beispiel: Sie hilft ihrer Schwester.",
+        "options": [],
+        "reponse": "Ich helfe dir."
+      },
+      {
+        "question": "Der Vater erzählt eine Geschichte. Die Kinder ___\n→ Verb: zuhören\n→ Beispiel: Er hört dem Lehrer zu.",
+        "options": [],
+        "reponse": "Die Kinder hören ihm zu."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "verb-dat-04",
+    "theme": "Verben mit Nominativ und Dativ",
+    "sous_theme": "Es tut ... leid",
+    "niveau": "A2",
+    "type": "ordre",
+    "consigne": "Was sagt man? Schreiben Sie Sätze mit „Es tut ... leid.\"",
+    "questions": [
+      {
+        "question": "Ich habe einen Fehler gemacht.",
+        "options": [],
+        "reponse": "Es tut mir leid."
+      },
+      {
+        "question": "Mein Sohn hat einen Fehler gemacht.",
+        "options": [],
+        "reponse": "Es tut ihm leid."
+      },
+      {
+        "question": "Meine Eltern haben einen Fehler gemacht.",
+        "options": [],
+        "reponse": "Es tut ihnen leid."
+      },
+      {
+        "question": "Meine Tochter hat einen Fehler gemacht.",
+        "options": [],
+        "reponse": "Es tut ihr leid."
+      },
+      {
+        "question": "Du hast einen Fehler gemacht.",
+        "options": [],
+        "reponse": "Es tut dir leid."
+      },
+      {
+        "question": "Wir haben einen Fehler gemacht.",
+        "options": [],
+        "reponse": "Es tut uns leid."
+      },
+      {
+        "question": "Mein Kind hat einen Fehler gemacht.",
+        "options": [],
+        "reponse": "Es tut ihm/ihr leid."
+      },
+      {
+        "question": "Ihr habt einen Fehler gemacht.",
+        "options": [],
+        "reponse": "Es tut euch leid."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "verb-dat-05",
+    "theme": "Verben mit Nominativ und Dativ",
+    "sous_theme": "Verben mit Dativ - Kontext",
+    "niveau": "A2",
+    "type": "ordre",
+    "consigne": "Schreiben Sie Sätze mit den Verben mit Dativ: schmecken, wehtun, gehören, gefallen, schlecht gehen, stehen, passen.",
+    "questions": [
+      {
+        "question": "Morgen Abend habe ich keine Zeit.\n→ Verb: passen\n→ Beispiel: Das Kleid passt mir gut.",
+        "options": [],
+        "reponse": "Morgen Abend passt es mir nicht."
+      },
+      {
+        "question": "Wir finden Frankfurt schön.\n→ Verb: gefallen\n→ Beispiel: Das Buch gefällt mir.",
+        "options": [],
+        "reponse": "Frankfurt gefällt uns."
+      },
+      {
+        "question": "Emilia ist krank.\n→ Verb: schlecht gehen\n→ Beispiel: Wie geht es dir? - Es geht mir gut.",
+        "options": [],
+        "reponse": "Es geht ihr schlecht."
+      },
+      {
+        "question": "Die Suppe ist wunderbar!\n→ Verb: schmecken\n→ Beispiel: Der Kuchen schmeckt uns.",
+        "options": [],
+        "reponse": "Die Suppe schmeckt mir."
+      },
+      {
+        "question": "Das ist nicht meine Uhr.\n→ Verb: gehören\n→ Beispiel: Wem gehört das Auto? - Es gehört mir.",
+        "options": [],
+        "reponse": "Die Uhr gehört mir nicht."
+      },
+      {
+        "question": "Die Hose ist zu klein.\n→ Verb: passen\n→ Beispiel: Die Schuhe passen mir nicht.",
+        "options": [],
+        "reponse": "Die Hose passt mir nicht."
+      },
+      {
+        "question": "Ich habe Halsschmerzen.\n→ Verb: wehtun\n→ Beispiel: Der Kopf tut mir weh.",
+        "options": [],
+        "reponse": "Der Hals tut mir weh."
+      },
+      {
+        "question": "Dein Hut sieht toll aus.\n→ Verb: stehen\n→ Beispiel: Die Brille steht dir gut.",
+        "options": [],
+        "reponse": "Der Hut steht dir gut."
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "verb-dat-06",
+    "theme": "Verben mit Nominativ und Dativ",
+    "sous_theme": "Clemens liebt Eva - Pronomen",
+    "niveau": "A2",
+    "type": "completer",
+    "consigne": "CLEMENS LIEBT EVA. Nominativ, Akkusativ oder Dativ? Ergänzen Sie die Personalpronomen.",
+    "questions": [
+      {
+        "question": "Das ist Eva. ___ ist süß.",
+        "options": ["Sie", "Ihr", "Ihnen", "Es"],
+        "reponse": "Sie"
+      },
+      {
+        "question": "Ich finde ___ wunderbar.",
+        "options": ["sie", "ihr", "ihnen", "es"],
+        "reponse": "sie"
+      },
+      {
+        "question": "Sie gefällt ___ sehr.",
+        "options": ["mir", "mich", "ich", "dir"],
+        "reponse": "mir"
+      },
+      {
+        "question": "___ sieht toll aus.",
+        "options": ["Sie", "Ihr", "Ihnen", "Es"],
+        "reponse": "Sie"
+      },
+      {
+        "question": "Jede Farbe steht ___.",
+        "options": ["ihr", "sie", "ihnen", "es"],
+        "reponse": "ihr"
+      },
+      {
+        "question": "Manchmal rufe ich ___ an und frage ___ etwas.",
+        "options": ["sie / sie", "ihr / ihr", "sie / ihr", "ihr / sie"],
+        "reponse": "sie / sie"
+      },
+      {
+        "question": "Ich höre ___ immer zu.",
+        "options": ["ihr", "sie", "ihnen", "es"],
+        "reponse": "ihr"
+      },
+      {
+        "question": "Ich antworte ___ auch immer sofort.",
+        "options": ["ihr", "sie", "ihnen", "es"],
+        "reponse": "ihr"
+      },
+      {
+        "question": "Wenn ich kann, helfe ich ___.",
+        "options": ["ihr", "sie", "ihnen", "es"],
+        "reponse": "ihr"
+      },
+      {
+        "question": "Wenn sie Zeit hat, passt ___ der Termin immer.",
+        "options": ["ihr", "sie", "ihnen", "es"],
+        "reponse": "ihr"
+      },
+      {
+        "question": "Ich liebe ___.",
+        "options": ["sie", "ihr", "ihnen", "es"],
+        "reponse": "sie"
+      },
+      {
+        "question": "Ihre Küsse schmecken ___ so gut!",
+        "options": ["mir", "mich", "ich", "dir"],
+        "reponse": "mir"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "verb-dat-07",
+    "theme": "Verben mit Nominativ und Dativ",
+    "sous_theme": "Sätze transformieren",
+    "niveau": "A2",
+    "type": "ordre",
+    "consigne": "Nominativ, Akkusativ oder Dativ? Schreiben Sie Sätze.",
+    "questions": [
+      {
+        "question": "1a: Mann (der) • Frau (die) • Blumen (Pl.) • schenken",
+        "options": [],
+        "reponse": "Der Mann schenkt der Frau Blumen."
+      },
+      {
+        "question": "1b: Blumen (Pl.) • Frau (die) • gefallen",
+        "options": [],
+        "reponse": "Die Blumen gefallen der Frau."
+      },
+      {
+        "question": "2a: Kellner (der) • Gäste (Pl.) • Essen (das) • servieren",
+        "options": [],
+        "reponse": "Der Kellner serviert den Gästen das Essen."
+      },
+      {
+        "question": "2b: Gäste (Pl.) • Essen (das) • schmecken",
+        "options": [],
+        "reponse": "Das Essen schmeckt den Gästen."
+      },
+      {
+        "question": "3a: Chef (der) • Assistentin (die) • fragen",
+        "options": [],
+        "reponse": "Der Chef fragt die Assistentin."
+      },
+      {
+        "question": "3b: Assistentin (die) • Chef (der) • antworten",
+        "options": [],
+        "reponse": "Die Assistentin antwortet dem Chef."
+      },
+      {
+        "question": "4a: Mädchen (das) • Freund (der) • E-Mail (die) • schreiben",
+        "options": [],
+        "reponse": "Das Mädchen schreibt dem Freund eine E-Mail."
+      },
+      {
+        "question": "4b: Freund (der) • E-Mail (die) • lesen",
+        "options": [],
+        "reponse": "Der Freund liest die E-Mail."
+      },
+      {
+        "question": "5a: Mutter (die) • Kind (das) • Jacke (die) • kaufen",
+        "options": [],
+        "reponse": "Die Mutter kauft dem Kind eine Jacke."
+      },
+      {
+        "question": "5b: Jacke (die) • Kind (das) • passen",
+        "options": [],
+        "reponse": "Die Jacke passt dem Kind."
+      },
+      {
+        "question": "6a: Vater (der) • Sohn (der) • Fahrrad (das) • reparieren",
+        "options": [],
+        "reponse": "Der Vater repariert dem Sohn das Fahrrad."
+      },
+      {
+        "question": "6b: Sohn (der) • Vater (der) • helfen",
+        "options": [],
+        "reponse": "Der Sohn hilft dem Vater."
+      },
+      {
+        "question": "7a: Fuß (der) • Mann (der) • wehtun",
+        "options": [],
+        "reponse": "Der Fuß tut dem Mann weh."
+      },
+      {
+        "question": "7b: Arzt (der) • Mann (der) • helfen",
+        "options": [],
+        "reponse": "Der Arzt hilft dem Mann."
+      },
+      {
+        "question": "8a: Eltern (Pl.) • Sohn (der) • Auto (das) • schenken",
+        "options": [],
+        "reponse": "Die Eltern schenken dem Sohn ein Auto."
+      },
+      {
+        "question": "8b: Auto (das) • Sohn (der) • gehören",
+        "options": [],
+        "reponse": "Das Auto gehört dem Sohn."
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "frag-01",
+    "theme": "Fragen nach Personen und Sachen",
+    "sous_theme": "wer, was, wen, wem - kombinieren",
+    "niveau": "A2",
+    "type": "associer",
+    "consigne": "Was passt zusammen? Kombinieren Sie.",
+    "questions": [
+      {
+        "question": "Wer kommt heute?",
+        "options": ["Der Lehrer.", "Den Lehrer.", "Dem Lehrer.", "Mit dem Lehrer."],
+        "reponse": "Der Lehrer."
+      },
+      {
+        "question": "Mit wem geht ihr ins Theater?",
+        "options": ["Mit dem Lehrer.", "Der Lehrer.", "Den Lehrer.", "Dem Lehrer."],
+        "reponse": "Mit dem Lehrer."
+      },
+      {
+        "question": "Wen hast du gestern gefragt?",
+        "options": ["Den Lehrer.", "Der Lehrer.", "Dem Lehrer.", "Mit dem Lehrer."],
+        "reponse": "Den Lehrer."
+      },
+      {
+        "question": "Wem gehört die Tasche?",
+        "options": ["Dem Lehrer.", "Der Lehrer.", "Den Lehrer.", "Mit dem Lehrer."],
+        "reponse": "Dem Lehrer."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "frag-02",
+    "theme": "Fragen nach Personen und Sachen",
+    "sous_theme": "Fragewörter ergänzen",
+    "niveau": "A2",
+    "type": "completer",
+    "consigne": "Ergänzen Sie die Fragewörter wer, was, wen, wem.",
+    "questions": [
+      {
+        "question": "___ isst du gerne?",
+        "options": ["Was", "Wer", "Wen", "Wem"],
+        "reponse": "Was"
+      },
+      {
+        "question": "___ hilfst du oft?",
+        "options": ["Wem", "Wer", "Was", "Wen"],
+        "reponse": "Wem"
+      },
+      {
+        "question": "___ liebst du am meisten in deiner Familie?",
+        "options": ["Wen", "Wer", "Was", "Wem"],
+        "reponse": "Wen"
+      },
+      {
+        "question": "___ triffst du oft?",
+        "options": ["Wen", "Wer", "Was", "Wem"],
+        "reponse": "Wen"
+      },
+      {
+        "question": "___ ist dein Chef?",
+        "options": ["Wer", "Was", "Wen", "Wem"],
+        "reponse": "Wer"
+      },
+      {
+        "question": "___ liegt da auf dem Tisch?",
+        "options": ["Was", "Wer", "Wen", "Wem"],
+        "reponse": "Was"
+      },
+      {
+        "question": "___ kaufst du oft?",
+        "options": ["Was", "Wer", "Wen", "Wem"],
+        "reponse": "Was"
+      },
+      {
+        "question": "___ schenkst du manchmal Blumen?",
+        "options": ["Wem", "Wer", "Was", "Wen"],
+        "reponse": "Wem"
+      },
+      {
+        "question": "___ fragst du, wenn du Probleme hast?",
+        "options": ["Wen", "Wer", "Was", "Wem"],
+        "reponse": "Wen"
+      },
+      {
+        "question": "___ wohnt neben dir?",
+        "options": ["Wer", "Was", "Wen", "Wem"],
+        "reponse": "Wer"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "frag-03",
+    "theme": "Fragen nach Personen und Sachen",
+    "sous_theme": "Fragen bilden",
+    "niveau": "A2",
+    "type": "ordre",
+    "consigne": "Schreiben Sie die Frage nach dem unterstrichenen Satzteil.",
+    "questions": [
+      {
+        "question": "Ich kaufe meiner Schwester eine Jacke. (unterstrichen: meiner Schwester)",
+        "options": [],
+        "reponse": "Wem kaufst du eine Jacke?"
+      },
+      {
+        "question": "Ich kaufe meiner Schwester eine Jacke. (unterstrichen: eine Jacke)",
+        "options": [],
+        "reponse": "Was kaufst du deiner Schwester?"
+      },
+      {
+        "question": "Ich kenne den Mann. (unterstrichen: den Mann)",
+        "options": [],
+        "reponse": "Wen kennst du?"
+      },
+      {
+        "question": "Er trinkt gerne Espresso. (unterstrichen: Espresso)",
+        "options": [],
+        "reponse": "Was trinkt er gerne?"
+      },
+      {
+        "question": "Er trinkt gerne Espresso. (unterstrichen: gerne)",
+        "options": [],
+        "reponse": "Wie trinkt er Espresso?"
+      },
+      {
+        "question": "Lennard liebt Lisa. (unterstrichen: Lennard)",
+        "options": [],
+        "reponse": "Wer liebt Lisa?"
+      },
+      {
+        "question": "Lennard liebt Lisa. (unterstrichen: Lisa)",
+        "options": [],
+        "reponse": "Wen liebt Lennard?"
+      },
+      {
+        "question": "Frankfurt gefällt mir gut. (unterstrichen: Frankfurt)",
+        "options": [],
+        "reponse": "Was gefällt dir gut?"
+      },
+      {
+        "question": "Frankfurt gefällt mir gut. (unterstrichen: mir)",
+        "options": [],
+        "reponse": "Wem gefällt Frankfurt gut?"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "frag-04",
+    "theme": "Fragen nach Personen und Sachen",
+    "sous_theme": "Präpositionen mit Fragewörtern",
+    "niveau": "A2",
+    "type": "completer",
+    "consigne": "Ergänzen Sie die Fragewörter mit Präposition.",
+    "questions": [
+      {
+        "question": "Ohne ___ kannst du nicht leben?",
+        "options": ["wen", "wem", "wer", "was"],
+        "reponse": "wen"
+      },
+      {
+        "question": "Mit ___ arbeitest du gerne zusammen?",
+        "options": ["wem", "wen", "wer", "was"],
+        "reponse": "wem"
+      },
+      {
+        "question": "Bei ___ wohnt er jetzt?",
+        "options": ["wem", "wen", "wer", "was"],
+        "reponse": "wem"
+      },
+      {
+        "question": "Für ___ hast du das Bier bestellt?",
+        "options": ["wen", "wem", "wer", "was"],
+        "reponse": "wen"
+      },
+      {
+        "question": "Von ___ hast du die E-Mail bekommen?",
+        "options": ["wem", "wen", "wer", "was"],
+        "reponse": "wem"
+      },
+      {
+        "question": "Mit ___ möchtest du in der Freizeit etwas machen?",
+        "options": ["wem", "wen", "wer", "was"],
+        "reponse": "wem"
+      },
+      {
+        "question": "Bei ___ war sie gestern?",
+        "options": ["wem", "wen", "wer", "was"],
+        "reponse": "wem"
+      },
+      {
+        "question": "Zu ___ fährst du?",
+        "options": ["wem", "wen", "wer", "was"],
+        "reponse": "wem"
+      },
+      {
+        "question": "Für ___ hast du immer Zeit?",
+        "options": ["wen", "wem", "wer", "was"],
+        "reponse": "wen"
+      },
+      {
+        "question": "Von ___ bekommst du Geschenke?",
+        "options": ["wem", "wen", "wer", "was"],
+        "reponse": "wem"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "frag-05",
+    "theme": "Fragen nach Personen und Sachen",
+    "sous_theme": "Kombinieren - Antworten",
+    "niveau": "A2",
+    "type": "associer",
+    "consigne": "Was passt zusammen? Kombinieren Sie.",
+    "questions": [
+      {
+        "question": "Wem gehört die Brille?",
+        "options": ["Das ist meine, ich habe sie hier vergessen.", "Meinen Bruder. Er ist gerade aus dem Bus ausgestiegen.", "Ich bin alleine gefahren.", "Das ist ein Geschenk von meinen Eltern.", "Ich habe Luisa besucht.", "Das weiß ich von meiner Nachbarin."],
+        "reponse": "Das ist meine, ich habe sie hier vergessen."
+      },
+      {
+        "question": "Wen hast du gesehen?",
+        "options": ["Meinen Bruder. Er ist gerade aus dem Bus ausgestiegen.", "Das ist meine, ich habe sie hier vergessen.", "Ich bin alleine gefahren.", "Das ist ein Geschenk von meinen Eltern.", "Ich habe Luisa besucht.", "Das weiß ich von meiner Nachbarin."],
+        "reponse": "Meinen Bruder. Er ist gerade aus dem Bus ausgestiegen."
+      },
+      {
+        "question": "Mit wem bist du nach Italien gefahren?",
+        "options": ["Ich bin alleine gefahren.", "Meinen Bruder. Er ist gerade aus dem Bus ausgestiegen.", "Das ist meine, ich habe sie hier vergessen.", "Das ist ein Geschenk von meinen Eltern.", "Ich habe Luisa besucht.", "Das weiß ich von meiner Nachbarin."],
+        "reponse": "Ich bin alleine gefahren."
+      },
+      {
+        "question": "Von wem hast du die schöne Kette bekommen?",
+        "options": ["Das ist ein Geschenk von meinen Eltern.", "Ich bin alleine gefahren.", "Meinen Bruder. Er ist gerade aus dem Bus ausgestiegen.", "Das ist meine, ich habe sie hier vergessen.", "Ich habe Luisa besucht.", "Das weiß ich von meiner Nachbarin."],
+        "reponse": "Das ist ein Geschenk von meinen Eltern."
+      },
+      {
+        "question": "Bei wem warst du gestern?",
+        "options": ["Ich habe Luisa besucht.", "Das ist ein Geschenk von meinen Eltern.", "Ich bin alleine gefahren.", "Meinen Bruder. Er ist gerade aus dem Bus ausgestiegen.", "Das ist meine, ich habe sie hier vergessen.", "Das weiß ich von meiner Nachbarin."],
+        "reponse": "Ich habe Luisa besucht."
+      },
+      {
+        "question": "Wer hat dir das gesagt?",
+        "options": ["Das weiß ich von meiner Nachbarin.", "Ich habe Luisa besucht.", "Das ist ein Geschenk von meinen Eltern.", "Ich bin alleine gefahren.", "Meinen Bruder. Er ist gerade aus dem Bus ausgestiegen.", "Das ist meine, ich habe sie hier vergessen."],
+        "reponse": "Das weiß ich von meiner Nachbarin."
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "frag-06",
+    "theme": "Fragen nach Personen und Sachen",
+    "sous_theme": "Fragen mit Präpositionen bilden",
+    "niveau": "A2",
+    "type": "ordre",
+    "consigne": "Ergänzen Sie die Fragewörter für Personen und die Präposition, wenn nötig.",
+    "questions": [
+      {
+        "question": "Ich heirate. Wie bitte? ___ heiratest du?",
+        "options": [],
+        "reponse": "Wen heiratest du?"
+      },
+      {
+        "question": "Sie fährt mit in Urlaub. Wie bitte? ___ fährt sie in Urlaub?",
+        "options": [],
+        "reponse": "Mit wem fährt sie in Urlaub?"
+      },
+      {
+        "question": "Wir kaufen das Auto für. Wie bitte? ___ kauft ihr das Auto?",
+        "options": [],
+        "reponse": "Für wen kauft ihr das Auto?"
+      },
+      {
+        "question": "Ich schenke ein Buch. Wie bitte? ___ schenkst du ein Buch?",
+        "options": [],
+        "reponse": "Wem schenkst du ein Buch?"
+      },
+      {
+        "question": "___ kann zehn Hamburger essen. Wie bitte? ___ kann zehn Hamburger essen?",
+        "options": [],
+        "reponse": "Wer / Wer"
+      },
+      {
+        "question": "Nächste Woche treffe ich. Wie bitte? ___ triffst du nächste Woche?",
+        "options": [],
+        "reponse": "Wen triffst du nächste Woche?"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  }
+]

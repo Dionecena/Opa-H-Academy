@@ -1,0 +1,2502 @@
+[
+  {
+    "id": "pers-pron-01-sol",
+    "theme": "Personalpronomen",
+    "sous_theme": "Ersatzform",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "Ersetzen Sie die unterstrichenen Wörter durch Personalpronomen.",
+    "questions": [
+      {
+        "question": "___ kommen aus Spanien. (Wir)",
+        "options": ["Wir", "Sie", "Ihr", "Er"],
+        "reponse": "Wir"
+      },
+      {
+        "question": "___ sind Studenten. (Sie)",
+        "options": ["Sie", "Wir", "Ihr", "Er"],
+        "reponse": "Sie"
+      },
+      {
+        "question": "___ bist mein Freund. (du)",
+        "options": ["du", "Sie", "ihr", "er"],
+        "reponse": "du"
+      },
+      {
+        "question": "___ ist Lehrer. (Er)",
+        "options": ["Er", "Sie", "Es", "Der"],
+        "reponse": "Er"
+      }
+    ],
+    "difficulty": "facile",
+    "score": 1
+  },
+  {
+    "id": "pers-pron-02-sol",
+    "theme": "Personalpronomen",
+    "sous_theme": "Anrede",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "Ergänzen Sie die Personalpronomen.",
+    "questions": [
+      {
+        "question": "Kommt ___ aus Deutschland? (er, sie, Sie)",
+        "options": ["er, sie, Sie", "sie, er, Sie", "Sie, er, sie", "er, Sie, sie"],
+        "reponse": "er, sie, Sie"
+      },
+      {
+        "question": "Bist ___ Student? (du, Ich)",
+        "options": ["du, Ich", "Ich, du", "du, Sie", "Sie, du"],
+        "reponse": "du, Ich"
+      },
+      {
+        "question": "Seid ___ müde? (ihr, Wir)",
+        "options": ["ihr, Wir", "Wir, ihr", "ihr, Sie", "Sie, ihr"],
+        "reponse": "ihr, Wir"
+      },
+      {
+        "question": "Sprechen ___ Deutsch? (Sie, ich)",
+        "options": ["Sie, ich", "ich, Sie", "Sie, wir", "wir, Sie"],
+        "reponse": "Sie, ich"
+      }
+    ],
+    "difficulty": "facile",
+    "score": 1
+  },
+  {
+    "id": "pers-pron-03-sol",
+    "theme": "Personalpronomen",
+    "sous_theme": "Sie oder du?",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "Sie oder du? Ergänzen Sie.",
+    "questions": [
+      {
+        "question": "Können ___ mir helfen?",
+        "options": ["Sie", "sie", "du", "ihr"],
+        "reponse": "Sie"
+      },
+      {
+        "question": "Wollen ___ mitkommen?",
+        "options": ["Sie", "sie", "du", "ihr"],
+        "reponse": "Sie"
+      },
+      {
+        "question": "___ möchte einen Kaffee.",
+        "options": ["Sie, Ich", "Sie, ich", "Du, ich", "du, Ich"],
+        "reponse": "Sie, Ich"
+      },
+      {
+        "question": "Hast ___ Zeit?",
+        "options": ["du, ich", "Du, ich", "Sie, ich", "du, ich"],
+        "reponse": "du, ich"
+      }
+    ],
+    "difficulty": "facile",
+    "score": 1
+  },
+  {
+    "id": "konj-praes-01-sol",
+    "theme": "Konjugation Präsens",
+    "sous_theme": "Verben konjugieren",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "Konjugieren Sie die Verben.",
+    "questions": [
+      {
+        "question": "Ich ___, du ___, er ___ (kommen, kommen, kommt)",
+        "options": ["komme, kommst, kommt", "kommt, komme, kommst", "komme, kommt, kommst", "kommst, komme, kommt"],
+        "reponse": "komme, kommst, kommt"
+      },
+      {
+        "question": "Wir ___, sie ___ (wohnen, wohnen)",
+        "options": ["wohnen, wohnen", "wohnt, wohnen", "wohnen, wohnt", "wohnt, wohnt"],
+        "reponse": "wohnen, wohnen"
+      },
+      {
+        "question": "___ du hier? ___ ich hier? (arbeitest, arbeite)",
+        "options": ["Arbeitest, Arbeite", "arbeite, arbeitest", "Arbeitest, arbeite", "arbeite, Arbeite"],
+        "reponse": "Arbeitest, Arbeite"
+      }
+    ],
+    "difficulty": "facile",
+    "score": 1
+  },
+  {
+    "id": "konj-praes-02-sol",
+    "theme": "Konjugation Präsens",
+    "sous_theme": "Kombinieren",
+    "niveau": "A1",
+    "type": "associer",
+    "consigne": "Was passt zusammen?",
+    "questions": [
+      {
+        "question": "Ich heiße",
+        "options": ["Müller.", "aus Spanien.", "Student.", "in Berlin."],
+        "reponse": "Müller."
+      },
+      {
+        "question": "Ich komme",
+        "options": ["aus Spanien.", "Müller.", "Student.", "in Berlin."],
+        "reponse": "aus Spanien."
+      },
+      {
+        "question": "Ich bin",
+        "options": ["Student.", "Müller.", "aus Spanien.", "in Berlin."],
+        "reponse": "Student."
+      },
+      {
+        "question": "Ich wohne",
+        "options": ["in Berlin.", "Müller.", "aus Spanien.", "Student."],
+        "reponse": "in Berlin."
+      }
+    ],
+    "difficulty": "facile",
+    "score": 1
+  },
+  {
+    "id": "konj-praes-03-sol",
+    "theme": "Konjugation Präsens",
+    "sous_theme": "Fragen bilden",
+    "niveau": "A1",
+    "type": "ordre",
+    "consigne": "Bilden Sie Fragen.",
+    "questions": [
+      {
+        "question": "Wie ___ er? (heißen)",
+        "options": [],
+        "reponse": "Wie heißt er?"
+      },
+      {
+        "question": "___ er aus Deutschland? (kommen)",
+        "options": [],
+        "reponse": "Kommt er aus Deutschland?"
+      },
+      {
+        "question": "___ du gut Deutsch? (verstehen)",
+        "options": [],
+        "reponse": "Verstehst du gut Deutsch?"
+      },
+      {
+        "question": "___ du in Berlin? (arbeiten)",
+        "options": [],
+        "reponse": "Arbeitest du in Berlin?"
+      }
+    ],
+    "difficulty": "facile",
+    "score": 1
+  },
+  {
+    "id": "bes-verb-01-sol",
+    "theme": "Besondere Verben",
+    "sous_theme": "sein konjugieren",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "Ergänzen Sie die Formen von sein.",
+    "questions": [
+      {
+        "question": "Das ___ mein Bruder.",
+        "options": ["ist", "sind", "bin", "sei"],
+        "reponse": "ist"
+      },
+      {
+        "question": "Er ___ 20 Jahre alt.",
+        "options": ["ist", "sind", "bin", "sei"],
+        "reponse": "ist"
+      },
+      {
+        "question": "___ Sie aus Deutschland?",
+        "options": ["Sind", "Ist", "Bin", "Sei"],
+        "reponse": "Sind"
+      },
+      {
+        "question": "Ich ___ Student.",
+        "options": ["bin", "ist", "sind", "sei"],
+        "reponse": "bin"
+      },
+      {
+        "question": "___ ihr müde?",
+        "options": ["Sind", "Ist", "Bin", "Seid"],
+        "reponse": "Sind"
+      }
+    ],
+    "difficulty": "facile",
+    "score": 1
+  },
+  {
+    "id": "bes-verb-02-sol",
+    "theme": "Besondere Verben",
+    "sous_theme": "haben konjugieren",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "Ergänzen Sie die Formen von haben.",
+    "questions": [
+      {
+        "question": "___ du einen Bruder? (Hast, habe)",
+        "options": ["Hast, habe", "habe, Hast", "Hast, hast", "Habe, habe"],
+        "reponse": "Hast, habe"
+      },
+      {
+        "question": "___ ihr Zeit? (Habt, haben)",
+        "options": ["Habt, haben", "haben, Habt", "Habt, habt", "Haben, haben"],
+        "reponse": "Habt, haben"
+      },
+      {
+        "question": "Er ___ eine Schwester. (hat, hat)",
+        "options": ["hat, hat", "hat, haben", "haben, hat", "hat, hast"],
+        "reponse": "hat, hat"
+      }
+    ],
+    "difficulty": "facile",
+    "score": 1
+  },
+  {
+    "id": "bes-verb-03-sol",
+    "theme": "Besondere Verben",
+    "sous_theme": "sein oder haben?",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "Ergänzen Sie sein oder haben.",
+    "questions": [
+      {
+        "question": "Wir ___ Studenten. Wir ___ keine Kinder.",
+        "options": ["sind, haben", "haben, sind", "sind, sind", "haben, haben"],
+        "reponse": "sind, haben"
+      },
+      {
+        "question": "___ du aus Spanien? ___ du Geschwister?",
+        "options": ["Bist, hast", "Hast, bist", "Bist, bist", "Hast, hast"],
+        "reponse": "Bist, hast"
+      },
+      {
+        "question": "___ Sie verheiratet? Ich ___ auch verheiratet.",
+        "options": ["Sind, bin", "Haben, bin", "Sind, habe", "Haben, habe"],
+        "reponse": "Sind, bin"
+      },
+      {
+        "question": "___ ihr Kinder? Wir ___ zwei Kinder.",
+        "options": ["Haben, haben", "Sind, haben", "Haben, sind", "Sind, sind"],
+        "reponse": "Haben, haben"
+      },
+      {
+        "question": "___ du Hunger? Nein, ich ___ keinen Hunger, aber ich ___ müde.",
+        "options": ["Hast, habe, bin", "Bist, habe, bin", "Hast, bin, habe", "Bist, bin, habe"],
+        "reponse": "Hast, habe, bin"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "vok-wech-01-sol",
+    "theme": "Verben mit Vokalwechsel",
+    "sous_theme": "Infinitiv finden",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "Welches Verb passt? Schreiben Sie den Infinitiv.",
+    "questions": [
+      {
+        "question": "er gibt →",
+        "options": ["geben", "gibt", "gegeben", "gebend"],
+        "reponse": "geben"
+      },
+      {
+        "question": "er läuft →",
+        "options": ["laufen", "läuft", "gelaufen", "laufend"],
+        "reponse": "laufen"
+      },
+      {
+        "question": "er hilft →",
+        "options": ["helfen", "hilft", "geholfen", "helfend"],
+        "reponse": "helfen"
+      },
+      {
+        "question": "er nimmt →",
+        "options": ["nehmen", "nimmt", "genommen", "nehmend"],
+        "reponse": "nehmen"
+      },
+      {
+        "question": "er wäscht →",
+        "options": ["waschen", "wäscht", "gewaschen", "waschend"],
+        "reponse": "waschen"
+      },
+      {
+        "question": "er sieht →",
+        "options": ["sehen", "sieht", "gesehen", "sehend"],
+        "reponse": "sehen"
+      },
+      {
+        "question": "er spricht →",
+        "options": ["sprechen", "spricht", "gesprochen", "sprechend"],
+        "reponse": "sprechen"
+      },
+      {
+        "question": "er vergisst →",
+        "options": ["vergessen", "vergisst", "vergessen", "vergessend"],
+        "reponse": "vergessen"
+      },
+      {
+        "question": "er empfiehlt →",
+        "options": ["empfehlen", "empfiehlt", "empfohlen", "empfehlend"],
+        "reponse": "empfehlen"
+      },
+      {
+        "question": "er liest →",
+        "options": ["lesen", "liest", "gelesen", "lesend"],
+        "reponse": "lesen"
+      },
+      {
+        "question": "er isst →",
+        "options": ["essen", "isst", "gegessen", "essend"],
+        "reponse": "essen"
+      },
+      {
+        "question": "er fährt →",
+        "options": ["fahren", "fährt", "gefahren", "fahrend"],
+        "reponse": "fahren"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "vok-wech-02-sol",
+    "theme": "Verben mit Vokalwechsel",
+    "sous_theme": "Konjugation",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "Konjugieren Sie die Verben mit Vokalwechsel.",
+    "questions": [
+      {
+        "question": "___ ihr Gemüse? (essen) Ja, wir ___ Gemüse. Er ___ Salat. Wir ___ zusammen. ___ du auch Salat? Nein, ich ___ nicht.",
+        "options": ["Esst, essen, isst, essen, Isst, isst, esse", "Essen, esst, isst, essen, Isst, isst, esse", "Esst, isst, essen, essen, Isst, isst, esse", "Esst, essen, isst, essen, Isst, isst, esse"],
+        "reponse": "Esst, essen, isst, essen, Isst, isst, esse"
+      },
+      {
+        "question": "___ du gern? (lesen) Ja, ich ___. Er ___ Krimis. Ich ___ auch Krimis. Er ___ jeden Tag.",
+        "options": ["Liest, lese, liest, lese, liest", "Lest, lese, liest, lese, liest", "Liest, liest, lese, lese, liest", "Liest, lese, liest, liest, lese"],
+        "reponse": "Liest, lese, liest, lese, liest"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "vok-wech-03-sol",
+    "theme": "Verben mit Vokalwechsel",
+    "sous_theme": "Sätze bilden",
+    "niveau": "A1",
+    "type": "ordre",
+    "consigne": "Bilden Sie Sätze mit den Verben mit Vokalwechsel.",
+    "questions": [
+      {
+        "question": "er / ein Apfel / essen",
+        "options": [],
+        "reponse": "Er isst einen Apfel."
+      },
+      {
+        "question": "sie / ein Buch / lesen",
+        "options": [],
+        "reponse": "Sie liest ein Buch."
+      },
+      {
+        "question": "wir / mit dem Auto / fahren",
+        "options": [],
+        "reponse": "Wir fahren mit dem Auto."
+      },
+      {
+        "question": "er / eine Jacke / tragen",
+        "options": [],
+        "reponse": "Er trägt eine Jacke."
+      },
+      {
+        "question": "das Kind / schnell / laufen",
+        "options": [],
+        "reponse": "Das Kind läuft schnell."
+      },
+      {
+        "question": "er / mit dem Bus / fahren",
+        "options": [],
+        "reponse": "Er fährt mit dem Bus."
+      },
+      {
+        "question": "sie / das Buch / nehmen",
+        "options": [],
+        "reponse": "Sie nimmt das Buch."
+      },
+      {
+        "question": "er / das Auto / waschen",
+        "options": [],
+        "reponse": "Er wäscht das Auto."
+      },
+      {
+        "question": "er / mir / helfen",
+        "options": [],
+        "reponse": "Er hilft mir."
+      },
+      {
+        "question": "er / mir / das Buch / geben",
+        "options": [],
+        "reponse": "Er gibt mir das Buch."
+      },
+      {
+        "question": "sie / gut / sprechen",
+        "options": [],
+        "reponse": "Sie spricht gut."
+      },
+      {
+        "question": "wir / gern / lesen",
+        "options": [],
+        "reponse": "Wir lesen gern."
+      },
+      {
+        "question": "wir / fernsehen",
+        "options": [],
+        "reponse": "Wir sehen fern."
+      },
+      {
+        "question": "er / kommen",
+        "options": [],
+        "reponse": "Er sieht kommen."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "mod-konj-01-sol",
+    "theme": "Modalverben",
+    "sous_theme": "Konjugation",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "Konjugieren Sie die Modalverben.",
+    "questions": [
+      {
+        "question": "ich ___, du ___, er ___, wir ___, ihr ___, sie ___, Sie ___ (möchten)",
+        "options": ["möchte, möchtest, möchte, möchten, möchtet, möchten, möchten", "möchte, möchtest, möchte, möchten, möchtet, möchten, möchte", "möchte, möchte, möchte, möchten, möchtet, möchten, möchten", "möchtest, möchte, möchte, möchten, möchtet, möchten, möchten"],
+        "reponse": "möchte, möchtest, möchte, möchten, möchtet, möchten, möchten"
+      },
+      {
+        "question": "er ___, du ___, er ___, ihr ___, wir ___, er ___, sie ___ (können)",
+        "options": ["kann, kannst, kann, könnt, können, kann, können", "kann, kannst, kann, könnt, könnt, kann, können", "kann, kannst, kann, können, könnt, kann, können", "kann, kann, kannst, könnt, können, kann, können"],
+        "reponse": "kann, kannst, kann, könnt, können, kann, können"
+      },
+      {
+        "question": "wir ___, du ___, ihr ___, sie ___, er ___, er ___ (müssen)",
+        "options": ["müssen, musst, müsst, müssen, muss, muss", "müssen, musst, müsst, müssen, muss, müssen", "müssen, musst, müsst, müssen, müssen, muss", "müssen, musst, müsst, muss, muss, müssen"],
+        "reponse": "müssen, musst, müsst, müssen, muss, muss"
+      },
+      {
+        "question": "ihr ___, wir ___, du ___, er ___, er ___, sie ___ (wollen)",
+        "options": ["wollt, wollen, willst, will, will, wollen", "wollen, wollt, willst, will, will, wollen", "wollt, wollen, will, willst, will, wollen", "wollt, wollen, willst, will, will, wollen"],
+        "reponse": "wollt, wollen, willst, will, will, wollen"
+      },
+      {
+        "question": "du ___, er ___, ___ ich?, ihr ___, ihr ___, sie ___, Sie ___ (dürfen)",
+        "options": ["darfst, darf, Darf, dürft, dürft, dürfen, dürfen", "darfst, darf, Darf, dürfen, dürft, dürfen, dürfen", "darfst, darf, Darf, dürft, dürfen, dürfen, dürfen", "darfst, darf, Darf, dürft, dürft, dürfen, dürfen"],
+        "reponse": "darfst, darf, Darf, dürft, dürft, dürfen, dürfen"
+      },
+      {
+        "question": "er ___, du ___, er ___, wir ___ (sollen)",
+        "options": ["soll, sollst, soll, Sollen", "soll, soll, sollst, Sollen", "soll, sollst, soll, sollen", "soll, sollst, soll, Sollen"],
+        "reponse": "soll, sollst, soll, Sollen"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "mod-gebr-01-sol",
+    "theme": "Modalverben",
+    "sous_theme": "Wünsche und Fähigkeiten",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "Ergänzen Sie möchten, können, wollen.",
+    "questions": [
+      {
+        "question": "Ich ___ einen Kaffee trinken. (Wunsch)",
+        "options": ["möchte", "kann", "will", "mag"],
+        "reponse": "möchte"
+      },
+      {
+        "question": "___ du gut tanzen? (Fähigkeit)",
+        "options": ["Kannst", "Möchtest", "Willst", "Magst"],
+        "reponse": "Kannst"
+      },
+      {
+        "question": "Wir ___ heute ins Kino gehen. (Wunsch)",
+        "options": ["möchten", "können", "wollen", "mögen"],
+        "reponse": "möchten"
+      },
+      {
+        "question": "Er ___ gut Fußball spielen. (Fähigkeit)",
+        "options": ["kann", "möchte", "will", "mag"],
+        "reponse": "kann"
+      },
+      {
+        "question": "Ich ___ morgen kommen. (Wunsch)",
+        "options": ["will", "kann", "möchte", "mag"],
+        "reponse": "will"
+      },
+      {
+        "question": "___ ihr mir helfen? (Fähigkeit)",
+        "options": ["Könnt", "Wollt", "Möchtet", "Mögt"],
+        "reponse": "Könnt"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "mod-gebr-02-sol",
+    "theme": "Modalverben",
+    "sous_theme": "Pflicht und Erlaubnis",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "Ergänzen Sie müssen, dürfen, sollen.",
+    "questions": [
+      {
+        "question": "Hier ___ man nicht rauchen. (Verbot)",
+        "options": ["darf", "muss", "soll", "kann"],
+        "reponse": "darf"
+      },
+      {
+        "question": "Ich ___ heute arbeiten. (Pflicht)",
+        "options": ["muss", "darf", "soll", "kann"],
+        "reponse": "muss"
+      },
+      {
+        "question": "___ ich hier parken? (Erlaubnis fragen)",
+        "options": ["Darf", "Muss", "Soll", "Kann"],
+        "reponse": "Darf"
+      },
+      {
+        "question": "Kinder ___ nicht allein reisen. (Verbot)",
+        "options": ["dürfen", "müssen", "sollen", "können"],
+        "reponse": "dürfen"
+      },
+      {
+        "question": "Wir ___ zur Schule gehen. (Pflicht)",
+        "options": ["müssen", "dürfen", "sollen", "können"],
+        "reponse": "müssen"
+      },
+      {
+        "question": "___ ich Ihnen helfen? (Angebot)",
+        "options": ["Darf", "Muss", "Soll", "Kann"],
+        "reponse": "Darf"
+      },
+      {
+        "question": "Sie ___ heute kommen. (Erlaubnis)",
+        "options": ["darf", "muss", "soll", "kann"],
+        "reponse": "darf"
+      },
+      {
+        "question": "Du ___ deine Hausaufgaben machen. (Pflicht)",
+        "options": ["muss", "darf", "soll", "kann"],
+        "reponse": "muss"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "adj-dekl-01-sol",
+    "theme": "Adjektivdeklination",
+    "sous_theme": "Nominativ, Akkusativ und Dativ",
+    "niveau": "A2",
+    "type": "completer",
+    "consigne": "Ergänzen Sie die Adjektivendungen.",
+    "questions": [
+      {
+        "question": "am zwölft___ Mai",
+        "options": ["-en", "-e", "-er", "-es"],
+        "reponse": "-en"
+      },
+      {
+        "question": "am zweit___ November",
+        "options": ["-en", "-e", "-er", "-es"],
+        "reponse": "-en"
+      },
+      {
+        "question": "am viert___ Januar",
+        "options": ["-en", "-e", "-er", "-es"],
+        "reponse": "-en"
+      },
+      {
+        "question": "am zehnt___ August",
+        "options": ["-en", "-e", "-er", "-es"],
+        "reponse": "-en"
+      },
+      {
+        "question": "am dritt___ Juli",
+        "options": ["-en", "-e", "-er", "-es"],
+        "reponse": "-en"
+      },
+      {
+        "question": "am nächst___ Sonntag",
+        "options": ["-en", "-e", "-er", "-es"],
+        "reponse": "-en"
+      },
+      {
+        "question": "am übernächst___ Freitag",
+        "options": ["-en", "-e", "-er", "-es"],
+        "reponse": "-en"
+      },
+      {
+        "question": "am letzt___ Samstag",
+        "options": ["-en", "-e", "-er", "-es"],
+        "reponse": "-en"
+      },
+      {
+        "question": "am nächst___ Wochenende",
+        "options": ["-en", "-e", "-er", "-es"],
+        "reponse": "-en"
+      },
+      {
+        "question": "am vorletzt___ Wochenende",
+        "options": ["-en", "-e", "-er", "-es"],
+        "reponse": "-en"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "komp-01-sol",
+    "theme": "Komparativ",
+    "sous_theme": "Formen bilden",
+    "niveau": "A2",
+    "type": "completer",
+    "consigne": "Bilden Sie den Komparativ.",
+    "questions": [
+      {
+        "question": "klein →",
+        "options": ["kleiner", "kleinere", "kleineren", "kleinerer"],
+        "reponse": "kleiner"
+      },
+      {
+        "question": "langsam →",
+        "options": ["langsamer", "langsamere", "langsameren", "langsamerer"],
+        "reponse": "langsamer"
+      },
+      {
+        "question": "interessant →",
+        "options": ["interessanter", "interessantere", "interessanteren", "interessanterer"],
+        "reponse": "interessanter"
+      },
+      {
+        "question": "schlecht →",
+        "options": ["schlechter", "schlechtere", "schlechteren", "schlechterer"],
+        "reponse": "schlechter"
+      },
+      {
+        "question": "alt →",
+        "options": ["älter", "ältere", "älteren", "älterer"],
+        "reponse": "älter"
+      },
+      {
+        "question": "gesund →",
+        "options": ["gesünder", "gesündere", "gesünderen", "gesünderer"],
+        "reponse": "gesünder"
+      },
+      {
+        "question": "groß →",
+        "options": ["größer", "größere", "größeren", "größerer"],
+        "reponse": "größer"
+      },
+      {
+        "question": "hoch →",
+        "options": ["höher", "höhere", "höheren", "höherer"],
+        "reponse": "höher"
+      },
+      {
+        "question": "gut →",
+        "options": ["besser", "bessere", "besseren", "besserer"],
+        "reponse": "besser"
+      },
+      {
+        "question": "viel →",
+        "options": ["mehr", "mehrere", "mehreren", "mehrerer"],
+        "reponse": "mehr"
+      },
+      {
+        "question": "gern →",
+        "options": ["lieber", "liebere", "lieberen", "lieberer"],
+        "reponse": "lieber"
+      },
+      {
+        "question": "teuer →",
+        "options": ["teurer", "teurere", "teureren", "teurerer"],
+        "reponse": "teurer"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "sup-01-sol",
+    "theme": "Superlativ",
+    "sous_theme": "Formen bilden",
+    "niveau": "A2",
+    "type": "completer",
+    "consigne": "Bilden Sie den Superlativ.",
+    "questions": [
+      {
+        "question": "freundlich → am ___ / der ___ Mann",
+        "options": ["freundlichsten / freundlichste", "freundlichste / freundlichsten", "freundlichster / freundlichste", "freundlichsten / freundlichster"],
+        "reponse": "freundlichsten / freundlichste"
+      },
+      {
+        "question": "nett → am ___ / die ___ Frau",
+        "options": ["nettesten / netteste", "netteste / nettesten", "nettester / netteste", "nettesten / nettester"],
+        "reponse": "nettesten / netteste"
+      },
+      {
+        "question": "groß → am ___ / der ___ Mann",
+        "options": ["größten / größte", "größte / größten", "größer / größte", "größten / größer"],
+        "reponse": "größten / größte"
+      },
+      {
+        "question": "viel → am ___ / die ___ Leute",
+        "options": ["meisten / meisten", "meiste / meisten", "mehr / meisten", "meisten / meiste"],
+        "reponse": "meisten / meisten"
+      },
+      {
+        "question": "gut → am ___ / das ___ Kleid",
+        "options": ["besten / beste", "beste / besten", "besser / beste", "besten / besser"],
+        "reponse": "besten / beste"
+      },
+      {
+        "question": "hoch → am ___ / das ___ Haus",
+        "options": ["höchsten / höchste", "höchste / höchsten", "höher / höchste", "höchsten / höher"],
+        "reponse": "höchsten / höchste"
+      },
+      {
+        "question": "teuer → am ___ / die ___ Schuhe",
+        "options": ["teuersten / teuersten", "teuerste / teuersten", "teurer / teuersten", "teuersten / teurer"],
+        "reponse": "teuersten / teuersten"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "konj-pos0-01-sol",
+    "theme": "Hauptsätze verbinden",
+    "sous_theme": "Position 0 Konjunktionen",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "Ergänzen Sie: und, aber, oder, denn.",
+    "questions": [
+      {
+        "question": "Ich gehe ins Kino, ___ ich habe keine Zeit.",
+        "options": ["denn", "aber", "und", "oder"],
+        "reponse": "denn"
+      },
+      {
+        "question": "Ich möchte kommen, ___ ich kann nicht.",
+        "options": ["aber", "denn", "und", "oder"],
+        "reponse": "aber"
+      },
+      {
+        "question": "Ich trinke Kaffee ___ ich esse Kuchen.",
+        "options": ["und", "aber", "oder", "denn"],
+        "reponse": "und"
+      },
+      {
+        "question": "Möchtest du Tee ___ Kaffee?",
+        "options": ["oder", "und", "aber", "denn"],
+        "reponse": "oder"
+      },
+      {
+        "question": "Ich möchte kommen, ___ ich habe keine Zeit.",
+        "options": ["aber", "denn", "und", "oder"],
+        "reponse": "aber"
+      },
+      {
+        "question": "Ich trinke Kaffee ___ ich esse Kuchen.",
+        "options": ["und", "aber", "oder", "denn"],
+        "reponse": "und"
+      }
+    ],
+    "difficulty": "facile",
+    "score": 1
+  },
+  {
+    "id": "konj-pos1-01-sol",
+    "theme": "Hauptsätze verbinden",
+    "sous_theme": "Position 1 Adverbien",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "Ergänzen Sie: deshalb, sonst, dann, danach.",
+    "questions": [
+      {
+        "question": "Mein Kühlschrank ist leer, ___ muss ich einkaufen gehen.",
+        "options": ["deshalb", "sonst", "dann", "danach"],
+        "reponse": "deshalb"
+      },
+      {
+        "question": "Ich muss mich beeilen, ___ komme ich zu spät.",
+        "options": ["sonst", "deshalb", "dann", "danach"],
+        "reponse": "sonst"
+      },
+      {
+        "question": "Wir besichtigen die Stadt, ___ gehen wir essen.",
+        "options": ["dann", "deshalb", "sonst", "danach"],
+        "reponse": "dann"
+      },
+      {
+        "question": "Ich schreibe die E-Mail, ___ schicke ich die E-Mail ab.",
+        "options": ["dann", "danach", "deshalb", "sonst"],
+        "reponse": "dann"
+      },
+      {
+        "question": "Wir müssen einen Schirm mitnehmen, ___ werden wir nass.",
+        "options": ["sonst", "deshalb", "dann", "danach"],
+        "reponse": "sonst"
+      },
+      {
+        "question": "Meine Tochter ist krank, ___ kann sie heute leider nicht zur Schule kommen.",
+        "options": ["deshalb", "sonst", "dann", "danach"],
+        "reponse": "deshalb"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "neben-weil-01-sol",
+    "theme": "Nebensätze",
+    "sous_theme": "mit weil, wenn und dass",
+    "niveau": "A1",
+    "type": "ordre",
+    "consigne": "Bilden Sie Nebensätze mit weil, wenn oder dass.",
+    "questions": [
+      {
+        "question": "Ich rufe nicht an / der Akku von meinem Handy ist leer",
+        "options": [],
+        "reponse": "Ich rufe nicht an, weil der Akku von meinem Handy leer ist."
+      },
+      {
+        "question": "Ich komme so spät / ich musste so lange arbeiten",
+        "options": [],
+        "reponse": "Ich komme so spät, weil ich so lange arbeiten musste."
+      },
+      {
+        "question": "Ich öffne das Fenster / es ist so warm",
+        "options": [],
+        "reponse": "Ich öffne das Fenster, weil es so warm ist."
+      },
+      {
+        "question": "Ich glaube / sie ist krank",
+        "options": [],
+        "reponse": "Ich glaube, dass sie krank ist."
+      },
+      {
+        "question": "Er geht joggen / die Sonne scheint",
+        "options": [],
+        "reponse": "Er geht joggen, wenn die Sonne scheint."
+      },
+      {
+        "question": "Er schläft lange / er hat Urlaub",
+        "options": [],
+        "reponse": "Er schläft lange, wenn er Urlaub hat."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "komposita-01-sol",
+    "theme": "Komposita",
+    "sous_theme": "Nomen zusammensetzen",
+    "niveau": "A2",
+    "type": "ordre",
+    "consigne": "Bilden Sie Komposita.",
+    "questions": [
+      {
+        "question": "Käse + Kuchen →",
+        "options": [],
+        "reponse": "der Käsekuchen"
+      },
+      {
+        "question": "Kinder + Arzt →",
+        "options": [],
+        "reponse": "der Kinderarzt"
+      },
+      {
+        "question": "Tisch + Bein →",
+        "options": [],
+        "reponse": "das Tischbein"
+      },
+      {
+        "question": "Haar + Farbe →",
+        "options": [],
+        "reponse": "die Haarfarbe"
+      },
+      {
+        "question": "Lehrer + Zimmer →",
+        "options": [],
+        "reponse": "das Lehrerzimmer"
+      },
+      {
+        "question": "Haus + Nummer →",
+        "options": [],
+        "reponse": "die Hausnummer"
+      },
+      {
+        "question": "Fußball + Platz →",
+        "options": [],
+        "reponse": "der Fußballplatz"
+      },
+      {
+        "question": "Haus + Tür + Schlüssel →",
+        "options": [],
+        "reponse": "der Haustürschlüssel"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "genus-01-sol",
+    "theme": "Genusregeln",
+    "sous_theme": "Artikel bestimmen",
+    "niveau": "A2",
+    "type": "completer",
+    "consigne": "Ergänzen Sie den Artikel: der, die oder das.",
+    "questions": [
+      {
+        "question": "___ Opel (Automarke)",
+        "options": ["der", "die", "das"],
+        "reponse": "der"
+      },
+      {
+        "question": "___ Frühling (Jahreszeit)",
+        "options": ["der", "die", "das"],
+        "reponse": "der"
+      },
+      {
+        "question": "___ Ferrari (Automarke)",
+        "options": ["der", "die", "das"],
+        "reponse": "der"
+      },
+      {
+        "question": "___ Tequila (Alkohol)",
+        "options": ["der", "die", "das"],
+        "reponse": "der"
+      },
+      {
+        "question": "___ Schnee (Wetter)",
+        "options": ["der", "die", "das"],
+        "reponse": "der"
+      },
+      {
+        "question": "___ Herbst (Jahreszeit)",
+        "options": ["der", "die", "das"],
+        "reponse": "der"
+      },
+      {
+        "question": "___ Schönheit (Endung -heit)",
+        "options": ["der", "die", "das"],
+        "reponse": "die"
+      },
+      {
+        "question": "___ Emotion (Endung -ion)",
+        "options": ["der", "die", "das"],
+        "reponse": "die"
+      },
+      {
+        "question": "___ Liebe (Endung -e)",
+        "options": ["der", "die", "das"],
+        "reponse": "die"
+      },
+      {
+        "question": "___ Büro (Beginn Ge-)",
+        "options": ["der", "die", "das"],
+        "reponse": "das"
+      },
+      {
+        "question": "___ Fähnchen (Endung -chen)",
+        "options": ["der", "die", "das"],
+        "reponse": "das"
+      },
+      {
+        "question": "___ Häuschen (Endung -chen)",
+        "options": ["der", "die", "das"],
+        "reponse": "das"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "partik-01-sol",
+    "theme": "Partikeln",
+    "sous_theme": "denn, doch, mal",
+    "niveau": "A2",
+    "type": "completer",
+    "consigne": "Ergänzen Sie die Partikeln: denn, doch, mal.",
+    "questions": [
+      {
+        "question": "Was hast du ___ da mitgebracht?",
+        "options": ["denn", "doch", "mal", "ja"],
+        "reponse": "denn"
+      },
+      {
+        "question": "Kannst du mir das ___ zeigen?",
+        "options": ["mal", "denn", "doch", "ja"],
+        "reponse": "mal"
+      },
+      {
+        "question": "Ich hatte ___ keine Ahnung, dass du keinen Käse magst.",
+        "options": ["doch", "denn", "mal", "ja"],
+        "reponse": "doch"
+      },
+      {
+        "question": "Kennst du ___ schon die neue Nachbarin?",
+        "options": ["denn", "doch", "mal", "ja"],
+        "reponse": "denn"
+      },
+      {
+        "question": "Bring mir ___ eine Zeitung mit.",
+        "options": ["doch", "denn", "mal", "ja"],
+        "reponse": "doch"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "neg-wort-01-sol",
+    "theme": "Negationswörter",
+    "sous_theme": "nicht, kein, nichts, nie, niemand",
+    "niveau": "A2",
+    "type": "completer",
+    "consigne": "Ergänzen Sie das Negationswort.",
+    "questions": [
+      {
+        "question": "Ich komme ___ zu spät.",
+        "options": ["nie", "nicht", "kein", "niemand"],
+        "reponse": "nie"
+      },
+      {
+        "question": "Ich kenne ___ hier.",
+        "options": ["niemand(en)", "nichts", "kein", "nie"],
+        "reponse": "niemand(en)"
+      },
+      {
+        "question": "Ich habe ___ gegessen.",
+        "options": ["nichts", "nicht", "kein", "nie"],
+        "reponse": "nichts"
+      },
+      {
+        "question": "Ich gehe ___ meinen Freund aus.",
+        "options": ["ohne", "nicht", "kein", "nie"],
+        "reponse": "ohne"
+      },
+      {
+        "question": "Ich komme ___ zu spät.",
+        "options": ["nie", "nicht", "kein", "niemand"],
+        "reponse": "nie"
+      },
+      {
+        "question": "Ich habe ___ gehört.",
+        "options": ["nichts", "nicht", "kein", "nie"],
+        "reponse": "nichts"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "praet-01-sol",
+    "theme": "Präteritum",
+    "sous_theme": "Regelmäßige und unregelmäßige Verben",
+    "niveau": "A2",
+    "type": "completer",
+    "consigne": "Bilden Sie das Präteritum.",
+    "questions": [
+      {
+        "question": "treffen →",
+        "options": ["traf", "treffte", "getroffen", "treffen"],
+        "reponse": "traf"
+      },
+      {
+        "question": "bleiben →",
+        "options": ["blieb", "bleibte", "geblieben", "bleiben"],
+        "reponse": "blieb"
+      },
+      {
+        "question": "anziehen →",
+        "options": ["zog an", "anzog", "angezogen", "anziehen"],
+        "reponse": "zog an"
+      },
+      {
+        "question": "heißen →",
+        "options": ["hieß", "hießte", "geheißen", "heißen"],
+        "reponse": "hieß"
+      },
+      {
+        "question": "gehen →",
+        "options": ["ging", "gehete", "gegangen", "gehen"],
+        "reponse": "ging"
+      },
+      {
+        "question": "gewinnen →",
+        "options": ["gewann", "gewinnte", "gewonnen", "gewinnen"],
+        "reponse": "gewann"
+      },
+      {
+        "question": "fahren →",
+        "options": ["fuhr", "fahrete", "gefahren", "fahren"],
+        "reponse": "fuhr"
+      },
+      {
+        "question": "kommen →",
+        "options": ["kam", "kommte", "gekommen", "kommen"],
+        "reponse": "kam"
+      },
+      {
+        "question": "anfangen →",
+        "options": ["fing an", "anfing", "angefangen", "anfangen"],
+        "reponse": "fing an"
+      },
+      {
+        "question": "verlieren →",
+        "options": ["verlor", "verlierete", "verloren", "verlieren"],
+        "reponse": "verlor"
+      },
+      {
+        "question": "laufen →",
+        "options": ["lief", "laufete", "gelaufen", "laufen"],
+        "reponse": "lief"
+      },
+      {
+        "question": "schlafen →",
+        "options": ["schlief", "schlafete", "geschlafen", "schlafen"],
+        "reponse": "schlief"
+      },
+      {
+        "question": "denken →",
+        "options": ["dachte", "denkte", "gedacht", "denken"],
+        "reponse": "dachte"
+      },
+      {
+        "question": "mitbringen →",
+        "options": ["brachte mit", "mitbrachte", "mitgebracht", "mitbringen"],
+        "reponse": "brachte mit"
+      },
+      {
+        "question": "waschen →",
+        "options": ["wusch", "wasete", "gewaschen", "waschen"],
+        "reponse": "wusch"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "plusq-01-sol",
+    "theme": "Plusquamperfekt",
+    "sous_theme": "Formen bilden",
+    "niveau": "B1",
+    "type": "completer",
+    "consigne": "Bilden Sie das Plusquamperfekt.",
+    "questions": [
+      {
+        "question": "ich / machen →",
+        "options": ["ich hatte gemacht", "ich habe gemacht", "ich machte", "ich bin gemacht"],
+        "reponse": "ich hatte gemacht"
+      },
+      {
+        "question": "er / fahren →",
+        "options": ["er war gefahren", "er ist gefahren", "er fuhr", "er hat gefahren"],
+        "reponse": "er war gefahren"
+      },
+      {
+        "question": "wir / geben →",
+        "options": ["wir hatten gegeben", "wir haben gegeben", "wir gaben", "wir sind gegeben"],
+        "reponse": "wir hatten gegeben"
+      },
+      {
+        "question": "Sie / verlieren →",
+        "options": ["Sie hatten verloren", "Sie haben verloren", "Sie verloren", "Sie sind verloren"],
+        "reponse": "Sie hatten verloren"
+      },
+      {
+        "question": "ihr / gehen →",
+        "options": ["ihr wart gegangen", "ihr seid gegangen", "ihr gingt", "ihr habt gegangen"],
+        "reponse": "ihr wart gegangen"
+      },
+      {
+        "question": "sie / arbeiten →",
+        "options": ["sie hatten gearbeitet", "sie haben gearbeitet", "sie arbeiteten", "sie sind gearbeitet"],
+        "reponse": "sie hatten gearbeitet"
+      },
+      {
+        "question": "sie / vergessen →",
+        "options": ["sie hatte vergessen", "sie hat vergessen", "sie vergaß", "sie ist vergessen"],
+        "reponse": "sie hatte vergessen"
+      },
+      {
+        "question": "du / bringen →",
+        "options": ["du hattest gebracht", "du hast gebracht", "du brachtest", "du bist gebracht"],
+        "reponse": "du hattest gebracht"
+      },
+      {
+        "question": "es / bleiben →",
+        "options": ["es war geblieben", "es ist geblieben", "es blieb", "es hat geblieben"],
+        "reponse": "es war geblieben"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "refl-pron-01-sol",
+    "theme": "Reflexivpronomen",
+    "sous_theme": "Akkusativ und Dativ",
+    "niveau": "A2",
+    "type": "completer",
+    "consigne": "Ergänzen Sie das Reflexivpronomen im Akkusativ oder Dativ.",
+    "questions": [
+      {
+        "question": "Ich wasche ___. (Akkusativ) Ich kaufe ___ ein Buch. (Dativ)",
+        "options": ["mich, mir", "mir, mich", "mich, mich", "mir, mir"],
+        "reponse": "mich, mir"
+      },
+      {
+        "question": "Du wäschst ___. (Akkusativ) Du kaufst ___ ein Buch. (Dativ)",
+        "options": ["dich, dir", "dir, dich", "dich, dich", "dir, dir"],
+        "reponse": "dich, dir"
+      },
+      {
+        "question": "Er wäscht ___. (Akkusativ) Er kauft ___ ein Buch. (Dativ)",
+        "options": ["sich, sich", "sich, ihm", "ihn, sich", "ihm, sich"],
+        "reponse": "sich, sich"
+      },
+      {
+        "question": "Sie wäscht ___. (Akkusativ) Sie kauft ___ ein Buch. (Dativ)",
+        "options": ["sich, sich", "sich, ihr", "sie, sich", "ihr, sich"],
+        "reponse": "sich, sich"
+      },
+      {
+        "question": "Wir waschen ___. (Akkusativ) Wir kaufen ___ ein Buch. (Dativ)",
+        "options": ["uns, uns", "uns, uns", "uns, uns", "uns, uns"],
+        "reponse": "uns, uns"
+      },
+      {
+        "question": "Ihr wascht ___. (Akkusativ) Ihr kauft ___ ein Buch. (Dativ)",
+        "options": ["euch, euch", "euch, euch", "euch, euch", "euch, euch"],
+        "reponse": "euch, euch"
+      },
+      {
+        "question": "Sie waschen ___. (Akkusativ) Sie kaufen ___ ein Buch. (Dativ)",
+        "options": ["sich, sich", "sich, ihnen", "sie, sich", "ihnen, sich"],
+        "reponse": "sich, sich"
+      },
+      {
+        "question": "Ich erinnere ___ an den Termin. (Dativ)",
+        "options": ["mich", "mir", "mich", "mir"],
+        "reponse": "mich"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "trenn-untrenn-01-sol",
+    "theme": "Trennbare und untrennbare Verben",
+    "sous_theme": "Partizip Perfekt",
+    "niveau": "B1",
+    "type": "completer",
+    "consigne": "Bilden Sie das Partizip Perfekt.",
+    "questions": [
+      {
+        "question": "einsteigen →",
+        "options": ["eingestiegen", "steigen ein", "ist eingestiegen", "eingestiegen"],
+        "reponse": "eingestiegen"
+      },
+      {
+        "question": "anspringen →",
+        "options": ["angesprungen", "springen an", "hat angesprungen", "angesprungen"],
+        "reponse": "angesprungen"
+      },
+      {
+        "question": "aussteigen →",
+        "options": ["ausgestiegen", "steigen aus", "ist ausgestiegen", "ausgestiegen"],
+        "reponse": "ausgestiegen"
+      },
+      {
+        "question": "entscheiden →",
+        "options": ["entschieden", "hat entschieden", "entschied", "entschlossen"],
+        "reponse": "entschieden"
+      },
+      {
+        "question": "bezahlen →",
+        "options": ["bezahlt", "hat bezahlt", "gebezahlt", "bezahlt"],
+        "reponse": "bezahlt"
+      },
+      {
+        "question": "abfahren →",
+        "options": ["abgefahren", "fährt ab", "ist abgefahren", "abgefahren"],
+        "reponse": "abgefahren"
+      },
+      {
+        "question": "anrufen →",
+        "options": ["angerufen", "hat angerufen", "angerufen", "angerufen"],
+        "reponse": "angerufen"
+      },
+      {
+        "question": "mitteilen →",
+        "options": ["mitgeteilt", "hat mitgeteilt", "mitgeteilt", "mitgeteilt"],
+        "reponse": "mitgeteilt"
+      },
+      {
+        "question": "versuchen →",
+        "options": ["versucht", "hat versucht", "versucht", "versucht"],
+        "reponse": "versucht"
+      },
+      {
+        "question": "anhalten →",
+        "options": ["angehalten", "hat angehalten", "angehalten", "angehalten"],
+        "reponse": "angehalten"
+      },
+      {
+        "question": "ankommen →",
+        "options": ["angekommen", "ist angekommen", "angekommen", "angekommen"],
+        "reponse": "angekommen"
+      },
+      {
+        "question": "erklären →",
+        "options": ["erklärt", "hat erklärt", "erklärt", "erklärt"],
+        "reponse": "erklärt"
+      },
+      {
+        "question": "verstehen →",
+        "options": ["verstanden", "hat verstanden", "verstanden", "verstanden"],
+        "reponse": "verstanden"
+      },
+      {
+        "question": "entspannen →",
+        "options": ["entspannt", "hat entspannt", "entspannt", "entspannt"],
+        "reponse": "entspannt"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "verb-praep-01-sol",
+    "theme": "Verben mit Präpositionen",
+    "sous_theme": "Präpositionen ergänzen",
+    "niveau": "B1",
+    "type": "completer",
+    "consigne": "Ergänzen Sie die Präposition.",
+    "questions": [
+      {
+        "question": "Ich warte ___ den Bus.",
+        "options": ["auf", "für", "mit", "über"],
+        "reponse": "auf"
+      },
+      {
+        "question": "Ich freue mich ___ das Wochenende.",
+        "options": ["auf", "für", "mit", "über"],
+        "reponse": "auf"
+      },
+      {
+        "question": "Ich spreche ___ meinen Freund.",
+        "options": ["mit", "auf", "für", "über"],
+        "reponse": "mit"
+      },
+      {
+        "question": "Ich interessiere mich ___ Musik.",
+        "options": ["für", "auf", "mit", "über"],
+        "reponse": "für"
+      },
+      {
+        "question": "Ich denke ___ meine Ferien.",
+        "options": ["an", "auf", "für", "über"],
+        "reponse": "an"
+      },
+      {
+        "question": "Ich ärgere mich ___ den Stau.",
+        "options": ["über", "auf", "für", "mit"],
+        "reponse": "über"
+      },
+      {
+        "question": "Ich träume ___ einen Urlaub.",
+        "options": ["von", "auf", "für", "über"],
+        "reponse": "von"
+      },
+      {
+        "question": "Ich frage ___ den Weg.",
+        "options": ["nach", "auf", "für", "über"],
+        "reponse": "nach"
+      },
+      {
+        "question": "Ich diskutiere ___ das Problem.",
+        "options": ["über", "auf", "für", "mit"],
+        "reponse": "über"
+      },
+      {
+        "question": "Ich telefoniere ___ meiner Mutter.",
+        "options": ["mit", "auf", "für", "über"],
+        "reponse": "mit"
+      },
+      {
+        "question": "Ich erinnere mich ___ den Termin.",
+        "options": ["an", "auf", "für", "über"],
+        "reponse": "an"
+      },
+      {
+        "question": "Ich beschwere mich ___ den Lärm.",
+        "options": ["über", "auf", "für", "mit"],
+        "reponse": "über"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "konj2-form-01-sol",
+    "theme": "Konjunktiv 2",
+    "sous_theme": "Formen",
+    "niveau": "B1",
+    "type": "completer",
+    "consigne": "Bilden Sie den Konjunktiv 2.",
+    "questions": [
+      {
+        "question": "ich / fliegen → ich ___ ... fliegen",
+        "options": ["würde", "wurde", "werde", "wäre"],
+        "reponse": "würde"
+      },
+      {
+        "question": "du / mitkommen → ___ du ... mitkommen?",
+        "options": ["Würdest", "Wurdest", "Werdest", "Wärest"],
+        "reponse": "Würdest"
+      },
+      {
+        "question": "wir / kaufen → wir ___ ... kaufen",
+        "options": ["würden", "wurden", "werden", "wären"],
+        "reponse": "würden"
+      },
+      {
+        "question": "ihr / helfen → ___ ihr ... helfen?",
+        "options": ["Würdet", "Wurdet", "Werdet", "Wäret"],
+        "reponse": "Würdet"
+      },
+      {
+        "question": "er / ziehen → er ___ ... ziehen",
+        "options": ["würde", "wurde", "werde", "wäre"],
+        "reponse": "würde"
+      },
+      {
+        "question": "du / haben → du ___",
+        "options": ["hättest", "hattest", "habtest", "hobtest"],
+        "reponse": "hättest"
+      },
+      {
+        "question": "er / sein → er ___",
+        "options": ["wäre", "war", "sei", "ist"],
+        "reponse": "wäre"
+      },
+      {
+        "question": "wir / haben → wir ___",
+        "options": ["hätten", "hatten", "habten", "hobten"],
+        "reponse": "hätten"
+      },
+      {
+        "question": "sie / sein → sie ___",
+        "options": ["wäre/wären", "war/waren", "sei/seien", "ist/sind"],
+        "reponse": "wäre/wären"
+      },
+      {
+        "question": "ich / sein → ich ___",
+        "options": ["wäre", "war", "sei", "bin"],
+        "reponse": "wäre"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "passiv-01-sol",
+    "theme": "Passiv",
+    "sous_theme": "Präsens",
+    "niveau": "B1",
+    "type": "ordre",
+    "consigne": "Bilden Sie Sätze im Passiv Präsens.",
+    "questions": [
+      {
+        "question": "Das Paket / senden",
+        "options": [],
+        "reponse": "Das Paket wird gesendet."
+      },
+      {
+        "question": "Ich / operieren",
+        "options": [],
+        "reponse": "Ich werde operiert."
+      },
+      {
+        "question": "Die Getränke / verkaufen",
+        "options": [],
+        "reponse": "Die Getränke werden verkauft."
+      },
+      {
+        "question": "Ihr / informieren",
+        "options": [],
+        "reponse": "Ihr werdet informiert."
+      },
+      {
+        "question": "Sie / abholen",
+        "options": [],
+        "reponse": "Sie werden abgeholt."
+      },
+      {
+        "question": "Du / nach Hause bringen",
+        "options": [],
+        "reponse": "Du wirst nach Hause gebracht."
+      },
+      {
+        "question": "Der Olympiasieg / feiern",
+        "options": [],
+        "reponse": "Der Olympiasieg wird gefeiert."
+      },
+      {
+        "question": "Die Pizza / bestellen",
+        "options": [],
+        "reponse": "Die Pizza wird bestellt."
+      },
+      {
+        "question": "Wir / vom Arzt behandeln",
+        "options": [],
+        "reponse": "Wir werden vom Arzt behandelt."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "passiv-verg-01-sol",
+    "theme": "Passiv",
+    "sous_theme": "Vergangenheit",
+    "niveau": "B1",
+    "type": "ordre",
+    "consigne": "Bilden Sie Sätze im Passiv Präteritum oder Perfekt.",
+    "questions": [
+      {
+        "question": "Die Zeitung / lesen (Präteritum)",
+        "options": [],
+        "reponse": "Die Zeitung wurde gelesen."
+      },
+      {
+        "question": "Die Zeitung / lesen (Perfekt)",
+        "options": [],
+        "reponse": "Die Zeitung ist gelesen worden."
+      },
+      {
+        "question": "Eine Mail / schreiben (Präteritum)",
+        "options": [],
+        "reponse": "Eine Mail wurde geschrieben."
+      },
+      {
+        "question": "Ich / operieren (Präteritum)",
+        "options": [],
+        "reponse": "Ich wurde operiert."
+      },
+      {
+        "question": "Du / zur Party einladen (Präteritum)",
+        "options": [],
+        "reponse": "Du wurdest zur Party eingeladen."
+      },
+      {
+        "question": "Wir / gut behandeln (Präteritum)",
+        "options": [],
+        "reponse": "Wir wurden gut behandelt."
+      },
+      {
+        "question": "Diese Kinder / schlecht erziehen (Präteritum)",
+        "options": [],
+        "reponse": "Diese Kinder wurden schlecht erzogen."
+      },
+      {
+        "question": "Sie / falsch informieren (Präteritum)",
+        "options": [],
+        "reponse": "Sie wurden falsch informiert."
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "futur-01-sol",
+    "theme": "Futur 1",
+    "sous_theme": "Zukunft und Vermutung",
+    "niveau": "B1",
+    "type": "ordre",
+    "consigne": "Bilden Sie Sätze mit Futur 1.",
+    "questions": [
+      {
+        "question": "Paul / wohl / wie so oft / zu spät kommen",
+        "options": [],
+        "reponse": "Paul wird wohl wie so oft zu spät kommen."
+      },
+      {
+        "question": "Ich / bestimmt / sehr ärgerlich auf ihn sein",
+        "options": [],
+        "reponse": "Ich werde bestimmt sehr ärgerlich auf ihn sein."
+      },
+      {
+        "question": "Wir / uns wohl / streiten",
+        "options": [],
+        "reponse": "Wir werden uns wohl streiten."
+      },
+      {
+        "question": "Wir / wahrscheinlich / keine Lust mehr haben / ins Restaurant zu gehen",
+        "options": [],
+        "reponse": "Wir werden wahrscheinlich keine Lust mehr haben, ins Restaurant zu gehen."
+      },
+      {
+        "question": "Unsere Freunde / einen wunderschönen Abend ohne uns verbringen",
+        "options": [],
+        "reponse": "Unsere Freunde werden einen wunderschönen Abend ohne uns verbringen."
+      },
+      {
+        "question": "Ich / wahrscheinlich / sehr unglücklich sein",
+        "options": [],
+        "reponse": "Ich werde wahrscheinlich sehr unglücklich sein."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "lassen-01-sol",
+    "theme": "Das Verb lassen",
+    "sous_theme": "nicht mitnehmen / nicht selbst machen / erlauben",
+    "niveau": "B1",
+    "type": "ordre",
+    "consigne": "Bilden Sie Sätze mit lassen.",
+    "questions": [
+      {
+        "question": "Nein, du kannst den Schirm zu Hause lassen. (nicht mitnehmen)",
+        "options": [],
+        "reponse": "Nein, du kannst den Schirm zu Hause lassen."
+      },
+      {
+        "question": "Nein, du kannst die Brille hier lassen. (nicht mitnehmen)",
+        "options": [],
+        "reponse": "Nein, du kannst die Brille hier lassen."
+      },
+      {
+        "question": "Nein, du kannst die Bücher in der Schule lassen. (nicht mitnehmen)",
+        "options": [],
+        "reponse": "Nein, du kannst die Bücher in der Schule lassen."
+      },
+      {
+        "question": "Nein, du kannst die Tasche im Auto lassen. (nicht mitnehmen)",
+        "options": [],
+        "reponse": "Nein, du kannst die Tasche im Auto lassen."
+      },
+      {
+        "question": "Du kannst das Auto vor der Garage lassen. (nicht mitnehmen)",
+        "options": [],
+        "reponse": "Du kannst das Auto vor der Garage lassen."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "pos-dir-01-sol",
+    "theme": "Positions- und Direktionsverben",
+    "sous_theme": "stehen/stellen, liegen/legen, sitzen/setzen",
+    "niveau": "B1",
+    "type": "completer",
+    "consigne": "Ergänzen Sie das richtige Verb.",
+    "questions": [
+      {
+        "question": "Das Buch ___ auf dem Tisch. (Position)",
+        "options": ["steht", "stellt", "liegt", "legt"],
+        "reponse": "steht"
+      },
+      {
+        "question": "Das Buch ___ auf dem Tisch. (Position)",
+        "options": ["liegt", "legt", "steht", "stellt"],
+        "reponse": "liegt"
+      },
+      {
+        "question": "Der Schuh ___ auf dem Boden. (Position)",
+        "options": ["steht", "stellt", "liegt", "legt"],
+        "reponse": "steht"
+      },
+      {
+        "question": "Der Schuh ___ auf dem Boden. (Position)",
+        "options": ["liegt", "legt", "steht", "stellt"],
+        "reponse": "liegt"
+      },
+      {
+        "question": "Der Hund ___ auf dem Boden. (Position)",
+        "options": ["steht", "stellt", "sitzt", "setzt"],
+        "reponse": "steht"
+      },
+      {
+        "question": "Der Hund ___ auf dem Boden. (Position)",
+        "options": ["sitzt", "setzt", "steht", "stellt"],
+        "reponse": "sitzt"
+      },
+      {
+        "question": "Die Tasche ___ auf dem Boden. (Position)",
+        "options": ["steht", "stellt", "liegt", "legt"],
+        "reponse": "steht"
+      },
+      {
+        "question": "Die Tasche ___ auf dem Boden. (Position)",
+        "options": ["liegt", "legt", "steht", "stellt"],
+        "reponse": "liegt"
+      },
+      {
+        "question": "Die Tasche ___ an der Wand. (Position)",
+        "options": ["hängt", "hing", "hängte", "hang"],
+        "reponse": "hängt"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "genitiv-01-sol",
+    "theme": "Genitiv",
+    "sous_theme": "Nomen im Genitiv",
+    "niveau": "B1",
+    "type": "completer",
+    "consigne": "Ergänzen Sie den Genitiv.",
+    "questions": [
+      {
+        "question": "Das ist die Freundin ___ (meine Chefin)",
+        "options": ["meiner Chefin", "meine Chefin", "mein Chef", "meines Chefs"],
+        "reponse": "meiner Chefin"
+      },
+      {
+        "question": "Das ist das Büro ___ (die Assistentin)",
+        "options": ["der Assistentin", "die Assistentin", "das Assistentin", "den Assistentin"],
+        "reponse": "der Assistentin"
+      },
+      {
+        "question": "Das ist das Auto ___ (der neue Chef)",
+        "options": ["des neuen Chefs", "der neue Chef", "den neuen Chef", "dem neuen Chef"],
+        "reponse": "des neuen Chefs"
+      },
+      {
+        "question": "Das ist das Haus ___ (mein Freund)",
+        "options": ["meines Freundes", "mein Freund", "meinem Freund", "meinen Freund"],
+        "reponse": "meines Freundes"
+      },
+      {
+        "question": "Das ist die Tür ___ (das Geschäft)",
+        "options": ["des Geschäfts", "das Geschäft", "dem Geschäft", "den Geschäft"],
+        "reponse": "des Geschäfts"
+      },
+      {
+        "question": "Das sind die Probleme ___ (die Geschäfte)",
+        "options": ["der Geschäfte", "die Geschäfte", "den Geschäften", "das Geschäft"],
+        "reponse": "der Geschäfte"
+      },
+      {
+        "question": "Das ist das Ende ___ (die Straße)",
+        "options": ["der Straße", "die Straße", "den Straße", "dem Straße"],
+        "reponse": "der Straße"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "n-dekl-01-sol",
+    "theme": "n-Deklination",
+    "sous_theme": "Maskuline Nomen",
+    "niveau": "B1",
+    "type": "completer",
+    "consigne": "Ergänzen Sie die Nomen im Akkusativ.",
+    "questions": [
+      {
+        "question": "der Türke → ich kenne ___",
+        "options": ["den Türken", "der Türke", "dem Türken", "des Türken"],
+        "reponse": "den Türken"
+      },
+      {
+        "question": "der Schwede → ich kenne ___",
+        "options": ["den Schweden", "der Schwede", "dem Schweden", "des Schweden"],
+        "reponse": "den Schweden"
+      },
+      {
+        "question": "der Japaner → ich kenne ___",
+        "options": ["den Japaner", "der Japaner", "dem Japaner", "des Japaners"],
+        "reponse": "den Japaner"
+      },
+      {
+        "question": "der Finne → ich kenne ___",
+        "options": ["den Finnen", "der Finne", "dem Finnen", "des Finnen"],
+        "reponse": "den Finnen"
+      },
+      {
+        "question": "der Chinese → ich kenne ___",
+        "options": ["den Chinesen", "der Chinese", "dem Chinesen", "des Chinesen"],
+        "reponse": "den Chinesen"
+      },
+      {
+        "question": "der Italiener → ich kenne ___",
+        "options": ["den Italiener", "der Italiener", "dem Italiener", "des Italieners"],
+        "reponse": "den Italiener"
+      },
+      {
+        "question": "der Spanier → ich kenne ___",
+        "options": ["den Spanier", "der Spanier", "dem Spanier", "des Spaniers"],
+        "reponse": "den Spanier"
+      },
+      {
+        "question": "der Portugiese → ich kenne ___",
+        "options": ["den Portugiesen", "der Portugiese", "dem Portugiesen", "des Portugiesen"],
+        "reponse": "den Portugiesen"
+      },
+      {
+        "question": "der Grieche → ich kenne ___",
+        "options": ["den Griechen", "der Grieche", "dem Griechen", "des Griechen"],
+        "reponse": "den Griechen"
+      },
+      {
+        "question": "der Ire → ich kenne ___",
+        "options": ["den Iren", "der Ire", "dem Iren", "des Iren"],
+        "reponse": "den Iren"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "adj-nom-01-sol",
+    "theme": "Adjektive als Nomen",
+    "sous_theme": "Personen (m/w)",
+    "niveau": "B1",
+    "type": "ordre",
+    "consigne": "Bilden Sie Nomen aus Adjektiven.",
+    "questions": [
+      {
+        "question": "angestellt → ein ___ (m) / eine ___ (f)",
+        "options": [],
+        "reponse": "ein Angestellter / eine Angestellte"
+      },
+      {
+        "question": "verwandt → ein ___ (m) / eine ___ (f)",
+        "options": [],
+        "reponse": "ein Verwandter / eine Verwandte"
+      },
+      {
+        "question": "bekannt → ein ___ (m) / eine ___ (f)",
+        "options": [],
+        "reponse": "ein Bekannter / eine Bekannte"
+      },
+      {
+        "question": "arbeitslos → ein ___ (m) / eine ___ (f)",
+        "options": [],
+        "reponse": "ein Arbeitsloser / eine Arbeitslose"
+      },
+      {
+        "question": "erwachsen → ein ___ (m) / eine ___ (f)",
+        "options": [],
+        "reponse": "ein Erwachsener / eine Erwachsene"
+      },
+      {
+        "question": "krank → ein ___ (m) / eine ___ (f)",
+        "options": [],
+        "reponse": "ein Kranker / eine Kranke"
+      },
+      {
+        "question": "verlobt → ein ___ (m) / eine ___ (f)",
+        "options": [],
+        "reponse": "ein Verlobter / eine Verlobte"
+      },
+      {
+        "question": "deutsch → ein ___ (m) / eine ___ (f)",
+        "options": [],
+        "reponse": "ein Deutscher / eine Deutsche"
+      },
+      {
+        "question": "verrückt → ein ___ (m) / eine ___ (f)",
+        "options": [],
+        "reponse": "ein Verrückter / eine Verrückte"
+      },
+      {
+        "question": "selbstständig → ein ___ (m) / eine ___ (f)",
+        "options": [],
+        "reponse": "ein Selbstständiger / eine Selbstständige"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "ind-frage-01-sol",
+    "theme": "Indirekte Fragen",
+    "sous_theme": "Direkte zu indirekte Fragen",
+    "niveau": "B1",
+    "type": "ordre",
+    "consigne": "Bilden Sie indirekte Fragen.",
+    "questions": [
+      {
+        "question": "Wie viel kostet ein Doppelzimmer?",
+        "options": [],
+        "reponse": "Können Sie mir sagen, wie viel ein Doppelzimmer kostet?"
+      },
+      {
+        "question": "Liegt das Hotel zentral?",
+        "options": [],
+        "reponse": "Können Sie mir sagen, ob das Hotel zentral liegt?"
+      },
+      {
+        "question": "Wie viel kostet das Frühstück?",
+        "options": [],
+        "reponse": "Können Sie mir sagen, wie viel das Frühstück kostet?"
+      },
+      {
+        "question": "Von wann bis wann kann man frühstücken?",
+        "options": [],
+        "reponse": "Können Sie mir sagen, von bis wann man frühstücken kann?"
+      },
+      {
+        "question": "Gibt es einen Swimmingpool?",
+        "options": [],
+        "reponse": "Können Sie mir sagen, ob es einen Swimmingpool gibt?"
+      },
+      {
+        "question": "Wo kann ich parken?",
+        "options": [],
+        "reponse": "Können Sie mir sagen, wo ich parken kann?"
+      },
+      {
+        "question": "Kann ich meinen Hund mitbringen?",
+        "options": [],
+        "reponse": "Können Sie mir sagen, ob ich meinen Hund mitbringen kann?"
+      },
+      {
+        "question": "Kann ich mit Kreditkarte zahlen?",
+        "options": [],
+        "reponse": "Können Sie mir sagen, ob ich mit Kreditkarte zahlen kann?"
+      },
+      {
+        "question": "Wo ist der Frühstücksraum?",
+        "options": [],
+        "reponse": "Können Sie mir sagen, wo der Frühstücksraum ist?"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "inf-zu-01-sol",
+    "theme": "Infinitiv mit zu",
+    "sous_theme": "Sätze bilden",
+    "niveau": "B1",
+    "type": "ordre",
+    "consigne": "Bilden Sie Sätze mit Infinitiv mit zu.",
+    "questions": [
+      {
+        "question": "Ich habe keine Chance / Millionär werden",
+        "options": [],
+        "reponse": "Ich habe keine Chance, Millionär zu werden."
+      },
+      {
+        "question": "Ich versuche / zu allen Leuten freundlich sein",
+        "options": [],
+        "reponse": "Ich versuche, zu allen Leuten freundlich zu sein."
+      },
+      {
+        "question": "Ich vergesse immer / einen Schirm mitnehmen",
+        "options": [],
+        "reponse": "Ich vergesse immer, einen Schirm mitzunehmen."
+      },
+      {
+        "question": "Es ist gefährlich / nachts im Park spazieren gehen",
+        "options": [],
+        "reponse": "Es ist gefährlich, nachts im Park spazieren zu gehen."
+      },
+      {
+        "question": "Mein Freund hat nie Zeit / mit mir ins Café gehen",
+        "options": [],
+        "reponse": "Mein Freund hat nie Zeit, mit mir ins Café zu gehen."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "inf-ohne-01-sol",
+    "theme": "Infinitiv ohne zu",
+    "sous_theme": "Modalverben und andere Verben",
+    "niveau": "B1",
+    "type": "ordre",
+    "consigne": "Bilden Sie Sätze mit Infinitiv ohne zu.",
+    "questions": [
+      {
+        "question": "Der Mann / gehen / Ski fahren",
+        "options": [],
+        "reponse": "Der Mann geht Ski fahren."
+      },
+      {
+        "question": "Sie / gehen / schwimmen",
+        "options": [],
+        "reponse": "Sie gehen schwimmen."
+      },
+      {
+        "question": "Das Publikum / hören / die Pianistin spielen",
+        "options": [],
+        "reponse": "Das Publikum hört die Pianistin spielen."
+      },
+      {
+        "question": "Er / bleiben / im Bett liegen",
+        "options": [],
+        "reponse": "Er bleibt im Bett liegen."
+      },
+      {
+        "question": "Die Leute / sehen / das Schiff vorbeifahren",
+        "options": [],
+        "reponse": "Die Leute sehen das Schiff vorbeifahren."
+      },
+      {
+        "question": "Das Paar / gehen / essen",
+        "options": [],
+        "reponse": "Das Paar geht essen."
+      },
+      {
+        "question": "Sie / lassen / das Buch liegen",
+        "options": [],
+        "reponse": "Sie lässt das Buch liegen."
+      },
+      {
+        "question": "Das Kind / lernen / Fahrrad fahren",
+        "options": [],
+        "reponse": "Das Kind lernt Fahrrad fahren."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "relativ-01-sol",
+    "theme": "Relativsätze",
+    "sous_theme": "Relativpronomen ergänzen",
+    "niveau": "B1",
+    "type": "completer",
+    "consigne": "Ergänzen Sie das Relativpronomen.",
+    "questions": [
+      {
+        "question": "Das ist der Mann, ___ so gut aussieht. / ___ ich gestern kennengelernt habe. / ___ ich gerne gefallen möchte. / mit ___ ich gerne tanzen möchte.",
+        "options": ["der / den / dem / dem", "den / der / dem / den", "der / dem / den / der", "den / den / dem / dem"],
+        "reponse": "der / den / dem / dem"
+      },
+      {
+        "question": "Das ist die Frau, ___ toll singen kann. / ___ ich schon zweimal im Radio gehört habe. / ___ ich Blumen schenken möchte. / von ___ ich dir gestern erzählt habe.",
+        "options": ["die / die / der / der", "die / der / die / die", "der / die / der / die", "die / die / die / der"],
+        "reponse": "die / die / der / der"
+      },
+      {
+        "question": "Das ist das Kind, ___ so lustig lacht. / ___ ich so gern habe. / ___ ich gestern ein Eis gegeben habe. / mit ___ mein Sohn gerne spielt.",
+        "options": ["das / das / dem / dem", "das / dem / das / dem", "dem / das / dem / das", "das / das / das / dem"],
+        "reponse": "das / das / dem / dem"
+      },
+      {
+        "question": "Das sind die Leute, ___ immer Party machen. / ___ ich am Samstag zu meiner Party eingeladen habe. / ___ ich beim Umzug geholfen habe. / auf ___ ich jetzt eine halbe Stunde gewartet habe.",
+        "options": ["die / die / denen / die", "die / die / denen / denen", "die / denen / die / denen", "die / die / denen / die"],
+        "reponse": "die / die / denen / die"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "temp-wenn-als-01-sol",
+    "theme": "Temporale Nebensätze",
+    "sous_theme": "wenn und als",
+    "niveau": "B1",
+    "type": "ordre",
+    "consigne": "Bilden Sie Sätze mit wenn oder als.",
+    "questions": [
+      {
+        "question": "Wenn: du heute Abend kommen / wir können gleich ins Kino gehen",
+        "options": [],
+        "reponse": "Wenn du heute Abend kommst, können wir gleich ins Kino gehen."
+      },
+      {
+        "question": "Wenn: Sie Zeit haben / ich möchte Sie gerne zu einem Kaffee einladen",
+        "options": [],
+        "reponse": "Wenn Sie Zeit haben, möchte ich Sie gerne zu einem Kaffee einladen."
+      },
+      {
+        "question": "Wenn: alles fertig sein / wir können nach Hause gehen",
+        "options": [],
+        "reponse": "Wenn alles fertig ist, können wir nach Hause gehen."
+      },
+      {
+        "question": "Wenn: das Auto kaputt sein / du musst es schnell in die Werkstatt bringen",
+        "options": [],
+        "reponse": "Wenn das Auto kaputt ist, musst du es schnell in die Werkstatt bringen."
+      },
+      {
+        "question": "Als: er gekommen sein / sie hat sofort den Raum verlassen",
+        "options": [],
+        "reponse": "Als er gekommen ist, hat sie sofort den Raum verlassen."
+      },
+      {
+        "question": "Als: sie die neue Stelle bekommen haben / sie hat mit ihren Freunden eine Party gemacht",
+        "options": [],
+        "reponse": "Als sie die neue Stelle bekommen hat, hat sie mit ihren Freunden eine Party gemacht."
+      },
+      {
+        "question": "Als: er letzte Woche den Unfall haben / das Auto musste in die Werkstatt gebracht werden",
+        "options": [],
+        "reponse": "Als er letzte Woche den Unfall hatte, musste das Auto in die Werkstatt gebracht werden."
+      },
+      {
+        "question": "Als: wir Urlaub haben / es hat die ganze Zeit geregnet",
+        "options": [],
+        "reponse": "Als wir Urlaub hatten, hat es die ganze Zeit geregnet."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "temp-konn-01-sol",
+    "theme": "Temporale Nebensätze",
+    "sous_theme": "bevor, nachdem, während, seit",
+    "niveau": "B1",
+    "type": "ordre",
+    "consigne": "Bilden Sie Sätze mit bevor, nachdem, während oder seit.",
+    "questions": [
+      {
+        "question": "Ich putze mir die Zähne / bevor ich ins Bett gehe",
+        "options": [],
+        "reponse": "Ich putze mir die Zähne, bevor ich ins Bett gehe."
+      },
+      {
+        "question": "Ich schließe die Fenster / bevor ich aus dem Haus gehe",
+        "options": [],
+        "reponse": "Ich schließe die Fenster, bevor ich aus dem Haus gehe."
+      },
+      {
+        "question": "Ich packe die Koffer / bevor ich eine Reise mache",
+        "options": [],
+        "reponse": "Ich packe die Koffer, bevor ich eine Reise mache."
+      },
+      {
+        "question": "Während der Mann kocht / putzt die Frau die Küche",
+        "options": [],
+        "reponse": "Während der Mann kocht, putzt die Frau die Küche."
+      },
+      {
+        "question": "Während die Frau in der Sonne liegt / spielen die Männer Ball",
+        "options": [],
+        "reponse": "Während die Frau in der Sonne liegt, spielen die Männer Ball."
+      },
+      {
+        "question": "Während die Frau Auto fährt / schläft der Mann",
+        "options": [],
+        "reponse": "Während die Frau Auto fährt, schläft der Mann."
+      },
+      {
+        "question": "Er hat fünf Kilogramm abgenommen / seitdem er keine Schokolade mehr isst",
+        "options": [],
+        "reponse": "Er hat fünf Kilogramm abgenommen, seitdem er keine Schokolade mehr isst."
+      },
+      {
+        "question": "Er fühlt sich wohler / seitdem er fünf Kilogramm abgenommen hat",
+        "options": [],
+        "reponse": "Er fühlt sich wohler, seitdem er fünf Kilogramm abgenommen hat."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "final-01-sol",
+    "theme": "Finalsätze",
+    "sous_theme": "um...zu und damit",
+    "niveau": "B1",
+    "type": "ordre",
+    "consigne": "Bilden Sie Finalsätze mit um...zu oder damit.",
+    "questions": [
+      {
+        "question": "Ich lese Zeitung / um mich zu informieren",
+        "options": [],
+        "reponse": "Ich lese Zeitung, um mich zu informieren."
+      },
+      {
+        "question": "Ich lerne Deutsch / um meinen deutschen Mann zu verstehen",
+        "options": [],
+        "reponse": "Ich lerne Deutsch, um meinen deutschen Mann zu verstehen."
+      },
+      {
+        "question": "Ich arbeite so viel / um Karriere zu machen",
+        "options": [],
+        "reponse": "Ich arbeite so viel, um Karriere zu machen."
+      },
+      {
+        "question": "Ich ziehe aufs Land / damit mein Kind in der Natur aufwächst",
+        "options": [],
+        "reponse": "Ich ziehe aufs Land, damit mein Kind in der Natur aufwächst."
+      },
+      {
+        "question": "Er ist ganz leise / damit sein Kind nicht aufwacht",
+        "options": [],
+        "reponse": "Er ist ganz leise, damit sein Kind nicht aufwacht."
+      },
+      {
+        "question": "Er arbeitet so viel / damit er ein besseres Leben hat",
+        "options": [],
+        "reponse": "Er arbeitet so viel, damit er ein besseres Leben hat."
+      },
+      {
+        "question": "Maria lernt Deutsch / um in Deutschland zu arbeiten",
+        "options": [],
+        "reponse": "Maria lernt Deutsch, um in Deutschland zu arbeiten."
+      },
+      {
+        "question": "Sie macht jetzt ein Praktikum / um den Beruf kennenzulernen",
+        "options": [],
+        "reponse": "Sie macht jetzt ein Praktikum, um den Beruf kennenzulernen."
+      },
+      {
+        "question": "Sie arbeitet viel / damit das Projekt fertig wird",
+        "options": [],
+        "reponse": "Sie arbeitet viel, damit das Projekt fertig wird."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "doppelk-01-sol",
+    "theme": "Doppelkonnektoren",
+    "sous_theme": "sowohl...als auch, weder...noch, entweder...oder",
+    "niveau": "B1",
+    "type": "ordre",
+    "consigne": "Bilden Sie Sätze mit Doppelkonnektoren.",
+    "questions": [
+      {
+        "question": "Heute gehen wir / sowohl ins Restaurant als auch ins Kino",
+        "options": [],
+        "reponse": "Heute gehen wir sowohl ins Restaurant als auch ins Kino."
+      },
+      {
+        "question": "Elena ist / sowohl schön als auch intelligent",
+        "options": [],
+        "reponse": "Elena ist sowohl schön als auch intelligent."
+      },
+      {
+        "question": "Die Reise war / sowohl interessant als auch entspannend",
+        "options": [],
+        "reponse": "Die Reise war sowohl interessant als auch entspannend."
+      },
+      {
+        "question": "Liva möchte / entweder studieren oder eine Ausbildung machen",
+        "options": [],
+        "reponse": "Liva möchte entweder studieren oder eine Ausbildung machen."
+      },
+      {
+        "question": "Theo möchte / entweder nach Island oder nach Finnland fahren",
+        "options": [],
+        "reponse": "Theo möchte entweder nach Island oder nach Finnland fahren."
+      },
+      {
+        "question": "Emilia trifft heute / entweder Finn oder Jonas",
+        "options": [],
+        "reponse": "Emilia trifft heute entweder Finn oder Jonas."
+      },
+      {
+        "question": "Tatjana trinkt / weder Kaffee noch Tee. Nur Saft.",
+        "options": [],
+        "reponse": "Tatjana trinkt weder Kaffee noch Tee."
+      },
+      {
+        "question": "Malina kann / weder Italienisch noch Spanisch sprechen",
+        "options": [],
+        "reponse": "Malina kann weder Italienisch noch Spanisch sprechen."
+      },
+      {
+        "question": "Paul will / weder baden noch duschen. Er hasst Wasser.",
+        "options": [],
+        "reponse": "Paul will weder baden noch duschen."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "vergl-01-sol",
+    "theme": "Vergleichssätze",
+    "sous_theme": "je...desto/umso",
+    "niveau": "B1",
+    "type": "ordre",
+    "consigne": "Bilden Sie Vergleichssätze mit je...desto/umso.",
+    "questions": [
+      {
+        "question": "Je besser sie ihn kennt / umso sympathischer findet sie ihn",
+        "options": [],
+        "reponse": "Je besser sie ihn kennt, umso sympathischer findet sie ihn."
+      },
+      {
+        "question": "Je netter er ist / desto verliebter ist sie",
+        "options": [],
+        "reponse": "Je netter er ist, desto verliebter ist sie."
+      },
+      {
+        "question": "Je mehr er sie liebt / desto nervöser ist er",
+        "options": [],
+        "reponse": "Je mehr er sie liebt, desto nervöser ist er."
+      },
+      {
+        "question": "Je unsicherer er wird / umso süßer findet sie ihn",
+        "options": [],
+        "reponse": "Je unsicherer er wird, umso süßer findet sie ihn."
+      },
+      {
+        "question": "Je öfter sie sich treffen / desto besser kennen sie sich",
+        "options": [],
+        "reponse": "Je öfter sie sich treffen, desto besser kennen sie sich."
+      },
+      {
+        "question": "Je länger er mit dem Heiratsantrag wartet / desto unruhiger wird sie",
+        "options": [],
+        "reponse": "Je länger er mit dem Heiratsantrag wartet, desto unruhiger wird sie."
+      },
+      {
+        "question": "Je besser die Hochzeit vorbereitet wird / umso schöner wird das Fest",
+        "options": [],
+        "reponse": "Je besser die Hochzeit vorbereitet wird, umso schöner wird das Fest."
+      },
+      {
+        "question": "Je weniger er schläft / desto müder ist er",
+        "options": [],
+        "reponse": "Je weniger er schläft, desto müder ist er."
+      },
+      {
+        "question": "Je mehr Alkohol er trinkt / desto betrunken er ist",
+        "options": [],
+        "reponse": "Je mehr Alkohol er trinkt, desto betrunken er ist."
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "praep-gen-01-sol",
+    "theme": "Präpositionen mit Genitiv",
+    "sous_theme": "wegen, trotz, während, innerhalb, außerhalb",
+    "niveau": "B1",
+    "type": "completer",
+    "consigne": "Ergänzen Sie die Präposition mit Genitiv.",
+    "questions": [
+      {
+        "question": "___ des Schnees muss man vorsichtig fahren.",
+        "options": ["Wegen", "Trotz", "Während", "Innerhalb"],
+        "reponse": "Wegen"
+      },
+      {
+        "question": "___ des Laufens hört er Musik.",
+        "options": ["Während", "Wegen", "Trotz", "Innerhalb"],
+        "reponse": "Während"
+      },
+      {
+        "question": "___ ihrer Arbeitslosigkeit kauft sie einen Mercedes.",
+        "options": ["Trotz", "Wegen", "Während", "Innerhalb"],
+        "reponse": "Trotz"
+      },
+      {
+        "question": "___ der Sprechzeiten können Sie uns anrufen.",
+        "options": ["Innerhalb/Während", "Außerhalb", "Wegen", "Trotz"],
+        "reponse": "Innerhalb/Während"
+      },
+      {
+        "question": "___ des Zentrums sind die Mieten billiger.",
+        "options": ["Außerhalb", "Innerhalb", "Wegen", "Trotz"],
+        "reponse": "Außerhalb"
+      },
+      {
+        "question": "___ des Wetters kommen wir nicht.",
+        "options": ["Wegen", "Trotz", "Während", "Innerhalb"],
+        "reponse": "Wegen"
+      },
+      {
+        "question": "___ des Geldes kauft er das Auto nicht.",
+        "options": ["Trotz", "Wegen", "Während", "Innerhalb"],
+        "reponse": "Trotz"
+      },
+      {
+        "question": "___ der Stadt gibt es viele Parks.",
+        "options": ["Innerhalb", "Außerhalb", "Wegen", "Trotz"],
+        "reponse": "Innerhalb"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "partizip-01-sol",
+    "theme": "Partizip 1 als Adjektiv",
+    "sous_theme": "Formen und Endungen",
+    "niveau": "B1",
+    "type": "completer",
+    "consigne": "Bilden Sie das Partizip 1 als Adjektiv.",
+    "questions": [
+      {
+        "question": "das startend___ Auto",
+        "options": ["-e", "-en", "-er", "-es"],
+        "reponse": "-e"
+      },
+      {
+        "question": "die aufgehend___ Sonne",
+        "options": ["-e", "-en", "-er", "-es"],
+        "reponse": "-e"
+      },
+      {
+        "question": "das brennend___ Feuer",
+        "options": ["-e", "-en", "-er", "-es"],
+        "reponse": "-e"
+      },
+      {
+        "question": "die sinkend___ Sonne",
+        "options": ["-e", "-en", "-er", "-es"],
+        "reponse": "-e"
+      },
+      {
+        "question": "das kochend___ Wasser",
+        "options": ["-e", "-en", "-er", "-es"],
+        "reponse": "-e"
+      },
+      {
+        "question": "die steigend___ Preise",
+        "options": ["-en", "-e", "-er", "-es"],
+        "reponse": "-en"
+      },
+      {
+        "question": "der ankommend___ Zug",
+        "options": ["-e", "-en", "-er", "-es"],
+        "reponse": "-e"
+      },
+      {
+        "question": "die fliegend___ Vögel",
+        "options": ["-en", "-e", "-er", "-es"],
+        "reponse": "-en"
+      },
+      {
+        "question": "die alleinerziehend___ Mutter",
+        "options": ["-e", "-en", "-er", "-es"],
+        "reponse": "-e"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  }
+]

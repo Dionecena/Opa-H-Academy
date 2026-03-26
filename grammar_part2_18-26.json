@@ -1,0 +1,1153 @@
+[
+  {
+    "id": "v1-mod-01",
+    "theme": "Verben 1",
+    "sous_theme": "Modalverben Konjugation",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "Ergänzen Sie die Modalverben (können, müssen, dürfen, wollen, sollen, möchten).",
+    "questions": [
+      {
+        "question": "Vater: Was ___ du essen, Annika? Annika: Ich ___ Spaghetti und Juliane Pizza.",
+        "options": ["möchtest / möchte", "willst / will", "kannst / kann", "musst / muss"],
+        "reponse": "möchtest / möchte"
+      },
+      {
+        "question": "Vater: Ich ___ nicht zwei Essen kochen. Also, was ___ ihr, Annika und Juliane?",
+        "options": ["möchte / möchtet", "will / wollt", "kann / könnt", "muss / müsst"],
+        "reponse": "möchte / möchtet"
+      },
+      {
+        "question": "Annika und Juliane: Wir ___ Eis!",
+        "options": ["möchten", "wollen", "können", "müssen"],
+        "reponse": "möchten"
+      },
+      {
+        "question": "Juliane: Ich ___ viel besser schwimmen als du!",
+        "options": ["kann", "möchte", "will", "muss"],
+        "reponse": "kann"
+      },
+      {
+        "question": "Annika: Du ___ vielleicht besser schwimmen, aber ich ___ besser Fußball spielen!",
+        "options": ["kannst / kann", "willst / will", "musst / muss", "darfst / darf"],
+        "reponse": "kannst / kann"
+      },
+      {
+        "question": "Mutter: Hoffentlich ___ ihr beide gut Englisch, Mathematik und Deutsch!",
+        "options": ["könnt", "wollt", "müsst", "dürft"],
+        "reponse": "könnt"
+      },
+      {
+        "question": "Juliane und Annika: Wir ___ sehr gut Englisch und Deutsch und Mathematik.",
+        "options": ["können", "wollen", "müssen", "dürfen"],
+        "reponse": "können"
+      },
+      {
+        "question": "Und Juliane ___ viel besser Computer spielen als du!",
+        "options": ["kann", "möchte", "will", "muss"],
+        "reponse": "kann"
+      },
+      {
+        "question": "Mutter: Und die Kinder ___ schneller laufen, besser tanzen, besser lernen, länger schlafen.",
+        "options": ["können", "wollen", "müssen", "dürfen"],
+        "reponse": "können"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "v1-mod-02",
+    "theme": "Verben 1",
+    "sous_theme": "Modalverben müssen",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "Ergänzen Sie das Modalverb müssen.",
+    "questions": [
+      {
+        "question": "Mutter: Es gibt viel Arbeit. Alle helfen. Frank, du ___ einkaufen.",
+        "options": ["musst", "müssen", "müsst", "muss"],
+        "reponse": "musst"
+      },
+      {
+        "question": "Und ihr, Kinder, ihr ___ putzen.",
+        "options": ["müsst", "musst", "müssen", "muss"],
+        "reponse": "müsst"
+      },
+      {
+        "question": "Annika und Juliane: Wir ___ putzen! Und Papa nur einkaufen!",
+        "options": ["müssen", "müsst", "musst", "muss"],
+        "reponse": "müssen"
+      },
+      {
+        "question": "Mutter: Ich ___ Wäsche waschen und die Wohnung aufräumen.",
+        "options": ["muss", "musst", "müssen", "müsst"],
+        "reponse": "muss"
+      }
+    ],
+    "difficulty": "facile",
+    "score": 1
+  },
+  {
+    "id": "v1-mod-03",
+    "theme": "Verben 1",
+    "sous_theme": "Modalverben wollen",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "Ergänzen Sie das Modalverb wollen.",
+    "questions": [
+      {
+        "question": "Eltern: Wo ___ ihr Urlaub machen?",
+        "options": ["wollt", "willst", "wollen", "will"],
+        "reponse": "wollt"
+      },
+      {
+        "question": "Annika und Juliane: Wir ___ zu Oma fahren!",
+        "options": ["wollen", "wollt", "willst", "will"],
+        "reponse": "wollen"
+      },
+      {
+        "question": "Eltern: Juliane, du ___ nicht im Urlaub schwimmen?",
+        "options": ["willst", "wollt", "wollen", "will"],
+        "reponse": "willst"
+      },
+      {
+        "question": "Juliane: Doch, ich ___ schwimmen. Aber Annika ___ zu Oma fahren.",
+        "options": ["will / will", "wolle / wolle", "willst / willst", "wollen / wollen"],
+        "reponse": "will / will"
+      },
+      {
+        "question": "Vater: Die Kinder ___ zu Oma fahren. Das ist gut.",
+        "options": ["wollen", "wollt", "willst", "will"],
+        "reponse": "wollen"
+      }
+    ],
+    "difficulty": "facile",
+    "score": 1
+  },
+  {
+    "id": "v1-mod-04",
+    "theme": "Verben 1",
+    "sous_theme": "Modalverben dürfen",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "Ergänzen Sie das Modalverb dürfen.",
+    "questions": [
+      {
+        "question": "Mutter: Annika, du ___ jetzt nicht Computer spielen!",
+        "options": ["darfst", "dürft", "darf", "dürfen"],
+        "reponse": "darfst"
+      },
+      {
+        "question": "Annika: Warum ___ ich nicht?",
+        "options": ["darf", "darfst", "dürft", "dürfen"],
+        "reponse": "darf"
+      },
+      {
+        "question": "Annika: ___ Juliane Computer spielen?",
+        "options": ["Darf", "Darfst", "Dürft", "Dürfen"],
+        "reponse": "Darf"
+      },
+      {
+        "question": "Mutter: Nein, ihr ___ nicht Computer spielen und ihr ___ auch nicht fernsehen.",
+        "options": ["dürft / dürft", "darfst / darfst", "darf / darf", "dürfen / dürfen"],
+        "reponse": "dürft / dürft"
+      },
+      {
+        "question": "Juliane: Wir ___ nicht fernsehen? Dann ___ Oma und Opa auch nicht fernsehen!",
+        "options": ["dürfen / dürfen", "dürft / dürft", "darfst / darfst", "darf / darf"],
+        "reponse": "dürfen / dürfen"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "v1-mod-05",
+    "theme": "Verben 1",
+    "sous_theme": "Modalverben sollen",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "Ergänzen Sie das Modalverb sollen.",
+    "questions": [
+      {
+        "question": "Mutter: Der Arzt sagt, ich ___ nicht arbeiten.",
+        "options": ["soll", "sollst", "sollen", "sollt"],
+        "reponse": "soll"
+      },
+      {
+        "question": "Vater: Du ___ nicht arbeiten? Wer dann den Garten machen?",
+        "options": ["sollst", "soll", "sollen", "sollt"],
+        "reponse": "sollst"
+      },
+      {
+        "question": "___ wir deine Eltern fragen?",
+        "options": ["Sollen", "Sollst", "Soll", "Sollt"],
+        "reponse": "Sollen"
+      }
+    ],
+    "difficulty": "facile",
+    "score": 1
+  },
+  {
+    "id": "v1-mod-06",
+    "theme": "Verben 1",
+    "sous_theme": "Modalverben Kreuzen",
+    "niveau": "A1",
+    "type": "qcm",
+    "consigne": "Welches Verb passt? Kreuzen Sie an.",
+    "questions": [
+      {
+        "question": "Ich ___ Urlaub machen.",
+        "options": ["möchte", "kann", "will", "muss"],
+        "reponse": "möchte"
+      },
+      {
+        "question": "Du ___ Urlaub machen.",
+        "options": ["möchtest", "kannst", "willst", "musst"],
+        "reponse": "möchtest"
+      },
+      {
+        "question": "Er/Sie/Es/Man ___ Urlaub machen.",
+        "options": ["möchte", "kann", "will", "muss"],
+        "reponse": "möchte"
+      },
+      {
+        "question": "Wir ___ Urlaub machen.",
+        "options": ["möchten", "können", "wollen", "müssen"],
+        "reponse": "möchten"
+      },
+      {
+        "question": "Ihr ___ Urlaub machen.",
+        "options": ["möchtet", "könnt", "wollt", "müsst"],
+        "reponse": "möchtet"
+      },
+      {
+        "question": "Sie/sie ___ Urlaub machen.",
+        "options": ["möchten", "können", "wollen", "müssen"],
+        "reponse": "möchten"
+      }
+    ],
+    "difficulty": "facile",
+    "score": 1
+  },
+  {
+    "id": "v1-mod-07",
+    "theme": "Verben 1",
+    "sous_theme": "Modalverben Sätze bilden",
+    "niveau": "A1",
+    "type": "ordre",
+    "consigne": "AM SONNTAG. Schreiben Sie Sätze.",
+    "questions": [
+      {
+        "question": "Am Sonntag • wir • lange • können • schlafen • .",
+        "options": [],
+        "reponse": "Am Sonntag können wir lange schlafen."
+      },
+      {
+        "question": "eine Freundin • Meine Tochter • besuchen • will • .",
+        "options": [],
+        "reponse": "Meine Tochter will eine Freundin besuchen."
+      },
+      {
+        "question": "sehen • Mein Mann • möchte • Fußball • .",
+        "options": [],
+        "reponse": "Mein Mann möchte Fußball sehen."
+      },
+      {
+        "question": "ich • muss • kochen • leider auch • Am Sonntag • .",
+        "options": [],
+        "reponse": "Am Sonntag muss ich leider auch kochen."
+      },
+      {
+        "question": "Am Nachmittag • wir • spazieren gehen • zusammen • möchten • .",
+        "options": [],
+        "reponse": "Am Nachmittag möchten wir zusammen spazieren gehen."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "v1-mod-08",
+    "theme": "Verben 1",
+    "sous_theme": "Modalverben Dialog Ausländeramt",
+    "niveau": "A1",
+    "type": "ordre",
+    "consigne": "AUF DEM AUSLÄNDERAMT. Schreiben Sie Sätze.",
+    "questions": [
+      {
+        "question": "Herr Guzman: möchten: ich • meine Aufenthaltserlaubnis • verlängern • .",
+        "options": [],
+        "reponse": "Ich möchte meine Aufenthaltserlaubnis verlängern."
+      },
+      {
+        "question": "Portier: müssen: Sie • in den dritten Stock • in Zimmer 325 • gehen • .",
+        "options": [],
+        "reponse": "Sie müssen in den dritten Stock in Zimmer 325 gehen."
+      },
+      {
+        "question": "Herr Guzman: können: ich • meinen Hund • mitnehmen • ?",
+        "options": [],
+        "reponse": "Kann ich meinen Hund mitnehmen?"
+      },
+      {
+        "question": "Portier: dürfen: Hunde • nicht ins Haus • gehen • .",
+        "options": [],
+        "reponse": "Hunde dürfen nicht ins Haus gehen."
+      },
+      {
+        "question": "Herr Guzman: sollen: wo • der Hund • bleiben • ?",
+        "options": [],
+        "reponse": "Wo soll der Hund bleiben?"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "v1-mod-09",
+    "theme": "Verben 1",
+    "sous_theme": "Modalverben können Bedeutung",
+    "niveau": "A1",
+    "type": "identifier",
+    "consigne": "Das Modalverb können. Welche Bedeutung passt? Notieren Sie die Zahl. (1 = Ich habe das gelernt. 2 = Es gibt die Chance/Möglichkeit. 3 = Es ist nicht verboten.)",
+    "questions": [
+      {
+        "question": "Ich kann gut Ski fahren, aber es gibt hier keinen Schnee. Man kann nicht Ski fahren.",
+        "options": ["1 / 2", "2 / 3", "1 / 3", "3 / 1"],
+        "reponse": "1 / 2"
+      },
+      {
+        "question": "Können Sie Englisch? Dann können Sie den Job in England machen.",
+        "options": ["1 / 2", "2 / 1", "3 / 1", "1 / 3"],
+        "reponse": "1 / 2"
+      },
+      {
+        "question": "Können Sie nicht lesen? Hier ist Parken verboten. Aber da kann man parken.",
+        "options": ["1 / 3", "3 / 3", "2 / 3", "1 / 2"],
+        "reponse": "1 / 3"
+      },
+      {
+        "question": "Ich kann das Auto nicht kaufen. Ich kann es nicht bezahlen und ich kann auch nicht Auto fahren.",
+        "options": ["2 / 1", "2 / 3", "3 / 1", "1 / 2"],
+        "reponse": "2 / 1"
+      },
+      {
+        "question": "Er kann gut Schlagzeug spielen. Aber er kann nicht oft spielen. Der Nachbar sagt, das ist zu laut. Jetzt ist es verboten und er kann nicht in seiner Wohnung spielen.",
+        "options": ["1 / 2 / 3", "2 / 1 / 3", "1 / 3 / 2", "3 / 2 / 1"],
+        "reponse": "1 / 2 / 3"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "v1-mod-10",
+    "theme": "Verben 1",
+    "sous_theme": "wollen oder möchten",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "Modalverb wollen oder 'möchten'? Ergänzen Sie.",
+    "questions": [
+      {
+        "question": "Herr Meier, was nehmen Sie? — Ich ___ gern einen Apfelsaft.",
+        "options": ["möchte", "will", "kann", "muss"],
+        "reponse": "möchte"
+      },
+      {
+        "question": "Lisa ___ heute nicht in die Schule gehen.",
+        "options": ["will", "möchte", "kann", "muss"],
+        "reponse": "will"
+      },
+      {
+        "question": "Was ___ Sie? — Wir ___ ein Kilo Tomaten, bitte.",
+        "options": ["möchten / möchten", "wollen / wollen", "können / können", "müssen / müssen"],
+        "reponse": "möchten / möchten"
+      },
+      {
+        "question": "Peter ist 14 Jahre alt und schon ___ in einen Club gehen. Aber seine Eltern ___ das nicht.",
+        "options": ["will / wollen", "möchte / möchten", "kann / können", "muss / müssen"],
+        "reponse": "will / wollen"
+      },
+      {
+        "question": "Sie können um 8 Uhr oder um 9 Uhr kommen, wie Sie ___.",
+        "options": ["wollen", "möchten", "können", "müssen"],
+        "reponse": "wollen"
+      },
+      {
+        "question": "Entschuldigung, ich ___ das Fenster öffnen. Ist das okay für Sie?",
+        "options": ["möchte", "will", "kann", "muss"],
+        "reponse": "möchte"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "v1-mod-11",
+    "theme": "Verben 1",
+    "sous_theme": "wollen oder können",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "Welches Verb passt: wollen oder können? Ergänzen Sie.",
+    "questions": [
+      {
+        "question": "Svetlana ___ schon gut Deutsch. Aber sie ist noch nicht perfekt.",
+        "options": ["kann", "will", "möchte", "muss"],
+        "reponse": "kann"
+      },
+      {
+        "question": "Sie ___ nächstes Jahr unbedingt einen Sprachkurs machen.",
+        "options": ["will", "kann", "möchte", "muss"],
+        "reponse": "will"
+      },
+      {
+        "question": "Sie ___ mehr Grammatik lernen.",
+        "options": ["will", "kann", "möchte", "muss"],
+        "reponse": "will"
+      },
+      {
+        "question": "Sie ___ aber nur am Abend oder am Wochenende einen Kurs besuchen.",
+        "options": ["kann", "will", "möchte", "muss"],
+        "reponse": "kann"
+      },
+      {
+        "question": "Sie ___ gut singen?",
+        "options": ["Kannst", "Willst", "Möchtest", "Musst"],
+        "reponse": "Kannst"
+      },
+      {
+        "question": "Ich ___ es leider nicht.",
+        "options": ["kann", "will", "möchte", "muss"],
+        "reponse": "kann"
+      },
+      {
+        "question": "Ich ___ jetzt in einen Chor gehen und singen lernen.",
+        "options": ["will", "kann", "möchte", "muss"],
+        "reponse": "will"
+      },
+      {
+        "question": "Kinder ___ immer viele Dinge haben.",
+        "options": ["wollen", "können", "möchten", "müssen"],
+        "reponse": "wollen"
+      },
+      {
+        "question": "Viele Eltern ___ ihren Kindern auch nicht alles kaufen.",
+        "options": ["wollen", "können", "möchten", "müssen"],
+        "reponse": "wollen"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "v1-mod-12",
+    "theme": "Verben 1",
+    "sous_theme": "möchten oder können (Geschichte)",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "Modalverb 'möchten' oder können? Ergänzen Sie.",
+    "questions": [
+      {
+        "question": "Yvonne ist ledig und hat zwei Kinder. Sie arbeitet viel und ___ nicht viel Urlaub machen.",
+        "options": ["kann", "will", "möchte", "muss"],
+        "reponse": "kann"
+      },
+      {
+        "question": "Manchmal ist sie krank und ___ nicht arbeiten und nur wenig für die Kinder machen.",
+        "options": ["kann", "will", "möchte", "muss"],
+        "reponse": "kann"
+      },
+      {
+        "question": "Sie ___ gerne mehr Zeit für die Kinder haben.",
+        "options": ["möchte", "will", "kann", "muss"],
+        "reponse": "möchte"
+      },
+      {
+        "question": "Ihr Sohn Henry ist 9 Jahre alt. Er ___ jetzt gerne in Urlaub fahren.",
+        "options": ["möchte", "will", "kann", "muss"],
+        "reponse": "möchte"
+      },
+      {
+        "question": "Aber er hat noch Schule, er ___ erst im Juli wegfahren.",
+        "options": ["kann", "will", "möchte", "muss"],
+        "reponse": "kann"
+      },
+      {
+        "question": "Seine Schwester Emilia ist vier Jahre alt. Sie ___ noch nicht in die Schule gehen.",
+        "options": ["kann", "will", "möchte", "muss"],
+        "reponse": "kann"
+      },
+      {
+        "question": "Aber sie ___ gerne in die Schule gehen wie Henry.",
+        "options": ["möchte", "will", "kann", "muss"],
+        "reponse": "möchte"
+      },
+      {
+        "question": "Sie ___ noch nicht lesen.",
+        "options": ["kann", "will", "möchte", "muss"],
+        "reponse": "kann"
+      },
+      {
+        "question": "Aber sie ___ schon ihren Namen schreiben.",
+        "options": ["kann", "will", "möchte", "muss"],
+        "reponse": "kann"
+      },
+      {
+        "question": "Die Familie ___ gerne einen Urlaub am Meer machen.",
+        "options": ["möchte", "will", "kann", "muss"],
+        "reponse": "möchte"
+      },
+      {
+        "question": "Vielleicht ___ sie im Juli ans Meer fahren.",
+        "options": ["können", "wollen", "möchten", "müssen"],
+        "reponse": "können"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "v1-mod-13",
+    "theme": "Verben 1",
+    "sous_theme": "Modalverben müssen vs dürfen",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "Modalverb müssen oder dürfen? Ordnen Sie die Bilder zu und ergänzen Sie die Verben.",
+    "questions": [
+      {
+        "question": "Hier ___ Männer nicht hineingehen.",
+        "options": ["dürfen", "müssen", "können", "sollen"],
+        "reponse": "dürfen"
+      },
+      {
+        "question": "Hier ___ man nach rechts fahren.",
+        "options": ["muss", "darf", "kann", "soll"],
+        "reponse": "muss"
+      },
+      {
+        "question": "Das ___ man nicht trinken.",
+        "options": ["darf", "muss", "kann", "soll"],
+        "reponse": "darf"
+      },
+      {
+        "question": "Hier ___ Kinder spielen und laut sein.",
+        "options": ["dürfen", "müssen", "können", "sollen"],
+        "reponse": "dürfen"
+      },
+      {
+        "question": "Hier ___ man stoppen.",
+        "options": ["muss", "darf", "kann", "soll"],
+        "reponse": "muss"
+      },
+      {
+        "question": "Hier ___ man rauchen.",
+        "options": ["darf", "muss", "kann", "soll"],
+        "reponse": "darf"
+      },
+      {
+        "question": "Hier ___ man nicht mit dem Handy telefonieren.",
+        "options": ["darf", "muss", "kann", "soll"],
+        "reponse": "darf"
+      },
+      {
+        "question": "Hier ___ man langsam fahren.",
+        "options": ["muss", "darf", "kann", "soll"],
+        "reponse": "muss"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "v1-mod-14",
+    "theme": "Verben 1",
+    "sous_theme": "Modalverben müssen vs sollen",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "Modalverb müssen oder sollen? Ergänzen Sie.",
+    "questions": [
+      {
+        "question": "Lena ist krank. Sie ___ zum Arzt gehen.",
+        "options": ["muss", "soll", "kann", "darf"],
+        "reponse": "muss"
+      },
+      {
+        "question": "Die Ärztin sagt: 'Du ___ im Bett bleiben und du ___ viel schlafen und viel trinken.'",
+        "options": ["sollst / sollst", "musst / musst", "kannst / kannst", "darfst / darfst"],
+        "reponse": "sollst / sollst"
+      },
+      {
+        "question": "Lena sagt zu ihrer Mutter: 'Die Ärztin sagt, ich ___ im Bett bleiben und schlafen.'",
+        "options": ["soll", "muss", "kann", "darf"],
+        "reponse": "soll"
+      },
+      {
+        "question": "Lena: 'Ich ___ nicht zur Schule gehen.'",
+        "options": ["muss", "soll", "kann", "darf"],
+        "reponse": "muss"
+      },
+      {
+        "question": "Die Mutter fragt: '___ du Medizin nehmen?'",
+        "options": ["Sollst", "Musst", "Kannst", "Darfst"],
+        "reponse": "Sollst"
+      },
+      {
+        "question": "Lena antwortet: 'Nein, aber ich ___ viel trinken.'",
+        "options": ["soll", "muss", "kann", "darf"],
+        "reponse": "soll"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "v1-trenn-01",
+    "theme": "Verben 1",
+    "sous_theme": "Trennbare Verben",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "DER ARBEITSTAG FÄNGT AN. Ergänzen Sie die Verben.",
+    "questions": [
+      {
+        "question": "Ich ___ an der Station 'Westend' in die U6 ___ . (einsteigen)",
+        "options": ["steige / ein", "steigst / ein", "steigt / ein", "steigen / ein"],
+        "reponse": "steige / ein"
+      },
+      {
+        "question": "An der Station 'Hauptwache' ___ ich ___ und nehme die U1. (umsteigen)",
+        "options": ["steige / um", "steigst / um", "steigt / um", "steigen / um"],
+        "reponse": "steige / um"
+      },
+      {
+        "question": "Am Südbahnhof ___ ich ___ . (aussteigen)",
+        "options": ["steige / aus", "steigst / aus", "steigt / aus", "steigen / aus"],
+        "reponse": "steige / aus"
+      },
+      {
+        "question": "Pünktlich um 8 Uhr ___ ich im Büro ___ . (ankommen)",
+        "options": ["komme / an", "kommst / an", "kommt / an", "kommen / an"],
+        "reponse": "komme / an"
+      },
+      {
+        "question": "Es ist sehr warm. Ich ___ das Fenster ___ . (aufmachen)",
+        "options": ["mache / auf", "machst / auf", "macht / auf", "machen / auf"],
+        "reponse": "mache / auf"
+      },
+      {
+        "question": "Mein Kollege ___ ___ und sagt... (reinkommen)",
+        "options": ["kommt / rein", "kommst / rein", "komme / rein", "kommen / rein"],
+        "reponse": "kommt / rein"
+      },
+      {
+        "question": "Es ist kalt hier. ___ Sie doch das Fenster ___ . (zumachen)",
+        "options": ["Machen / zu", "Machst / zu", "Macht / zu", "Mache / zu"],
+        "reponse": "Machen / zu"
+      },
+      {
+        "question": "Ich ___ das Fenster wieder ___ . (zumachen)",
+        "options": ["mache / zu", "machst / zu", "macht / zu", "machen / zu"],
+        "reponse": "mache / zu"
+      },
+      {
+        "question": "Dann ___ ich mit der Arbeit ___ . (anfangen)",
+        "options": ["fange / an", "fängst / an", "fängt / an", "fangen / an"],
+        "reponse": "fange / an"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "v1-trenn-02",
+    "theme": "Verben 1",
+    "sous_theme": "Trennbare Verben mit Modalverben",
+    "niveau": "A1",
+    "type": "ordre",
+    "consigne": "MEIN TAG. Schreiben Sie Sätze mit trennbaren Verben.",
+    "questions": [
+      {
+        "question": "aufstehen müssen: ich • immer • um 6 Uhr • .",
+        "options": [],
+        "reponse": "Ich muss immer um 6 Uhr aufstehen."
+      },
+      {
+        "question": "anfangen: ich • mit der Arbeit • um 7.30 Uhr • .",
+        "options": [],
+        "reponse": "Ich fange um 7.30 Uhr mit der Arbeit an."
+      },
+      {
+        "question": "einkaufen: am Montag • ich • nach der Arbeit • .",
+        "options": [],
+        "reponse": "Am Montag kaufe ich nach der Arbeit ein."
+      },
+      {
+        "question": "zurückkommen: am Abend • um 19 Uhr • nach Hause • ich • .",
+        "options": [],
+        "reponse": "Am Abend komme ich um 19 Uhr nach Hause zurück."
+      },
+      {
+        "question": "ausgehen möchten: heute • ich • .",
+        "options": [],
+        "reponse": "Ich möchte heute ausgehen."
+      },
+      {
+        "question": "mitkommen möchten: du • ?",
+        "options": [],
+        "reponse": "Möchtest du mitkommen?"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "v1-trenn-03",
+    "theme": "Verben 1",
+    "sous_theme": "Trennbare Verben Urlaub",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "UNSER NÄCHSTER URLAUB. Ergänzen Sie die Verben.",
+    "questions": [
+      {
+        "question": "Meine Freundin wohnt an der Nordsee und sie ___ mich ___ . (einladen)",
+        "options": ["lädt / ein", "ladet / ein", "laden / ein", "lädst / ein"],
+        "reponse": "lädt / ein"
+      },
+      {
+        "question": "Meine Kinder ___ auch ___ . (mitkommen)",
+        "options": ["kommen / mit", "kommt / mit", "kommst / mit", "komme / mit"],
+        "reponse": "kommen / mit"
+      },
+      {
+        "question": "Die Ferien ___ am Montag ___ . (anfangen)",
+        "options": ["fangen / an", "fängt / an", "fange / an", "fangen / an"],
+        "reponse": "fangen / an"
+      },
+      {
+        "question": "Aber wir ___ schon am Freitag ___ . (abfahren)",
+        "options": ["fahren / ab", "fährst / ab", "fährt / ab", "fahren / ab"],
+        "reponse": "fahren / ab"
+      },
+      {
+        "question": "In Hannover müssen wir ___ . (umsteigen)",
+        "options": ["umsteigen", "umzusteigen", "steigen um", "steig um"],
+        "reponse": "umsteigen"
+      },
+      {
+        "question": "Um 20.18 Uhr ___ wir dann in Sankt Peter Ording ___ . (ankommen)",
+        "options": ["kommen / an", "kommt / an", "kommst / an", "komme / an"],
+        "reponse": "kommen / an"
+      },
+      {
+        "question": "Meine Freundin ___ uns am Bahnhof ___ . (abholen)",
+        "options": ["holt / ab", "holst / ab", "holt / ab", "holen / ab"],
+        "reponse": "holt / ab"
+      },
+      {
+        "question": "Im Norden ist es immer ein bisschen kälter, also müssen wir warme Kleidung ___ . (mitnehmen)",
+        "options": ["mitnehmen", "nehmen mit", "nehm mit", "mitzunehmen"],
+        "reponse": "mitnehmen"
+      },
+      {
+        "question": "Nach zwei Wochen müssen wir nach Hause ___ . (zurückfahren)",
+        "options": ["zurückfahren", "fahren zurück", "fahr zurück", "zurückzufahren"],
+        "reponse": "zurückfahren"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "v1-trenn-04",
+    "theme": "Verben 1",
+    "sous_theme": "Trennbare Verben Hausarbeit",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "HAUSARBEIT. Ergänzen Sie die Verben.",
+    "questions": [
+      {
+        "question": "Jeden Morgen muss ich früh ___ . (aufstehen)",
+        "options": ["aufstehen", "stehe auf", "steh auf", "aufzustehen"],
+        "reponse": "aufstehen"
+      },
+      {
+        "question": "Jeden Tag ___ ich das Frühstück ___ . (anmachen)",
+        "options": ["mache / an", "machst / an", "macht / an", "machen / an"],
+        "reponse": "mache / an"
+      },
+      {
+        "question": "Danach ___ ich das Geschirr ___ . (abwaschen)",
+        "options": ["wasche / ab", "wäschst / ab", "wäscht / ab", "waschen / ab"],
+        "reponse": "wasche / ab"
+      },
+      {
+        "question": "Und die Waschmaschine ___ . (anmachen)",
+        "options": ["mache / an", "machst / an", "macht / an", "machen / an"],
+        "reponse": "mache / an"
+      },
+      {
+        "question": "Dann muss ich ___ und kochen. (einkaufen)",
+        "options": ["einkaufen", "kaufe ein", "kauf ein", "einzukaufen"],
+        "reponse": "einkaufen"
+      },
+      {
+        "question": "Um 13.00 Uhr ___ die Kinder aus der Schule ___ . (abholen)",
+        "options": ["hole / ab", "holst / ab", "holt / ab", "holen / ab"],
+        "reponse": "hole / ab"
+      },
+      {
+        "question": "Manchmal ___ sie Freunde und Freundinnen zum Essen ___ . (einladen)",
+        "options": ["laden / ein", "lädt / ein", "ladet / ein", "lädst / ein"],
+        "reponse": "laden / ein"
+      },
+      {
+        "question": "Sie spielen dann und ich die Küche ___ . (aufräumen)",
+        "options": ["räume / auf", "räumst / auf", "räumt / auf", "räumen / auf"],
+        "reponse": "räume / auf"
+      },
+      {
+        "question": "Ich ___ , putze, bügle... (fernsehen)",
+        "options": ["sehe / fern", "siehst / fern", "sieht / fern", "sehen / fern"],
+        "reponse": "sehe / fern"
+      },
+      {
+        "question": "Später ___ die Kinder ___ . (zurückkommen)",
+        "options": ["kommen / zurück", "kommt / zurück", "kommst / zurück", "komme / zurück"],
+        "reponse": "kommen / zurück"
+      },
+      {
+        "question": "Ich ___ die Wäsche ___ . (aufhängen)",
+        "options": ["hänge / auf", "hängst / auf", "hängt / auf", "hängen / auf"],
+        "reponse": "hänge / auf"
+      },
+      {
+        "question": "Und die Mülleimer ___ . (ausleeren)",
+        "options": ["leere / aus", "leerst / aus", "leert / aus", "leeren / aus"],
+        "reponse": "leere / aus"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "v1-imp-01",
+    "theme": "Verben 1",
+    "sous_theme": "Imperativ",
+    "niveau": "A1",
+    "type": "ordre",
+    "consigne": "Schreiben Sie Imperativformen mit Sie, du und ihr.",
+    "questions": [
+      {
+        "question": "gehen (Sie/du/ihr)",
+        "options": [],
+        "reponse": "Gehen Sie! / Geh! / Geht!"
+      },
+      {
+        "question": "kaufen (Sie/du/ihr)",
+        "options": [],
+        "reponse": "Kaufen Sie! / Kauf! / Kauft!"
+      },
+      {
+        "question": "singen (Sie/du/ihr)",
+        "options": [],
+        "reponse": "Singen Sie! / Sing! / Singt!"
+      },
+      {
+        "question": "schreiben (Sie/du/ihr)",
+        "options": [],
+        "reponse": "Schreiben Sie! / Schreib! / Schreibt!"
+      },
+      {
+        "question": "spielen (Sie/du/ihr)",
+        "options": [],
+        "reponse": "Spielen Sie! / Spiel! / Spielt!"
+      },
+      {
+        "question": "fragen (Sie/du/ihr)",
+        "options": [],
+        "reponse": "Fragen Sie! / Frag! / Fragt!"
+      },
+      {
+        "question": "mitkommen (Sie/du/ihr)",
+        "options": [],
+        "reponse": "Kommen Sie mit! / Komm mit! / Kommt mit!"
+      },
+      {
+        "question": "weggehen (Sie/du/ihr)",
+        "options": [],
+        "reponse": "Gehen Sie weg! / Geh weg! / Geht weg!"
+      },
+      {
+        "question": "mitbringen (Sie/du/ihr)",
+        "options": [],
+        "reponse": "Bringen Sie mit! / Bring mit! / Bringt mit!"
+      },
+      {
+        "question": "abholen (Sie/du/ihr)",
+        "options": [],
+        "reponse": "Holen Sie ab! / Hol ab! / Holt ab!"
+      },
+      {
+        "question": "geben (Sie/du/ihr)",
+        "options": [],
+        "reponse": "Geben Sie! / Gib! / Gebt!"
+      },
+      {
+        "question": "nehmen (Sie/du/ihr)",
+        "options": [],
+        "reponse": "Nehmen Sie! / Nimm! / Nehmt!"
+      },
+      {
+        "question": "essen (Sie/du/ihr)",
+        "options": [],
+        "reponse": "Essen Sie! / Iss! / Esst!"
+      },
+      {
+        "question": "lesen (Sie/du/ihr)",
+        "options": [],
+        "reponse": "Lesen Sie! / Lies! / Lest!"
+      },
+      {
+        "question": "sprechen (Sie/du/ihr)",
+        "options": [],
+        "reponse": "Sprechen Sie! / Sprich! / Sprecht!"
+      },
+      {
+        "question": "sein (Sie/du/ihr)",
+        "options": [],
+        "reponse": "Seien Sie! / Sei! / Seid!"
+      },
+      {
+        "question": "haben (Sie/du/ihr)",
+        "options": [],
+        "reponse": "Haben Sie! / Hab! / Habt!"
+      },
+      {
+        "question": "fahren (Sie/du/ihr)",
+        "options": [],
+        "reponse": "Fahren Sie! / Fahr! / Fahrt!"
+      },
+      {
+        "question": "waschen (Sie/du/ihr)",
+        "options": [],
+        "reponse": "Waschen Sie! / Wasch! / Wascht!"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "v1-imp-02",
+    "theme": "Verben 1",
+    "sous_theme": "Imperativ im Kurs",
+    "niveau": "A1",
+    "type": "ordre",
+    "consigne": "IM KURS. Wer sagt was? Schreiben Sie Sätze im Imperativ formell (Sie).",
+    "questions": [
+      {
+        "question": "wiederholen",
+        "options": [],
+        "reponse": "Wiederholen Sie!"
+      },
+      {
+        "question": "langsam sprechen",
+        "options": [],
+        "reponse": "Sprechen Sie langsam!"
+      },
+      {
+        "question": "zu zweit sprechen",
+        "options": [],
+        "reponse": "Sprechen Sie zu zweit!"
+      },
+      {
+        "question": "den Text lesen",
+        "options": [],
+        "reponse": "Lesen Sie den Text!"
+      },
+      {
+        "question": "in der Gruppe diskutieren",
+        "options": [],
+        "reponse": "Diskutieren Sie in der Gruppe!"
+      },
+      {
+        "question": "den Dialog spielen",
+        "options": [],
+        "reponse": "Spielen Sie den Dialog!"
+      },
+      {
+        "question": "das Wort erklären",
+        "options": [],
+        "reponse": "Erklären Sie das Wort!"
+      },
+      {
+        "question": "ein Beispiel geben",
+        "options": [],
+        "reponse": "Geben Sie ein Beispiel!"
+      },
+      {
+        "question": "an die Tafel schreiben",
+        "options": [],
+        "reponse": "Schreiben Sie an die Tafel!"
+      }
+    ],
+    "difficulty": "facile",
+    "score": 1
+  },
+  {
+    "id": "v1-imp-03",
+    "theme": "Verben 1",
+    "sous_theme": "Imperativ Person identifizieren",
+    "niveau": "A1",
+    "type": "associer",
+    "consigne": "Wer ist gemeint? Welche Personen passen? Kreuzen Sie an.",
+    "questions": [
+      {
+        "question": "Kommt bitte schnell.",
+        "options": ["Herr und Frau Müller", "Mona und Lucas", "Mona", "Herr Müller"],
+        "reponse": "Mona und Lucas"
+      },
+      {
+        "question": "Nehmen Sie bitte Platz.",
+        "options": ["Herr und Frau Müller", "Mona und Lucas", "Mona", "Herr Müller"],
+        "reponse": "Herr Müller"
+      },
+      {
+        "question": "Esst doch noch etwas.",
+        "options": ["Herr und Frau Müller", "Mona und Lucas", "Mona", "Herr Müller"],
+        "reponse": "Mona und Lucas"
+      },
+      {
+        "question": "Gib mir mal den Teller.",
+        "options": ["Herr und Frau Müller", "Mona und Lucas", "Mona", "Herr Müller"],
+        "reponse": "Mona"
+      },
+      {
+        "question": "Hab doch keine Angst.",
+        "options": ["Herr und Frau Müller", "Mona und Lucas", "Mona", "Herr Müller"],
+        "reponse": "Mona"
+      },
+      {
+        "question": "Lassen Sie sich Zeit.",
+        "options": ["Herr und Frau Müller", "Mona und Lucas", "Mona", "Herr Müller"],
+        "reponse": "Herr Müller"
+      },
+      {
+        "question": "Guck doch mal.",
+        "options": ["Herr und Frau Müller", "Mona und Lucas", "Mona", "Herr Müller"],
+        "reponse": "Mona"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "v1-imp-04",
+    "theme": "Verben 1",
+    "sous_theme": "Imperativ Ratschläge",
+    "niveau": "A1",
+    "type": "ordre",
+    "consigne": "RATSCHLÄGE GEBEN. Schreiben Sie Sätze im Imperativ.",
+    "questions": [
+      {
+        "question": "Es geht mir nicht gut. (eine Kopfschmerztablette nehmen)",
+        "options": [],
+        "reponse": "Nimm eine Kopfschmerztablette! / Nehmen Sie eine Kopfschmerztablette!"
+      },
+      {
+        "question": "Ich habe Kopfschmerzen. (einen Tee trinken)",
+        "options": [],
+        "reponse": "Trink einen Tee! / Trinken Sie einen Tee!"
+      },
+      {
+        "question": "Ich bin gestresst. (Yoga machen)",
+        "options": [],
+        "reponse": "Mach Yoga! / Machen Sie Yoga!"
+      },
+      {
+        "question": "Ich kann nicht schlafen. (am Abend spazieren gehen)",
+        "options": [],
+        "reponse": "Geh am Abend spazieren! / Gehen Sie am Abend spazieren!"
+      },
+      {
+        "question": "Ich bin nervös. (weniger arbeiten)",
+        "options": [],
+        "reponse": "Arbeite weniger! / Arbeiten Sie weniger!"
+      },
+      {
+        "question": "Mein Bauch tut weh. (weniger essen)",
+        "options": [],
+        "reponse": "Iss weniger! / Essen Sie weniger!"
+      },
+      {
+        "question": "Ich habe immer Hunger. (mehr essen)",
+        "options": [],
+        "reponse": "Iss mehr! / Essen Sie mehr!"
+      },
+      {
+        "question": "Ich sehe schlecht. (eine Brille kaufen)",
+        "options": [],
+        "reponse": "Kauf eine Brille! / Kaufen Sie eine Brille!"
+      },
+      {
+        "question": "Ich möchte abnehmen. (weniger essen / Yoga machen)",
+        "options": [],
+        "reponse": "Iss weniger und mach Yoga! / Essen Sie weniger und machen Sie Yoga!"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "v1-imp-05",
+    "theme": "Verben 1",
+    "sous_theme": "Imperativ mit App",
+    "niveau": "A1",
+    "type": "ordre",
+    "consigne": "WÖRTER LERNEN MIT EINER APP. Schreiben Sie Sätze im Imperativ formell Singular (Sie).",
+    "questions": [
+      {
+        "question": "eine App suchen",
+        "options": [],
+        "reponse": "Suchen Sie eine App!"
+      },
+      {
+        "question": "die App herunterladen",
+        "options": [],
+        "reponse": "Laden Sie die App herunter!"
+      },
+      {
+        "question": "die App installieren",
+        "options": [],
+        "reponse": "Installieren Sie die App!"
+      },
+      {
+        "question": "Beispielsätze mit Lücke schreiben",
+        "options": [],
+        "reponse": "Schreiben Sie Beispielsätze mit Lücke!"
+      },
+      {
+        "question": "die Lösung ergänzen",
+        "options": [],
+        "reponse": "Ergänzen Sie die Lösung!"
+      },
+      {
+        "question": "das Wörterlernen starten",
+        "options": [],
+        "reponse": "Starten Sie das Wörterlernen!"
+      },
+      {
+        "question": "den Lückensatz laut lesen und ergänzen",
+        "options": [],
+        "reponse": "Lesen Sie den Lückensatz laut und ergänzen Sie!"
+      },
+      {
+        "question": "klicken und kontrollieren",
+        "options": [],
+        "reponse": "Klicken und kontrollieren Sie!"
+      }
+    ],
+    "difficulty": "facile",
+    "score": 1
+  }
+]

@@ -384,7 +384,7 @@ const AdminPanel = () => {
         back={() => navigate('/dashboard')}
       />
 
-      <main className="flex-1 p-4">
+      <main className="flex-1 p-4 pt-16">
         <div className="max-w-4xl mx-auto mb-4">
           <Card className="p-4 flex items-center justify-between" animate={false}>
             <div className="text-sm text-[var(--text-muted)]">

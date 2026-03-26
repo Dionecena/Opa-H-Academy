@@ -1,0 +1,1359 @@
+[
+  {
+    "id": "passiv-01",
+    "theme": "Passiv",
+    "sous_theme": "Formen im Passiv bilden",
+    "niveau": "B1",
+    "type": "ordre",
+    "consigne": "Bilden Sie die Formen im Passiv und schreiben Sie Sätze.",
+    "questions": [
+      {
+        "question": "das Paket • senden",
+        "options": [],
+        "reponse": "Das Paket wird gesendet."
+      },
+      {
+        "question": "ich • operieren",
+        "options": [],
+        "reponse": "Ich werde operiert."
+      },
+      {
+        "question": "die Getränke • verkaufen",
+        "options": [],
+        "reponse": "Die Getränke werden verkauft."
+      },
+      {
+        "question": "ihr • informieren",
+        "options": [],
+        "reponse": "Ihr werdet informiert."
+      },
+      {
+        "question": "Sie • abholen",
+        "options": [],
+        "reponse": "Sie werden abgeholt."
+      },
+      {
+        "question": "du • nach Hause bringen",
+        "options": [],
+        "reponse": "Du wirst nach Hause gebracht."
+      },
+      {
+        "question": "der Olympiasieg • feiern",
+        "options": [],
+        "reponse": "Der Olympiasieg wird gefeiert."
+      },
+      {
+        "question": "die Pizza • bestellen",
+        "options": [],
+        "reponse": "Die Pizza wird bestellt."
+      },
+      {
+        "question": "wir • vom Arzt behandeln",
+        "options": [],
+        "reponse": "Wir werden vom Arzt behandelt."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "passiv-02",
+    "theme": "Passiv",
+    "sous_theme": "Passiv mit Modalverben",
+    "niveau": "B1",
+    "type": "ordre",
+    "consigne": "Bilden Sie die Formen im Passiv mit Modalverb und schreiben Sie Sätze.",
+    "questions": [
+      {
+        "question": "ich • müssen • operieren",
+        "options": [],
+        "reponse": "Ich muss operiert werden."
+      },
+      {
+        "question": "die Bremsen vom Auto • müssen • kontrollieren",
+        "options": [],
+        "reponse": "Die Bremsen vom Auto müssen kontrolliert werden."
+      },
+      {
+        "question": "du • wollen • vom Arzt behandeln",
+        "options": [],
+        "reponse": "Du willst vom Arzt behandelt werden."
+      },
+      {
+        "question": "wir • müssen • untersuchen",
+        "options": [],
+        "reponse": "Wir müssen untersucht werden."
+      },
+      {
+        "question": "Eis • dürfen • hier nicht essen",
+        "options": [],
+        "reponse": "Eis darf hier nicht gegessen werden."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "passiv-03",
+    "theme": "Passiv",
+    "sous_theme": "Sätze ordnen",
+    "niveau": "B1",
+    "type": "ordre",
+    "consigne": "WAS WIRD VOR EINER LÄNGEREN REISE GEMACHT? Ordnen Sie die Sätze.",
+    "questions": [
+      {
+        "question": "in Koffer und Taschen • die Kleidung • wird • eingepackt • .",
+        "options": [],
+        "reponse": "Die Kleidung wird in Koffer und Taschen eingepackt."
+      },
+      {
+        "question": "zu den Nachbarn • gebracht • werden • die Blumen und der Haustürschlüssel • .",
+        "options": [],
+        "reponse": "Die Blumen und der Haustürschlüssel werden zu den Nachbarn gebracht."
+      },
+      {
+        "question": "wird • und abgestellt • leer geräumt • der Kühlschrank • .",
+        "options": [],
+        "reponse": "Der Kühlschrank wird leer geräumt und abgestellt."
+      },
+      {
+        "question": "die Fenster • in allen Räumen • geschlossen • werden • .",
+        "options": [],
+        "reponse": "Die Fenster werden in allen Räumen geschlossen."
+      },
+      {
+        "question": "ausgestellt • werden • die elektrischen Geräte • .",
+        "options": [],
+        "reponse": "Die elektrischen Geräte werden ausgestellt."
+      },
+      {
+        "question": "werden • gepackt • ins Auto • die Taschen und Koffer • .",
+        "options": [],
+        "reponse": "Die Taschen und Koffer werden ins Auto gepackt."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "passiv-04",
+    "theme": "Passiv",
+    "sous_theme": "Aktiv zu Passiv",
+    "niveau": "B1",
+    "type": "ordre",
+    "consigne": "ESSGEWOHNHEITEN. Schreiben Sie die Sätze im Aktiv wie im Beispiel.",
+    "questions": [
+      {
+        "question": "In Deutschland werden viele Kartoffeln gegessen.",
+        "options": [],
+        "reponse": "In Deutschland isst man viele Kartoffeln."
+      },
+      {
+        "question": "In Baden werden auch häufig Spätzle und Knödel gegessen.",
+        "options": [],
+        "reponse": "In Baden isst man auch häufig Spätzle und Knödel."
+      },
+      {
+        "question": "In Wien kann Sachertorte probiert werden.",
+        "options": [],
+        "reponse": "In Wien kann man Sachertorte probieren."
+      },
+      {
+        "question": "In Argentinien wird viel Rindfleisch gegessen.",
+        "options": [],
+        "reponse": "In Argentinien isst man viel Rindfleisch."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "passiv-05",
+    "theme": "Passiv",
+    "sous_theme": "Passivsätze bilden",
+    "niveau": "B1",
+    "type": "ordre",
+    "consigne": "TRINKGEWOHNHEITEN. Schreiben Sie die Sätze im Passiv wie im Beispiel.",
+    "questions": [
+      {
+        "question": "In Norddeutschland und in Bayern trinkt man viel Bier.",
+        "options": [],
+        "reponse": "In Norddeutschland und in Bayern wird viel Bier getrunken."
+      },
+      {
+        "question": "In der Pfalz und in Baden-Württemberg trinkt man viel Wein.",
+        "options": [],
+        "reponse": "In der Pfalz und in Baden-Württemberg wird viel Wein getrunken."
+      },
+      {
+        "question": "In Hessen kann man Apfelsaft und Apfelwein trinken.",
+        "options": [],
+        "reponse": "In Hessen kann Apfelsaft und Apfelwein getrunken werden."
+      },
+      {
+        "question": "Zum Frühstück trinken die meisten Leute in Deutschland Kaffee.",
+        "options": [],
+        "reponse": "Zum Frühstück wird von den meisten Leuten in Deutschland Kaffee getrunken."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "passiv-06",
+    "theme": "Passiv",
+    "sous_theme": "Verbote mit dürfen",
+    "niveau": "B1",
+    "type": "ordre",
+    "consigne": "VERBOTE. Schreiben Sie Sätze zu den Schildern im Passiv und Aktiv.",
+    "questions": [
+      {
+        "question": "kein Eis essen (Passiv)",
+        "options": [],
+        "reponse": "Hier darf kein Eis gegessen werden."
+      },
+      {
+        "question": "kein Eis essen (Aktiv)",
+        "options": [],
+        "reponse": "Hier darf man kein Eis essen."
+      },
+      {
+        "question": "keine Schuhe tragen (Passiv)",
+        "options": [],
+        "reponse": "Hier dürfen keine Schuhe getragen werden."
+      },
+      {
+        "question": "das Handy nicht einschalten (Passiv)",
+        "options": [],
+        "reponse": "Hier darf das Handy nicht eingeschaltet werden."
+      },
+      {
+        "question": "das Auto nicht parken (Passiv)",
+        "options": [],
+        "reponse": "Hier darf das Auto nicht geparkt werden."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "passiv-07",
+    "theme": "Passiv",
+    "sous_theme": "Passiv Präteritum und Perfekt",
+    "niveau": "B1",
+    "type": "ordre",
+    "consigne": "Formen üben. Schreiben Sie Sätze im Passiv Präteritum und im Passiv Perfekt wie im Beispiel.",
+    "questions": [
+      {
+        "question": "die Zeitung • lesen (Präteritum)",
+        "options": [],
+        "reponse": "Die Zeitung wurde gelesen."
+      },
+      {
+        "question": "die Zeitung • lesen (Perfekt)",
+        "options": [],
+        "reponse": "Die Zeitung ist gelesen worden."
+      },
+      {
+        "question": "eine Mail • schreiben (Präteritum)",
+        "options": [],
+        "reponse": "Eine Mail wurde geschrieben."
+      },
+      {
+        "question": "ich • operieren (Präteritum)",
+        "options": [],
+        "reponse": "Ich wurde operiert."
+      },
+      {
+        "question": "du • zur Party einladen (Perfekt)",
+        "options": [],
+        "reponse": "Du bist zur Party eingeladen worden."
+      },
+      {
+        "question": "wir • gut behandeln (Präteritum)",
+        "options": [],
+        "reponse": "Wir wurden gut behandelt."
+      },
+      {
+        "question": "diese Kinder • schlecht erziehen (Perfekt)",
+        "options": [],
+        "reponse": "Diese Kinder sind schlecht erzogen worden."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "passiv-08",
+    "theme": "Passiv",
+    "sous_theme": "Passiv Präteritum mit Modalverb",
+    "niveau": "B1",
+    "type": "ordre",
+    "consigne": "Schreiben Sie Sätze im Passiv Präteritum mit Modalverb wie im Beispiel.",
+    "questions": [
+      {
+        "question": "der Verletzte • müssen • operieren",
+        "options": [],
+        "reponse": "Der Verletzte musste operiert werden."
+      },
+      {
+        "question": "die Bremsen • müssen • reparieren",
+        "options": [],
+        "reponse": "Die Bremsen mussten repariert werden."
+      },
+      {
+        "question": "du • müssen • fragen",
+        "options": [],
+        "reponse": "Du musstest gefragt werden."
+      },
+      {
+        "question": "ich • wollen • schnell bedienen",
+        "options": [],
+        "reponse": "Ich wollte schnell bedient werden."
+      },
+      {
+        "question": "der Anruf • nicht können • weiterleiten",
+        "options": [],
+        "reponse": "Der Anruf konnte nicht weitergeleitet werden."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "passiv-09",
+    "theme": "Passiv",
+    "sous_theme": "Deutsche Geschichte - Passiv Präteritum",
+    "niveau": "B1",
+    "type": "ordre",
+    "consigne": "DEUTSCHE GESCHICHTE. Schreiben Sie aus den Notizen Sätze im Passiv Präteritum.",
+    "questions": [
+      {
+        "question": "1945: Krieg beenden",
+        "options": [],
+        "reponse": "1945 wurde der Krieg beendet."
+      },
+      {
+        "question": "nach dem Krieg: Deutschland in zwei Staaten teilen",
+        "options": [],
+        "reponse": "Nach dem Krieg wurde Deutschland in zwei Staaten geteilt."
+      },
+      {
+        "question": "1949: 1. Bundestag wählen",
+        "options": [],
+        "reponse": "1949 wurde der 1. Bundestag gewählt."
+      },
+      {
+        "question": "1961: Mauer bauen",
+        "options": [],
+        "reponse": "1961 wurde die Mauer gebaut."
+      },
+      {
+        "question": "am 9. November 1989: Mauer in Berlin öffnen",
+        "options": [],
+        "reponse": "Am 9. November 1989 wurde die Mauer in Berlin geöffnet."
+      },
+      {
+        "question": "am 3. Oktober 1990: die beiden deutschen Staaten wiedervereinigen",
+        "options": [],
+        "reponse": "Am 3. Oktober 1990 wurden die beiden deutschen Staaten wiedervereinigt."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "passiv-10",
+    "theme": "Passiv",
+    "sous_theme": "Fragen im Passiv Perfekt",
+    "niveau": "B1",
+    "type": "ordre",
+    "consigne": "Schreiben Sie Fragen im Passiv Perfekt.",
+    "questions": [
+      {
+        "question": "Penicillin • entdecken • wann • ?",
+        "options": [],
+        "reponse": "Wann ist Penicillin entdeckt worden?"
+      },
+      {
+        "question": "von wem • Amerika • entdecken • ?",
+        "options": [],
+        "reponse": "Von wem ist Amerika entdeckt worden?"
+      },
+      {
+        "question": "wo • erfinden • Buchdruck • ?",
+        "options": [],
+        "reponse": "Wo ist der Buchdruck erfunden worden?"
+      },
+      {
+        "question": "wie lange • bauen • Kölner Dom • ?",
+        "options": [],
+        "reponse": "Wie lange ist der Kölner Dom gebaut worden?"
+      },
+      {
+        "question": "wann • das erste Handy • verkaufen • ?",
+        "options": [],
+        "reponse": "Wann ist das erste Handy verkauft worden?"
+      },
+      {
+        "question": "wo • schon vor 3500 Jahren • Glas • produzieren • ?",
+        "options": [],
+        "reponse": "Wo ist schon vor 3500 Jahren Glas produziert worden?"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "passiv-11",
+    "theme": "Passiv",
+    "sous_theme": "Antworten im Passiv Perfekt",
+    "niveau": "B1",
+    "type": "completer",
+    "consigne": "Antworten Sie im Passiv Perfekt: unterschreiben • sortieren • beantworten • bezahlen • kochen • einladen.",
+    "questions": [
+      {
+        "question": "die E-Mails?",
+        "options": ["Die E-Mails sind schon beantwortet worden.", "Die E-Mails sind schon sortiert worden.", "Die E-Mails sind schon unterschrieben worden.", "Die E-Mails sind schon bezahlt worden."],
+        "reponse": "Die E-Mails sind schon beantwortet worden."
+      },
+      {
+        "question": "die Geschäftspartner/-innen?",
+        "options": ["Die Geschäftspartner/-innen sind schon eingeladen worden.", "Die Geschäftspartner/-innen sind schon beantwortet worden.", "Die Geschäftspartner/-innen sind schon bezahlt worden.", "Die Geschäftspartner/-innen sind schon sortiert worden."],
+        "reponse": "Die Geschäftspartner/-innen sind schon eingeladen worden."
+      },
+      {
+        "question": "die Rechnungen?",
+        "options": ["Die Rechnungen sind schon bezahlt worden.", "Die Rechnungen sind schon sortiert worden.", "Die Rechnungen sind schon beantwortet worden.", "Die Rechnungen sind schon unterschrieben worden."],
+        "reponse": "Die Rechnungen sind schon bezahlt worden."
+      },
+      {
+        "question": "der Vertrag?",
+        "options": ["Der Vertrag ist schon unterschrieben worden.", "Der Vertrag ist schon bezahlt worden.", "Der Vertrag ist schon sortiert worden.", "Der Vertrag ist schon eingeladen worden."],
+        "reponse": "Der Vertrag ist schon unterschrieben worden."
+      },
+      {
+        "question": "die Papiere?",
+        "options": ["Die Papiere sind schon sortiert worden.", "Die Papiere sind schon beantwortet worden.", "Die Papiere sind schon bezahlt worden.", "Die Papiere sind schon gekocht worden."],
+        "reponse": "Die Papiere sind schon sortiert worden."
+      },
+      {
+        "question": "der Kaffee?",
+        "options": ["Der Kaffee ist schon gekocht worden.", "Der Kaffee ist schon bezahlt worden.", "Der Kaffee ist schon sortiert worden.", "Der Kaffee ist schon beantwortet worden."],
+        "reponse": "Der Kaffee ist schon gekocht worden."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "passiv-12",
+    "theme": "Passiv",
+    "sous_theme": "Passiv mit müssen (Vergangenheit)",
+    "niveau": "B1",
+    "type": "ordre",
+    "consigne": "IHR START-UP WAR ERFOLGREICH. Was musste gemacht werden? Schreiben Sie Sätze.",
+    "questions": [
+      {
+        "question": "Geschäftspartner/-innen finden",
+        "options": [],
+        "reponse": "Geschäftspartner/-innen mussten gefunden werden."
+      },
+      {
+        "question": "die Geschäftsidee ausprobieren",
+        "options": [],
+        "reponse": "Die Geschäftsidee musste ausprobiert werden."
+      },
+      {
+        "question": "eine Finanzierung planen",
+        "options": [],
+        "reponse": "Eine Finanzierung musste geplant werden."
+      },
+      {
+        "question": "einen Kredit aufnehmen",
+        "options": [],
+        "reponse": "Ein Kredit musste aufgenommen werden."
+      },
+      {
+        "question": "einen Laden mieten",
+        "options": [],
+        "reponse": "Ein Laden musste gemietet werden."
+      },
+      {
+        "question": "die Räume renovieren",
+        "options": [],
+        "reponse": "Die Räume mussten renoviert werden."
+      },
+      {
+        "question": "Waren kaufen",
+        "options": [],
+        "reponse": "Waren mussten gekauft werden."
+      },
+      {
+        "question": "den Laden eröffnen",
+        "options": [],
+        "reponse": "Der Laden musste eröffnet werden."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "futur-01",
+    "theme": "Futur 1",
+    "sous_theme": "Kombinieren",
+    "niveau": "B1",
+    "type": "associer",
+    "consigne": "EIN RENDEZVOUS. SO KÖNNTE ES SEIN! Kombinieren Sie.",
+    "questions": [
+      {
+        "question": "Paul",
+        "options": ["wird wahrscheinlich schon im Park auf mich warten.", "werden einen wunderschönen Abend zusammen verbringen.", "werden wohl in ein Restaurant gehen.", "wirst wahrscheinlich mit Peter zusammen kommen.", "werde ihm das Foto zeigen.", "werdet von eurer Reise erzählen."],
+        "reponse": "wird wahrscheinlich schon im Park auf mich warten."
+      },
+      {
+        "question": "Ich",
+        "options": ["werde ihm das Foto zeigen.", "wird wahrscheinlich schon im Park auf mich warten.", "werden einen wunderschönen Abend zusammen verbringen.", "werden wohl in ein Restaurant gehen.", "wirst wahrscheinlich mit Peter zusammen kommen.", "werdet von eurer Reise erzählen."],
+        "reponse": "werde ihm das Foto zeigen."
+      },
+      {
+        "question": "Wir",
+        "options": ["werden einen wunderschönen Abend zusammen verbringen.", "wird wahrscheinlich schon im Park auf mich warten.", "werde ihm das Foto zeigen.", "werden wohl in ein Restaurant gehen.", "wirst wahrscheinlich mit Peter zusammen kommen.", "werdet von eurer Reise erzählen."],
+        "reponse": "werden einen wunderschönen Abend zusammen verbringen."
+      },
+      {
+        "question": "Du",
+        "options": ["wirst wahrscheinlich mit Peter zusammen kommen.", "wird wahrscheinlich schon im Park auf mich warten.", "werden einen wunderschönen Abend zusammen verbringen.", "werden wohl in ein Restaurant gehen.", "werde ihm das Foto zeigen.", "werdet von eurer Reise erzählen."],
+        "reponse": "wirst wahrscheinlich mit Peter zusammen kommen."
+      },
+      {
+        "question": "Ihr",
+        "options": ["werdet von eurer Reise erzählen.", "wird wahrscheinlich schon im Park auf mich warten.", "werden einen wunderschönen Abend zusammen verbringen.", "werden wohl in ein Restaurant gehen.", "wirst wahrscheinlich mit Peter zusammen kommen.", "werde ihm das Foto zeigen."],
+        "reponse": "werdet von eurer Reise erzählen."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "futur-02",
+    "theme": "Futur 1",
+    "sous_theme": "Sätze ordnen",
+    "niveau": "B1",
+    "type": "ordre",
+    "consigne": "SO KÖNNTE ES AUCH SEIN! Ordnen Sie die Sätze.",
+    "questions": [
+      {
+        "question": "Paul • zu spät kommen • wird • wohl wie so oft • .",
+        "options": [],
+        "reponse": "Paul wird wohl wie so oft zu spät kommen."
+      },
+      {
+        "question": "bestimmt sehr ärgerlich auf ihn • ich • werde • sein • .",
+        "options": [],
+        "reponse": "Ich werde bestimmt sehr ärgerlich auf ihn sein."
+      },
+      {
+        "question": "streiten • uns wohl • werden • wir • .",
+        "options": [],
+        "reponse": "Wir werden uns wohl streiten."
+      },
+      {
+        "question": "wir • ins Restaurant zu gehen • wahrscheinlich keine Lust mehr haben, • werden • .",
+        "options": [],
+        "reponse": "Wir werden wahrscheinlich keine Lust mehr haben, ins Restaurant zu gehen."
+      },
+      {
+        "question": "ohne uns • verbringen • werden • einen wunderschönen Abend • unsere Freunde • .",
+        "options": [],
+        "reponse": "Unsere Freunde werden ohne uns einen wunderschönen Abend verbringen."
+      },
+      {
+        "question": "ich • werde • sein • wahrscheinlich sehr unglücklich • .",
+        "options": [],
+        "reponse": "Ich werde wahrscheinlich sehr unglücklich sein."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "futur-03",
+    "theme": "Futur 1",
+    "sous_theme": "Vermutungen schreiben",
+    "niveau": "B1",
+    "type": "ordre",
+    "consigne": "Schreiben Sie Vermutungen mit werden.",
+    "questions": [
+      {
+        "question": "Ich glaube, dass es gleich schneit.",
+        "options": [],
+        "reponse": "Es wird gleich schneien."
+      },
+      {
+        "question": "Ich glaube, dass die Straßen glatt sind.",
+        "options": [],
+        "reponse": "Die Straßen werden glatt sein."
+      },
+      {
+        "question": "Ich glaube, dass es heute viele Unfälle gibt.",
+        "options": [],
+        "reponse": "Es wird heute viele Unfälle geben."
+      },
+      {
+        "question": "Ich glaube, dass wir das Auto stehenlassen.",
+        "options": [],
+        "reponse": "Wir werden das Auto stehenlassen."
+      },
+      {
+        "question": "Ich glaube, dass wir spät nach Hause kommen.",
+        "options": [],
+        "reponse": "Wir werden spät nach Hause kommen."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "futur-04",
+    "theme": "Futur 1",
+    "sous_theme": "Vermutungen über eine Person",
+    "niveau": "B1",
+    "type": "ordre",
+    "consigne": "Was ist das wohl für eine Frau? Schreiben Sie Vermutungen.",
+    "questions": [
+      {
+        "question": "viel Geld verdienen",
+        "options": [],
+        "reponse": "Sie wird wohl viel Geld verdienen."
+      },
+      {
+        "question": "ungefähr 30 Jahre alt",
+        "options": [],
+        "reponse": "Sie wird wohl ungefähr 30 Jahre alt sein."
+      },
+      {
+        "question": "verheiratet sein",
+        "options": [],
+        "reponse": "Sie wird wohl verheiratet sein."
+      },
+      {
+        "question": "Kinder haben",
+        "options": [],
+        "reponse": "Sie wird wohl Kinder haben."
+      },
+      {
+        "question": "als Lehrerin oder Ärztin arbeiten",
+        "options": [],
+        "reponse": "Sie wird wohl als Lehrerin oder Ärztin arbeiten."
+      },
+      {
+        "question": "in Urlaub fliegen",
+        "options": [],
+        "reponse": "Sie wird wohl in Urlaub fliegen."
+      },
+      {
+        "question": "eine Städtereise machen",
+        "options": [],
+        "reponse": "Sie wird wohl eine Städtereise machen."
+      },
+      {
+        "question": "die Reise alleine machen",
+        "options": [],
+        "reponse": "Sie wird wohl die Reise alleine machen."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "futur-05",
+    "theme": "Futur 1",
+    "sous_theme": "Zukunft informell (Präsens)",
+    "niveau": "B1",
+    "type": "ordre",
+    "consigne": "DAS MACHT ERKAN IN DER ZUKUNFT. Zukunft informell: Schreiben Sie Sätze im Präsens.",
+    "questions": [
+      {
+        "question": "morgen: mit Freunden treffen",
+        "options": [],
+        "reponse": "Morgen trifft er sich mit Freunden."
+      },
+      {
+        "question": "nächste Woche: umziehen",
+        "options": [],
+        "reponse": "Nächste Woche zieht er um."
+      },
+      {
+        "question": "nächsten Monat: eine neue Arbeit anfangen",
+        "options": [],
+        "reponse": "Nächsten Monat fängt er eine neue Arbeit an."
+      },
+      {
+        "question": "in einem halben Jahr: heiraten",
+        "options": [],
+        "reponse": "In einem halben Jahr heiratet er."
+      },
+      {
+        "question": "nach der Hochzeit: eine Hochzeitsreise nach Südamerika machen",
+        "options": [],
+        "reponse": "Nach der Hochzeit macht er eine Hochzeitsreise nach Südamerika."
+      },
+      {
+        "question": "in zehn Jahren: zwei Kinder haben",
+        "options": [],
+        "reponse": "In zehn Jahren hat er zwei Kinder."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "futur-06",
+    "theme": "Futur 1",
+    "sous_theme": "Zukunft formell (Futur 1)",
+    "niveau": "B1",
+    "type": "ordre",
+    "consigne": "NACHRICHTEN. Zukunft formell: Schreiben Sie Sätze im Futur 1.",
+    "questions": [
+      {
+        "question": "Am kommenden Montag: die Präsidentin • im Parlament • sprechen",
+        "options": [],
+        "reponse": "Am kommenden Montag wird die Präsidentin im Parlament sprechen."
+      },
+      {
+        "question": "Morgen: der König • zu einem offiziellen Besuch • in die Schweiz • fliegen",
+        "options": [],
+        "reponse": "Morgen wird der König zu einem offiziellen Besuch in die Schweiz fliegen."
+      },
+      {
+        "question": "Nächstes Jahr: die Deutschen • eine neue Regierung • wählen",
+        "options": [],
+        "reponse": "Nächstes Jahr werden die Deutschen eine neue Regierung wählen."
+      },
+      {
+        "question": "Nächsten Monat: die Weltmeisterschaften • in Wien • stattfinden",
+        "options": [],
+        "reponse": "Nächsten Monat werden die Weltmeisterschaften in Wien stattfinden."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "werden-funkt-01",
+    "theme": "Funktionen von werden",
+    "sous_theme": "Prozess, Passiv oder Futur?",
+    "niveau": "B1",
+    "type": "completer",
+    "consigne": "Welche Funktion hat werden in den Sätzen? Kreuzen Sie an: Prozess, Passiv, Zukunft/Vermutung.",
+    "questions": [
+      {
+        "question": "Mein Sohn möchte Pilot werden.",
+        "options": ["Prozess", "Passiv", "Zukunft/Vermutung"],
+        "reponse": "Prozess"
+      },
+      {
+        "question": "Morgen wird es wohl regnen.",
+        "options": ["Zukunft/Vermutung", "Prozess", "Passiv"],
+        "reponse": "Zukunft/Vermutung"
+      },
+      {
+        "question": "Wenn das so weitergeht, werde ich noch verrückt.",
+        "options": ["Prozess", "Passiv", "Zukunft/Vermutung"],
+        "reponse": "Prozess"
+      },
+      {
+        "question": "Das Treffen der Minister/-innen wird morgen stattfinden.",
+        "options": ["Zukunft/Vermutung", "Prozess", "Passiv"],
+        "reponse": "Zukunft/Vermutung"
+      },
+      {
+        "question": "Der Salat wird gewaschen.",
+        "options": ["Passiv", "Prozess", "Zukunft/Vermutung"],
+        "reponse": "Passiv"
+      },
+      {
+        "question": "Das Baby muss gefüttert werden.",
+        "options": ["Passiv", "Prozess", "Zukunft/Vermutung"],
+        "reponse": "Passiv"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "werden-funkt-02",
+    "theme": "Funktionen von werden",
+    "sous_theme": "Verben ergänzen",
+    "niveau": "B1",
+    "type": "completer",
+    "consigne": "Ergänzen Sie die Verben in der richtigen Form.",
+    "questions": [
+      {
+        "question": "Der Präsident ___ nächste Woche China ___. (werden • besuchen)",
+        "options": ["wird / besuchen", "wird / besucht", "wird / besuchend", "werde / besuchen"],
+        "reponse": "wird / besuchen"
+      },
+      {
+        "question": "Wenn ich weiter so viel Schokolade esse, ___ ich immer dicker. (werden)",
+        "options": ["werde", "wird", "werden", "wirst"],
+        "reponse": "werde"
+      },
+      {
+        "question": "Meine Schwester studiert Medizin, denn sie ___ Ärztin ___. (wollen • werden)",
+        "options": ["will / werden", "wollen / werden", "wird / werden", "will / wird"],
+        "reponse": "will / werden"
+      },
+      {
+        "question": "In den Henschel-Werken ___ monatlich 12 – 15 Lokomotiven ___. (werden • produzieren)",
+        "options": ["werden / produziert", "wird / produziert", "werden / produzieren", "wird / produzieren"],
+        "reponse": "werden / produziert"
+      },
+      {
+        "question": "Ich brauche keinen Wecker. Wenn es hell ___, wache ich immer auf. (werden)",
+        "options": ["wird", "werde", "werden", "wird"],
+        "reponse": "wird"
+      },
+      {
+        "question": "Orangen ___. (werden • schälen)",
+        "options": ["werden geschält", "werden schälen", "wird geschält", "werden schälten"],
+        "reponse": "werden geschält"
+      },
+      {
+        "question": "Warum ___ er rot? (werden)",
+        "options": ["wird", "werde", "werden", "wirst"],
+        "reponse": "wird"
+      },
+      {
+        "question": "Morgen ___ das Parlament über das neue Gesetz ___. (werden • entscheiden)",
+        "options": ["wird / entscheiden", "werden / entscheiden", "wird / entschieden", "werden / entschieden"],
+        "reponse": "wird / entscheiden"
+      },
+      {
+        "question": "Das Bad ___ gerade ___. (werden • putzen)",
+        "options": ["wird / geputzt", "werden / geputzt", "wird / putzen", "werden / putzen"],
+        "reponse": "wird / geputzt"
+      },
+      {
+        "question": "Der Zug Nr. 312 aus Brüssel ___ zehn Minuten später ___. (werden • ankommen)",
+        "options": ["wird / ankommen", "werden / ankommen", "wird / angekommen", "werden / angekommen"],
+        "reponse": "wird / ankommen"
+      },
+      {
+        "question": "Glaubst du, er kommt morgen pünktlich? Ja, er ___ pünktlich ___. (werden • kommen)",
+        "options": ["wird / kommen", "werde / kommen", "wird / kommt", "werden / kommen"],
+        "reponse": "wird / kommen"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "werden-funkt-03",
+    "theme": "Funktionen von werden",
+    "sous_theme": "worden oder geworden?",
+    "niveau": "B1",
+    "type": "completer",
+    "consigne": "Ergänzen Sie worden oder geworden und kreuzen Sie die richtige Funktion von werden an.",
+    "questions": [
+      {
+        "question": "Zuerst ist die Küche renoviert ___.",
+        "options": ["worden (Passiv)", "geworden (Prozess)", "worden (Prozess)", "geworden (Passiv)"],
+        "reponse": "worden (Passiv)"
+      },
+      {
+        "question": "Er hatte Geburtstag. Er ist schon 98 ___!",
+        "options": ["geworden (Prozess)", "worden (Passiv)", "worden (Prozess)", "geworden (Passiv)"],
+        "reponse": "geworden (Prozess)"
+      },
+      {
+        "question": "Er ist nicht gefragt ___.",
+        "options": ["worden (Passiv)", "geworden (Prozess)", "worden (Prozess)", "geworden (Passiv)"],
+        "reponse": "worden (Passiv)"
+      },
+      {
+        "question": "Seit Jahren sind kaum noch CDs verkauft ___.",
+        "options": ["worden (Passiv)", "geworden (Prozess)", "worden (Prozess)", "geworden (Passiv)"],
+        "reponse": "worden (Passiv)"
+      },
+      {
+        "question": "Ihr Sohn ist Lehrer ___.",
+        "options": ["geworden (Prozess)", "worden (Passiv)", "worden (Prozess)", "geworden (Passiv)"],
+        "reponse": "geworden (Prozess)"
+      },
+      {
+        "question": "Er ist mit 50 gestorben. Er ist nicht alt ___.",
+        "options": ["geworden (Prozess)", "worden (Passiv)", "worden (Prozess)", "geworden (Passiv)"],
+        "reponse": "geworden (Prozess)"
+      },
+      {
+        "question": "2005 ist Angela Merkel Kanzlerin ___.",
+        "options": ["geworden (Prozess)", "worden (Passiv)", "worden (Prozess)", "geworden (Passiv)"],
+        "reponse": "geworden (Prozess)"
+      },
+      {
+        "question": "Sie ist 2018 zum vierten Mal gewählt ___.",
+        "options": ["worden (Passiv)", "geworden (Prozess)", "worden (Prozess)", "geworden (Passiv)"],
+        "reponse": "worden (Passiv)"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "lassen-01",
+    "theme": "Das Verb lassen",
+    "sous_theme": "Nicht mitnehmen",
+    "niveau": "B1",
+    "type": "ordre",
+    "consigne": "Nicht mitnehmen. Antworten Sie wie im Beispiel.",
+    "questions": [
+      {
+        "question": "Regnet es? (Schirm zu Hause)",
+        "options": [],
+        "reponse": "Nein, du kannst den Schirm zu Hause lassen."
+      },
+      {
+        "question": "Brauche ich meine Brille? (Brille hier)",
+        "options": [],
+        "reponse": "Nein, du kannst die Brille hier lassen."
+      },
+      {
+        "question": "Brauchst du deine Bücher? (Bücher in der Schule)",
+        "options": [],
+        "reponse": "Nein, ich kann die Bücher in der Schule lassen."
+      },
+      {
+        "question": "Nimmst du deine Tasche mit? (Tasche im Auto)",
+        "options": [],
+        "reponse": "Nein, ich kann die Tasche im Auto lassen."
+      },
+      {
+        "question": "Kann ich das Auto hier parken? (Auto vor der Garage)",
+        "options": [],
+        "reponse": "Nein, du kannst das Auto vor der Garage lassen."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "lassen-02",
+    "theme": "Das Verb lassen",
+    "sous_theme": "Etwas erlauben",
+    "niveau": "B1",
+    "type": "ordre",
+    "consigne": "Etwas erlauben. Fragen Sie wie im Beispiel.",
+    "questions": [
+      {
+        "question": "Erlauben Sie Ihrer Tochter in einen Club zu gehen?",
+        "options": [],
+        "reponse": "Lassen Sie Ihre Tochter in einen Club gehen?"
+      },
+      {
+        "question": "Erlauben Sie Ihrem Sohn allein in den Urlaub zu fahren?",
+        "options": [],
+        "reponse": "Lassen Sie Ihren Sohn allein in den Urlaub fahren?"
+      },
+      {
+        "question": "Erlauben Sie Ihrem Hund im Bett zu schlafen?",
+        "options": [],
+        "reponse": "Lassen Sie Ihren Hund im Bett schlafen?"
+      },
+      {
+        "question": "Erlauben Sie Ihren Freunden im Auto zu rauchen?",
+        "options": [],
+        "reponse": "Lassen Sie Ihre Freunde im Auto rauchen?"
+      },
+      {
+        "question": "Erlauben Sie Ihren Mitarbeitern und Mitarbeiterinnen früher nach Hause zu gehen?",
+        "options": [],
+        "reponse": "Lassen Sie Ihre Mitarbeiter und Mitarbeiterinnen früher nach Hause gehen?"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "lassen-03",
+    "theme": "Das Verb lassen",
+    "sous_theme": "Nicht selbst machen",
+    "niveau": "B1",
+    "type": "ordre",
+    "consigne": "EIN DINOSAURIER? Beantworten Sie die Fragen wie im Beispiel.",
+    "questions": [
+      {
+        "question": "Kocht er seinen Kaffee selbst?",
+        "options": [],
+        "reponse": "Nein, er lässt seinen Kaffee kochen."
+      },
+      {
+        "question": "Kopiert er die Dokumente selbst?",
+        "options": [],
+        "reponse": "Nein, er lässt die Dokumente kopieren."
+      },
+      {
+        "question": "Bereitet er die Präsentation selbst vor?",
+        "options": [],
+        "reponse": "Nein, er lässt die Präsentation vorbereiten."
+      },
+      {
+        "question": "Kauft er die Blumen für seine Frau selbst?",
+        "options": [],
+        "reponse": "Nein, er lässt die Blumen für seine Frau kaufen."
+      },
+      {
+        "question": "Ruft er seine Frau selbst an?",
+        "options": [],
+        "reponse": "Nein, er lässt seine Frau anrufen."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "lassen-04",
+    "theme": "Das Verb lassen",
+    "sous_theme": "Perfekt mit lassen",
+    "niveau": "B1",
+    "type": "ordre",
+    "consigne": "Schreiben Sie die Sätze im Perfekt.",
+    "questions": [
+      {
+        "question": "Er lässt seinen Kaffee kochen.",
+        "options": [],
+        "reponse": "Er hat seinen Kaffee kochen lassen."
+      },
+      {
+        "question": "Er lässt die Dokumente kopieren.",
+        "options": [],
+        "reponse": "Er hat die Dokumente kopieren lassen."
+      },
+      {
+        "question": "Er lässt die Präsentation vorbereiten.",
+        "options": [],
+        "reponse": "Er hat die Präsentation vorbereiten lassen."
+      },
+      {
+        "question": "Er lässt die Blumen für seine Frau kaufen.",
+        "options": [],
+        "reponse": "Er hat die Blumen für seine Frau kaufen lassen."
+      },
+      {
+        "question": "Ich lasse meine Tasche zu Hause.",
+        "options": [],
+        "reponse": "Ich habe meine Tasche zu Hause gelassen."
+      },
+      {
+        "question": "Ich lasse mein Kind viel Schokolade essen.",
+        "options": [],
+        "reponse": "Ich habe mein Kind viel Schokolade essen lassen."
+      },
+      {
+        "question": "Ich lasse mich vom Arzt untersuchen.",
+        "options": [],
+        "reponse": "Ich habe mich vom Arzt untersuchen lassen."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "lassen-05",
+    "theme": "Das Verb lassen",
+    "sous_theme": "Welche Bedeutung?",
+    "niveau": "B1",
+    "type": "completer",
+    "consigne": "Welche Bedeutung hat lassen hier? A = nicht mitnehmen, B = erlauben, C = nicht selbst machen.",
+    "questions": [
+      {
+        "question": "Ich lasse meine Tasche zu Hause.",
+        "options": ["A (nicht mitnehmen)", "B (erlauben)", "C (nicht selbst machen)"],
+        "reponse": "A (nicht mitnehmen)"
+      },
+      {
+        "question": "Ich lasse mein Kind viel Schokolade essen.",
+        "options": ["B (erlauben)", "A (nicht mitnehmen)", "C (nicht selbst machen)"],
+        "reponse": "B (erlauben)"
+      },
+      {
+        "question": "Ich lasse mich vom Arzt untersuchen.",
+        "options": ["C (nicht selbst machen)", "A (nicht mitnehmen)", "B (erlauben)"],
+        "reponse": "C (nicht selbst machen)"
+      },
+      {
+        "question": "Ich lasse mein Fahrrad hier.",
+        "options": ["A (nicht mitnehmen)", "B (erlauben)", "C (nicht selbst machen)"],
+        "reponse": "A (nicht mitnehmen)"
+      },
+      {
+        "question": "Ich lasse meine Waschmaschine reparieren.",
+        "options": ["C (nicht selbst machen)", "A (nicht mitnehmen)", "B (erlauben)"],
+        "reponse": "C (nicht selbst machen)"
+      },
+      {
+        "question": "Ich lasse meine Frau lange schlafen.",
+        "options": ["B (erlauben)", "A (nicht mitnehmen)", "C (nicht selbst machen)"],
+        "reponse": "B (erlauben)"
+      },
+      {
+        "question": "Ich lasse mein Gepäck am Bahnhof.",
+        "options": ["A (nicht mitnehmen)", "B (erlauben)", "C (nicht selbst machen)"],
+        "reponse": "A (nicht mitnehmen)"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "lassen-06",
+    "theme": "Das Verb lassen",
+    "sous_theme": "Ergänzen",
+    "niveau": "B1",
+    "type": "completer",
+    "consigne": "Was passt? Ergänzen Sie: machen lassen • drucken lassen • untersuchen lassen • schneiden lassen • sagen lassen • lassen.",
+    "questions": [
+      {
+        "question": "Wenn du schlecht siehst, musst du deine Augen ___.",
+        "options": ["untersuchen lassen", "drucken lassen", "machen lassen", "schneiden lassen", "sagen lassen", "lassen"],
+        "reponse": "untersuchen lassen"
+      },
+      {
+        "question": "___ deine Handtasche nicht im Auto. Man kann nie wissen.",
+        "options": ["Lass", "Untersuchen lassen", "Drucken lassen", "Machen lassen", "Schneiden lassen", "Sagen lassen"],
+        "reponse": "Lass"
+      },
+      {
+        "question": "Warum ___ du deine Tochter nicht ihre eigenen Erfahrungen ___?",
+        "options": ["lässt / machen lassen", "lässt / lassen", "lässt / sagen lassen", "lässt / drucken lassen", "lässt / untersuchen lassen", "lässt / schneiden lassen"],
+        "reponse": "lässt / machen lassen"
+      },
+      {
+        "question": "Es kommen etwa 200 Gäste. Am besten wir Einladungskarten ___.",
+        "options": ["drucken lassen", "untersuchen lassen", "machen lassen", "schneiden lassen", "sagen lassen", "lassen"],
+        "reponse": "drucken lassen"
+      },
+      {
+        "question": "Er glaubt, er hat immer recht. Er ___ sich nichts ___.",
+        "options": ["lässt / sagen lassen", "lässt / machen lassen", "lässt / drucken lassen", "lässt / untersuchen lassen", "lässt / schneiden lassen", "lässt / lassen"],
+        "reponse": "lässt / sagen lassen"
+      },
+      {
+        "question": "Du könntest dir wirklich mal die Haare ___, die sind viel zu lang.",
+        "options": ["schneiden lassen", "untersuchen lassen", "machen lassen", "drucken lassen", "sagen lassen", "lassen"],
+        "reponse": "schneiden lassen"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "pos-dir-01",
+    "theme": "Positions- und Direktionsverben",
+    "sous_theme": "Position oder Direktion?",
+    "niveau": "B1",
+    "type": "completer",
+    "consigne": "Was ist falsch? Kreuzen Sie an: Position oder Direktion.",
+    "questions": [
+      {
+        "question": "Die Blumen stehen auf dem Tisch / auf den Tisch.",
+        "options": ["Position (auf dem Tisch)", "Direktion (auf den Tisch)"],
+        "reponse": "Position (auf dem Tisch)"
+      },
+      {
+        "question": "Sie stellt das Auto vor der Garage / vor die Garage.",
+        "options": ["Direktion (vor die Garage)", "Position (vor der Garage)"],
+        "reponse": "Direktion (vor die Garage)"
+      },
+      {
+        "question": "Die Mutter legt das Baby im Bett / ins Bett.",
+        "options": ["Direktion (ins Bett)", "Position (im Bett)"],
+        "reponse": "Direktion (ins Bett)"
+      },
+      {
+        "question": "Die Oma liegt gemütlich auf dem Sofa / auf das Sofa.",
+        "options": ["Position (auf dem Sofa)", "Direktion (auf das Sofa)"],
+        "reponse": "Position (auf dem Sofa)"
+      },
+      {
+        "question": "Wir sitzen gemütlich am Tisch / an den Tisch.",
+        "options": ["Position (am Tisch)", "Direktion (an den Tisch)"],
+        "reponse": "Position (am Tisch)"
+      },
+      {
+        "question": "Sie setzt sich neben dem Freund / neben den Freund.",
+        "options": ["Direktion (neben den Freund)", "Position (neben dem Freund)"],
+        "reponse": "Direktion (neben den Freund)"
+      },
+      {
+        "question": "Der Mantel hängt an der Garderobe / an die Garderobe.",
+        "options": ["Position (an der Garderobe)", "Direktion (an die Garderobe)"],
+        "reponse": "Position (an der Garderobe)"
+      },
+      {
+        "question": "Wir hängen die Lampe über dem Tisch / über den Tisch.",
+        "options": ["Direktion (über den Tisch)", "Position (über dem Tisch)"],
+        "reponse": "Direktion (über den Tisch)"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "pos-dir-02",
+    "theme": "Positions- und Direktionsverben",
+    "sous_theme": "Verben ergänzen",
+    "niveau": "B1",
+    "type": "completer",
+    "consigne": "Ergänzen Sie das passende Verb: stell • stehe • stehen • stellen • liegt • sitzen • liegen • lege • setzt.",
+    "questions": [
+      {
+        "question": "___ doch das Buch ins Regal! Warum ___ es hier auf dem Esstisch?",
+        "options": ["Stell / steht", "Stelle / stehst", "Stell / stehe", "Stellt / stehen"],
+        "reponse": "Stell / steht"
+      },
+      {
+        "question": "Sie können sich auf meinen Platz ___. Im Bus ___ ich lieber.",
+        "options": ["setzen / sitze", "setzen / sitzt", "setzt / sitzen", "setze / sitzt"],
+        "reponse": "setzen / sitze"
+      },
+      {
+        "question": "Ich ___ doch meine Brille immer auf den Tisch. Warum ___ sie da jetzt nicht?",
+        "options": ["lege / liegt", "legst / liegst", "legen / liegen", "legt / liegt"],
+        "reponse": "lege / liegt"
+      },
+      {
+        "question": "Wenn du krank bist, solltest du im Bett ___ und nicht auf dem Sportplatz ___.",
+        "options": ["liegen / sitzen", "liegen / liegen", "sitzen / sitzen", "sitzen / liegen"],
+        "reponse": "liegen / sitzen"
+      },
+      {
+        "question": "Komm, wir ___ den Fernseher hier neben den Schrank. Wenn wir auf dem Sofa ___, können wir gut sehen.",
+        "options": ["stellen / sitzen", "stellen / liegen", "stehen / sitzen", "stellen / stehen"],
+        "reponse": "stellen / sitzen"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "pos-dir-03",
+    "theme": "Positions- und Direktionsverben",
+    "sous_theme": "Perfekt - richtig oder falsch?",
+    "niveau": "B1",
+    "type": "completer",
+    "consigne": "Was ist falsch? Streichen Sie es durch: gelegen/gelegt, gehängt/gehungen, gestellt/gestanden, gesetzt/gesessen.",
+    "questions": [
+      {
+        "question": "Sie hat die Kleider auf das Bett gelegen / gelegt.",
+        "options": ["gelegt (richtig)", "gelegen (falsch)"],
+        "reponse": "gelegt (richtig)"
+      },
+      {
+        "question": "Dann hat sie die Blusen in den Schrank gehängt / gehungen.",
+        "options": ["gehängt (richtig)", "gehungen (falsch)"],
+        "reponse": "gehängt (richtig)"
+      },
+      {
+        "question": "Ein Koffer hat auf dem Boden gestellt / gestanden.",
+        "options": ["gestanden (richtig)", "gestellt (falsch)"],
+        "reponse": "gestanden (richtig)"
+      },
+      {
+        "question": "Sie hat sich auf das Bett gesetzt / gesessen.",
+        "options": ["gesetzt (richtig)", "gesessen (falsch)"],
+        "reponse": "gesetzt (richtig)"
+      },
+      {
+        "question": "Ihr Mann hat neben ihr auf dem Stuhl gesetzt / gesessen.",
+        "options": ["gesessen (richtig)", "gesetzt (falsch)"],
+        "reponse": "gesessen (richtig)"
+      },
+      {
+        "question": "Neben ihm hat ein Strauß Blumen auf dem Boden gelegt / gelegen.",
+        "options": ["gelegen (richtig)", "gelegt (falsch)"],
+        "reponse": "gelegen (richtig)"
+      },
+      {
+        "question": "Sein Foto hat noch über dem Bett gehängt / gehungen.",
+        "options": ["gehungen (richtig)", "gehängt (falsch)"],
+        "reponse": "gehungen (richtig)"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "pos-dir-04",
+    "theme": "Positions- und Direktionsverben",
+    "sous_theme": "Welches Verb passt?",
+    "niveau": "B1",
+    "type": "completer",
+    "consigne": "Welches Verb passt? Ergänzen Sie: stehen, liegen oder sitzen.",
+    "questions": [
+      {
+        "question": "die Tasse auf dem Tisch",
+        "options": ["stehen", "liegen", "sitzen"],
+        "reponse": "stehen"
+      },
+      {
+        "question": "der Teller im Schrank",
+        "options": ["stehen", "liegen", "sitzen"],
+        "reponse": "stehen"
+      },
+      {
+        "question": "der Stift auf dem Tisch",
+        "options": ["liegen", "stehen", "sitzen"],
+        "reponse": "liegen"
+      },
+      {
+        "question": "die Blumen in der Vase",
+        "options": ["stehen", "liegen", "sitzen"],
+        "reponse": "stehen"
+      },
+      {
+        "question": "das Kissen auf dem Bett",
+        "options": ["liegen", "stehen", "sitzen"],
+        "reponse": "liegen"
+      },
+      {
+        "question": "die Brille auf der Nase",
+        "options": ["sitzen", "stehen", "liegen"],
+        "reponse": "sitzen"
+      },
+      {
+        "question": "das Buch im Regal",
+        "options": ["stehen", "liegen", "sitzen"],
+        "reponse": "stehen"
+      },
+      {
+        "question": "die Kirche im Zentrum",
+        "options": ["stehen", "liegen", "sitzen"],
+        "reponse": "stehen"
+      },
+      {
+        "question": "der Vogel auf dem Baum",
+        "options": ["sitzen", "stehen", "liegen"],
+        "reponse": "sitzen"
+      },
+      {
+        "question": "der Schrank im Zimmer",
+        "options": ["stehen", "liegen", "sitzen"],
+        "reponse": "stehen"
+      },
+      {
+        "question": "das Messer auf dem Tisch",
+        "options": ["liegen", "stehen", "sitzen"],
+        "reponse": "liegen"
+      },
+      {
+        "question": "der Fernseher auf dem Tisch",
+        "options": ["stehen", "liegen", "sitzen"],
+        "reponse": "stehen"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  }
+]

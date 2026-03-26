@@ -309,6 +309,7 @@ router.get('/stats', requireAdmin, async (req, res) => {
     const submissionsCount = await prisma.submissions.count();
     const commentsCount = await prisma.comments.count();
     const exercisesCount = await prisma.exercises.count();
+    const grammarExercisesCount = await prisma.grammar_exercises.count();
     const wordsCount = await prisma.speaking_words.count();
     const themesCount = await prisma.themes.count();
     
@@ -317,9 +318,85 @@ router.get('/stats', requireAdmin, async (req, res) => {
       submissions: submissionsCount,
       comments: commentsCount,
       exercises: exercisesCount,
+      grammarExercises: grammarExercisesCount,
       words: wordsCount,
       themes: themesCount
     });
+  } catch (error) {
+    res.status(500).json({ error: 'Erreur serveur' });
+  }
+});
+
+// Import grammar exercises (book) in bulk
+// Body: { exercises: [ { id, theme, sous_theme, niveau, type, consigne, questions, difficulty, score, ... } ] }
+router.post('/grammar-exercises/import', requireAdmin, async (req, res) => {
+  const payload = req.body;
+  const items = Array.isArray(payload) ? payload : payload?.exercises;
+
+  if (!Array.isArray(items) || items.length === 0) {
+    return res.status(400).json({ error: 'Liste exercices requise' });
+  }
+
+  try {
+    let created = 0;
+    let updated = 0;
+    const errors = [];
+
+    for (let i = 0; i < items.length; i += 1) {
+      const ex = items[i];
+      const uid = String(ex?.id || '').trim();
+
+      if (!uid) {
+        errors.push({ index: i, error: 'id manquant' });
+        continue;
+      }
+
+      const theme = String(ex?.theme || '').trim();
+      const niveau = String(ex?.niveau || '').trim();
+      const exType = String(ex?.type || '').trim();
+      const difficulty = String(ex?.difficulty || '').trim();
+      const score = Number.isFinite(ex?.score) ? ex.score : parseInt(String(ex?.score || '1'), 10);
+
+      if (!theme || !niveau || !exType || !difficulty || !Number.isFinite(score)) {
+        errors.push({ index: i, id: uid, error: 'Champs requis manquants (theme/niveau/type/difficulty/score)'});
+        continue;
+      }
+
+      const sousThemeRaw = ex?.sous_theme;
+      const sousTheme = sousThemeRaw === undefined || sousThemeRaw === null || String(sousThemeRaw).trim() === ''
+        ? null
+        : String(sousThemeRaw).trim();
+
+      const existing = await prisma.grammar_exercises.findUnique({ where: { uid }, select: { id: true } });
+
+      await prisma.grammar_exercises.upsert({
+        where: { uid },
+        create: {
+          uid,
+          theme,
+          sousTheme,
+          niveau,
+          exType,
+          difficulty,
+          score,
+          data: ex
+        },
+        update: {
+          theme,
+          sousTheme,
+          niveau,
+          exType,
+          difficulty,
+          score,
+          data: ex
+        }
+      });
+
+      if (existing) updated += 1;
+      else created += 1;
+    }
+
+    res.json({ success: true, created, updated, errors });
   } catch (error) {
     res.status(500).json({ error: 'Erreur serveur' });
   }

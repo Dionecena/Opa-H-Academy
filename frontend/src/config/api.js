@@ -38,6 +38,26 @@ export const api = {
     return res.json();
   },
 
+  // Grammar Exercises
+  getGrammarExercises: async (filters = {}) => {
+    const params = new URLSearchParams();
+    if (filters.theme) params.append('theme', filters.theme);
+    if (filters.niveau) params.append('niveau', filters.niveau);
+    if (filters.sous_theme) params.append('sous_theme', filters.sous_theme);
+    if (filters.type) params.append('type', filters.type);
+    if (Number.isFinite(filters.limit)) params.append('limit', String(filters.limit));
+    if (Number.isFinite(filters.offset)) params.append('offset', String(filters.offset));
+    
+    const url = `${API_BASE}/grammar-exercises?${params.toString()}`;
+    const res = await fetch(url);
+    return res.json();
+  },
+
+  getGrammarExercise: async (uid) => {
+    const res = await fetch(`${API_BASE}/grammar-exercises/${uid}`);
+    return res.json();
+  },
+
   // Submissions
   getSubmissions: async (context, username) => {
     let url = `${API_BASE}/submissions?`;

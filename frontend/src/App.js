@@ -4,6 +4,7 @@ import Home from './pages/Home';
 import Dashboard from './pages/Dashboard';
 import ExamMode from './pages/ExamMode';
 import PracticeMode from './pages/PracticeMode';
+import GrammarExercises from './pages/GrammarExercises';
 import AdminPanel from './pages/AdminPanel';
 import Collaborative from './pages/Collaborative';
 
@@ -142,6 +143,14 @@ function App() {
               element={
                 <ProtectedRoute>
                   <PracticeMode />
+                </ProtectedRoute>
+              } 
+            />
+            <Route 
+              path="/grammar" 
+              element={
+                <ProtectedRoute>
+                  <GrammarExercises />
                 </ProtectedRoute>
               } 
             />

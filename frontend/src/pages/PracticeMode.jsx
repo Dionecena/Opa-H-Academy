@@ -94,7 +94,7 @@ const PracticeMode = () => {
         username={user?.username}
       />
 
-      <div className="p-4">
+      <div className="p-4 pt-16">
         <Tabs tabs={tabs} activeTab={activeSection} onChange={setActiveSection} />
       </div>
 

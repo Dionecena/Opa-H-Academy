@@ -1,0 +1,1538 @@
+[
+  {
+    "id": "nomen-pl-01",
+    "theme": "Nomen",
+    "sous_theme": "Plural - Keine Endung",
+    "niveau": "A1",
+    "type": "identifier",
+    "consigne": "Welche Nomen bekommen keine Endung im Plural? Unterstreichen Sie.",
+    "questions": [
+      {
+        "question": "der Computer – das Buch – die Banane – das Mädchen – das Hobby – das Kind – der Schlüssel – der Lehrer – die Tasche – der Mann – der Wagen – der Reifen – das Fläschchen – der Verkäufer – die Tomate",
+        "options": ["der Computer, das Mädchen, das Hobby, der Schlüssel, der Lehrer, der Wagen, der Reifen, das Fläschchen, der Verkäufer", "das Buch, die Banane, die Tasche, der Mann, die Tomate", "alle Nomen", "keine Nomen"],
+        "reponse": "der Computer, das Mädchen, das Hobby, der Schlüssel, der Lehrer, der Wagen, der Reifen, das Fläschchen, der Verkäufer"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "nomen-pl-02",
+    "theme": "Nomen",
+    "sous_theme": "Pluralendungen -(e)n, -s, -e",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "Pluralendung: -(e)n, -s oder -e? Ergänzen Sie.",
+    "questions": [
+      {
+        "question": "das Sofa, ___",
+        "options": ["-s", "-e", "-(e)n", "-er"],
+        "reponse": "-s"
+      },
+      {
+        "question": "das Haar, ___",
+        "options": ["-e", "-s", "-(e)n", "-er"],
+        "reponse": "-e"
+      },
+      {
+        "question": "die Freiheit, ___",
+        "options": ["-(e)n", "-e", "-s", "-er"],
+        "reponse": "-(e)n"
+      },
+      {
+        "question": "das Hobby, ___",
+        "options": ["-s", "-e", "-(e)n", "-er"],
+        "reponse": "-s"
+      },
+      {
+        "question": "die Wohnung, ___",
+        "options": ["-(e)n", "-e", "-s", "-er"],
+        "reponse": "-(e)n"
+      },
+      {
+        "question": "die Information, ___",
+        "options": ["-(e)n", "-e", "-s", "-er"],
+        "reponse": "-(e)n"
+      },
+      {
+        "question": "das Tier, ___",
+        "options": ["-e", "-s", "-(e)n", "-er"],
+        "reponse": "-e"
+      },
+      {
+        "question": "die Lehrerin, ___",
+        "options": ["-(e)n", "-e", "-s", "-er"],
+        "reponse": "-(e)n"
+      },
+      {
+        "question": "die Sache, ___",
+        "options": ["-(e)n", "-e", "-s", "-er"],
+        "reponse": "-(e)n"
+      },
+      {
+        "question": "die Kiwi, ___",
+        "options": ["-s", "-e", "-(e)n", "-er"],
+        "reponse": "-s"
+      },
+      {
+        "question": "die Sekunde, ___",
+        "options": ["-(e)n", "-e", "-s", "-er"],
+        "reponse": "-(e)n"
+      },
+      {
+        "question": "die Organisation, ___",
+        "options": ["-(e)n", "-e", "-s", "-er"],
+        "reponse": "-(e)n"
+      },
+      {
+        "question": "die Operation, ___",
+        "options": ["-(e)n", "-e", "-s", "-er"],
+        "reponse": "-(e)n"
+      },
+      {
+        "question": "der Name, ___",
+        "options": ["-(e)n", "-e", "-s", "-er"],
+        "reponse": "-(e)n"
+      },
+      {
+        "question": "die Toilette, ___",
+        "options": ["-(e)n", "-e", "-s", "-er"],
+        "reponse": "-(e)n"
+      },
+      {
+        "question": "die Oma, ___",
+        "options": ["-s", "-e", "-(e)n", "-er"],
+        "reponse": "-s"
+      },
+      {
+        "question": "die Pilotin, ___",
+        "options": ["-(e)n", "-e", "-s", "-er"],
+        "reponse": "-(e)n"
+      },
+      {
+        "question": "der Junge, ___",
+        "options": ["-(e)n", "-e", "-s", "-er"],
+        "reponse": "-(e)n"
+      },
+      {
+        "question": "das Ticket, ___",
+        "options": ["-s", "-e", "-(e)n", "-er"],
+        "reponse": "-s"
+      },
+      {
+        "question": "das Restaurant, ___",
+        "options": ["-s", "-e", "-(e)n", "-er"],
+        "reponse": "-s"
+      },
+      {
+        "question": "die Lösung, ___",
+        "options": ["-(e)n", "-e", "-s", "-er"],
+        "reponse": "-(e)n"
+      },
+      {
+        "question": "die Krankheit, ___",
+        "options": ["-(e)n", "-e", "-s", "-er"],
+        "reponse": "-(e)n"
+      },
+      {
+        "question": "der Herd, ___",
+        "options": ["-e", "-s", "-(e)n", "-er"],
+        "reponse": "-e"
+      },
+      {
+        "question": "das Kino, ___",
+        "options": ["-s", "-e", "-(e)n", "-er"],
+        "reponse": "-s"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "nomen-pl-03",
+    "theme": "Nomen",
+    "sous_theme": "Singular bilden",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "Wie heißt der Singular? Schreiben Sie.",
+    "questions": [
+      {
+        "question": "die Bilder – ___ Bild",
+        "options": ["das", "der", "die"],
+        "reponse": "das"
+      },
+      {
+        "question": "die Männer – ___ Mann",
+        "options": ["der", "das", "die"],
+        "reponse": "der"
+      },
+      {
+        "question": "die Brötchen – ___ Brötchen",
+        "options": ["das", "der", "die"],
+        "reponse": "das"
+      },
+      {
+        "question": "die Meere – ___ Meer",
+        "options": ["das", "der", "die"],
+        "reponse": "das"
+      },
+      {
+        "question": "die Länder – ___ Land",
+        "options": ["das", "der", "die"],
+        "reponse": "das"
+      },
+      {
+        "question": "die Architektinnen – ___ Architektin",
+        "options": ["die", "der", "das"],
+        "reponse": "die"
+      },
+      {
+        "question": "die Kurse – ___ Kurs",
+        "options": ["der", "das", "die"],
+        "reponse": "der"
+      },
+      {
+        "question": "die Hotels – ___ Hotel",
+        "options": ["das", "der", "die"],
+        "reponse": "das"
+      },
+      {
+        "question": "die Ärzte – ___ Arzt",
+        "options": ["der", "das", "die"],
+        "reponse": "der"
+      },
+      {
+        "question": "die Füße – ___ Fuß",
+        "options": ["der", "das", "die"],
+        "reponse": "der"
+      },
+      {
+        "question": "die Fotos – ___ Foto",
+        "options": ["das", "der", "die"],
+        "reponse": "das"
+      },
+      {
+        "question": "die Informationen – ___ Information",
+        "options": ["die", "der", "das"],
+        "reponse": "die"
+      },
+      {
+        "question": "die Einladungen – ___ Einladung",
+        "options": ["die", "der", "das"],
+        "reponse": "die"
+      },
+      {
+        "question": "die Bäume – ___ Baum",
+        "options": ["der", "das", "die"],
+        "reponse": "der"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "nomen-pl-04",
+    "theme": "Nomen",
+    "sous_theme": "Kein Plural",
+    "niveau": "A1",
+    "type": "identifier",
+    "consigne": "Welche Nomen haben keinen Plural? Unterstreichen Sie.",
+    "questions": [
+      {
+        "question": "der Zucker – der Kuchen – das Fleisch – das Steak – die Kartoffel – der Reis – die Polizei – der Polizist – das Gepäck – der Koffer – der Kellner – der Service – der Alkohol – die Bar – die Natur – der Fluss – das Glas – das Wasser – das Auto – das Benzin – die Karotte – das Gemüse – der Kuss – die Liebe",
+        "options": ["der Zucker, das Fleisch, der Reis, die Polizei, das Gepäck, der Service, der Alkohol, die Natur, das Wasser, das Benzin, das Gemüse, die Liebe", "der Kuchen, das Steak, die Kartoffel, der Polizist, der Koffer, der Kellner, die Bar, der Fluss, das Glas, das Auto, die Karotte, der Kuss", "alle Nomen", "keine Nomen"],
+        "reponse": "der Zucker, das Fleisch, der Reis, die Polizei, das Gepäck, der Service, der Alkohol, die Natur, das Wasser, das Benzin, das Gemüse, die Liebe"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "nomen-pl-05",
+    "theme": "Nomen",
+    "sous_theme": "Kein Singular",
+    "niveau": "A1",
+    "type": "identifier",
+    "consigne": "Welche Nomen haben keinen Singular? Unterstreichen Sie.",
+    "questions": [
+      {
+        "question": "die Omas – die Großeltern – die Berge – die Alpen – die Eltern – die Väter – die Ferien – die Reisen – die Sofas – die Möbel – die Leute – die Personen",
+        "options": ["die Großeltern, die Alpen, die Eltern, die Ferien, die Möbel, die Leute", "die Omas, die Berge, die Väter, die Reisen, die Sofas, die Personen", "alle Nomen", "keine Nomen"],
+        "reponse": "die Großeltern, die Alpen, die Eltern, die Ferien, die Möbel, die Leute"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "nomen-pl-06",
+    "theme": "Nomen",
+    "sous_theme": "Plural im Kontext - Bestellung",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "EINE BESTELLUNG. Ergänzen Sie die Pluralendungen und den Umlaut (wenn nötig).",
+    "questions": [
+      {
+        "question": "6 Küchenstuhl___",
+        "options": ["-e", "-er", "-(e)n", "-s"],
+        "reponse": "-e (Küchenstühle)"
+      },
+      {
+        "question": "4 Lampe___",
+        "options": ["-(e)n", "-e", "-er", "-s"],
+        "reponse": "-(e)n (Lampen)"
+      },
+      {
+        "question": "4 Schrank___",
+        "options": ["-e", "-er", "-(e)n", "-s"],
+        "reponse": "-e (Schränke mit Umlaut)"
+      },
+      {
+        "question": "2 Sofa___",
+        "options": ["-s", "-e", "-er", "-(e)n"],
+        "reponse": "-s (Sofas)"
+      },
+      {
+        "question": "2 Herd___",
+        "options": ["-e", "-er", "-(e)n", "-s"],
+        "reponse": "-e (Herde)"
+      },
+      {
+        "question": "12 Teller___",
+        "options": ["-", "-e", "-er", "-s"],
+        "reponse": "- (Teller)"
+      },
+      {
+        "question": "12 Glas___",
+        "options": ["-er", "-e", "-(e)n", "-s"],
+        "reponse": "-er (Gläser mit Umlaut)"
+      },
+      {
+        "question": "12 Löffel___",
+        "options": ["-", "-e", "-er", "-s"],
+        "reponse": "- (Löffel)"
+      },
+      {
+        "question": "3 Servierwagen___",
+        "options": ["-", "-e", "-er", "-s"],
+        "reponse": "- (Servierwagen)"
+      },
+      {
+        "question": "2 Lkw___",
+        "options": ["-s", "-e", "-er", "-(e)n"],
+        "reponse": "-s (Lkws)"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "art-01",
+    "theme": "Artikel",
+    "sous_theme": "Definit und indefinit",
+    "niveau": "A1",
+    "type": "ordre",
+    "consigne": "Was ist das? Schreiben Sie Sätze mit indefinitem und definitem Artikel.",
+    "questions": [
+      {
+        "question": "der Stuhl (modern)",
+        "options": [],
+        "reponse": "Das ist ein Stuhl. Der Stuhl ist modern."
+      },
+      {
+        "question": "das Bild (teuer)",
+        "options": [],
+        "reponse": "Das ist ein Bild. Das Bild ist teuer."
+      },
+      {
+        "question": "das Buch (interessant)",
+        "options": [],
+        "reponse": "Das ist ein Buch. Das Buch ist interessant."
+      },
+      {
+        "question": "der Laptop (gut)",
+        "options": [],
+        "reponse": "Das ist ein Laptop. Der Laptop ist gut."
+      },
+      {
+        "question": "die Stifte Pl. (neu)",
+        "options": [],
+        "reponse": "Das sind Stifte. Die Stifte sind neu."
+      },
+      {
+        "question": "die Blumen Pl. (wunderbar)",
+        "options": [],
+        "reponse": "Das sind Blumen. Die Blumen sind wunderbar."
+      },
+      {
+        "question": "die Vase (schön)",
+        "options": [],
+        "reponse": "Das ist eine Vase. Die Vase ist schön."
+      },
+      {
+        "question": "die Tür (offen)",
+        "options": [],
+        "reponse": "Das ist eine Tür. Die Tür ist offen."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "art-02",
+    "theme": "Artikel",
+    "sous_theme": "Indefiniter Artikel Akkusativ",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "Ergänzen Sie die indefiniten Artikel im Akkusativ. Hast du ...?",
+    "questions": [
+      {
+        "question": "___ Kuli (der)",
+        "options": ["einen", "ein", "eine", "keinen"],
+        "reponse": "einen"
+      },
+      {
+        "question": "___ Auto (das)",
+        "options": ["ein", "einen", "eine", "kein"],
+        "reponse": "ein"
+      },
+      {
+        "question": "___ Uhr (die)",
+        "options": ["eine", "ein", "einen", "keine"],
+        "reponse": "eine"
+      },
+      {
+        "question": "___ Kinder (Pl.)",
+        "options": ["-", "ein", "eine", "einen"],
+        "reponse": "-"
+      },
+      {
+        "question": "___ Schirm (der)",
+        "options": ["einen", "ein", "eine", "keinen"],
+        "reponse": "einen"
+      },
+      {
+        "question": "___ Computer (der)",
+        "options": ["einen", "ein", "eine", "keinen"],
+        "reponse": "einen"
+      },
+      {
+        "question": "___ Katze (die)",
+        "options": ["eine", "ein", "einen", "keine"],
+        "reponse": "eine"
+      },
+      {
+        "question": "___ Haus (das)",
+        "options": ["ein", "einen", "eine", "kein"],
+        "reponse": "ein"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "art-03",
+    "theme": "Artikel",
+    "sous_theme": "Definiter Artikel Akkusativ",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "Ergänzen Sie die definiten Artikel im Akkusativ. Wie findest du ...?",
+    "questions": [
+      {
+        "question": "Wie findest du ___ Bluse (die)?",
+        "options": ["die", "den", "das", "der"],
+        "reponse": "die"
+      },
+      {
+        "question": "Wie findest du ___ Rock (der)?",
+        "options": ["den", "die", "das", "der"],
+        "reponse": "den"
+      },
+      {
+        "question": "Wie findest du ___ Schuhe (Pl.)?",
+        "options": ["die", "den", "das", "der"],
+        "reponse": "die"
+      },
+      {
+        "question": "Wie findest du ___ Kleid (das)?",
+        "options": ["das", "den", "die", "der"],
+        "reponse": "das"
+      },
+      {
+        "question": "Wie findest du ___ Brille (die)?",
+        "options": ["die", "den", "das", "der"],
+        "reponse": "die"
+      },
+      {
+        "question": "Wie findest du ___ Hund (der)?",
+        "options": ["den", "die", "das", "der"],
+        "reponse": "den"
+      }
+    ],
+    "difficulty": "facile",
+    "score": 1
+  },
+  {
+    "id": "art-04",
+    "theme": "Artikel",
+    "sous_theme": "Indefinit oder kein Artikel",
+    "niveau": "A1",
+    "type": "ordre",
+    "consigne": "Schreiben Sie es positiv. Indefiniter Artikel oder kein Artikel?",
+    "questions": [
+      {
+        "question": "Er hat keine Zeit. – Sie ...",
+        "options": [],
+        "reponse": "Sie hat Zeit."
+      },
+      {
+        "question": "Er hat kein Geld. – Sie ...",
+        "options": [],
+        "reponse": "Sie hat Geld."
+      },
+      {
+        "question": "Er hat kein Handy. – ...",
+        "options": [],
+        "reponse": "Sie hat ein Handy."
+      },
+      {
+        "question": "Er mag keinen Reis. – ...",
+        "options": [],
+        "reponse": "Sie mag Reis."
+      },
+      {
+        "question": "Er hat kein Fahrrad. – ...",
+        "options": [],
+        "reponse": "Sie hat ein Fahrrad."
+      },
+      {
+        "question": "Er hat kein Glück. – ...",
+        "options": [],
+        "reponse": "Sie hat Glück."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "art-05",
+    "theme": "Artikel",
+    "sous_theme": "Stadtführung München",
+    "niveau": "A2",
+    "type": "completer",
+    "consigne": "EINE STADTFÜHRUNG IN MÜNCHEN. Ergänzen Sie die Artikel (definit oder indefinit).",
+    "questions": [
+      {
+        "question": "Meine Damen und Herren, links ist ___ Turm. Das ist ___ Fernsehturm.",
+        "options": ["ein / der", "der / ein", "ein / ein", "der / der"],
+        "reponse": "ein / der"
+      },
+      {
+        "question": "Da ist ___ Stadion, das ist ___ Olympiastadion.",
+        "options": ["ein / das", "das / ein", "ein / ein", "das / das"],
+        "reponse": "ein / das"
+      },
+      {
+        "question": "Sie sehen geradeaus ___ Kirche, das ist ___ Frauenkirche.",
+        "options": ["eine / die", "die / eine", "eine / eine", "die / die"],
+        "reponse": "eine / die"
+      },
+      {
+        "question": "Hier links ist ___ großer Platz, das ist ___ Marienplatz.",
+        "options": ["ein / der", "der / ein", "ein / ein", "der / der"],
+        "reponse": "ein / der"
+      },
+      {
+        "question": "Am Marienplatz steht ___ Haus mit einem Turm, das ist ___ Rathaus.",
+        "options": ["ein / das", "das / ein", "ein / ein", "das / das"],
+        "reponse": "ein / das"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "art-06",
+    "theme": "Artikel",
+    "sous_theme": "Märchen",
+    "niveau": "A2",
+    "type": "completer",
+    "consigne": "EIN MÄRCHEN. Ergänzen Sie die Artikel (definit oder indefinit).",
+    "questions": [
+      {
+        "question": "Es war einmal ___ König. ___ König war sehr reich.",
+        "options": ["ein / Der", "der / Ein", "ein / Ein", "der / Der"],
+        "reponse": "ein / Der"
+      },
+      {
+        "question": "Er hatte ___ Tochter. ___ Tochter war wunderschön.",
+        "options": ["eine / Die", "die / Eine", "eine / Eine", "die / Die"],
+        "reponse": "eine / Die"
+      },
+      {
+        "question": "Eines Tages kommt ___ Prinz. ___ Prinz möchte ___ Prinzessin heiraten.",
+        "options": ["ein / Der / die", "der / Ein / eine", "ein / Ein / die", "der / Der / eine"],
+        "reponse": "ein / Der / die"
+      },
+      {
+        "question": "Aber ___ Prinzessin will ihn nicht heiraten. Da muss ___ Prinz seine Liebe zeigen.",
+        "options": ["die / der", "der / die", "die / ein", "ein / die"],
+        "reponse": "die / der"
+      },
+      {
+        "question": "Er tötet einen Drachen. Zum Schluss heiratet ___ Prinz ___ Prinzessin und ein Jahr später bekommen sie ___ Tochter.",
+        "options": ["der / die / eine", "ein / eine / die", "der / eine / eine", "ein / die / eine"],
+        "reponse": "der / die / eine"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "neg-01",
+    "theme": "Negation",
+    "sous_theme": "nicht",
+    "niveau": "A1",
+    "type": "ordre",
+    "consigne": "Schreiben Sie Sätze mit nicht.",
+    "questions": [
+      {
+        "question": "Bist du ledig? – Nein, ...",
+        "options": [],
+        "reponse": "Nein, ich bin nicht ledig."
+      },
+      {
+        "question": "Wohnst du in Frankfurt? – Nein, ...",
+        "options": [],
+        "reponse": "Nein, ich wohne nicht in Frankfurt."
+      },
+      {
+        "question": "Arbeitest du bei einer Bank? – Nein, ...",
+        "options": [],
+        "reponse": "Nein, ich arbeite nicht bei einer Bank."
+      },
+      {
+        "question": "Joggst du? – Nein, ...",
+        "options": [],
+        "reponse": "Nein, ich jogge nicht."
+      },
+      {
+        "question": "Magst du die Chefin? – Nein, ...",
+        "options": [],
+        "reponse": "Nein, ich mag die Chefin nicht."
+      }
+    ],
+    "difficulty": "facile",
+    "score": 1
+  },
+  {
+    "id": "neg-02",
+    "theme": "Negation",
+    "sous_theme": "kein-",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "Ergänzen Sie kein-.",
+    "questions": [
+      {
+        "question": "Möchtest du ein Omelett? – Nein, ich möchte ___ Omelett.",
+        "options": ["kein", "keinen", "keine", "nicht"],
+        "reponse": "kein"
+      },
+      {
+        "question": "Hast du eine Spülmaschine? – Nein, ich habe ___ Spülmaschine.",
+        "options": ["keine", "kein", "keinen", "nicht"],
+        "reponse": "keine"
+      },
+      {
+        "question": "Hast du eine Espressomaschine? – Nein, ich habe ___ Espressomaschine.",
+        "options": ["keine", "kein", "keinen", "nicht"],
+        "reponse": "keine"
+      },
+      {
+        "question": "Hast du Durst? – Nein, ich habe ___ Durst.",
+        "options": ["keinen", "kein", "keine", "nicht"],
+        "reponse": "keinen"
+      },
+      {
+        "question": "Magst du Süßigkeiten? – Nein, ich mag ___ Süßigkeiten.",
+        "options": ["keine", "kein", "keinen", "nicht"],
+        "reponse": "keine"
+      },
+      {
+        "question": "Möchtest du einen Kaffee? – Nein, ich möchte ___ Kaffee.",
+        "options": ["keinen", "kein", "keine", "nicht"],
+        "reponse": "keinen"
+      },
+      {
+        "question": "Möchtest du eine Pizza? – Nein, ich möchte ___ Pizza.",
+        "options": ["keine", "kein", "keinen", "nicht"],
+        "reponse": "keine"
+      },
+      {
+        "question": "Möchtest du ein Brötchen? – Nein, ich möchte ___ Brötchen.",
+        "options": ["kein", "keinen", "keine", "nicht"],
+        "reponse": "kein"
+      },
+      {
+        "question": "Hast du Hunger? – Nein, ich habe ___ Hunger.",
+        "options": ["keinen", "kein", "keine", "nicht"],
+        "reponse": "keinen"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "neg-03",
+    "theme": "Negation",
+    "sous_theme": "Antworten mit kein-",
+    "niveau": "A1",
+    "type": "ordre",
+    "consigne": "Antworten Sie mit kein-.",
+    "questions": [
+      {
+        "question": "Haben Sie ein Haus?",
+        "options": [],
+        "reponse": "Nein, ich habe kein Haus."
+      },
+      {
+        "question": "Haben Sie Kinder?",
+        "options": [],
+        "reponse": "Nein, ich habe keine Kinder."
+      },
+      {
+        "question": "Essen Sie Fleisch?",
+        "options": [],
+        "reponse": "Nein, ich esse kein Fleisch."
+      },
+      {
+        "question": "Haben Sie ein Haustier?",
+        "options": [],
+        "reponse": "Nein, ich habe kein Haustier."
+      },
+      {
+        "question": "Trinken Sie Alkohol?",
+        "options": [],
+        "reponse": "Nein, ich trinke keinen Alkohol."
+      },
+      {
+        "question": "Möchten Sie einen Tee?",
+        "options": [],
+        "reponse": "Nein, ich möchte keinen Tee."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "neg-04",
+    "theme": "Negation",
+    "sous_theme": "nicht oder kein",
+    "niveau": "A1",
+    "type": "ordre",
+    "consigne": "Schreiben Sie Sätze mit nicht oder kein.",
+    "questions": [
+      {
+        "question": "Ich komme aus Sri Lanka. (Negativ: ...)\n→ Hinweis: nicht (für Verben/Präpositionen)\n→ Beispiel: Ich wohne nicht in Berlin.",
+        "options": [],
+        "reponse": "Ich komme nicht aus Sri Lanka."
+      },
+      {
+        "question": "Ich bin 23 Jahre alt. (Negativ: ...)\n→ Hinweis: nicht (für Adjektive/Zahlen)\n→ Beispiel: Ich bin nicht müde.",
+        "options": [],
+        "reponse": "Ich bin nicht 23 Jahre alt."
+      },
+      {
+        "question": "Ich wohne in Köln. (Negativ: ...)\n→ Hinweis: nicht (für Verben/Präpositionen)\n→ Beispiel: Er arbeitet nicht hier.",
+        "options": [],
+        "reponse": "Ich wohne nicht in Köln."
+      },
+      {
+        "question": "Ich bin verheiratet. (Negativ: ...)\n→ Hinweis: nicht (für Adjektive)\n→ Beispiel: Sie ist nicht ledig.",
+        "options": [],
+        "reponse": "Ich bin nicht verheiratet."
+      },
+      {
+        "question": "Ich habe Kinder. (Negativ: ...)\n→ Hinweis: kein- (für Nomen sans article)\n→ Beispiel: Ich habe keine Geschwister.",
+        "options": [],
+        "reponse": "Ich habe keine Kinder."
+      },
+      {
+        "question": "Das sind meine Kinder. (Negativ: ...)\n→ Hinweis: nicht (für Possessivartikel)\n→ Beispiel: Das ist nicht mein Auto.",
+        "options": [],
+        "reponse": "Das sind nicht meine Kinder."
+      },
+      {
+        "question": "Ich habe einen Hund. (Negativ: ...)\n→ Hinweis: kein- (pour Nomen avec article)\n→ Beispiel: Ich habe keinen Hund.",
+        "options": [],
+        "reponse": "Ich habe keinen Hund."
+      },
+      {
+        "question": "Ich habe ein Auto. (Negativ: ...)\n→ Hinweis: kein- (pour Nomen avec article)\n→ Beispiel: Ich habe kein Auto.",
+        "options": [],
+        "reponse": "Ich habe kein Auto."
+      },
+      {
+        "question": "Ich bin zufrieden. (Negativ: ...)\n→ Hinweis: nicht (für Adjektive)\n→ Beispiel: Er ist nicht glücklich.",
+        "options": [],
+        "reponse": "Ich bin nicht zufrieden."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "neg-05",
+    "theme": "Negation",
+    "sous_theme": "Kombinieren",
+    "niveau": "A1",
+    "type": "associer",
+    "consigne": "Was passt zusammen? Kombinieren Sie und schreiben Sie Sätze.",
+    "questions": [
+      {
+        "question": "Das ist ...",
+        "options": ["kein Hund, das ist eine Katze.", "kein Auto. Ich fahre Fahrrad.", "keine Lust zu kochen. Gehen wir ins Restaurant?", "keine Kinder.", "kein Freund, sie ist gerne allein.", "nicht kochen."],
+        "reponse": "kein Hund, das ist eine Katze."
+      },
+      {
+        "question": "Sie hat ...",
+        "options": ["kein Hund, das ist eine Katze.", "kein Auto. Ich fahre Fahrrad.", "keine Lust zu kochen. Gehen wir ins Restaurant?", "keine Kinder.", "kein Freund, sie ist gerne allein.", "nicht kochen."],
+        "reponse": "keine Kinder."
+      },
+      {
+        "question": "Er kann ...",
+        "options": ["kein Hund, das ist eine Katze.", "kein Auto. Ich fahre Fahrrad.", "keine Lust zu kochen. Gehen wir ins Restaurant?", "keine Kinder.", "kein Freund, sie ist gerne allein.", "nicht kochen."],
+        "reponse": "nicht kochen."
+      },
+      {
+        "question": "Wir gehen ...",
+        "options": ["kein Hund, das ist eine Katze.", "kein Auto. Ich fahre Fahrrad.", "keine Lust zu kochen. Gehen wir ins Restaurant?", "keine Kinder.", "kein Freund, sie ist gerne allein.", "nicht ins Kino."],
+        "reponse": "nicht ins Kino."
+      },
+      {
+        "question": "Ich kaufe ...",
+        "options": ["kein Hund, das ist eine Katze.", "kein Auto. Ich fahre Fahrrad.", "keine Lust zu kochen. Gehen wir ins Restaurant?", "keine Kinder.", "kein Freund, sie ist gerne allein.", "nicht kochen."],
+        "reponse": "kein Auto. Ich fahre Fahrrad."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "neg-06",
+    "theme": "Negation",
+    "sous_theme": "Dialog nicht/kein",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "KEIN MITTAGESSEN. Ergänzen Sie nicht oder kein.",
+    "questions": [
+      {
+        "question": "Ich kann ___ mitkommen.",
+        "options": ["nicht", "kein", "keine", "keinen"],
+        "reponse": "nicht"
+      },
+      {
+        "question": "Ich habe ___ Zeit und ich habe auch ___ Hunger.",
+        "options": ["keine / keinen", "nicht / nicht", "kein / kein", "keine / keine"],
+        "reponse": "keine / keinen"
+      },
+      {
+        "question": "Nein, das geht leider ___. Ich arbeite ___ in diesem Projekt.",
+        "options": ["nicht / nicht", "kein / kein", "keine / keine", "nicht / kein"],
+        "reponse": "nicht / nicht"
+      },
+      {
+        "question": "Herr Meier arbeitet ___ in unserer Abteilung. Ich treffe ihn ___ .",
+        "options": ["nicht / nicht", "kein / kein", "keine / keine", "nicht / kein"],
+        "reponse": "nicht / nicht"
+      },
+      {
+        "question": "Morgen mache ich ___ Pause, weil ich zurzeit ___ Assistentin habe.",
+        "options": ["keine / keine", "nicht / nicht", "kein / kein", "keine / keinen"],
+        "reponse": "keine / keine"
+      },
+      {
+        "question": "Ich kann mittags ___ essen gehen.",
+        "options": ["nicht", "kein", "keine", "keinen"],
+        "reponse": "nicht"
+      },
+      {
+        "question": "Ich habe ___ Lust, etwas zu kochen. Und Sandwichs schmecken mir ___ .",
+        "options": ["keine / nicht", "kein / nicht", "nicht / keine", "keine / kein"],
+        "reponse": "keine / nicht"
+      },
+      {
+        "question": "Und ich esse ___ Süßigkeiten und auch ___ Fastfood.",
+        "options": ["keine / kein", "nicht / nicht", "kein / keine", "keine / keine"],
+        "reponse": "keine / kein"
+      },
+      {
+        "question": "Ich koche auch ___ gerne und Fastfood mag ich auch ___ .",
+        "options": ["nicht / nicht", "kein / kein", "keine / keine", "nicht / kein"],
+        "reponse": "nicht / nicht"
+      },
+      {
+        "question": "Sie müssen aber ___ Angst haben, das Essen in der Cafeteria ist ___ ungesund.",
+        "options": ["keine / nicht", "kein / nicht", "nicht / keine", "keine / kein"],
+        "reponse": "keine / nicht"
+      },
+      {
+        "question": "Oh, vegan, das ist ___ schlecht.",
+        "options": ["nicht", "kein", "keine", "keinen"],
+        "reponse": "nicht"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "akk-01",
+    "theme": "Kasus",
+    "sous_theme": "Akkusativ - definit",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "EINE REISE. Ergänzen Sie die definiten Artikel im Akkusativ. Ich brauche ...",
+    "questions": [
+      {
+        "question": "___ Pass (der)",
+        "options": ["den", "der", "das", "die"],
+        "reponse": "den"
+      },
+      {
+        "question": "___ Computer (der)",
+        "options": ["den", "der", "das", "die"],
+        "reponse": "den"
+      },
+      {
+        "question": "___ Handy (das)",
+        "options": ["das", "den", "der", "die"],
+        "reponse": "das"
+      },
+      {
+        "question": "___ Kreditkarte (die)",
+        "options": ["die", "den", "das", "der"],
+        "reponse": "die"
+      },
+      {
+        "question": "___ Schirm (der)",
+        "options": ["den", "der", "das", "die"],
+        "reponse": "den"
+      },
+      {
+        "question": "___ Tasche (die)",
+        "options": ["die", "den", "das", "der"],
+        "reponse": "die"
+      },
+      {
+        "question": "___ Kopfhörer (Pl.)",
+        "options": ["die", "den", "das", "der"],
+        "reponse": "die"
+      },
+      {
+        "question": "___ Schuhe (Pl.)",
+        "options": ["die", "den", "das", "der"],
+        "reponse": "die"
+      },
+      {
+        "question": "___ Mantel (der)",
+        "options": ["den", "der", "das", "die"],
+        "reponse": "den"
+      },
+      {
+        "question": "___ Pyjama (der)",
+        "options": ["den", "der", "das", "die"],
+        "reponse": "den"
+      },
+      {
+        "question": "___ Waschzeug (das)",
+        "options": ["das", "den", "der", "die"],
+        "reponse": "das"
+      },
+      {
+        "question": "___ Stift (der)",
+        "options": ["den", "der", "das", "die"],
+        "reponse": "den"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "akk-02",
+    "theme": "Kasus",
+    "sous_theme": "Akkusativ - indefinit",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "DER EINKAUF. Ergänzen Sie die indefiniten Artikel im Akkusativ. Walter kauft ...",
+    "questions": [
+      {
+        "question": "___ Flasche Wein (die)",
+        "options": ["eine", "ein", "einen", "keine"],
+        "reponse": "eine"
+      },
+      {
+        "question": "___ Glas Marmelade (das)",
+        "options": ["ein", "einen", "eine", "kein"],
+        "reponse": "ein"
+      },
+      {
+        "question": "___ Schwarzbrot (das)",
+        "options": ["ein", "einen", "eine", "kein"],
+        "reponse": "ein"
+      },
+      {
+        "question": "___ Brötchen (Pl.)",
+        "options": ["-", "ein", "eine", "einen"],
+        "reponse": "-"
+      },
+      {
+        "question": "___ Packung Milch (die)",
+        "options": ["eine", "ein", "einen", "keine"],
+        "reponse": "eine"
+      },
+      {
+        "question": "___ Salat (der)",
+        "options": ["einen", "ein", "eine", "keinen"],
+        "reponse": "einen"
+      },
+      {
+        "question": "___ Tomaten (Pl.)",
+        "options": ["-", "ein", "eine", "einen"],
+        "reponse": "-"
+      },
+      {
+        "question": "___ Joghurt (der)",
+        "options": ["einen", "ein", "eine", "keinen"],
+        "reponse": "einen"
+      },
+      {
+        "question": "___ Schokoladenkuchen (der)",
+        "options": ["einen", "ein", "eine", "keinen"],
+        "reponse": "einen"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "akk-03",
+    "theme": "Kasus",
+    "sous_theme": "Akkusativ - hat/kein",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "Was hat Thomas, was hat er nicht? Ergänzen Sie ein/kein im Akkusativ.",
+    "questions": [
+      {
+        "question": "Thomas hat ___ Auto. Er hat ___ Fahrrad.",
+        "options": ["ein / kein", "einen / keinen", "eine / keine", "ein / keinen"],
+        "reponse": "ein / kein"
+      },
+      {
+        "question": "Er hat ___ Bett und ___ Tisch, aber ___ Monitor.",
+        "options": ["ein / einen / keinen", "ein / ein / kein", "einen / ein / keinen", "ein / einen / kein"],
+        "reponse": "ein / einen / keinen"
+      },
+      {
+        "question": "Er hat ___ Waschmaschine und ___ Handy, aber ___ Telefon.",
+        "options": ["eine / ein / kein", "eine / ein / keinen", "ein / eine / kein", "eine / einen / kein"],
+        "reponse": "eine / ein / kein"
+      },
+      {
+        "question": "Er hat ___ Laptop, aber ___ Stuhl.",
+        "options": ["einen / keinen", "ein / kein", "einen / kein", "ein / keinen"],
+        "reponse": "einen / keinen"
+      },
+      {
+        "question": "Er hat ___ Schlüssel, aber ___ Haus.",
+        "options": ["einen / kein", "ein / keinen", "einen / keinen", "ein / kein"],
+        "reponse": "einen / kein"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "akk-04",
+    "theme": "Kasus",
+    "sous_theme": "WER ISST WAS - Nominativ/Akkusativ",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "WER ISST WAS? Ergänzen Sie die Artikel im Nominativ und Akkusativ.",
+    "questions": [
+      {
+        "question": "___ Kuh isst ___ Gras. ___ Mensch trinkt ___ Milch.",
+        "options": ["Die / das / Der / die", "Das / die / Die / der", "Die / das / Die / die", "Der / das / Die / die"],
+        "reponse": "Die / das / Der / die"
+      },
+      {
+        "question": "___ Fisch isst ___ Pflanze. ___ Mensch isst ___ Fisch.",
+        "options": ["Der / die / Der / den", "Die / das / Der / den", "Der / die / Der / der", "Den / die / Der / den"],
+        "reponse": "Der / die / Der / den"
+      },
+      {
+        "question": "___ Hühner essen ___ Körner. ___ Mensch isst ___ Hühner.",
+        "options": ["Die / die / Der / die", "Die / den / Der / die", "Der / die / Die / den", "Die / die / Der / die"],
+        "reponse": "Die / die / Der / die"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "akk-05",
+    "theme": "Kasus",
+    "sous_theme": "Wen oder was - Fragewörter",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "Wen oder was? Ergänzen Sie die Fragewörter.",
+    "questions": [
+      {
+        "question": "___ trinken Sie gerne? – Champagner.",
+        "options": ["Was", "Wen", "Wer", "Wem"],
+        "reponse": "Was"
+      },
+      {
+        "question": "___ sehen Sie oft? – Meine Kollegen.",
+        "options": ["Wen", "Was", "Wer", "Wem"],
+        "reponse": "Wen"
+      },
+      {
+        "question": "___ verstehen Sie nicht? – Die Lehrerin.",
+        "options": ["Wen", "Was", "Wer", "Wem"],
+        "reponse": "Wen"
+      },
+      {
+        "question": "___ verstehen Sie nicht? – Die Frage.",
+        "options": ["Was", "Wen", "Wer", "Wem"],
+        "reponse": "Was"
+      },
+      {
+        "question": "___ lieben Sie? – Gute Musik, gutes Essen.",
+        "options": ["Was", "Wen", "Wer", "Wem"],
+        "reponse": "Was"
+      },
+      {
+        "question": "___ lieben Sie? – Meine Familie.",
+        "options": ["Wen", "Was", "Wer", "Wem"],
+        "reponse": "Wen"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "akk-06",
+    "theme": "Kasus",
+    "sous_theme": "Kombinieren und Sätze schreiben",
+    "niveau": "A1",
+    "type": "ordre",
+    "consigne": "Kombinieren Sie und schreiben Sie Sätze mit dem definiten Artikel im Akkusativ.",
+    "questions": [
+      {
+        "question": "Ich / brauchen / Stift (der)",
+        "options": [],
+        "reponse": "Ich brauche den Stift."
+      },
+      {
+        "question": "Wir / sehen / Film (der)",
+        "options": [],
+        "reponse": "Wir sehen den Film."
+      },
+      {
+        "question": "Meine Freunde / hören / Oper (die)",
+        "options": [],
+        "reponse": "Meine Freunde hören die Oper."
+      },
+      {
+        "question": "Ich / lesen / Bücher (Pl.)",
+        "options": [],
+        "reponse": "Ich lese die Bücher."
+      },
+      {
+        "question": "Wir / trinken / Glas Wein (das)",
+        "options": [],
+        "reponse": "Wir trinken das Glas Wein."
+      },
+      {
+        "question": "Ich / kaufen / Auto (das)",
+        "options": [],
+        "reponse": "Ich kaufe das Auto."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "akk-07",
+    "theme": "Kasus",
+    "sous_theme": "Akkusativ unterstreichen",
+    "niveau": "A1",
+    "type": "identifier",
+    "consigne": "Wo ist der Akkusativ? Unterstreichen Sie das Objekt im Akkusativ.",
+    "questions": [
+      {
+        "question": "Wir kaufen Stühle. Die Stühle finde ich sehr schön.",
+        "options": ["Stühle, die Stühle", "Wir, ich", "kaufen, finde", "sehr schön"],
+        "reponse": "Stühle, die Stühle"
+      },
+      {
+        "question": "Wir haben einen Sohn und eine Tochter. Wir lieben die Kinder.",
+        "options": ["einen Sohn, eine Tochter, die Kinder", "Wir, wir", "haben, lieben", "Sohn, Tochter, Kinder"],
+        "reponse": "einen Sohn, eine Tochter, die Kinder"
+      },
+      {
+        "question": "Die Kinder lieben die Lehrerin.",
+        "options": ["die Lehrerin", "Die Kinder", "lieben", "Lehrerin"],
+        "reponse": "die Lehrerin"
+      },
+      {
+        "question": "Die Suppe esse ich nicht. Möchtest du das Brötchen?",
+        "options": ["Die Suppe, das Brötchen", "ich, du", "esse, Möchtest", "nicht"],
+        "reponse": "Die Suppe, das Brötchen"
+      },
+      {
+        "question": "Ich bezahle den Wein, das Essen bezahlst du.",
+        "options": ["den Wein, das Essen", "Ich, du", "bezahle, bezahlst", "Wein, Essen"],
+        "reponse": "den Wein, das Essen"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "akk-08",
+    "theme": "Kasus",
+    "sous_theme": "Meine Tiere - Brief",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "MEINE TIERE. Ergänzen Sie die Artikel im Nominativ und Akkusativ.",
+    "questions": [
+      {
+        "question": "Jetzt habe ich ___ Hund! ___ Hund ist sehr süß.",
+        "options": ["einen / Der", "ein / Der", "einen / Ein", "ein / Ein"],
+        "reponse": "einen / Der"
+      },
+      {
+        "question": "Du weißt, ich habe auch ___ Katze, ___ Kaninchen und ___ Fische.",
+        "options": ["eine / ein / -", "eine / einen / -", "ein / eine / die", "eine / ein / keine"],
+        "reponse": "eine / ein / -"
+      },
+      {
+        "question": "Ich mag ___ Tiere. ___ Hund liebe ich, ___ Katze mag ich.",
+        "options": ["die / Den / die", "die / Der / die", "den / Den / die", "die / Den / eine"],
+        "reponse": "die / Den / die"
+      },
+      {
+        "question": "___ Kaninchen mag ich ein bisschen, nur ___ Fische finde ich langweilig.",
+        "options": ["Das / die", "Den / das", "Das / den", "Ein / die"],
+        "reponse": "Das / die"
+      },
+      {
+        "question": "Zum Glück mag ___ Katze auch ___ Hund.",
+        "options": ["die / den", "die / der", "den / die", "der / den"],
+        "reponse": "die / den"
+      },
+      {
+        "question": "___ Hund frisst Fleisch und ist leider teuer. Aber ich finde ___ Hund wunderbar.",
+        "options": ["Der / den", "Den / der", "Der / der", "Den / den"],
+        "reponse": "Der / den"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "dat-01",
+    "theme": "Kasus",
+    "sous_theme": "Dativ - definit",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "WIE FAHREN SIE ZUR ARBEIT? Ergänzen Sie die definiten Artikel im Dativ. mit ...",
+    "questions": [
+      {
+        "question": "mit ___ Auto",
+        "options": ["dem", "der", "den", "das"],
+        "reponse": "dem"
+      },
+      {
+        "question": "mit ___ Fahrrad",
+        "options": ["dem", "der", "den", "das"],
+        "reponse": "dem"
+      },
+      {
+        "question": "mit ___ Zug",
+        "options": ["dem", "der", "den", "das"],
+        "reponse": "dem"
+      },
+      {
+        "question": "mit ___ Straßenbahn",
+        "options": ["der", "dem", "den", "das"],
+        "reponse": "der"
+      },
+      {
+        "question": "mit ___ U-Bahn",
+        "options": ["der", "dem", "den", "das"],
+        "reponse": "der"
+      },
+      {
+        "question": "mit ___ Rollschuhen (Pl.)",
+        "options": ["den", "der", "dem", "das"],
+        "reponse": "den"
+      },
+      {
+        "question": "mit ___ Taxi",
+        "options": ["dem", "der", "den", "das"],
+        "reponse": "dem"
+      },
+      {
+        "question": "mit ___ Bus",
+        "options": ["dem", "der", "den", "das"],
+        "reponse": "dem"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "dat-02",
+    "theme": "Kasus",
+    "sous_theme": "Dativ - indefinit",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "MIT WEM GEHEN SIE INS KINO? Ergänzen Sie die indefiniten Artikel im Dativ. mit ...",
+    "questions": [
+      {
+        "question": "mit ___ Freundin",
+        "options": ["einer", "einem", "einen", "ein"],
+        "reponse": "einer"
+      },
+      {
+        "question": "mit ___ Freund",
+        "options": ["einem", "einer", "einen", "ein"],
+        "reponse": "einem"
+      },
+      {
+        "question": "mit ___ Freunden (Pl.)",
+        "options": ["-", "einem", "einer", "einen"],
+        "reponse": "-"
+      },
+      {
+        "question": "mit ___ Mädchen",
+        "options": ["einem", "einer", "einen", "ein"],
+        "reponse": "einem"
+      },
+      {
+        "question": "mit ___ Kollegin",
+        "options": ["einer", "einem", "einen", "ein"],
+        "reponse": "einer"
+      },
+      {
+        "question": "mit ___ Lehrer",
+        "options": ["einem", "einer", "einen", "ein"],
+        "reponse": "einem"
+      },
+      {
+        "question": "mit ___ Mann",
+        "options": ["einem", "einer", "einen", "ein"],
+        "reponse": "einem"
+      },
+      {
+        "question": "mit ___ Gästen (Pl.)",
+        "options": ["-", "einem", "einer", "einen"],
+        "reponse": "-"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "dat-03",
+    "theme": "Kasus",
+    "sous_theme": "Dativ - Artikel und Endung",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "MIT WEM MÖCHTEN SIE IN DEN URLAUB FAHREN? Ergänzen Sie die indefiniten Artikel im Dativ und die Endung (wenn nötig).",
+    "questions": [
+      {
+        "question": "Mit ein___ Kind oder mit zwei Kinder___?",
+        "options": ["em / -n", "er / -n", "em / -s", "en / -n"],
+        "reponse": "em / -n"
+      },
+      {
+        "question": "Mit ein___ Baby oder mit zwei Babys?",
+        "options": ["em / -", "er / -s", "em / -s", "en / -n"],
+        "reponse": "em / -"
+      },
+      {
+        "question": "Mit ein___ Mann oder mit vielen Männer___?",
+        "options": ["em / -n", "er / -n", "em / -s", "en / -n"],
+        "reponse": "em / -n"
+      },
+      {
+        "question": "Mit ein___ Freund oder mit zehn Freunde___?",
+        "options": ["em / -n", "er / -n", "em / -s", "en / -n"],
+        "reponse": "em / -n"
+      },
+      {
+        "question": "Mit ein___ Kollegin oder mit 28 Kolleginnen?",
+        "options": ["er / -", "em / -n", "er / -n", "en / -n"],
+        "reponse": "er / -"
+      },
+      {
+        "question": "Mit ein___ Frau oder mit vielen Frauen?",
+        "options": ["er / -", "em / -n", "er / -n", "en / -n"],
+        "reponse": "er / -"
+      },
+      {
+        "question": "Mit ein___ Oma oder mit zwei Omas?",
+        "options": ["er / -", "em / -n", "er / -s", "en / -n"],
+        "reponse": "er / -"
+      },
+      {
+        "question": "Mit ein___ Opa oder mit zwei Opas?",
+        "options": ["em / -", "er / -s", "em / -s", "en / -n"],
+        "reponse": "em / -"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "dat-04",
+    "theme": "Kasus",
+    "sous_theme": "Dativ im Kontext - Laura",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "LAURA IST SO NETT! Ergänzen Sie die Artikel im Dativ und die Endung (wenn nötig).",
+    "questions": [
+      {
+        "question": "Laura hilft ein___ Kollegin, ein___ Kind und d___ Eltern.",
+        "options": ["er / em / en", "em / em / en", "er / er / den", "em / em / den"],
+        "reponse": "er / em / en"
+      },
+      {
+        "question": "Zum Geburtstag gratuliert sie d___ Freundinnen und d___ Freunde___.",
+        "options": ["en / en / -n", "den / den / -n", "der / der / -n", "en / en / -"],
+        "reponse": "en / en / -n"
+      },
+      {
+        "question": "Sie gibt d___ Kollegen Sandwichs, d___ Katze einen Fisch.",
+        "options": ["en / er", "dem / der", "den / den", "em / er"],
+        "reponse": "en / er"
+      },
+      {
+        "question": "Sie schenkt d___ Nachbarin Blumen, d___ Kinder___ Schokolade.",
+        "options": ["der / en / -n", "den / en / -n", "der / den / -n", "dem / en / -n"],
+        "reponse": "der / en / -n"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "dat-05",
+    "theme": "Kasus",
+    "sous_theme": "Dativ mit kein-",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "MARIA IST NICHT SO NETT. Ergänzen Sie kein im Dativ.",
+    "questions": [
+      {
+        "question": "Maria gibt kein___ Kellner und kein___ Kellnerin Trinkgeld.",
+        "options": ["em / er", "en / en", "em / em", "er / er"],
+        "reponse": "em / er"
+      },
+      {
+        "question": "Sie hilft kein___ Nachbarin, gratuliert kein___ Freund und auch kein___ Freundin zum Geburtstag.",
+        "options": ["er / em / er", "em / em / er", "er / er / em", "em / er / er"],
+        "reponse": "er / em / er"
+      },
+      {
+        "question": "Sie schenkt kein___ Kind Schokolade und kein___ Lehrerin ein Auto.",
+        "options": ["em / er", "en / en", "em / em", "er / er"],
+        "reponse": "em / er"
+      },
+      {
+        "question": "Sie gibt kein___ Hund eine Wurst.",
+        "options": ["em", "en", "er", "ein"],
+        "reponse": "em"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "dat-06",
+    "theme": "Kasus",
+    "sous_theme": "Possessivartikel im Dativ",
+    "niveau": "A2",
+    "type": "completer",
+    "consigne": "MEIN GEBURTSTAG. Ergänzen Sie die Possessivartikel im Dativ und die Endung (wenn nötig).",
+    "questions": [
+      {
+        "question": "Ich habe zwölf Freunde zu mein___ Geburtstag eingeladen.",
+        "options": ["em", "er", "en", "ein"],
+        "reponse": "em"
+      },
+      {
+        "question": "Viele sind mit ihr___ Freund oder ihr___ Freundin gekommen.",
+        "options": ["em / er", "er / em", "em / em", "er / er"],
+        "reponse": "em / er"
+      },
+      {
+        "question": "Manche haben bei mein___ Eltern übernachtet.",
+        "options": ["en", "em", "er", "ein"],
+        "reponse": "en"
+      },
+      {
+        "question": "Eine Kollegin ist sogar mit ihr___ zwei Babys gekommen.",
+        "options": ["en", "em", "er", "ein"],
+        "reponse": "en"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "dat-07",
+    "theme": "Kasus",
+    "sous_theme": "Dativ im Brief",
+    "niveau": "A2",
+    "type": "completer",
+    "consigne": "EIN ZETTEL AUF DEM KÜCHENTISCH. Ergänzen Sie die Artikel im Dativ und die Endung (wenn nötig).",
+    "questions": [
+      {
+        "question": "Wir brauchen eine Pause nach d___ vielen Arbeit.",
+        "options": ["er", "em", "en", "der"],
+        "reponse": "er"
+      },
+      {
+        "question": "Wir fahren gleich mit d___ Bahn nach Gießen zu ein___ Freund.",
+        "options": ["er / em", "em / em", "er / er", "der / einem"],
+        "reponse": "er / em"
+      },
+      {
+        "question": "Wir bleiben drei Tage bei d___ Freunde___.",
+        "options": ["en / -n", "em / -n", "en / -", "den / -n"],
+        "reponse": "en / -n"
+      },
+      {
+        "question": "Mit d___ Auto von d___ Freunde___ können wir Ausflüge machen.",
+        "options": ["em / en / -n", "er / en / -n", "em / em / -n", "dem / den / -n"],
+        "reponse": "em / en / -n"
+      },
+      {
+        "question": "Wir möchten gerne zu ein___ See laufen und mit ein___ Boot fahren.",
+        "options": ["em / em", "er / er", "em / er", "en / en"],
+        "reponse": "em / em"
+      },
+      {
+        "question": "Morgen musst du das Formular bei d___ Amt abgeben.",
+        "options": ["em", "er", "en", "dem"],
+        "reponse": "em"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  }
+]

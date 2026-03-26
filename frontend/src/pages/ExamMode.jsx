@@ -638,7 +638,7 @@ const ExamMode = () => {
         />
       </div>
 
-      <main className="flex-1 p-4 pt-0">
+      <main className="flex-1 p-4 pt-16">
         {renderContent()}
       </main>
 

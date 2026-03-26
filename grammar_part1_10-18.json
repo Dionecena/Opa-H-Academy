@@ -1,0 +1,646 @@
+[
+  {
+    "id": "v1-pron-01",
+    "theme": "Verben 1",
+    "sous_theme": "Personalpronomen",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "Ergänzen Sie die Pronomen (für Personen).",
+    "questions": [
+      {
+        "question": "Das ist Herr Gupta, ___ kommt aus Indien.",
+        "options": ["er", "sie", "es", "ihr"],
+        "reponse": "er"
+      },
+      {
+        "question": "Das ist Frau Kioka, ___ kommt aus Japan.",
+        "options": ["er", "sie", "es", "ihr"],
+        "reponse": "sie"
+      },
+      {
+        "question": "Herr Gupta und Frau Kioka sind in Berlin. ___ lernen Deutsch.",
+        "options": ["er", "sie", "es", "wir"],
+        "reponse": "sie"
+      },
+      {
+        "question": "Hallo Anna, woher kommst ___?",
+        "options": ["du", "ihr", "Sie", "wir"],
+        "reponse": "du"
+      },
+      {
+        "question": "___ komme aus New York.",
+        "options": ["Ich", "Du", "Er", "Wir"],
+        "reponse": "Ich"
+      },
+      {
+        "question": "Marc und Dominic, wo wohnt ___?",
+        "options": ["ihr", "du", "Sie", "wir"],
+        "reponse": "ihr"
+      },
+      {
+        "question": "___ wohnen in Frankfurt.",
+        "options": ["Wir", "Ihr", "Sie", "Wir"],
+        "reponse": "Wir"
+      },
+      {
+        "question": "Guten Tag, wie heißen ___?",
+        "options": ["Sie", "du", "ihr", "wir"],
+        "reponse": "Sie"
+      },
+      {
+        "question": "Guten Tag, ___ heiße Berger, Roland Berger.",
+        "options": ["ich", "du", "er", "wir"],
+        "reponse": "ich"
+      }
+    ],
+    "difficulty": "facile",
+    "score": 1
+  },
+  {
+    "id": "v1-pron-02",
+    "theme": "Verben 1",
+    "sous_theme": "Personalpronomen",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "Ergänzen Sie die Pronomen (weitere Übungen).",
+    "questions": [
+      {
+        "question": "Frau Meier geht einkaufen. ___ kauft Gemüse und Obst.",
+        "options": ["Sie", "Er", "Es", "Wir"],
+        "reponse": "Sie"
+      },
+      {
+        "question": "Peter und Paul gehen heute nicht zur Schule. ___ haben Ferien.",
+        "options": ["Sie", "Er", "Wir", "Ihr"],
+        "reponse": "Sie"
+      },
+      {
+        "question": "Frau Meier, wo arbeiten ___?",
+        "options": ["Sie", "du", "ihr", "wir"],
+        "reponse": "Sie"
+      },
+      {
+        "question": "___ arbeite in einer Bank.",
+        "options": ["Ich", "Du", "Er", "Sie"],
+        "reponse": "Ich"
+      },
+      {
+        "question": "Marie, kommst ___ heute?",
+        "options": ["du", "ihr", "Sie", "wir"],
+        "reponse": "du"
+      },
+      {
+        "question": "Nein, ___ habe keine Zeit.",
+        "options": ["ich", "du", "er", "wir"],
+        "reponse": "ich"
+      }
+    ],
+    "difficulty": "facile",
+    "score": 1
+  },
+  {
+    "id": "v1-pron-03",
+    "theme": "Verben 1",
+    "sous_theme": "Personalpronomen für Sachen",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "IN DER WOHNUNG. Ergänzen Sie die Pronomen.",
+    "questions": [
+      {
+        "question": "Der Schrank ist teuer. ___ kommt aus Italien.",
+        "options": ["Er", "Sie", "Es", "Wir"],
+        "reponse": "Er"
+      },
+      {
+        "question": "Das Regal ist praktisch. ___ kostet nur 49 Euro.",
+        "options": ["Es", "Er", "Sie", "Wir"],
+        "reponse": "Es"
+      },
+      {
+        "question": "Die Lampe ist neu. ___ ist modern.",
+        "options": ["Sie", "Er", "Es", "Wir"],
+        "reponse": "Sie"
+      },
+      {
+        "question": "Das sind vier Stühle. ___ kosten nur 100 Euro.",
+        "options": ["Sie", "Er", "Es", "Wir"],
+        "reponse": "Sie"
+      },
+      {
+        "question": "Die Sessel sind sehr bequem und ___ sind günstig.",
+        "options": ["sie", "er", "es", "wir"],
+        "reponse": "sie"
+      },
+      {
+        "question": "Der Tisch da ist schön, aber ___ ist klein.",
+        "options": ["er", "sie", "es", "wir"],
+        "reponse": "er"
+      }
+    ],
+    "difficulty": "facile",
+    "score": 1
+  },
+  {
+    "id": "v1-pron-04",
+    "theme": "Verben 1",
+    "sous_theme": "Personalpronomen im Dialog",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "IN DER STADT. Ergänzen Sie die Pronomen im Dialog zwischen Elena und Mario.",
+    "questions": [
+      {
+        "question": "Elena: Hallo Mario, wo ist Marie? Mario: ___ kommt später.",
+        "options": ["Sie", "Er", "Es", "Wir"],
+        "reponse": "Sie"
+      },
+      {
+        "question": "Und wann kommt Phillip? ___ kommt heute nicht.",
+        "options": ["Er", "Sie", "Es", "Wir"],
+        "reponse": "Er"
+      },
+      {
+        "question": "___ hat keine Lust.",
+        "options": ["Er", "Sie", "Es", "Wir"],
+        "reponse": "Er"
+      },
+      {
+        "question": "Dann gehen ___ alleine ins Café und trinken einen Kaffee.",
+        "options": ["wir", "ihr", "sie", "Sie"],
+        "reponse": "wir"
+      },
+      {
+        "question": "Kellner: Guten Tag, was möchten ___?",
+        "options": ["Sie", "du", "ihr", "wir"],
+        "reponse": "Sie"
+      },
+      {
+        "question": "Elena und Mario: ___ nehmen einen Kaffee.",
+        "options": ["Wir", "Ihr", "Sie", "Wir"],
+        "reponse": "Wir"
+      },
+      {
+        "question": "Kellner: Möchten Sie auch Kuchen? ___ ist sehr gut.",
+        "options": ["Er", "Sie", "Es", "Wir"],
+        "reponse": "Er"
+      },
+      {
+        "question": "Elena: Nein danke, ___ möchte keinen Kuchen.",
+        "options": ["ich", "du", "er", "wir"],
+        "reponse": "ich"
+      },
+      {
+        "question": "Möchtest ___ Kuchen, Mario?",
+        "options": ["du", "ihr", "Sie", "wir"],
+        "reponse": "du"
+      },
+      {
+        "question": "Mario: Nein, ___ nehme auch nur einen Kaffee.",
+        "options": ["ich", "du", "er", "wir"],
+        "reponse": "ich"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "v1-pron-05",
+    "theme": "Verben 1",
+    "sous_theme": "Du oder Sie",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "Formell oder informell? Sie oder du? Sie oder ihr? Ergänzen Sie.",
+    "questions": [
+      {
+        "question": "Anna, was machst ___? — Ich surfe ein bisschen im Internet.",
+        "options": ["du", "ihr", "Sie", "wir"],
+        "reponse": "du"
+      },
+      {
+        "question": "Frau Schmidt, was machen ___? — Ich schreibe gerade eine E-Mail.",
+        "options": ["Sie", "du", "ihr", "wir"],
+        "reponse": "Sie"
+      },
+      {
+        "question": "Daniel und Anna, was macht ___? — Wir surfen im Internet.",
+        "options": ["ihr", "du", "Sie", "wir"],
+        "reponse": "ihr"
+      },
+      {
+        "question": "Herr Meyer und Frau Schmidt, was machen ___? — Wir lesen gerade eine E-Mail.",
+        "options": ["Sie", "du", "ihr", "wir"],
+        "reponse": "Sie"
+      }
+    ],
+    "difficulty": "facile",
+    "score": 1
+  },
+  {
+    "id": "v1-pron-06",
+    "theme": "Verben 1",
+    "sous_theme": "Personalpronomen - Referenz",
+    "niveau": "A1",
+    "type": "identifier",
+    "consigne": "Was bedeutet 'sie' und 'Sie'? Schreiben Sie die Person oder Sache.",
+    "questions": [
+      {
+        "question": "Herr Lindner: Kommen Sie bitte herein. Das ist meine Frau, Karina. Und das sind unsere Kinder. Das ist Anne, sie ist zwei Monate alt und das ist Lukas, er ist drei.",
+        "options": [],
+        "reponse": "Referenz: sie = Anne, er = Lukas"
+      },
+      {
+        "question": "Frau Peneva: Oh, sie sind süß!",
+        "options": [],
+        "reponse": "Referenz: sie = die Kinder (Anne und Lukas)"
+      },
+      {
+        "question": "Herr Lindner: Und Karina, das ist Olga Peneva, sie ist eine Kollegin von mir. Sie kommt aus Bulgarien.",
+        "options": [],
+        "reponse": "Referenz: sie = Olga Peneva, Sie = Olga Peneva (formell)"
+      },
+      {
+        "question": "Frau Lindner: Guten Tag, Frau Peneva! Oh danke, ich mag Blumen sehr gerne. Sie sind wunderschön.",
+        "options": [],
+        "reponse": "Referenz: Sie = die Blumen"
+      },
+      {
+        "question": "Setzen Sie sich doch bitte, möchten Sie etwas trinken?",
+        "options": [],
+        "reponse": "Referenz: Sie = Olga Peneva (formell)"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "v1-konj-01",
+    "theme": "Verben 1",
+    "sous_theme": "Konjugation Präsens",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "KLEINE DIALOGE. Ergänzen Sie die Endungen.",
+    "questions": [
+      {
+        "question": "Marc: Woher komm___ du?",
+        "options": ["st", "t", "e", "en"],
+        "reponse": "st"
+      },
+      {
+        "question": "Alice: Ich komm___ aus Brasilien.",
+        "options": ["e", "st", "t", "en"],
+        "reponse": "e"
+      },
+      {
+        "question": "Das ist mein Freund, er komm___ aus Russland.",
+        "options": ["t", "st", "e", "en"],
+        "reponse": "t"
+      },
+      {
+        "question": "Marc: Und wo wohn___ ihr?",
+        "options": ["t", "st", "e", "en"],
+        "reponse": "t"
+      },
+      {
+        "question": "Alice und Yuri: Wir wohn___ ganz in der Nähe.",
+        "options": ["en", "t", "st", "e"],
+        "reponse": "en"
+      },
+      {
+        "question": "Wo arbeit___ du?",
+        "options": ["est", "t", "e", "en"],
+        "reponse": "est"
+      },
+      {
+        "question": "Marc: Ich arbeit___ bei der Post.",
+        "options": ["e", "est", "t", "en"],
+        "reponse": "e"
+      },
+      {
+        "question": "Frau Schröder: Guten Tag, wie heiß___ Sie?",
+        "options": ["en", "t", "st", "e"],
+        "reponse": "en"
+      },
+      {
+        "question": "Herr Sato: Ich heiß___ Sato.",
+        "options": ["e", "t", "st", "en"],
+        "reponse": "e"
+      },
+      {
+        "question": "Frau Schröder: Woher komm___ Sie?",
+        "options": ["en", "t", "st", "e"],
+        "reponse": "en"
+      },
+      {
+        "question": "Herr Sato: Ich komm___ aus Japan und meine Frau komm___ aus den USA.",
+        "options": ["e / e", "e / t", "t / e", "en / en"],
+        "reponse": "e / e"
+      },
+      {
+        "question": "Wir wohn___ jetzt in Berlin.",
+        "options": ["en", "t", "st", "e"],
+        "reponse": "en"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "v1-konj-02",
+    "theme": "Verben 1",
+    "sous_theme": "Konjugation Präsens - Zuordnung",
+    "niveau": "A1",
+    "type": "associer",
+    "consigne": "Was passt zusammen? Kombinieren Sie.",
+    "questions": [
+      {
+        "question": "Ich — ___",
+        "options": ["A. arbeite", "B. kommst", "C. heißt", "D. wohnt", "E. arbeitest", "F. komme", "G. wohnen"],
+        "reponse": "F. komme"
+      },
+      {
+        "question": "Du — ___",
+        "options": ["A. arbeite", "B. kommst", "C. heißt", "D. wohnt", "E. arbeitest", "F. komme", "G. wohnen"],
+        "reponse": "B. kommst"
+      },
+      {
+        "question": "Er — ___",
+        "options": ["A. arbeite", "B. kommst", "C. heißt", "D. wohnt", "E. arbeitest", "F. komme", "G. wohnen"],
+        "reponse": "C. heißt"
+      },
+      {
+        "question": "Wir — ___",
+        "options": ["A. arbeite", "B. kommst", "C. heißt", "D. wohnt", "E. arbeitest", "F. com", "G. wohnen"],
+        "reponse": "G. wohnen"
+      },
+      {
+        "question": "Sie — ___",
+        "options": ["A. arbeiten", "B. kommst", "C. heißt", "D. wohnt", "E. arbeitest", "F. komme", "G. wohnen"],
+        "reponse": "A. arbeiten"
+      },
+      {
+        "question": "Ihr — ___",
+        "options": ["A. arbeite", "B. kommt", "C. heißt", "D. wohnt", "E. arbeitet", "F. komme", "G. wohnen"],
+        "reponse": "B. kommt"
+      }
+    ],
+    "difficulty": "facile",
+    "score": 1
+  },
+  {
+    "id": "v1-konj-03",
+    "theme": "Verben 1",
+    "sous_theme": "Konjugation - Endungen",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "Ergänzen Sie die Endungen. Kombinieren Sie.",
+    "questions": [
+      {
+        "question": "Wie heiß___ du? — Ja, aber mein Freund tanz___ leider nicht.",
+        "options": ["t / t", "t / le", "st / t", "e / le"],
+        "reponse": "t / t"
+      },
+      {
+        "question": "Komm___ ihr mit ins Kino? — Nein, leider nicht.",
+        "options": ["t", "st", "e", "en"],
+        "reponse": "t"
+      },
+      {
+        "question": "Frau Tan komm___ heute. Geh___ Sie zum Flughafen?",
+        "options": ["t / en", "t / t", "e / en", "en / t"],
+        "reponse": "t / en"
+      },
+      {
+        "question": "Warum antwort___ du nicht? — Ich versteh___ dich nicht.",
+        "options": ["est / e", "t / e", "e / est", "en / t"],
+        "reponse": "est / e"
+      },
+      {
+        "question": "Ich arbeit___ heute bis acht und Jana besuch___ ihre Eltern.",
+        "options": ["e / t", "e / e", "t / t", "en / en"],
+        "reponse": "e / t"
+      },
+      {
+        "question": "Tanz___ du gerne? — Ja.",
+        "options": ["t", "st", "e", "en"],
+        "reponse": "st"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "v1-konj-04",
+    "theme": "Verben 1",
+    "sous_theme": "Konjugation im Kontext",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "IM DEUTSCHKURS. Ergänzen Sie die Endungen.",
+    "questions": [
+      {
+        "question": "Maria komm___ aus Spanien.",
+        "options": ["t", "st", "e", "en"],
+        "reponse": "t"
+      },
+      {
+        "question": "Pedro und Angelo komm___ aus Südamerika.",
+        "options": ["en", "t", "st", "e"],
+        "reponse": "en"
+      },
+      {
+        "question": "Maria, Pedro und Angelo lern___ zusammen Deutsch.",
+        "options": ["en", "t", "st", "e"],
+        "reponse": "en"
+      },
+      {
+        "question": "Pedro schreib___ gerne.",
+        "options": ["t", "st", "e", "en"],
+        "reponse": "t"
+      },
+      {
+        "question": "Maria hör___ gerne Dialoge.",
+        "options": ["t", "st", "e", "en"],
+        "reponse": "t"
+      },
+      {
+        "question": "Angelo lern___ gerne Grammatik.",
+        "options": ["t", "st", "e", "en"],
+        "reponse": "t"
+      },
+      {
+        "question": "Sie mach___ zusammen Hausaufgaben.",
+        "options": ["en", "t", "st", "e"],
+        "reponse": "en"
+      },
+      {
+        "question": "Dann geh___ sie in den Club.",
+        "options": ["en", "t", "st", "e"],
+        "reponse": "en"
+      },
+      {
+        "question": "Maria tanz___ und Angelo und Pedro red___ und trink___ eine Cola.",
+        "options": ["t / en / en", "t / t / t", "en / en / en", "t / en / t"],
+        "reponse": "t / en / en"
+      },
+      {
+        "question": "Sie tanz___ leider nicht gerne.",
+        "options": ["en", "t", "st", "e"],
+        "reponse": "en"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "v1-konj-05",
+    "theme": "Verben 1",
+    "sous_theme": "Konjugation in E-Mails",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "EINE E-MAIL. Ergänzen Sie die Endungen.",
+    "questions": [
+      {
+        "question": "Ich komm___ gerne.",
+        "options": ["e", "st", "t", "en"],
+        "reponse": "e"
+      },
+      {
+        "question": "Woher kenn___ du ihn?",
+        "options": ["st", "t", "e", "en"],
+        "reponse": "st"
+      },
+      {
+        "question": "Woher komm___ er?",
+        "options": ["t", "st", "e", "en"],
+        "reponse": "t"
+      },
+      {
+        "question": "Arbeit___ er schon oder studier___ er noch?",
+        "options": ["et / t", "t / et", "e / e", "en / en"],
+        "reponse": "et / t"
+      },
+      {
+        "question": "Stefan ist auch in meinem Kurs und lern___ Deutsch.",
+        "options": ["t", "st", "e", "en"],
+        "reponse": "t"
+      },
+      {
+        "question": "Ich kenn___ ihn jetzt seit vier Wochen.",
+        "options": ["e", "st", "t", "en"],
+        "reponse": "e"
+      },
+      {
+        "question": "Wir mach___ fast alles zusammen.",
+        "options": ["en", "t", "st", "e"],
+        "reponse": "en"
+      },
+      {
+        "question": "Wir tanz___ gerne und geh___ gerne in den Club.",
+        "options": ["en / en", "t / t", "st / st", "e / e"],
+        "reponse": "en / en"
+      },
+      {
+        "question": "Ihr tanz___ doch auch gerne.",
+        "options": ["t", "st", "e", "en"],
+        "reponse": "t"
+      },
+      {
+        "question": "Ich kenn___ dich doch.",
+        "options": ["e", "st", "t", "en"],
+        "reponse": "e"
+      },
+      {
+        "question": "Ich freu___ mich schon.",
+        "options": ["e", "st", "t", "en"],
+        "reponse": "e"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "v1-konj-06",
+    "theme": "Verben 1",
+    "sous_theme": "Konjugation im Arbeitskontext",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "MEIN ARBEITSTAG. Ergänzen Sie die Endungen.",
+    "questions": [
+      {
+        "question": "Ich komm___ meistens gegen acht Uhr ins Büro.",
+        "options": ["e", "st", "t", "en"],
+        "reponse": "e"
+      },
+      {
+        "question": "Ich schalt___ erst einmal den Computer ein.",
+        "options": ["e", "st", "t", "en"],
+        "reponse": "e"
+      },
+      {
+        "question": "Ich öffn___ meine Mailbox.",
+        "options": ["e", "st", "t", "en"],
+        "reponse": "e"
+      },
+      {
+        "question": "Ich beantwort___ meine E-Mails.",
+        "options": ["e", "est", "t", "en"],
+        "reponse": "e"
+      },
+      {
+        "question": "Herr Richter komm___ eine halbe Stunde später.",
+        "options": ["t", "st", "e", "en"],
+        "reponse": "t"
+      },
+      {
+        "question": "Er bring___ erst seine Kinder in den Kindergarten.",
+        "options": ["t", "st", "e", "en"],
+        "reponse": "t"
+      },
+      {
+        "question": "Wir red___ ein bisschen.",
+        "options": ["en", "t", "st", "e"],
+        "reponse": "en"
+      },
+      {
+        "question": "Wir telefonier___ mit Kundinnen und Kunden.",
+        "options": ["en", "t", "st", "e"],
+        "reponse": "en"
+      },
+      {
+        "question": "Wir schreib___ E-Mails.",
+        "options": ["en", "t", "est", "e"],
+        "reponse": "en"
+      },
+      {
+        "question": "Mittags geh___ wir zusammen essen.",
+        "options": ["en", "t", "st", "e"],
+        "reponse": "en"
+      },
+      {
+        "question": "Meistens trink___ wir auch noch einen Kaffee zusammen.",
+        "options": ["en", "t", "st", "e"],
+        "reponse": "en"
+      },
+      {
+        "question": "Das mach___ immer Spaß.",
+        "options": ["t", "st", "e", "en"],
+        "reponse": "t"
+      },
+      {
+        "question": "Die Kolleginnen und Kollegen erzähl___ lustige Geschichten.",
+        "options": ["en", "t", "st", "e"],
+        "reponse": "en"
+      },
+      {
+        "question": "Manchmal frag___ ich sie.",
+        "options": ["e", "st", "t", "en"],
+        "reponse": "e"
+      },
+      {
+        "question": "Arbeit___ ihr eigentlich auch?",
+        "options": ["et", "t", "e", "en"],
+        "reponse": "et"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  }
+]

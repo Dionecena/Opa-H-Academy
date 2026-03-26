@@ -1,0 +1,1037 @@
+[
+  {
+    "id": "sf-frag-01",
+    "theme": "Sätze und Fragen",
+    "sous_theme": "W-Fragen - Fragewörter",
+    "niveau": "A1",
+    "type": "associer",
+    "consigne": "Was passt zusammen? Kombinieren Sie die Fragen und Antworten.",
+    "questions": [
+      {
+        "question": "Woher kommen Sie?",
+        "options": ["Müller, Laura Müller.", "Das ist mein Handy.", "Halb zehn.", "Ich habe Hunger.", "Friseur.", "In Berlin.", "Aus Hangzhou, China.", "Maria."],
+        "reponse": "Aus Hangzhou, China."
+      },
+      {
+        "question": "Wie heißt du?",
+        "options": ["Müller, Laura Müller.", "Das ist mein Handy.", "Halb zehn.", "Ich habe Hunger.", "Friseur.", "In Berlin.", "Aus Hangzhou, China.", "Maria."],
+        "reponse": "Maria."
+      },
+      {
+        "question": "Wo wohnen Sie?",
+        "options": ["Müller, Laura Müller.", "Das ist mein Handy.", "Halb zehn.", "Ich habe Hunger.", "Friseur.", "In Berlin.", "Aus Hangzhou, China.", "Maria."],
+        "reponse": "In Berlin."
+      },
+      {
+        "question": "Wie viel Uhr ist es?",
+        "options": ["Müller, Laura Müller.", "Das ist mein Handy.", "Halb zehn.", "Ich habe Hunger.", "Friseur.", "In Berlin.", "Aus Hangzhou, China.", "Maria."],
+        "reponse": "Halb zehn."
+      },
+      {
+        "question": "Wie ist Ihr Name?",
+        "options": ["Müller, Laura Müller.", "Das ist mein Handy.", "Halb zehn.", "Ich habe Hunger.", "Friseur.", "In Berlin.", "Aus Hangzhou, China.", "Maria."],
+        "reponse": "Müller, Laura Müller."
+      },
+      {
+        "question": "Was sind Sie von Beruf?",
+        "options": ["Müller, Laura Müller.", "Das ist mein Handy.", "Halb zehn.", "Ich habe Hunger.", "Friseur.", "In Berlin.", "Aus Hangzhou, China.", "Maria."],
+        "reponse": "Friseur."
+      },
+      {
+        "question": "Was ist das?",
+        "options": ["Müller, Laura Müller.", "Das ist mein Handy.", "Halb zehn.", "Ich habe Hunger.", "Friseur.", "In Berlin.", "Aus Hangzhou, China.", "Maria."],
+        "reponse": "Das ist mein Handy."
+      },
+      {
+        "question": "Warum gehst du in die Kantine?",
+        "options": ["Müller, Laura Müller.", "Das ist mein Handy.", "Halb zehn.", "Ich habe Hunger.", "Friseur.", "In Berlin.", "Aus Hangzhou, China.", "Maria."],
+        "reponse": "Ich habe Hunger."
+      }
+    ],
+    "difficulty": "facile",
+    "score": 1
+  },
+  {
+    "id": "sf-frag-02",
+    "theme": "Sätze und Fragen",
+    "sous_theme": "W-Fragen - Fragewörter ergänzen",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "Ergänzen Sie die Fragewörter (Was? Wie viel? Wie viele? Wer? Wann? Um wie viel Uhr?).",
+    "questions": [
+      {
+        "question": "___ ist das? – Das ist Obst.",
+        "options": ["Was", "Wie viel", "Wie viele", "Wer", "Wann", "Um wie viel Uhr"],
+        "reponse": "Was"
+      },
+      {
+        "question": "___ kostet das? – Ein Kilo 3,50 Euro.",
+        "options": ["Was", "Wie viel", "Wie viele", "Wer", "Wann", "Um wie viel Uhr"],
+        "reponse": "Wie viel"
+      },
+      {
+        "question": "___ Kinder haben Sie? – Fünf.",
+        "options": ["Was", "Wie viel", "Wie viele", "Wer", "Wann", "Um wie viel Uhr"],
+        "reponse": "Wie viele"
+      },
+      {
+        "question": "___ kommt heute? – Dennis.",
+        "options": ["Was", "Wie viel", "Wie viele", "Wer", "Wann", "Um wie viel Uhr"],
+        "reponse": "Wer"
+      },
+      {
+        "question": "___ Uhr kommt er? – Um halb acht.",
+        "options": ["Was", "Wie viel", "Wie viele", "Wer", "Wann", "Um wie viel Uhr"],
+        "reponse": "Um wie viel"
+      },
+      {
+        "question": "___ beginnt der Film? – Um acht.",
+        "options": ["Was", "Wie viel", "Wie viele", "Wer", "Wann", "Um wie viel Uhr"],
+        "reponse": "Wann"
+      }
+    ],
+    "difficulty": "facile",
+    "score": 1
+  },
+  {
+    "id": "sf-frag-03",
+    "theme": "Sätze und Fragen",
+    "sous_theme": "W-Fragen - Sätze schreiben",
+    "niveau": "A1",
+    "type": "ordre",
+    "consigne": "Schreiben Sie Fragen aus den Wörtern.",
+    "questions": [
+      {
+        "question": "heißen • Sie • wie • ?",
+        "options": [],
+        "reponse": "Wie heißen Sie?"
+      },
+      {
+        "question": "Ihr • Vorname • wie • ist • ?",
+        "options": [],
+        "reponse": "Wie ist Ihr Vorname?"
+      },
+      {
+        "question": "woher • Sie • kommen • ?",
+        "options": [],
+        "reponse": "Woher kommen Sie?"
+      },
+      {
+        "question": "Sie • wo • wohnen • ?",
+        "options": [],
+        "reponse": "Wo wohnen Sie?"
+      },
+      {
+        "question": "von Beruf • was • Sie • sind • ?",
+        "options": [],
+        "reponse": "Was sind Sie von Beruf?"
+      },
+      {
+        "question": "Ihnen • geht es • wie • ?",
+        "options": [],
+        "reponse": "Wie geht es Ihnen?"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "sf-frag-04",
+    "theme": "Sätze und Fragen",
+    "sous_theme": "W-Fragen - Dialog ergänzen",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "Ergänzen Sie die Fragewörter im Dialog zwischen Leo Schmidt und Rosa Baumann.",
+    "questions": [
+      {
+        "question": "Leo: Guten Tag, mein Name ist Schmidt, Leo Schmidt. Und ___ heißen Sie?",
+        "options": ["wie", "woher", "wo", "was"],
+        "reponse": "wie"
+      },
+      {
+        "question": "Rosa: Rosa Baumann. Ich komme aus Passau und ___ kommen Sie?",
+        "options": ["wie", "woher", "wo", "was"],
+        "reponse": "woher"
+      },
+      {
+        "question": "Leo: Ich komme aus Ulm, aber jetzt wohne ich in München. Und Sie? ___ wohnen Sie?",
+        "options": ["wie", "woher", "wo", "was"],
+        "reponse": "wo"
+      },
+      {
+        "question": "Rosa: Auch in München. Leo: Und ___ sind Sie von Beruf?",
+        "options": ["wie", "woher", "wo", "was"],
+        "reponse": "was"
+      },
+      {
+        "question": "Rosa: Ich bin Architektin. Und ___ machen Sie beruflich?",
+        "options": ["wie", "woher", "wo", "was"],
+        "reponse": "was"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "sf-frag-05",
+    "theme": "Sätze und Fragen",
+    "sous_theme": "W-Fragen - Zuordnung Fragetyp",
+    "niveau": "A1",
+    "type": "associer",
+    "consigne": "Schreiben Sie passende Fragen zu den Antworten.",
+    "questions": [
+      {
+        "question": "Antwort: Ich heiße Sven.",
+        "options": ["Wie heißt du?", "Woher kommst du?", "Wo wohnst du?", "Was bist du von Beruf?"],
+        "reponse": "Wie heißt du?"
+      },
+      {
+        "question": "Antwort: Ich komme aus Köln.",
+        "options": ["Wie heißt du?", "Woher kommst du?", "Wo wohnst du?", "Was bist du von Beruf?"],
+        "reponse": "Woher kommst du?"
+      },
+      {
+        "question": "Antwort: Ich wohne in der Torstraße 2.",
+        "options": ["Wie heißt du?", "Woher kommst du?", "Wo wohnst du?", "Was bist du von Beruf?"],
+        "reponse": "Wo wohnst du?"
+      },
+      {
+        "question": "Antwort: Ich bin Pilot.",
+        "options": ["Wie heißt du?", "Woher kommst du?", "Wo wohnst du?", "Was bist du von Beruf?"],
+        "reponse": "Was bist du von Beruf?"
+      },
+      {
+        "question": "Antwort: Ich gehe zum Arzt.",
+        "options": ["Wohin gehst du?", "Woher kommst du?", "Wo wohnst du?", "Was bist du von Beruf?"],
+        "reponse": "Wohin gehst du?"
+      },
+      {
+        "question": "Antwort: Ich habe Kopfschmerzen.",
+        "options": ["Wohin gehst du?", "Was hast du?", "Wo wohnst du?", "Warum gehst du zum Arzt?"],
+        "reponse": "Was hast du? / Warum gehst du zum Arzt?"
+      },
+      {
+        "question": "Antwort: Ich gehe um 8.30 Uhr zum Arzt.",
+        "options": ["Wann gehst du zum Arzt?", "Was hast du?", "Wo wohnst du?", "Wie viel Uhr ist es?"],
+        "reponse": "Wann gehst du zum Arzt?"
+      },
+      {
+        "question": "Antwort: Die Tabletten kosten 4,50 Euro.",
+        "options": ["Wann gehst du zum Arzt?", "Was kosten die Tabletten?", "Wo wohnst du?", "Wie viel kosten die Tabletten?"],
+        "reponse": "Was kosten die Tabletten? / Wie viel kosten die Tabletten?"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "sf-frag-06",
+    "theme": "Sätze und Fragen",
+    "sous_theme": "wo / woher / wohin",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "Ergänzen Sie: wo? wohin? oder woher?",
+    "questions": [
+      {
+        "question": "___ kommen Sie?",
+        "options": ["Wo", "Woher", "Wohin"],
+        "reponse": "Woher"
+      },
+      {
+        "question": "___ wohnen Sie?",
+        "options": ["Wo", "Woher", "Wohin"],
+        "reponse": "Wo"
+      },
+      {
+        "question": "___ fahren Sie?",
+        "options": ["Wo", "Woher", "Wohin"],
+        "reponse": "Wohin"
+      },
+      {
+        "question": "___ arbeiten Sie?",
+        "options": ["Wo", "Woher", "Wohin"],
+        "reponse": "Wo"
+      },
+      {
+        "question": "___ fliegen Sie im Sommer?",
+        "options": ["Wo", "Woher", "Wohin"],
+        "reponse": "Wohin"
+      },
+      {
+        "question": "___ ist Ihre Familie jetzt?",
+        "options": ["Wo", "Woher", "Wohin"],
+        "reponse": "Wo"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "sf-frag-07",
+    "theme": "Sätze und Fragen",
+    "sous_theme": "Fragewörter - Kreuzen",
+    "niveau": "A1",
+    "type": "qcm",
+    "consigne": "Ergänzen Sie das richtige Fragewort.",
+    "questions": [
+      {
+        "question": "___ fahren Sie? / ___ geht er? / ___ möchte er fliegen? / ___ läufst du?",
+        "options": ["Wo", "Woher", "Wohin", "Wann"],
+        "reponse": "Wohin"
+      },
+      {
+        "question": "___ ist das? / ___ möchtest du? / ___ essen Sie gerne? / ___ kann ich für Sie tun? / ___ ist dein Hobby?",
+        "options": ["Wo", "Woher", "Wohin", "Was"],
+        "reponse": "Was"
+      },
+      {
+        "question": "___ gehst du ins Bett? / ___ kommt er? / ___ machst du Urlaub? / ___ stehst du auf? / ___ beginnt die Show?",
+        "options": ["Wo", "Woher", "Wohin", "Wann"],
+        "reponse": "Wann"
+      },
+      {
+        "question": "___ warst du gestern? / ___ lebt sie? / ___ arbeitest du? / ___ kaufen Sie ein? / ___ macht ihr Urlaub?",
+        "options": ["Wo", "Woher", "Wohin", "Wann"],
+        "reponse": "Wo"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "sf-ja-01",
+    "theme": "Sätze und Fragen",
+    "sous_theme": "Ja-/Nein-Fragen - Fragen schreiben",
+    "niveau": "A1",
+    "type": "ordre",
+    "consigne": "Schreiben Sie Ja-/Nein-Fragen und antworten Sie.",
+    "questions": [
+      {
+        "question": "Sie • Schmidt • heißen • ? (Ja, ich heiße Schmidt.)",
+        "options": [],
+        "reponse": "Heißen Sie Schmidt? / Ja, ich heiße Schmidt."
+      },
+      {
+        "question": "Sie • aus Südafrika • kommen • ? (Nein, ich komme aus Deutschland.)",
+        "options": [],
+        "reponse": "Kommen Sie aus Südafrika? / Nein, ich komme aus Deutschland."
+      },
+      {
+        "question": "Sie • Englisch • sprechen • ? (Ja, ich spreche Englisch.)",
+        "options": [],
+        "reponse": "Sprechen Sie Englisch? / Ja, ich spreche Englisch."
+      },
+      {
+        "question": "Sie • verheiratet • sind • ? (Ja, ich bin verheiratet.)",
+        "options": [],
+        "reponse": "Sind Sie verheiratet? / Ja, ich bin verheiratet."
+      },
+      {
+        "question": "Sie • Kinder • haben • ? (Nein, ich habe keine Kinder.)",
+        "options": [],
+        "reponse": "Haben Sie Kinder? / Nein, ich habe keine Kinder."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "sf-ja-02",
+    "theme": "Sätze und Fragen",
+    "sous_theme": "Ja-/Nein-Fragen - Antworten zuordnen",
+    "niveau": "A1",
+    "type": "associer",
+    "consigne": "Schreiben Sie passende Ja-/Nein-Fragen zu den Antworten.",
+    "questions": [
+      {
+        "question": "Antwort: Nein, ich spreche kein Französisch.",
+        "options": ["Sprechen Sie Französisch?", "Sind Sie Franzose?", "Kommen Sie aus Frankreich?", "Lernen Sie Französisch?"],
+        "reponse": "Sprechen Sie Französisch?"
+      },
+      {
+        "question": "Antwort: Nein, ich bin keine Deutsche, ich bin Türkin.",
+        "options": ["Sprechen Sie Französisch?", "Sind Sie Deutsche?", "Kommen Sie aus Deutschland?", "Lernen Sie Deutsch?"],
+        "reponse": "Sind Sie Deutsche?"
+      },
+      {
+        "question": "Antwort: Ja, er ist Lehrer von Beruf.",
+        "options": ["Ist er Arzt?", "Ist er Lehrer?", "Arbeitet er in einer Schule?", "Kommt er aus Berlin?"],
+        "reponse": "Ist er Lehrer?"
+      },
+      {
+        "question": "Antwort: Ja, wir wohnen schon lange hier im Haus.",
+        "options": ["Wohnen Sie hier?", "Wohnen Sie lange hier?", "Wohnen Sie im Haus?", "Ist das Ihr Haus?"],
+        "reponse": "Wohnen Sie lange hier? / Wohnen Sie schon lange hier im Haus?"
+      },
+      {
+        "question": "Antwort: Nein, sie haben keine Kinder.",
+        "options": ["Haben sie Kinder?", "Sind sie verheiratet?", "Wohnen sie hier?", "Sind sie alt?"],
+        "reponse": "Haben sie Kinder?"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "sf-ja-03",
+    "theme": "Sätze und Fragen",
+    "sous_theme": "Ja-/Nein-Fragen - Verb unterstreichen",
+    "niveau": "A1",
+    "type": "ordre",
+    "consigne": "Unterstreichen Sie das Verb. Schreiben Sie Ja-/Nein-Fragen.",
+    "questions": [
+      {
+        "question": "Sie kommt aus Peru. (Verb: kommt)",
+        "options": [],
+        "reponse": "Kommt sie aus Peru?"
+      },
+      {
+        "question": "Paloma lernt Deutsch. (Verb: lernt)",
+        "options": [],
+        "reponse": "Lernt Paloma Deutsch?"
+      },
+      {
+        "question": "Sie ist Mechanikerin. (Verb: ist)",
+        "options": [],
+        "reponse": "Ist sie Mechanikerin?"
+      },
+      {
+        "question": "Ihr Mann heißt Luis. (Verb: heißt)",
+        "options": [],
+        "reponse": "Heißt ihr Mann Luis?"
+      },
+      {
+        "question": "Sie hat Kinder. (Verb: hat)",
+        "options": [],
+        "reponse": "Hat sie Kinder?"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "sf-ja-04",
+    "theme": "Sätze und Fragen",
+    "sous_theme": "Ja/nein/doch - Kombinieren",
+    "niveau": "A1",
+    "type": "associer",
+    "consigne": "Ja – nein – doch. Was passt? Kombinieren Sie.",
+    "questions": [
+      {
+        "question": "Lernen Sie Deutsch?",
+        "options": ["Doch, aber ein bisschen später.", "Nein, leider nicht.", "Nein, mein Name ist Westermann.", "Doch, schon seit drei Jahren.", "Ja, schon seit zwei Monaten.", "Es geht, ich gehe lieber ins Theater."],
+        "reponse": "Ja, schon seit zwei Monaten."
+      },
+      {
+        "question": "Gehen Sie gerne ins Kino?",
+        "options": ["Doch, aber ein bisschen später.", "Nein, leider nicht.", "Nein, mein Name ist Westermann.", "Doch, schon seit drei Jahren.", "Ja, schon seit zwei Monaten.", "Es geht, ich gehe lieber ins Theater."],
+        "reponse": "Es geht, ich gehe lieber ins Theater."
+      },
+      {
+        "question": "Spielen Sie ein Musikinstrument?",
+        "options": ["Doch, aber ein bisschen später.", "Nein, leider nicht.", "Nein, mein Name ist Westermann.", "Doch, schon seit drei Jahren.", "Ja, schon seit zwei Monaten.", "Es geht, ich gehe lieber ins Theater."],
+        "reponse": "Nein, leider nicht."
+      },
+      {
+        "question": "Wohnen Sie nicht in Köln?",
+        "options": ["Doch, aber ein bisschen später.", "Nein, leider nicht.", "Nein, mein Name ist Westermann.", "Doch, schon seit drei Jahren.", "Ja, schon seit zwei Monaten.", "Es geht, ich gehe lieber ins Theater."],
+        "reponse": "Doch, schon seit drei Jahren."
+      },
+      {
+        "question": "Sind Sie Herr Maier?",
+        "options": ["Doch, aber ein bisschen später.", "Nein, leider nicht.", "Nein, mein Name ist Westermann.", "Doch, schon seit drei Jahren.", "Ja, schon seit zwei Monaten.", "Es geht, ich gehe lieber ins Theater."],
+        "reponse": "Nein, mein Name ist Westermann."
+      },
+      {
+        "question": "Kommen Sie nicht zur Party?",
+        "options": ["Doch, aber ein bisschen später.", "Nein, leider nicht.", "Nein, mein Name ist Westermann.", "Doch, schon seit drei Jahren.", "Ja, schon seit zwei Monaten.", "Es geht, ich gehe lieber ins Theater."],
+        "reponse": "Doch, aber ein bisschen später."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "sf-ja-05",
+    "theme": "Sätze und Fragen",
+    "sous_theme": "Lesen und verstehen - ja/nein/doch",
+    "niveau": "A1",
+    "type": "qcm",
+    "consigne": "Lesen Sie den Text über Herrn Waltermann. Welche Antwort passt? Kreuzen Sie an.",
+    "questions": [
+      {
+        "question": "Kann Herr Waltermann kein Spanisch?",
+        "options": ["ja", "nein", "doch"],
+        "reponse": "nein"
+      },
+      {
+        "question": "Wohnt er in der Stadt?",
+        "options": ["ja", "nein", "doch"],
+        "reponse": "ja"
+      },
+      {
+        "question": "Hat er keine Verwandten in der Nähe?",
+        "options": ["ja", "nein", "doch"],
+        "reponse": "nein"
+      },
+      {
+        "question": "Hat er keine Arbeit?",
+        "options": ["ja", "nein", "doch"],
+        "reponse": "nein"
+      },
+      {
+        "question": "Kennt er in Frankfurt viele Leute?",
+        "options": ["ja", "nein", "doch"],
+        "reponse": "nein"
+      },
+      {
+        "question": "Kommt er aus München?",
+        "options": ["ja", "nein", "doch"],
+        "reponse": "ja"
+      },
+      {
+        "question": "Ist er schon lange in Frankfurt?",
+        "options": ["ja", "nein", "doch"],
+        "reponse": "nein"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "sf-ja-06",
+    "theme": "Sätze und Fragen",
+    "sous_theme": "Höfliche Bitten - Würden Sie...? Könnten Sie...?",
+    "niveau": "A1",
+    "type": "ordre",
+    "consigne": "Schreiben Sie höfliche Fragen mit Würden Sie...? und Könnten Sie...?",
+    "questions": [
+      {
+        "question": "(den Zucker geben)",
+        "options": [],
+        "reponse": "Würden Sie mir bitte den Zucker geben? / Könnten Sie mir bitte den Zucker geben?"
+      },
+      {
+        "question": "(das Fenster zumachen)",
+        "options": [],
+        "reponse": "Würden Sie bitte das Fenster zumachen? / Könnten Sie bitte das Fenster zumachen?"
+      },
+      {
+        "question": "(mir den Stift geben)",
+        "options": [],
+        "reponse": "Würden Sie mir bitte den Stift geben? / Könnten Sie mir bitte den Stift geben?"
+      },
+      {
+        "question": "(die Musik leiser machen)",
+        "options": [],
+        "reponse": "Würden Sie bitte die Musik leiser machen? / Könnten Sie bitte die Musik leiser machen?"
+      },
+      {
+        "question": "(mir das Buch geben)",
+        "options": [],
+        "reponse": "Würden Sie mir bitte das Buch geben? / Könnten Sie mir bitte das Buch geben?"
+      },
+      {
+        "question": "(mir die Rechnung erklären)",
+        "options": [],
+        "reponse": "Würden Sie mir bitte die Rechnung erklären? / Könnten Sie mir bitte die Rechnung erklären?"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "sf-satz-01",
+    "theme": "Sätze und Fragen",
+    "sous_theme": "Die Schmidts - Sätze schreiben",
+    "niveau": "A2",
+    "type": "ordre",
+    "consigne": "DIE SCHMIDTS. Schreiben Sie Sätze mit dem Verb auf Position 2.",
+    "questions": [
+      {
+        "question": "er • Peter Schmidt • heißt • .",
+        "options": [],
+        "reponse": "Er heißt Peter Schmidt."
+      },
+      {
+        "question": "Peter • jetzt • und • seine Frau Anne • in Heidelberg • wohnen • .",
+        "options": [],
+        "reponse": "Peter und seine Frau Anne wohnen jetzt in Heidelberg."
+      },
+      {
+        "question": "Auerstraße 12 • ihre Adresse • ist • .",
+        "options": [],
+        "reponse": "Ihre Adresse ist Auerstraße 12."
+      },
+      {
+        "question": "Ingenieurin • von Beruf • Anne • ist • .",
+        "options": [],
+        "reponse": "Anne ist Ingenieurin von Beruf."
+      },
+      {
+        "question": "ihr Mann • arbeitet • im Krankenhaus • .",
+        "options": [],
+        "reponse": "Ihr Mann arbeitet im Krankenhaus."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "sf-satz-02",
+    "theme": "Sätze und Fragen",
+    "sous_theme": "Luis und Paloma - W-Fragen",
+    "niveau": "A2",
+    "type": "ordre",
+    "consigne": "LUIS UND PALOMA. Schreiben Sie W-Fragen.",
+    "questions": [
+      {
+        "question": "woher • Luis und Paloma • kommen • ?",
+        "options": [],
+        "reponse": "Woher kommen Luis und Paloma?"
+      },
+      {
+        "question": "von Beruf • was • sie • sind • ?",
+        "options": [],
+        "reponse": "Was sind sie von Beruf?"
+      },
+      {
+        "question": "wohnen • wo • jetzt • sie • ?",
+        "options": [],
+        "reponse": "Wo wohnen sie jetzt?"
+      },
+      {
+        "question": "sie • machen • was • heute Abend • ?",
+        "options": [],
+        "reponse": "Was machen sie heute Abend?"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "sf-satz-03",
+    "theme": "Sätze und Fragen",
+    "sous_theme": "W-Frage oder Ja-/Nein-Frage",
+    "niveau": "A2",
+    "type": "completer",
+    "consigne": "W-Frage oder Ja-/Nein-Frage? Ergänzen Sie das Fragewort oder das Verb.",
+    "questions": [
+      {
+        "question": "___ kommt Paloma? – Aus Peru.",
+        "options": ["Wer", "Woher", "Wo", "Wann"],
+        "reponse": "Woher"
+      },
+      {
+        "question": "___ Paloma aus Chile? – Nein, aus Peru.",
+        "options": ["Kommt", "Ist", "Wohnt", "Arbeitet"],
+        "reponse": "Kommt"
+      },
+      {
+        "question": "___ ist sie von Beruf? – Mechanikerin.",
+        "options": ["Wer", "Woher", "Was", "Wann"],
+        "reponse": "Was"
+      },
+      {
+        "question": "___ sie Mechanikerin von Beruf? – Ja.",
+        "options": ["Kommt", "Ist", "Wohnt", "Arbeitet"],
+        "reponse": "Ist"
+      },
+      {
+        "question": "___ ihr Mann Carlos? – Nein.",
+        "options": ["Wer", "Heißt", "Wo", "Wann"],
+        "reponse": "Heißt"
+      },
+      {
+        "question": "___ heißt ihr Mann? – Luis.",
+        "options": ["Wer", "Woher", "Wie", "Wann"],
+        "reponse": "Wie"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "sf-satz-04",
+    "theme": "Sätze und Fragen",
+    "sous_theme": "Fragen und Sätze bilden",
+    "niveau": "A2",
+    "type": "ordre",
+    "consigne": "Schreiben Sie Fragen und Sätze.",
+    "questions": [
+      {
+        "question": "müde • heute • Sie • sind • ?",
+        "options": [],
+        "reponse": "Sind Sie heute müde?"
+      },
+      {
+        "question": "Sie • wie lange • schlafen • immer • ?",
+        "options": [],
+        "reponse": "Wie lange schlafen Sie immer?"
+      },
+      {
+        "question": "morgens • Sie • normalerweise • warm oder kalt • duschen • ?",
+        "options": [],
+        "reponse": "Duschen Sie morgens normalerweise warm oder kalt?"
+      },
+      {
+        "question": "trinken • was • am Morgen • Sie • ?",
+        "options": [],
+        "reponse": "Was trinken Sie am Morgen?"
+      },
+      {
+        "question": "am Morgen • Sie • trinken • Kaffee • ?",
+        "options": [],
+        "reponse": "Trinken Sie am Morgen Kaffee?"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "sf-satz-05",
+    "theme": "Sätze und Fragen",
+    "sous_theme": "FEHLERSÄTZE - Wortposition korrigieren",
+    "niveau": "A2",
+    "type": "ordre",
+    "consigne": "FEHLERSÄTZE. Korrigieren Sie die Fehler in der Wortposition.",
+    "questions": [
+      {
+        "question": "Ich vor dem Frühstück mache ein bisschen Yoga.",
+        "options": [],
+        "reponse": "Vor dem Frühstück mache ich ein bisschen Yoga."
+      },
+      {
+        "question": "Am Morgen ich muss unbedingt eine Tasse Kaffee trinken.",
+        "options": [],
+        "reponse": "Am Morgen muss ich unbedingt eine Tasse Kaffee trinken."
+      },
+      {
+        "question": "Viele Leute morgens trinken lieber Tee.",
+        "options": [],
+        "reponse": "Morgens trinken viele Leute lieber Tee."
+      },
+      {
+        "question": "Zum Mittagessen ich gehe in ein Bistro.",
+        "options": [],
+        "reponse": "Zum Mittagessen gehe ich in ein Bistro."
+      },
+      {
+        "question": "Am Nachmittag wir essen gerne ein Stück Kuchen.",
+        "options": [],
+        "reponse": "Am Nachmittag essen wir gerne ein Stück Kuchen."
+      },
+      {
+        "question": "Du abends bestellst oft eine Pizza.",
+        "options": [],
+        "reponse": "Abends bestellst du oft eine Pizza."
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "sf-satz-06",
+    "theme": "Sätze und Fragen",
+    "sous_theme": "Imperativ",
+    "niveau": "A2",
+    "type": "ordre",
+    "consigne": "Schreiben Sie Sätze im Imperativ (Sie-Form).",
+    "questions": [
+      {
+        "question": "Sie • kommen • !",
+        "options": [],
+        "reponse": "Kommen Sie!"
+      },
+      {
+        "question": "Sie • Platz • nehmen • !",
+        "options": [],
+        "reponse": "Nehmen Sie Platz!"
+      },
+      {
+        "question": "die Geschichte • hören • Sie • !",
+        "options": [],
+        "reponse": "Hören Sie die Geschichte!"
+      },
+      {
+        "question": "jetzt • Sie • sagen • nichts • !",
+        "options": [],
+        "reponse": "Sagen Sie jetzt nichts!"
+      },
+      {
+        "question": "Sie • Ihren Freunden • die Geschichte • erzählen • !",
+        "options": [],
+        "reponse": "Erzählen Sie Ihren Freunden die Geschichte!"
+      }
+    ],
+    "difficulty": "facile",
+    "score": 1
+  },
+  {
+    "id": "sf-satz-07",
+    "theme": "Sätze und Fragen",
+    "sous_theme": "Zeit und Ort - Satzbau",
+    "niveau": "A2",
+    "type": "ordre",
+    "consigne": "Zeit und Ort. Schreiben Sie Sätze mit der Zeit auf Position 1.",
+    "questions": [
+      {
+        "question": "schon drei Jahre • ich • wohne • in Heidelberg • .",
+        "options": [],
+        "reponse": "Schon drei Jahre wohne ich in Heidelberg."
+      },
+      {
+        "question": "arbeite • seit zwei Jahren • in Frankfurt • ich • .",
+        "options": [],
+        "reponse": "Seit zwei Jahren arbeite ich in Frankfurt."
+      },
+      {
+        "question": "von Heidelberg nach Frankfurt • ich • fahre • jeden Montag • .",
+        "options": [],
+        "reponse": "Jeden Montag fahre ich von Heidelberg nach Frankfurt."
+      },
+      {
+        "question": "ich • bei meiner Cousine • von Montag bis Freitag • wohne • .",
+        "options": [],
+        "reponse": "Von Montag bis Freitag wohne ich bei meiner Cousine."
+      },
+      {
+        "question": "im Büro • ich • von 9 bis 18 Uhr • arbeite • .",
+        "options": [],
+        "reponse": "Von 9 bis 18 Uhr arbeite ich im Büro."
+      },
+      {
+        "question": "in der Mittagspause • in der Kantine • ich • esse • .",
+        "options": [],
+        "reponse": "In der Mittagspause esse ich in der Kantine."
+      },
+      {
+        "question": "gehe • ins Fitness-Studio • zwei Mal pro Woche • ich • .",
+        "options": [],
+        "reponse": "Zwei Mal pro Woche gehe ich ins Fitness-Studio."
+      },
+      {
+        "question": "nach Heidelberg • freitags um 17 Uhr • ich • fahre • .",
+        "options": [],
+        "reponse": "Freitags um 17 Uhr fahre ich nach Heidelberg."
+      },
+      {
+        "question": "bin • ich • zu Hause • von Freitagabend bis Montagmorgen • .",
+        "options": [],
+        "reponse": "Von Freitagabend bis Montagmorgen bin ich zu Hause."
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "sf-pos-01",
+    "theme": "Sätze und Fragen",
+    "sous_theme": "Position 2 im Satz - Modalverben",
+    "niveau": "A2",
+    "type": "ordre",
+    "consigne": "Modalverben. Schreiben Sie Sätze. Das konjugierte Verb steht auf Position 2, der Infinitiv am Ende.",
+    "questions": [
+      {
+        "question": "Sie • eine Deutschlandreise • wollen • machen • .",
+        "options": [],
+        "reponse": "Sie wollen eine Deutschlandreise machen."
+      },
+      {
+        "question": "Tickets kaufen • und • Hotels buchen • Sie • müssen • .",
+        "options": [],
+        "reponse": "Sie müssen Tickets kaufen und Hotels buchen."
+      },
+      {
+        "question": "sollen • fahren • sie • Wann • ?",
+        "options": [],
+        "reponse": "Wann sollen sie fahren?"
+      },
+      {
+        "question": "Sie • fahren • im Sommer • wollen • .",
+        "options": [],
+        "reponse": "Sie wollen im Sommer fahren."
+      },
+      {
+        "question": "Sie • bleiben • können • nur zwei Wochen in Deutschland • .",
+        "options": [],
+        "reponse": "Sie können nur zwei Wochen in Deutschland bleiben."
+      },
+      {
+        "question": "Dann • schon wieder nach Hause • fahren • müssen • sie • .",
+        "options": [],
+        "reponse": "Dann müssen sie schon wieder nach Hause fahren."
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "sf-pos-02",
+    "theme": "Sätze und Fragen",
+    "sous_theme": "Position 2 im Satz - Trennbare Verben",
+    "niveau": "A2",
+    "type": "ordre",
+    "consigne": "Trennbare Verben. Schreiben Sie Sätze. Das konjugierte Verb steht auf Position 2, die Vorsilbe am Ende.",
+    "questions": [
+      {
+        "question": "um ziehen: Wir • nach Hamburg • .",
+        "options": [],
+        "reponse": "Wir ziehen nach Hamburg um."
+      },
+      {
+        "question": "auf räumen: die Wohnung • Jetzt • wir • .",
+        "options": [],
+        "reponse": "Jetzt räumen wir die Wohnung auf."
+      },
+      {
+        "question": "weg werfen: Wir • viele Sachen • .",
+        "options": [],
+        "reponse": "Wir werfen viele Sachen weg."
+      },
+      {
+        "question": "ein packen: Wer • das Geschirr und die Gläser • ?",
+        "options": [],
+        "reponse": "Wer packt das Geschirr und die Gläser ein?"
+      },
+      {
+        "question": "aus ziehen: Nächste Woche • wir • .",
+        "options": [],
+        "reponse": "Nächste Woche ziehen wir aus."
+      },
+      {
+        "question": "ein ziehen: in die neue Wohnung • Am Dienstag • wir • .",
+        "options": [],
+        "reponse": "Am Dienstag ziehen wir in die neue Wohnung ein."
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "sf-pos-03",
+    "theme": "Sätze und Fragen",
+    "sous_theme": "Position 2 im Satz - Perfekt",
+    "niveau": "A2",
+    "type": "ordre",
+    "consigne": "Perfekt. Schreiben Sie Sätze. Das konjugierte Hilfsverb steht auf Position 2, das Partizip am Ende.",
+    "questions": [
+      {
+        "question": "Am letzten Wochenende • nach Berlin • Anna • ist • gefahren • .",
+        "options": [],
+        "reponse": "Am letzten Wochenende ist Anna nach Berlin gefahren."
+      },
+      {
+        "question": "Sie • ihre Freunde • besucht • hat • .",
+        "options": [],
+        "reponse": "Sie hat ihre Freunde besucht."
+      },
+      {
+        "question": "gegangen • sie • sind • ins Theater • Am Samstagabend • .",
+        "options": [],
+        "reponse": "Am Samstagabend sind sie ins Theater gegangen."
+      },
+      {
+        "question": "Am Sonntag • in einem Restaurant am Wannsee • sie • gegessen • haben • .",
+        "options": [],
+        "reponse": "Am Sonntag haben sie in einem Restaurant am Wannsee gegessen."
+      },
+      {
+        "question": "erst sehr spät nach Hause • Sie • gekommen • ist • .",
+        "options": [],
+        "reponse": "Sie ist erst sehr spät nach Hause gekommen."
+      },
+      {
+        "question": "lange geschlafen • Am nächsten Morgen • sie • hat • .",
+        "options": [],
+        "reponse": "Am nächsten Morgen hat sie lange geschlafen."
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "sf-pos-04",
+    "theme": "Sätze und Fragen",
+    "sous_theme": "Position 2 im Satz - sein + Adjektiv / Verb + Verb",
+    "niveau": "A2",
+    "type": "ordre",
+    "consigne": "Sein + Adjektiv und Verb + Verb. Schreiben Sie Sätze.",
+    "questions": [
+      {
+        "question": "Das Wetter • heute • wunderbar • ist • .",
+        "options": [],
+        "reponse": "Das Wetter ist heute wunderbar."
+      },
+      {
+        "question": "der Himmel • auch blau • war • Gestern • .",
+        "options": [],
+        "reponse": "Gestern war der Himmel auch blau."
+      },
+      {
+        "question": "Hoffentlich • schön • morgen auch genauso • es • ist • .",
+        "options": [],
+        "reponse": "Hoffentlich ist es morgen auch genauso schön."
+      },
+      {
+        "question": "Am Samstagmorgen • sie • in der Stadt • einkaufen • gehen • .",
+        "options": [],
+        "reponse": "Am Samstagmorgen gehen sie in der Stadt einkaufen."
+      },
+      {
+        "question": "spazieren • sie • gehen • im Park • Nachmittags • .",
+        "options": [],
+        "reponse": "Nachmittags gehen sie im Park spazieren."
+      },
+      {
+        "question": "Die Kinder • schwimmen • mit ihren Freunden • gehen • .",
+        "options": [],
+        "reponse": "Die Kinder gehen mit ihren Freunden schwimmen."
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "sf-pos-05",
+    "theme": "Sätze und Fragen",
+    "sous_theme": "Position 2 im Satz - Nomen-Verb-Kombinationen",
+    "niveau": "A2",
+    "type": "ordre",
+    "consigne": "Nomen-Verb-Kombinationen. Schreiben Sie Sätze.",
+    "questions": [
+      {
+        "question": "Pamela und Chris • schon gut • Deutsch • sprechen • .",
+        "options": [],
+        "reponse": "Pamela und Chris sprechen schon gut Deutsch."
+      },
+      {
+        "question": "Chris • Gitarre • am Abend gerne • spielt • .",
+        "options": [],
+        "reponse": "Chris spielt am Abend gerne Gitarre."
+      },
+      {
+        "question": "oft stundenlang • Musik • Er • hört • .",
+        "options": [],
+        "reponse": "Er hört oft stundenlang Musik."
+      },
+      {
+        "question": "Pamela • Spanisch • lernen • möchte • im Urlaub • .",
+        "options": [],
+        "reponse": "Pamela möchte im Urlaub Spanisch lernen."
+      },
+      {
+        "question": "auch bei Regen • Pamela • gerne • Fahrrad • fährt • .",
+        "options": [],
+        "reponse": "Pamela fährt auch bei Regen gerne Fahrrad."
+      },
+      {
+        "question": "Urlaub • Im Sommer • Chris • machen • möchte • .",
+        "options": [],
+        "reponse": "Im Sommer möchte Chris Urlaub machen."
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  }
+]

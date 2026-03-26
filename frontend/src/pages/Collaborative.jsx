@@ -53,7 +53,7 @@ const Collaborative = () => {
         username={user?.username}
       />
 
-      <div className="p-4">
+      <div className="p-4 pt-16">
         <Tabs
           tabs={filters}
           activeTab={activeFilter}

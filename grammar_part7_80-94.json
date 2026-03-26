@@ -1,0 +1,1951 @@
+[
+  {
+    "id": "temp-praep-01",
+    "theme": "Temporale Präpositionen",
+    "sous_theme": "im, am, um, – (keine Präposition)",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "Ergänzen Sie im, am, um, – (keine Präposition).",
+    "questions": [
+      {
+        "question": "___ April",
+        "options": ["im", "am", "um", "-"],
+        "reponse": "im"
+      },
+      {
+        "question": "___ 8.3.",
+        "options": ["am", "im", "um", "-"],
+        "reponse": "am"
+      },
+      {
+        "question": "___ Nachmittag",
+        "options": ["am", "im", "um", "-"],
+        "reponse": "am"
+      },
+      {
+        "question": "___ 1999",
+        "options": ["-", "im", "am", "um"],
+        "reponse": "-"
+      },
+      {
+        "question": "___ 12.30 Uhr",
+        "options": ["um", "am", "im", "-"],
+        "reponse": "um"
+      },
+      {
+        "question": "___ Winter",
+        "options": ["im", "am", "um", "-"],
+        "reponse": "im"
+      },
+      {
+        "question": "___ Mai",
+        "options": ["im", "am", "um", "-"],
+        "reponse": "im"
+      },
+      {
+        "question": "___ Mittwoch",
+        "options": ["am", "im", "um", "-"],
+        "reponse": "am"
+      },
+      {
+        "question": "___ Mitternacht",
+        "options": ["um", "am", "im", "-"],
+        "reponse": "um"
+      },
+      {
+        "question": "___ Abend",
+        "options": ["am", "im", "um", "-"],
+        "reponse": "am"
+      },
+      {
+        "question": "___ Wochenende",
+        "options": ["am", "im", "um", "-"],
+        "reponse": "am"
+      },
+      {
+        "question": "___ Nacht",
+        "options": ["in der", "am", "um", "-"],
+        "reponse": "in der"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "temp-praep-02",
+    "theme": "Temporale Präpositionen",
+    "sous_theme": "Johanna erzählt - Präpositionen",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "JOHANNA ERZÄHLT. Ergänzen Sie die Präpositionen.",
+    "questions": [
+      {
+        "question": "Der Unterricht beginnt in meiner Schule schon ___ 7.00 Uhr.",
+        "options": ["um", "am", "im", "-"],
+        "reponse": "um"
+      },
+      {
+        "question": "___ 10.10 Uhr ___ 10.30 Uhr ist die erste Pause.",
+        "options": ["von / bis", "am / um", "im / am", "um / um"],
+        "reponse": "von / bis"
+      },
+      {
+        "question": "___ Montag gehe ich ___ 13.20 Uhr nach Hause.",
+        "options": ["Am / um", "Im / am", "Um / am", "- / um"],
+        "reponse": "Am / um"
+      },
+      {
+        "question": "Meine Hausaufgaben mache ich ___ Abend.",
+        "options": ["am", "im", "um", "-"],
+        "reponse": "am"
+      },
+      {
+        "question": "___ dem Mittagessen treffe ich meine Freunde.",
+        "options": ["Nach", "Vor", "Um", "Am"],
+        "reponse": "Nach"
+      },
+      {
+        "question": "___ Dienstag und ___ Donnerstag habe ich Musikunterricht.",
+        "options": ["Am / am", "Im / im", "Um / um", "- / -"],
+        "reponse": "Am / am"
+      },
+      {
+        "question": "___ Wochenende habe ich frei!",
+        "options": ["Am", "Im", "Um", "-"],
+        "reponse": "Am"
+      },
+      {
+        "question": "Und ___ der Nacht schlafe ich oder ich lese heimlich.",
+        "options": ["in", "am", "um", "-"],
+        "reponse": "in"
+      },
+      {
+        "question": "Meistens fahren wir ___ Juli in Urlaub.",
+        "options": ["im", "am", "um", "-"],
+        "reponse": "im"
+      },
+      {
+        "question": "Dieses Jahr ___ 7. Juli ___ 3. August.",
+        "options": ["vom / bis zum", "am / am", "um / um", "im / im"],
+        "reponse": "vom / bis zum"
+      },
+      {
+        "question": "___ Winter fahren wir Ski.",
+        "options": ["Im", "Am", "Um", "-"],
+        "reponse": "Im"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "temp-praep-03",
+    "theme": "Temporale Präpositionen",
+    "sous_theme": "Antworten schreiben",
+    "niveau": "A1",
+    "type": "ordre",
+    "consigne": "Antworten Sie.",
+    "questions": [
+      {
+        "question": "Wann ist es kalt?",
+        "options": [],
+        "reponse": "Im Winter, im Januar."
+      },
+      {
+        "question": "Wann wird es dann dunkel?",
+        "options": [],
+        "reponse": "Am Abend, um 18 Uhr."
+      },
+      {
+        "question": "Wann gehen Sie heute nach Hause?",
+        "options": [],
+        "reponse": "Um 17 Uhr, am Nachmittag."
+      },
+      {
+        "question": "Wann arbeiten Sie nicht?",
+        "options": [],
+        "reponse": "Am Wochenende, im Urlaub."
+      },
+      {
+        "question": "Wann essen Sie abends?",
+        "options": [],
+        "reponse": "Um 19 Uhr, am Abend."
+      },
+      {
+        "question": "Bis wann schlafen Sie am Sonntag?",
+        "options": [],
+        "reponse": "Bis 10 Uhr, bis am Vormittag."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "temp-praep-04",
+    "theme": "Temporale Präpositionen",
+    "sous_theme": "Frau Bretzke spricht über ihre Arbeit",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "FRAU BRETZKE SPRICHT ÜBER IHRE ARBEIT. Ergänzen Sie die Präpositionen.",
+    "questions": [
+      {
+        "question": "In unserer Firma haben wir Gleitzeit. Das bedeutet, man kann ___ 7.30 und 9.30 Uhr beginnen.",
+        "options": ["zwischen", "von", "um", "am"],
+        "reponse": "zwischen"
+      },
+      {
+        "question": "Ich fange oft erst ___ 9.30 Uhr an.",
+        "options": ["um", "am", "im", "-"],
+        "reponse": "um"
+      },
+      {
+        "question": "weil ich ___ der Arbeit meine Tochter in den Kindergarten bringe.",
+        "options": ["vor", "nach", "um", "am"],
+        "reponse": "vor"
+      },
+      {
+        "question": "Frühestens ___ 16 Uhr kann man nach Hause gehen.",
+        "options": ["um", "am", "im", "-"],
+        "reponse": "um"
+      },
+      {
+        "question": "denn die Arbeitszeit ist ___ Montag ___ Donnerstag acht Stunden pro Tag.",
+        "options": ["von / bis", "am / am", "im / im", "um / um"],
+        "reponse": "von / bis"
+      },
+      {
+        "question": "___ Freitag sieben Stunden.",
+        "options": ["Am", "Im", "Um", "-"],
+        "reponse": "Am"
+      },
+      {
+        "question": "Normalerweise machen wir eine halbe Stunde Mittagspause, aber ___ einem Meeting machen wir oft eine extra Pause.",
+        "options": ["nach", "vor", "um", "am"],
+        "reponse": "nach"
+      },
+      {
+        "question": "___ Herbst ist ___ 3.10. frei.",
+        "options": ["Im / am", "Am / im", "Um / um", "- / -"],
+        "reponse": "Im / am"
+      },
+      {
+        "question": "___ Winter arbeiten wir ___ 24., 25. und 26.12. nicht.",
+        "options": ["Im / am", "Am / im", "Um / um", "- / -"],
+        "reponse": "Im / am"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "temp-praep-05",
+    "theme": "Temporale Präpositionen",
+    "sous_theme": "Eine Krankenschwester erzählt - Präposition wählen",
+    "niveau": "A1",
+    "type": "choisir",
+    "consigne": "EINE KRANKENSCHWESTER ERZÄHLT. Welche Präposition ist richtig? Streichen Sie die falschen durch.",
+    "questions": [
+      {
+        "question": "Ich bin ___ 15 Jahren Krankenschwester.",
+        "options": ["seit", "vor", "nach", "in"],
+        "reponse": "seit"
+      },
+      {
+        "question": "Die meisten Kinder kommen ___ Juli und August auf die Welt.",
+        "options": ["im", "am", "um", "seit"],
+        "reponse": "im"
+      },
+      {
+        "question": "die wenigsten ___ Winter.",
+        "options": ["im", "am", "um", "seit"],
+        "reponse": "im"
+      },
+      {
+        "question": "Viele Frauen bekommen ___ der Nacht ihre Kinder.",
+        "options": ["in", "am", "um", "seit"],
+        "reponse": "in"
+      },
+      {
+        "question": "oder ___ frühen Vormittag.",
+        "options": ["im", "am", "um", "seit"],
+        "reponse": "im"
+      },
+      {
+        "question": "Einmal sind Zwillinge ___ 31.12. auf die Welt gekommen.",
+        "options": ["am", "im", "um", "-"],
+        "reponse": "am"
+      },
+      {
+        "question": "Ein Baby genau ___ Mitternacht.",
+        "options": ["um", "am", "im", "-"],
+        "reponse": "um"
+      },
+      {
+        "question": "das andere ___ 0.08 Uhr.",
+        "options": ["um", "am", "im", "-"],
+        "reponse": "um"
+      },
+      {
+        "question": "Ein Zwilling ist jetzt also ___ 2021 geboren.",
+        "options": ["-", "am", "im", "um"],
+        "reponse": "-"
+      },
+      {
+        "question": "der andere ___ nächsten Jahr!",
+        "options": ["im", "am", "um", "-"],
+        "reponse": "im"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "temp-praep-06",
+    "theme": "Temporale Präpositionen",
+    "sous_theme": "vor, nach, bis, seit, ab ergänzen",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "Ergänzen Sie vor, nach, bis, seit oder ab.",
+    "questions": [
+      {
+        "question": "Ich kenne Luisa schon ___ 18 Monaten.",
+        "options": ["seit", "vor", "nach", "bis"],
+        "reponse": "seit"
+      },
+      {
+        "question": "und ___ letzten Monat wollte ich nicht heiraten.",
+        "options": ["vor", "seit", "nach", "bis"],
+        "reponse": "vor"
+      },
+      {
+        "question": "Doch ___ vier Wochen will ich unbedingt heiraten.",
+        "options": ["ab", "seit", "vor", "nach"],
+        "reponse": "ab"
+      },
+      {
+        "question": "Am Morgen ___ unserer Hochzeit waren wir total nervös.",
+        "options": ["vor", "nach", "seit", "bis"],
+        "reponse": "vor"
+      },
+      {
+        "question": "Aber ___ dem Jawort waren wir nur noch glücklich.",
+        "options": ["nach", "vor", "seit", "bis"],
+        "reponse": "nach"
+      },
+      {
+        "question": "Wir waren mit unseren Familien und Freunden in einem guten Restaurant essen und sind ___ zum Abend geblieben.",
+        "options": ["bis", "seit", "vor", "nach"],
+        "reponse": "bis"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "dat-praep-01",
+    "theme": "Präpositionen mit Dativ",
+    "sous_theme": "aus, bei, mit, nach, seit, von, zu - Weg zur Arbeit",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "Ergänzen Sie: aus dem • bei • mit dem • nach • seit • von • zum.",
+    "questions": [
+      {
+        "question": "Wie ist Ihr Weg zur Arbeit? Wann gehen Sie morgens ___ Haus?",
+        "options": ["aus dem", "bei", "mit dem", "nach"],
+        "reponse": "aus dem"
+      },
+      {
+        "question": "Um Viertel ___ sieben.",
+        "options": ["vor", "nach", "seit", "von"],
+        "reponse": "vor"
+      },
+      {
+        "question": "Ich gehe dann ___ Bahnhof.",
+        "options": ["zum", "nach", "bei", "seit"],
+        "reponse": "zum"
+      },
+      {
+        "question": "und fahre ___ Zug.",
+        "options": ["mit dem", "nach", "bei", "seit"],
+        "reponse": "mit dem"
+      },
+      {
+        "question": "Meine Firma liegt südlich ___ Köln.",
+        "options": ["von", "bei", "nach", "seit"],
+        "reponse": "von"
+      },
+      {
+        "question": "___ Bonn.",
+        "options": ["bei", "von", "nach", "seit"],
+        "reponse": "bei"
+      },
+      {
+        "question": "Ja, aber das macht mir nichts. Das mache ich schon ___ fünf Jahren.",
+        "options": ["seit", "vor", "nach", "bis"],
+        "reponse": "seit"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "dat-praep-02",
+    "theme": "Präpositionen mit Dativ",
+    "sous_theme": "bei oder mit?",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "Bei oder mit? Ergänzen Sie.",
+    "questions": [
+      {
+        "question": "Fahren Sie ___ dem Auto zur Arbeit?",
+        "options": ["mit", "bei", "nach", "zu"],
+        "reponse": "mit"
+      },
+      {
+        "question": "Nein, ___ dem Zug.",
+        "options": ["mit", "bei", "nach", "zu"],
+        "reponse": "mit"
+      },
+      {
+        "question": "Fahren Sie alleine? Nein, meistens fahre ich ___ meinem Nachbarn zusammen.",
+        "options": ["mit", "bei", "nach", "zu"],
+        "reponse": "mit"
+      },
+      {
+        "question": "Er arbeitet auch ___ der DH-Bank.",
+        "options": ["bei", "mit", "nach", "zu"],
+        "reponse": "bei"
+      }
+    ],
+    "difficulty": "facile",
+    "score": 1
+  },
+  {
+    "id": "dat-praep-03",
+    "theme": "Präpositionen mit Dativ",
+    "sous_theme": "zu, bei, von - Artikel ergänzen",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "Ergänzen Sie die Präpositionen und die Artikel (wenn nötig).",
+    "questions": [
+      {
+        "question": "Ich gehe jetzt zum Arzt. Ich bin gerade b___ Arzt.",
+        "options": ["eim", "eim", "eim", "eim"],
+        "reponse": "beim"
+      },
+      {
+        "question": "Ich komme gerade v___ Arzt.",
+        "options": ["om", "om", "om", "om"],
+        "reponse": "vom"
+      },
+      {
+        "question": "Wir gehen jetzt z___ Stadion.",
+        "options": ["um", "ur", "um", "ur"],
+        "reponse": "zum"
+      },
+      {
+        "question": "Wir kommen v___ Stadion.",
+        "options": ["om", "om", "om", "om"],
+        "reponse": "vom"
+      },
+      {
+        "question": "Ich gehe jetzt z___ Nachbarin.",
+        "options": ["ur", "um", "ur", "um"],
+        "reponse": "zur"
+      },
+      {
+        "question": "Ich bin gerade b___ Nachbarin.",
+        "options": ["ei der", "ei der", "ei der", "ei der"],
+        "reponse": "bei der"
+      },
+      {
+        "question": "Wir gehen jetzt z___ Freunden.",
+        "options": ["u", "u", "u", "u"],
+        "reponse": "zu"
+      },
+      {
+        "question": "Wir sind gerade b___ Freunden.",
+        "options": ["ei", "ei", "ei", "ei"],
+        "reponse": "bei"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "dat-praep-04",
+    "theme": "Präpositionen mit Dativ",
+    "sous_theme": "nach oder zu?",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "Nach oder zu? Ergänzen Sie Präpositionen und die Artikel (wenn nötig).",
+    "questions": [
+      {
+        "question": "Wann sind Sie ___ Deutschland gekommen?",
+        "options": ["nach", "zu", "in", "aus"],
+        "reponse": "nach"
+      },
+      {
+        "question": "Ich muss ___ Berlin fahren.",
+        "options": ["nach", "zu", "in", "aus"],
+        "reponse": "nach"
+      },
+      {
+        "question": "Wie komme ich ___ Bahnhof?",
+        "options": ["zum", "nach", "zum", "zum"],
+        "reponse": "zum"
+      },
+      {
+        "question": "Mein Zahn tut weh, ich muss ___ Zahnarzt.",
+        "options": ["zum", "nach", "zu", "zum"],
+        "reponse": "zum"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "dat-praep-05",
+    "theme": "Präpositionen mit Dativ",
+    "sous_theme": "seit, nach oder zum?",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "Seit, nach oder zum? Ergänzen Sie.",
+    "questions": [
+      {
+        "question": "Was gibt es denn heute ___ Essen?",
+        "options": ["zum", "seit", "nach", "bei"],
+        "reponse": "zum"
+      },
+      {
+        "question": "Kartoffelsalat mit Würstchen. Prima, das habe ich schon ___ Monaten nicht gegessen.",
+        "options": ["seit", "nach", "zum", "bei"],
+        "reponse": "seit"
+      },
+      {
+        "question": "Ich hoffe, es schmeckt dir. Ja, sehr gut. Sag mal, was machen wir ___ dem Essen?",
+        "options": ["nach", "seit", "zum", "bei"],
+        "reponse": "nach"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "dat-praep-06",
+    "theme": "Präpositionen mit Dativ",
+    "sous_theme": "Grüße aus dem Schwarzwald",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "GRÜSSE AUS DEM SCHWARZWALD. Ergänzen Sie die Präpositionen.",
+    "questions": [
+      {
+        "question": "viele Grüße ___ dem Schwarzwald!",
+        "options": ["aus", "von", "bei", "zu"],
+        "reponse": "aus"
+      },
+      {
+        "question": "Wir sind schon ___ zwei Wochen hier.",
+        "options": ["seit", "vor", "nach", "bis"],
+        "reponse": "seit"
+      },
+      {
+        "question": "Das Wetter ist toll und wir haben jeden Tag ___ unseren Freunden lange Wanderungen gemacht.",
+        "options": ["mit", "bei", "zu", "von"],
+        "reponse": "mit"
+      },
+      {
+        "question": "Morgen wollen wir ___ Freiburg ___ meiner Tante fahren.",
+        "options": ["nach / zu", "zu / nach", "bei / mit", "von / aus"],
+        "reponse": "nach / zu"
+      },
+      {
+        "question": "Freiburg ist nicht weit ___ hier.",
+        "options": ["von", "aus", "bei", "zu"],
+        "reponse": "von"
+      },
+      {
+        "question": "es liegt ungefähr 70 Kilometer südwestlich ___ Königsfeld.",
+        "options": ["von", "aus", "bei", "zu"],
+        "reponse": "von"
+      },
+      {
+        "question": "Aber ohne Auto braucht man lange. Wir müssen erst ___ dem Bus und dann ___ dem Zug fahren.",
+        "options": ["mit / mit", "bei / bei", "zu / zu", "von / von"],
+        "reponse": "mit / mit"
+      },
+      {
+        "question": "In Freiburg können wir ___ meiner Tante übernachten.",
+        "options": ["bei", "mit", "zu", "von"],
+        "reponse": "bei"
+      },
+      {
+        "question": "Wir bleiben ein paar Tage und wollen ___ meiner Tante die Stadt besichtigen.",
+        "options": ["mit", "bei", "zu", "von"],
+        "reponse": "mit"
+      },
+      {
+        "question": "Vielleicht kannst du auch ___ Freiburg kommen?",
+        "options": ["nach", "zu", "bei", "von"],
+        "reponse": "nach"
+      },
+      {
+        "question": "___ Basel ist es doch nicht so weit.",
+        "options": ["Von", "Aus", "Bei", "Zu"],
+        "reponse": "Von"
+      },
+      {
+        "question": "und wir haben uns ___ zwei Jahren nicht mehr gesehen.",
+        "options": ["seit", "vor", "nach", "bis"],
+        "reponse": "seit"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "akk-praep-01",
+    "theme": "Präpositionen mit Akkusativ",
+    "sous_theme": "für, um, durch, ohne, gegen (FUDOG)",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "Ergänzen Sie die Präpositionen: für • um • durch • ohne • gegen.",
+    "questions": [
+      {
+        "question": "Sie trägt eine Kette ___ den Hals.",
+        "options": ["um", "für", "durch", "ohne"],
+        "reponse": "um"
+      },
+      {
+        "question": "Das Auto fährt ___ den Tunnel.",
+        "options": ["durch", "um", "für", "gegen"],
+        "reponse": "durch"
+      },
+      {
+        "question": "Das Geschenk ist ___ dich.",
+        "options": ["für", "um", "durch", "ohne"],
+        "reponse": "für"
+      },
+      {
+        "question": "Bitte den Kaffee ___ Zucker.",
+        "options": ["ohne", "für", "um", "gegen"],
+        "reponse": "ohne"
+      },
+      {
+        "question": "Deutschland spielt ___ Italien.",
+        "options": ["gegen", "für", "um", "durch"],
+        "reponse": "gegen"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "akk-praep-02",
+    "theme": "Präpositionen mit Akkusativ",
+    "sous_theme": "um, gegen oder durch?",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "Um, gegen oder durch? Ergänzen Sie.",
+    "questions": [
+      {
+        "question": "Das Auto fährt ___ den Baum.",
+        "options": ["gegen", "durch", "um", "für"],
+        "reponse": "gegen"
+      },
+      {
+        "question": "Sie fahren ___ die Stadt.",
+        "options": ["durch", "gegen", "um", "für"],
+        "reponse": "durch"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "akk-praep-03",
+    "theme": "Präpositionen mit Akkusativ",
+    "sous_theme": "Präpositionen und Artikel ergänzen",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "Ergänzen Sie die Präpositionen und die Artikel: ohne • für • um • gegen • durch.",
+    "questions": [
+      {
+        "question": "Pass auf, sonst läufst du ___ Schild.",
+        "options": ["gegen das", "durch das", "um das", "für das"],
+        "reponse": "gegen das"
+      },
+      {
+        "question": "Komm, wir gehen ___ Park, das ist kürzer.",
+        "options": ["durch den", "gegen den", "um den", "für den"],
+        "reponse": "durch den"
+      },
+      {
+        "question": "Gestern haben wir einen schönen Spaziergang ___ See gemacht.",
+        "options": ["um den", "durch den", "gegen den", "für den"],
+        "reponse": "um den"
+      },
+      {
+        "question": "Die Krawatte ist ___ Bruder.",
+        "options": ["für meinen", "um meinen", "durch meinen", "gegen meinen"],
+        "reponse": "für meinen"
+      },
+      {
+        "question": "Sie gehen selten ___ Kinder aus, meistens nehmen sie ihre Kinder mit.",
+        "options": ["ohne ihre", "für ihre", "um ihre", "durch ihre"],
+        "reponse": "ohne ihre"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "akk-praep-04",
+    "theme": "Präpositionen mit Akkusativ",
+    "sous_theme": "Was ist richtig?",
+    "niveau": "A1",
+    "type": "choisir",
+    "consigne": "Was ist richtig? Streichen Sie die falschen Präpositionen durch.",
+    "questions": [
+      {
+        "question": "Ich brauche ein Abendkleid ___ die Hochzeit von meiner Freundin.",
+        "options": ["für", "ohne", "um"],
+        "reponse": "für"
+      },
+      {
+        "question": "Hast du ein Medikament ___ Kopfschmerzen?",
+        "options": ["gegen", "durch", "ohne"],
+        "reponse": "gegen"
+      },
+      {
+        "question": "Die Bäckerei ist nicht weit, sie liegt gleich ___ die Ecke.",
+        "options": ["um", "gegen", "durch"],
+        "reponse": "um"
+      },
+      {
+        "question": "Wir sind ___ viele Geschäfte gelaufen und haben keine schönen Schuhe gefunden.",
+        "options": ["durch", "für", "gegen"],
+        "reponse": "durch"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "akk-praep-05",
+    "theme": "Präpositionen mit Akkusativ",
+    "sous_theme": "Dativ oder Akkusativ - Artikel und Pronomen",
+    "niveau": "A2",
+    "type": "completer",
+    "consigne": "Dativ oder Akkusativ? Ergänzen Sie die Artikel oder Pronomen.",
+    "questions": [
+      {
+        "question": "Hast du schon ein Geschenk für ___ (sie)?",
+        "options": ["sie", "ihr", "ihnen", "ihm"],
+        "reponse": "sie"
+      },
+      {
+        "question": "Ich suche schon seit ___ (ein) Woche.",
+        "options": ["einer", "eine", "einen", "ein"],
+        "reponse": "einer"
+      },
+      {
+        "question": "Heute bin ich mit ___ (mein) Schwester nach Frankfurt gefahren.",
+        "options": ["meiner", "meine", "meinen", "mein"],
+        "reponse": "meiner"
+      },
+      {
+        "question": "Wir sind durch ___ (die) ganze Stadt gelaufen.",
+        "options": ["die", "der", "den", "das"],
+        "reponse": "die"
+      },
+      {
+        "question": "Erst sind wir zu ___ (die) großen Kaufhäusern gegangen.",
+        "options": ["den", "die", "der", "das"],
+        "reponse": "den"
+      },
+      {
+        "question": "Sie hat nicht aufgepasst und hat die Tür gegen ___ (der) Kopf bekommen.",
+        "options": ["den", "der", "die", "das"],
+        "reponse": "den"
+      },
+      {
+        "question": "Deshalb sind wir zu ___ (ein) Freundin gegangen.",
+        "options": ["einer", "eine", "einen", "ein"],
+        "reponse": "einer"
+      },
+      {
+        "question": "und haben bei ___ (sie) zuerst Kaffee getrunken.",
+        "options": ["ihr", "sie", "ihnen", "ihm"],
+        "reponse": "ihr"
+      },
+      {
+        "question": "Sie kennt ein Schmuckgeschäft bei ihr ___ (um) Ecke.",
+        "options": ["um die", "um der", "um den", "um das"],
+        "reponse": "um die"
+      },
+      {
+        "question": "Wir haben eine wunderschöne Kette für ___ (die) Braut gekauft.",
+        "options": ["die", "der", "den", "das"],
+        "reponse": "die"
+      },
+      {
+        "question": "und eine Krawattennadel für ___ (der) Bräutigam.",
+        "options": ["den", "der", "die", "das"],
+        "reponse": "den"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "wechsel-dat-01",
+    "theme": "Wechselpräpositionen",
+    "sous_theme": "Wo? + Dativ - Positionen",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "An, auf, hinter, in, neben, über, unter, vor, zwischen. Ergänzen Sie.",
+    "questions": [
+      {
+        "question": "Der Lolli ist ___ Mund.",
+        "options": ["im", "am", "auf dem", "unter dem"],
+        "reponse": "im"
+      },
+      {
+        "question": "Ein Schmetterling sitzt ___ Tasche.",
+        "options": ["an der", "in der", "auf der", "über der"],
+        "reponse": "an der"
+      },
+      {
+        "question": "Das Mädchen trägt ___ Kopf einen Hut.",
+        "options": ["auf dem", "an dem", "in dem", "über dem"],
+        "reponse": "auf dem"
+      },
+      {
+        "question": "___ Mädchen sitzt ein Häschen.",
+        "options": ["Vor dem", "Hinter dem", "Über dem", "Unter dem"],
+        "reponse": "Vor dem"
+      },
+      {
+        "question": "___ Mädchen steht ein Löwe.",
+        "options": ["Hinter dem", "Vor dem", "Über dem", "Unter dem"],
+        "reponse": "Hinter dem"
+      },
+      {
+        "question": "___ Mädchen fliegt ein Vogel.",
+        "options": ["Über dem", "Unter dem", "Vor dem", "Hinter dem"],
+        "reponse": "Über dem"
+      },
+      {
+        "question": "Die Tasche steht ___ Baum.",
+        "options": ["unter dem", "über dem", "vor dem", "hinter dem"],
+        "reponse": "unter dem"
+      },
+      {
+        "question": "___ Mädchen steht eine Tasche.",
+        "options": ["Neben dem", "Vor dem", "Hinter dem", "Über dem"],
+        "reponse": "Neben dem"
+      },
+      {
+        "question": "Das Mädchen steht ___ zwei Bäumen.",
+        "options": ["zwischen", "neben", "vor", "hinter"],
+        "reponse": "zwischen"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "wechsel-dat-02",
+    "theme": "Wechselpräpositionen",
+    "sous_theme": "In, an oder auf?",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "In, an oder auf? Ergänzen Sie.",
+    "questions": [
+      {
+        "question": "Wo sind die Blumen? ___ der Vase.",
+        "options": ["In", "An", "Auf", "Über"],
+        "reponse": "In"
+      },
+      {
+        "question": "Wo ist die Vase? ___ dem Tisch.",
+        "options": ["Auf", "An", "In", "Über"],
+        "reponse": "Auf"
+      },
+      {
+        "question": "Wo ist der Tisch? ___ dem Fenster.",
+        "options": ["An", "Auf", "In", "Über"],
+        "reponse": "An"
+      },
+      {
+        "question": "Wo ist die Flasche? ___ dem Boden.",
+        "options": ["Auf", "An", "In", "Über"],
+        "reponse": "Auf"
+      },
+      {
+        "question": "Wo ist der Wein? ___ der Flasche.",
+        "options": ["In", "An", "Auf", "Über"],
+        "reponse": "In"
+      },
+      {
+        "question": "Wo ist die Lampe? ___ der Decke.",
+        "options": ["An", "Auf", "In", "Über"],
+        "reponse": "An"
+      },
+      {
+        "question": "Wo ist das Bild? ___ der Wand.",
+        "options": ["An", "Auf", "In", "Über"],
+        "reponse": "An"
+      },
+      {
+        "question": "Wo ist das Auto? ___ dem Bild.",
+        "options": ["Über", "Unter", "Vor", "Hinter"],
+        "reponse": "Über"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "wechsel-dat-03",
+    "theme": "Wechselpräpositionen",
+    "sous_theme": "So wohne ich - Endungen",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "SO WOHNE ICH. Ergänzen Sie die Endungen.",
+    "questions": [
+      {
+        "question": "In mein___ Haus ist eine Bäckerei.",
+        "options": ["em", "en", "er", "es"],
+        "reponse": "em"
+      },
+      {
+        "question": "In d___ Bäckerei kann ich schon morgens um 7 Uhr frische Brötchen bekommen.",
+        "options": ["er", "em", "en", "es"],
+        "reponse": "er"
+      },
+      {
+        "question": "Links neben mein___ Haus ist ein Supermarkt.",
+        "options": ["em", "er", "en", "es"],
+        "reponse": "em"
+      },
+      {
+        "question": "und rechts neben mein___ Haus ist ein Blumengeschäft.",
+        "options": ["em", "er", "en", "es"],
+        "reponse": "em"
+      },
+      {
+        "question": "Leider stehen auf d___ Straße vor d___ Häusern immer viele Autos.",
+        "options": ["er / en", "em / en", "en / er", "er / er"],
+        "reponse": "er / en"
+      },
+      {
+        "question": "Auf d___ anderen Straßenseite ist eine Apotheke.",
+        "options": ["er", "em", "en", "es"],
+        "reponse": "er"
+      },
+      {
+        "question": "Zwischen d___ Apotheke und d___ Friseur ist ein Park.",
+        "options": ["er / em", "em / er", "en / en", "er / er"],
+        "reponse": "er / em"
+      },
+      {
+        "question": "I___ Park gibt es einen Kinderspielplatz.",
+        "options": ["Im", "Am", "Auf dem", "Über dem"],
+        "reponse": "Im"
+      },
+      {
+        "question": "Auf d___ Spielplatz spielen immer viele Kinder.",
+        "options": ["em", "er", "en", "es"],
+        "reponse": "em"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "wechsel-dat-04",
+    "theme": "Wechselpräpositionen",
+    "sous_theme": "Mein Arbeitsplatz - Sätze schreiben",
+    "niveau": "A1",
+    "type": "ordre",
+    "consigne": "MEIN ARBEITSPLATZ. Schreiben Sie Sätze.",
+    "questions": [
+      {
+        "question": "der Schrank / die Wand",
+        "options": [],
+        "reponse": "Der Schrank ist an der Wand."
+      },
+      {
+        "question": "die Lampe / der Schreibtisch",
+        "options": [],
+        "reponse": "Die Lampe ist auf dem Schreibtisch."
+      },
+      {
+        "question": "der Zettel / der Bildschirm",
+        "options": [],
+        "reponse": "Der Zettel ist an dem Bildschirm."
+      },
+      {
+        "question": "der Papierkorb / der Schreibtisch",
+        "options": [],
+        "reponse": "Der Papierkorb ist unter dem Schreibtisch."
+      },
+      {
+        "question": "die Maus / das Maus-Pad",
+        "options": [],
+        "reponse": "Die Maus ist auf dem Maus-Pad."
+      },
+      {
+        "question": "die Tastatur / der Bildschirm",
+        "options": [],
+        "reponse": "Die Tastatur ist vor dem Bildschirm."
+      },
+      {
+        "question": "die Bonbons / die Bücher",
+        "options": [],
+        "reponse": "Die Bonbons sind neben den Büchern."
+      },
+      {
+        "question": "die Bücher / der Schrank",
+        "options": [],
+        "reponse": "Die Bücher sind in dem Schrank."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "wechsel-dat-05",
+    "theme": "Wechselpräpositionen",
+    "sous_theme": "Präpositionen und Artikel ergänzen",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "Ergänzen Sie die Präpositionen und die Artikel.",
+    "questions": [
+      {
+        "question": "Ich habe eine Anzeige ___ Internet gesehen.",
+        "options": ["im", "am", "auf dem", "über dem"],
+        "reponse": "im"
+      },
+      {
+        "question": "___ welchem Stock ist die Wohnung?",
+        "options": ["Auf", "In", "An", "Über"],
+        "reponse": "Auf"
+      },
+      {
+        "question": "Sie ist ___ Erdgeschoss.",
+        "options": ["im", "am", "auf dem", "über dem"],
+        "reponse": "im"
+      },
+      {
+        "question": "Guck mal da hängt ein Zettel. Kannst du ___ dem Zettel lesen, was da steht?",
+        "options": ["an", "auf", "in", "über"],
+        "reponse": "an"
+      },
+      {
+        "question": "Öffnen Sie bitte das Buch ___ Seite 22.",
+        "options": ["auf der", "in der", "an der", "über der"],
+        "reponse": "auf der"
+      },
+      {
+        "question": "Ich kann nicht kommen, ich bin gerade ___ Telefon.",
+        "options": ["am", "im", "auf dem", "über dem"],
+        "reponse": "am"
+      },
+      {
+        "question": "Bernd hat nie Zeit, er sitzt den ganzen Abend ___ Fernseher oder Computer.",
+        "options": ["am / am", "im / im", "auf dem / auf dem", "über dem / über dem"],
+        "reponse": "am / am"
+      },
+      {
+        "question": "Komm zum Essen, wir sitzen alle schon ___ Tisch.",
+        "options": ["am", "im", "auf dem", "über dem"],
+        "reponse": "am"
+      },
+      {
+        "question": "Die Zeitung steckt ___ Briefkasten.",
+        "options": ["im", "am", "auf dem", "über dem"],
+        "reponse": "im"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "wechsel-akk-01",
+    "theme": "Wechselpräpositionen",
+    "sous_theme": "Wohin? + Akkusativ - Bewegung",
+    "niveau": "A2",
+    "type": "ordre",
+    "consigne": "Wohin fliegt die Fliege? Schreiben Sie.",
+    "questions": [
+      {
+        "question": "auf das Buch",
+        "options": [],
+        "reponse": "Die Fliege fliegt auf das Buch."
+      },
+      {
+        "question": "an die Wand",
+        "options": [],
+        "reponse": "Die Fliege fliegt an die Wand."
+      },
+      {
+        "question": "in den Mund",
+        "options": [],
+        "reponse": "Die Fliege fliegt in den Mund."
+      },
+      {
+        "question": "über den Kopf",
+        "options": [],
+        "reponse": "Die Fliege fliegt über den Kopf."
+      },
+      {
+        "question": "unter den Tisch",
+        "options": [],
+        "reponse": "Die Fliege fliegt unter den Tisch."
+      },
+      {
+        "question": "neben die Tasche",
+        "options": [],
+        "reponse": "Die Fliege fliegt neben die Tasche."
+      },
+      {
+        "question": "zwischen die Bäume",
+        "options": [],
+        "reponse": "Die Fliege fliegt zwischen die Bäume."
+      },
+      {
+        "question": "vor den Löwen",
+        "options": [],
+        "reponse": "Die Fliege fliegt vor den Löwen."
+      },
+      {
+        "question": "hinter den Baum",
+        "options": [],
+        "reponse": "Die Fliege fliegt hinter den Baum."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "wechsel-akk-02",
+    "theme": "Wechselpräpositionen",
+    "sous_theme": "Wo? oder Wohin? - Verben zuordnen",
+    "niveau": "A2",
+    "type": "classer",
+    "consigne": "Wo? oder Wohin? Ordnen Sie die Verben zu.",
+    "questions": [
+      {
+        "question": "gehen • studieren • sein • sitzen • stehen • bringen • fahren • essen • steigen • spielen • fliegen",
+        "options": [],
+        "reponse": "Wohin?: gehen, bringen, fahren, steigen, fliegen | Wo?: studieren, sein, sitzen, stehen, essen, spielen"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "wechsel-akk-03",
+    "theme": "Wechselpräpositionen",
+    "sous_theme": "Was passt zusammen?",
+    "niveau": "A2",
+    "type": "associer",
+    "consigne": "Was passt zusammen? Kombinieren Sie.",
+    "questions": [
+      {
+        "question": "Wohin gehst du heute Abend?",
+        "options": ["In den Club.", "In Berlin.", "In die USA.", "In die Schule.", "Neben der Haustür.", "Am Meer.", "Ans Meer."],
+        "reponse": "In den Club."
+      },
+      {
+        "question": "Wo möchtest du studieren?",
+        "options": ["In Berlin.", "In den Club.", "In die USA.", "In die Schule.", "Neben der Haustür.", "Am Meer.", "Ans Meer."],
+        "reponse": "In Berlin."
+      },
+      {
+        "question": "Wo ist das Bad?",
+        "options": ["Neben der Haustür.", "In Berlin.", "In die USA.", "In die Schule.", "In den Club.", "Am Meer.", "Ans Meer."],
+        "reponse": "Neben der Haustür."
+      },
+      {
+        "question": "Wohin bringst du die Kinder?",
+        "options": ["In die Schule.", "In Berlin.", "In die USA.", "Neben der Haustür.", "In den Club.", "Am Meer.", "Ans Meer."],
+        "reponse": "In die Schule."
+      },
+      {
+        "question": "Wohin fahrt ihr im Sommer?",
+        "options": ["Ans Meer.", "In Berlin.", "In die USA.", "In die Schule.", "Neben der Haustür.", "Am Meer.", "In den Club."],
+        "reponse": "Ans Meer."
+      },
+      {
+        "question": "Wo kann man gut Fisch essen?",
+        "options": ["Am Meer.", "In Berlin.", "In die USA.", "In die Schule.", "Neben der Haustür.", "In den Club.", "Ans Meer."],
+        "reponse": "Am Meer."
+      },
+      {
+        "question": "Wohin fliegt ihr nächstes Jahr?",
+        "options": ["In die USA.", "In Berlin.", "In die Schule.", "Neben der Haustür.", "Am Meer.", "Ans Meer.", "In den Club."],
+        "reponse": "In die USA."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "wechsel-akk-04",
+    "theme": "Wechselpräpositionen",
+    "sous_theme": "Wo oder wohin?",
+    "niveau": "A2",
+    "type": "completer",
+    "consigne": "Wo oder wohin? Ergänzen Sie.",
+    "questions": [
+      {
+        "question": "___ In der Schönhauser Straße.",
+        "options": ["Wo?", "Wohin?"],
+        "reponse": "Wo?"
+      },
+      {
+        "question": "___ Wir gehen in die Mediothek.",
+        "options": ["Wohin?", "Wo?"],
+        "reponse": "Wohin?"
+      },
+      {
+        "question": "___ Ich gehe ins Kino, kommst du mit?",
+        "options": ["Wohin?", "Wo?"],
+        "reponse": "Wohin?"
+      },
+      {
+        "question": "___ Wir studieren in München.",
+        "options": ["Wo?", "Wohin?"],
+        "reponse": "Wo?"
+      },
+      {
+        "question": "___ In die Küche, ich hole Kaffee.",
+        "options": ["Wohin?", "Wo?"],
+        "reponse": "Wohin?"
+      },
+      {
+        "question": "___ In der Küche, ich mache Kaffee.",
+        "options": ["Wo?", "Wohin?"],
+        "reponse": "Wo?"
+      },
+      {
+        "question": "___ Die Kinder spielen im Park.",
+        "options": ["Wo?", "Wohin?"],
+        "reponse": "Wo?"
+      },
+      {
+        "question": "___ Sie bringt das Kind ins Bett.",
+        "options": ["Wohin?", "Wo?"],
+        "reponse": "Wohin?"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "wechsel-akk-05",
+    "theme": "Wechselpräpositionen",
+    "sous_theme": "Dativ oder Akkusativ - Urlaub",
+    "niveau": "A2",
+    "type": "completer",
+    "consigne": "Ergänzen Sie die Artikel im Dativ oder Akkusativ.",
+    "questions": [
+      {
+        "question": "Was machen wir im Urlaub? Sollen wir an ___ Meer fahren?",
+        "options": ["das", "dem", "den", "der"],
+        "reponse": "das"
+      },
+      {
+        "question": "Nein, am Meer waren wir doch schon letztes Jahr. Dieses Jahr möchte ich lieber in ___ Berge.",
+        "options": ["die", "der", "den", "das"],
+        "reponse": "die"
+      },
+      {
+        "question": "Ich möchte auf ein___ hohen Berg steigen.",
+        "options": ["en", "em", "er", "es"],
+        "reponse": "en"
+      },
+      {
+        "question": "Warst du schon in d___ Alpen?",
+        "options": ["en", "er", "em", "es"],
+        "reponse": "en"
+      },
+      {
+        "question": "Nein, noch nicht. Ich würde gerne in d___ Alpen fahren.",
+        "options": ["ie", "en", "er", "em"],
+        "reponse": "ie"
+      },
+      {
+        "question": "Heute Abend gehe ich in ___ Kino. Kommst du mit?",
+        "options": ["s", "m", "n", "r"],
+        "reponse": "s"
+      },
+      {
+        "question": "Nein, ich war gestern schon im Kino. Ich möchte lieber in ein___ Konzert gehen.",
+        "options": ["s", "r", "n", "m"],
+        "reponse": "s"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "lokal-wohin-01",
+    "theme": "Lokale Präpositionen",
+    "sous_theme": "Wohin? - in, nach, an, auf, zu",
+    "niveau": "A2",
+    "type": "completer",
+    "consigne": "Wohin? Ergänzen Sie die korrekte Präposition.",
+    "questions": [
+      {
+        "question": "___ den Strand",
+        "options": ["an", "in", "auf", "zu"],
+        "reponse": "an"
+      },
+      {
+        "question": "___ den Tisch",
+        "options": ["an", "in", "auf", "zu"],
+        "reponse": "an"
+      },
+      {
+        "question": "___ den Fluss",
+        "options": ["an", "in", "auf", "zu"],
+        "reponse": "an"
+      },
+      {
+        "question": "___ den Computer",
+        "options": ["an", "in", "auf", "zu"],
+        "reponse": "an"
+      },
+      {
+        "question": "___ die Wand",
+        "options": ["an", "in", "auf", "zu"],
+        "reponse": "an"
+      },
+      {
+        "question": "___ den Markt",
+        "options": ["auf", "in", "an", "zu"],
+        "reponse": "auf"
+      },
+      {
+        "question": "___ den Sportplatz",
+        "options": ["auf", "in", "an", "zu"],
+        "reponse": "auf"
+      },
+      {
+        "question": "___ die Straße",
+        "options": ["auf", "in", "an", "zu"],
+        "reponse": "auf"
+      },
+      {
+        "question": "___ das Sofa",
+        "options": ["auf", "in", "an", "zu"],
+        "reponse": "auf"
+      },
+      {
+        "question": "___ den Supermarkt",
+        "options": ["in", "auf", "an", "zu"],
+        "reponse": "in"
+      },
+      {
+        "question": "___ das Bett",
+        "options": ["in", "auf", "an", "zu"],
+        "reponse": "in"
+      },
+      {
+        "question": "___ die USA",
+        "options": ["in", "nach", "zu", "an"],
+        "reponse": "in"
+      },
+      {
+        "question": "___ die Türkei",
+        "options": ["in", "nach", "zu", "an"],
+        "reponse": "in"
+      },
+      {
+        "question": "___ das Kino",
+        "options": ["in", "auf", "an", "zu"],
+        "reponse": "in"
+      },
+      {
+        "question": "___ den Park",
+        "options": ["in", "auf", "an", "zu"],
+        "reponse": "in"
+      },
+      {
+        "question": "___ Spanien",
+        "options": ["nach", "in", "zu", "an"],
+        "reponse": "nach"
+      },
+      {
+        "question": "___ Mexiko",
+        "options": ["nach", "in", "zu", "an"],
+        "reponse": "nach"
+      },
+      {
+        "question": "___ Paris",
+        "options": ["nach", "in", "zu", "an"],
+        "reponse": "nach"
+      },
+      {
+        "question": "___ England",
+        "options": ["nach", "in", "zu", "an"],
+        "reponse": "nach"
+      },
+      {
+        "question": "___ Wien",
+        "options": ["nach", "in", "zu", "an"],
+        "reponse": "nach"
+      },
+      {
+        "question": "___ Hause",
+        "options": ["nach", "in", "zu", "an"],
+        "reponse": "nach"
+      },
+      {
+        "question": "___ meinem Bruder",
+        "options": ["zu", "nach", "in", "an"],
+        "reponse": "zu"
+      },
+      {
+        "question": "___ dem Fußballspiel",
+        "options": ["zu", "nach", "in", "an"],
+        "reponse": "zu"
+      },
+      {
+        "question": "___ Burger King",
+        "options": ["zu", "nach", "in", "an"],
+        "reponse": "zu"
+      },
+      {
+        "question": "___ Aldi",
+        "options": ["zu", "nach", "in", "an"],
+        "reponse": "zu"
+      },
+      {
+        "question": "___ dem Arzt",
+        "options": ["zu", "nach", "in", "an"],
+        "reponse": "zu"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "lokal-wohin-02",
+    "theme": "Lokale Präpositionen",
+    "sous_theme": "Wohin gehen Sie? - Ordnen und ergänzen",
+    "niveau": "A2",
+    "type": "ordre",
+    "consigne": "Wohin gehen Sie? Ordnen Sie zu und ergänzen Sie den Artikel (wenn nötig).",
+    "questions": [
+      {
+        "question": "in: Schweiz (die), USA (die, Pl.), Ukraine (die), Niederlande (die, Pl.), Kenia, Thailand",
+        "options": [],
+        "reponse": "in die Schweiz / in die USA / in die Ukraine / in die Niederlande / in Kenia / in Thailand"
+      },
+      {
+        "question": "nach: Italien, Hause, Portugal, Deutschland, Barcelona",
+        "options": [],
+        "reponse": "nach Italien / nach Hause / nach Portugal / nach Deutschland / nach Barcelona"
+      },
+      {
+        "question": "zu: Maria, meine Schwester (die), Aldi, Ikea, Friseur (der), Fitnesstraining (das)",
+        "options": [],
+        "reponse": "zu Maria / zu meiner Schwester / zu Aldi / zu Ikea / zum Friseur / zum Fitnesstraining"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "lokal-wohin-03",
+    "theme": "Lokale Präpositionen",
+    "sous_theme": "Wohin gehen Sie? - in, an, auf",
+    "niveau": "A2",
+    "type": "ordre",
+    "consigne": "Wohin gehen Sie? Ordnen Sie zu und ergänzen Sie den Artikel.",
+    "questions": [
+      {
+        "question": "in: Kino (das), Oper (die), Krankenhaus (das), Supermarkt (der), Alpen (die, Pl.)",
+        "options": [],
+        "reponse": "ins Kino / in die Oper / ins Krankenhaus / in den Supermarkt / in die Alpen"
+      },
+      {
+        "question": "an: Meer (das), Strand (der), Haltestelle (die), Tisch (der)",
+        "options": [],
+        "reponse": "ans Meer / an den Strand / an die Haltestelle / an den Tisch"
+      },
+      {
+        "question": "auf: Berg (der), Park (der), Spielplatz (der), Straße (die), Terrasse (die)",
+        "options": [],
+        "reponse": "auf den Berg / in den Park / auf den Spielplatz / auf die Straße / auf die Terrasse"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "lokal-wohin-04",
+    "theme": "Lokale Präpositionen",
+    "sous_theme": "Urlaub in Österreich",
+    "niveau": "A2",
+    "type": "completer",
+    "consigne": "URLAUB IN ÖSTERREICH. Ergänzen Sie die Präposition und den Artikel.",
+    "questions": [
+      {
+        "question": "Heute fahre ich ___ Österreich ___ meiner Freundin.",
+        "options": ["nach / mit", "in / mit", "zu / bei", "nach / bei"],
+        "reponse": "nach / mit"
+      },
+      {
+        "question": "Wir fahren dann zusammen ___ Sölden ___ Wandern.",
+        "options": ["nach / zum", "in / zum", "zu / nach", "nach / zu"],
+        "reponse": "nach / zum"
+      },
+      {
+        "question": "Bevor wir ___ Hotel gehen, möchte ich unbedingt noch ___ Rewe gehen.",
+        "options": ["ins / zu", "im / zu", "zum / in", "in / zu"],
+        "reponse": "ins / zu"
+      },
+      {
+        "question": "Von Samstag bis Montag gehen wir dann ___ Berge und wandern.",
+        "options": ["in die", "auf die", "zu den", "an die"],
+        "reponse": "in die"
+      },
+      {
+        "question": "Aber jeden Abend möchte ich unbedingt ___ See gehen.",
+        "options": ["an den", "in den", "zu dem", "auf den"],
+        "reponse": "an den"
+      },
+      {
+        "question": "Wenn es nicht zu kalt ist, gehe ich auch ___ Wasser.",
+        "options": ["ans", "ins", "aufs", "zum"],
+        "reponse": "ins"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "lokal-wo-01",
+    "theme": "Lokale Präpositionen",
+    "sous_theme": "Wo? - in, an, auf, bei",
+    "niveau": "A2",
+    "type": "completer",
+    "consigne": "Wo? Ergänzen Sie die korrekte Präposition.",
+    "questions": [
+      {
+        "question": "___ dem Meer",
+        "options": ["an", "in", "auf", "bei"],
+        "reponse": "an"
+      },
+      {
+        "question": "___ der Wand",
+        "options": ["an", "in", "auf", "bei"],
+        "reponse": "an"
+      },
+      {
+        "question": "___ dem Fluss",
+        "options": ["an", "in", "auf", "bei"],
+        "reponse": "an"
+      },
+      {
+        "question": "___ dem Computer",
+        "options": ["am", "im", "auf dem", "beim"],
+        "reponse": "am"
+      },
+      {
+        "question": "___ dem See",
+        "options": ["am", "im", "auf dem", "beim"],
+        "reponse": "am"
+      },
+      {
+        "question": "___ dem Sportplatz",
+        "options": ["auf", "in", "an", "bei"],
+        "reponse": "auf"
+      },
+      {
+        "question": "___ der Straße",
+        "options": ["auf", "in", "an", "bei"],
+        "reponse": "auf"
+      },
+      {
+        "question": "___ dem Sofa",
+        "options": ["auf", "in", "an", "bei"],
+        "reponse": "auf"
+      },
+      {
+        "question": "___ dem Markt",
+        "options": ["auf", "in", "an", "bei"],
+        "reponse": "auf"
+      },
+      {
+        "question": "___ dem Kino",
+        "options": ["im", "am", "auf dem", "beim"],
+        "reponse": "im"
+      },
+      {
+        "question": "___ der Türkei",
+        "options": ["in", "an", "auf", "bei"],
+        "reponse": "in"
+      },
+      {
+        "question": "___ Polen",
+        "options": ["in", "an", "auf", "bei"],
+        "reponse": "in"
+      },
+      {
+        "question": "___ dem Internet",
+        "options": ["im", "am", "auf dem", "beim"],
+        "reponse": "im"
+      },
+      {
+        "question": "___ Paris",
+        "options": ["in", "an", "auf", "bei"],
+        "reponse": "in"
+      },
+      {
+        "question": "___ Schwimmbad",
+        "options": ["im", "am", "auf dem", "beim"],
+        "reponse": "im"
+      },
+      {
+        "question": "___ Anna",
+        "options": ["bei", "mit", "zu", "von"],
+        "reponse": "bei"
+      },
+      {
+        "question": "___ dem Sport",
+        "options": ["beim", "im", "am", "auf dem"],
+        "reponse": "beim"
+      },
+      {
+        "question": "___ MacDonalds",
+        "options": ["bei", "in", "an", "auf"],
+        "reponse": "bei"
+      },
+      {
+        "question": "___ dem Arzt",
+        "options": ["beim", "im", "am", "auf dem"],
+        "reponse": "beim"
+      },
+      {
+        "question": "___ meiner Mutter",
+        "options": ["bei", "mit", "zu", "von"],
+        "reponse": "bei"
+      },
+      {
+        "question": "___ dem Picknick",
+        "options": ["beim", "im", "am", "auf dem"],
+        "reponse": "beim"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "lokal-wo-02",
+    "theme": "Lokale Präpositionen",
+    "sous_theme": "Wo sind Sie?",
+    "niveau": "A2",
+    "type": "completer",
+    "consigne": "Wo sind Sie? Ergänzen Sie die Präpositionen.",
+    "questions": [
+      {
+        "question": "___ dem Meer",
+        "options": ["an", "in", "auf", "bei"],
+        "reponse": "an"
+      },
+      {
+        "question": "___ Paris",
+        "options": ["in", "an", "auf", "bei"],
+        "reponse": "in"
+      },
+      {
+        "question": "___ dem Tennisplatz",
+        "options": ["auf", "in", "an", "bei"],
+        "reponse": "auf"
+      },
+      {
+        "question": "___ dem Supermarkt",
+        "options": ["im", "am", "auf dem", "beim"],
+        "reponse": "im"
+      },
+      {
+        "question": "___ H&M",
+        "options": ["bei", "in", "an", "auf"],
+        "reponse": "bei"
+      },
+      {
+        "question": "___ dem Chef",
+        "options": ["bei", "mit", "zu", "von"],
+        "reponse": "bei"
+      },
+      {
+        "question": "___ meiner Schwester",
+        "options": ["bei", "mit", "zu", "von"],
+        "reponse": "bei"
+      },
+      {
+        "question": "___ Japan",
+        "options": ["in", "an", "auf", "bei"],
+        "reponse": "in"
+      },
+      {
+        "question": "___ dem Strand",
+        "options": ["am", "im", "auf dem", "beim"],
+        "reponse": "am"
+      },
+      {
+        "question": "___ dem Kino",
+        "options": ["im", "am", "auf dem", "beim"],
+        "reponse": "im"
+      },
+      {
+        "question": "___ dem Berg",
+        "options": ["am", "im", "auf dem", "beim"],
+        "reponse": "am"
+      },
+      {
+        "question": "___ den Bergen",
+        "options": ["in", "an", "auf", "bei"],
+        "reponse": "in"
+      },
+      {
+        "question": "___ Hause",
+        "options": ["zu", "bei", "in", "an"],
+        "reponse": "zu"
+      },
+      {
+        "question": "___ dem Garten",
+        "options": ["im", "am", "auf dem", "beim"],
+        "reponse": "im"
+      },
+      {
+        "question": "___ dem Schwimmbad",
+        "options": ["im", "am", "auf dem", "beim"],
+        "reponse": "im"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "lokal-woher-01",
+    "theme": "Lokale Präpositionen",
+    "sous_theme": "Woher? - aus, von",
+    "niveau": "A2",
+    "type": "completer",
+    "consigne": "Ergänzen Sie die korrekte Präposition. Wo können Sie aus sagen?",
+    "questions": [
+      {
+        "question": "___ der Schule",
+        "options": ["aus", "von", "bei", "zu"],
+        "reponse": "aus"
+      },
+      {
+        "question": "___ Thailand",
+        "options": ["aus", "von", "bei", "zu"],
+        "reponse": "aus"
+      },
+      {
+        "question": "___ dem Garten",
+        "options": ["aus", "von", "bei", "zu"],
+        "reponse": "aus"
+      },
+      {
+        "question": "___ der Klinik",
+        "options": ["aus", "von", "bei", "zu"],
+        "reponse": "aus"
+      },
+      {
+        "question": "___ dem Einkaufen",
+        "options": ["vom", "aus dem", "beim", "zum"],
+        "reponse": "vom"
+      },
+      {
+        "question": "___ Thomas",
+        "options": ["von", "aus", "bei", "zu"],
+        "reponse": "von"
+      },
+      {
+        "question": "___ dem Markt",
+        "options": ["vom", "aus dem", "beim", "zum"],
+        "reponse": "vom"
+      },
+      {
+        "question": "___ zu Hause",
+        "options": ["von", "aus", "bei", "zu"],
+        "reponse": "von"
+      },
+      {
+        "question": "___ dem Arzt",
+        "options": ["vom", "aus dem", "beim", "zum"],
+        "reponse": "vom"
+      },
+      {
+        "question": "___ dem Strand",
+        "options": ["vom", "aus dem", "beim", "zum"],
+        "reponse": "vom"
+      },
+      {
+        "question": "___ dem Picknick",
+        "options": ["vom", "aus dem", "beim", "zum"],
+        "reponse": "vom"
+      },
+      {
+        "question": "___ dem Fußballplatz",
+        "options": ["vom", "aus dem", "beim", "zum"],
+        "reponse": "vom"
+      },
+      {
+        "question": "___ dem Supermarkt",
+        "options": ["aus dem", "vom", "beim", "zum"],
+        "reponse": "aus dem"
+      },
+      {
+        "question": "___ der Küche",
+        "options": ["aus der", "von der", "bei der", "zur"],
+        "reponse": "aus der"
+      },
+      {
+        "question": "___ dem Bett",
+        "options": ["aus dem", "vom", "beim", "zum"],
+        "reponse": "aus dem"
+      },
+      {
+        "question": "___ dem Kühlschrank",
+        "options": ["aus dem", "vom", "beim", "zum"],
+        "reponse": "aus dem"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "lokal-woher-02",
+    "theme": "Lokale Präpositionen",
+    "sous_theme": "Urlaub in Österreich - aus oder von",
+    "niveau": "A2",
+    "type": "completer",
+    "consigne": "URLAUB IN ÖSTERREICH. Ergänzen Sie aus oder von und den Artikel (wenn nötig).",
+    "questions": [
+      {
+        "question": "Ich komme gerade ___ Österreich ___ meiner Freundin.",
+        "options": ["aus / von", "von / aus", "aus / mit", "von / bei"],
+        "reponse": "aus / von"
+      },
+      {
+        "question": "Genauer gesagt komme ich ___ Sölden ___ Wandern.",
+        "options": ["aus / vom", "von / vom", "aus / aus", "von / aus"],
+        "reponse": "aus / vom"
+      },
+      {
+        "question": "Ich bin vor einer Stunde ___ Hotel gekommen.",
+        "options": ["vom", "aus dem", "beim", "zum"],
+        "reponse": "vom"
+      },
+      {
+        "question": "Gestern Abend beim Essen war ich müde: Wir sind erst um 19.00 Uhr ___ See gekommen.",
+        "options": ["vom", "aus dem", "beim", "zum"],
+        "reponse": "vom"
+      },
+      {
+        "question": "Meine Haare waren noch nass, denn ich war erst fünf Minuten davor ___ Wasser gekommen.",
+        "options": ["aus dem", "vom", "beim", "zum"],
+        "reponse": "aus dem"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "lokal-woher-03",
+    "theme": "Lokale Präpositionen",
+    "sous_theme": "wohin, wo, woher - Tabelle",
+    "niveau": "A2",
+    "type": "ordre",
+    "consigne": "Ergänzen Sie die Präpositionen und Artikel (wenn nötig) in der korrekten Form.",
+    "questions": [
+      {
+        "question": "China: wohin? wo? woher?",
+        "options": [],
+        "reponse": "wohin: nach China | wo: in China | woher: aus China"
+      },
+      {
+        "question": "die Schweiz: wohin? wo? woher?",
+        "options": [],
+        "reponse": "wohin: in die Schweiz | wo: in der Schweiz | woher: aus der Schweiz"
+      },
+      {
+        "question": "das Kino: wohin? wo? woher?",
+        "options": [],
+        "reponse": "wohin: ins Kino | wo: im Kino | woher: aus dem Kino"
+      },
+      {
+        "question": "der Strand: wohin? wo? woher?",
+        "options": [],
+        "reponse": "wohin: an den Strand | wo: am Strand | woher: vom Strand"
+      },
+      {
+        "question": "der Sportplatz: wohin? wo? woher?",
+        "options": [],
+        "reponse": "wohin: auf den Sportplatz | wo: auf dem Sportplatz | woher: vom Sportplatz"
+      },
+      {
+        "question": "Ikea: wohin? wo? woher?",
+        "options": [],
+        "reponse": "wohin: zu Ikea | wo: bei Ikea | woher: von Ikea"
+      },
+      {
+        "question": "der Arzt: wohin? wo? woher?",
+        "options": [],
+        "reponse": "wohin: zum Arzt | wo: beim Arzt | woher: vom Arzt"
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "lokal-woher-04",
+    "theme": "Lokale Präpositionen",
+    "sous_theme": "zu Hause, nach Hause, von zu Hause",
+    "niveau": "A2",
+    "type": "completer",
+    "consigne": "Ergänzen Sie zu Hause, nach Hause oder von zu Hause.",
+    "questions": [
+      {
+        "question": "Wohin gehst du? Ich gehe jetzt ___.",
+        "options": ["nach Hause", "zu Hause", "von zu Hause"],
+        "reponse": "nach Hause"
+      },
+      {
+        "question": "Ich bin müde. Und du? Ich komme gerade ___.",
+        "options": ["von zu Hause", "nach Hause", "zu Hause"],
+        "reponse": "von zu Hause"
+      },
+      {
+        "question": "Aber jetzt gehe ich joggen. Ich kann nicht den ganzen Tag nur ___ sitzen.",
+        "options": ["zu Hause", "nach Hause", "von zu Hause"],
+        "reponse": "zu Hause"
+      },
+      {
+        "question": "Oh, ich bin so gerne ___.",
+        "options": ["zu Hause", "nach Hause", "von zu Hause"],
+        "reponse": "zu Hause"
+      },
+      {
+        "question": "Ich gehe immer gleich nach der Arbeit ___.",
+        "options": ["nach Hause", "zu Hause", "von zu Hause"],
+        "reponse": "nach Hause"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  }
+]

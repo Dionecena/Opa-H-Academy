@@ -1,0 +1,881 @@
+[
+  {
+    "id": "konj-pos0-01",
+    "theme": "Konjunktionen",
+    "sous_theme": "und, aber, oder, denn - Position 0",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "ESSEN. Ergänzen Sie die Konjunktionen: aber • aber • und • und • denn • oder.",
+    "questions": [
+      {
+        "question": "Ich esse viel Gemüse, ___ ich möchte gesund leben.",
+        "options": ["denn", "weil", "deshalb", "sonst"],
+        "reponse": "denn"
+      },
+      {
+        "question": "Ich möchte schlank sein, ___ ich habe große Lust zu essen.",
+        "options": ["aber", "denn", "oder", "und"],
+        "reponse": "aber"
+      },
+      {
+        "question": "Ich liebe Schokolade ___ ich esse auch sehr gerne Eis.",
+        "options": ["und", "aber", "denn", "oder"],
+        "reponse": "und"
+      },
+      {
+        "question": "Ich mache eine Obstdiät ___ ich mache eine Eierdiät.",
+        "options": ["oder", "und", "aber", "denn"],
+        "reponse": "oder"
+      },
+      {
+        "question": "Ich esse kein Fleisch, ___ ich esse manchmal Fisch.",
+        "options": ["aber", "denn", "und", "oder"],
+        "reponse": "aber"
+      },
+      {
+        "question": "Essen ist wichtig für mich ___ es macht Spaß.",
+        "options": ["und", "aber", "denn", "oder"],
+        "reponse": "und"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "konj-pos0-02",
+    "theme": "Konjunktionen",
+    "sous_theme": "und, aber, oder, denn - Sätze schreiben",
+    "niveau": "A1",
+    "type": "ordre",
+    "consigne": "DAS WOCHENENDE. Schreiben Sie Sätze.",
+    "questions": [
+      {
+        "question": "Am Samstag geht Lisa einkaufen • und • besucht • sie • am Sonntag • ihre Freunde • .",
+        "options": [],
+        "reponse": "Am Samstag geht Lisa einkaufen und am Sonntag besucht sie ihre Freunde."
+      },
+      {
+        "question": "Sie geht mit ihren Freunden in den Park • sehen • sie • einen Film im Kino • oder • .",
+        "options": [],
+        "reponse": "Sie geht mit ihren Freunden in den Park oder sie sehen einen Film im Kino."
+      },
+      {
+        "question": "Am Samstag scheint die Sonne, • am Sonntag • aber • es • regnet • .",
+        "options": [],
+        "reponse": "Am Samstag scheint die Sonne, aber am Sonntag regnet es."
+      },
+      {
+        "question": "An diesem Sonntag gehen sie ins Kino, • schlecht • denn • ist • das Wetter • .",
+        "options": [],
+        "reponse": "An diesem Sonntag gehen sie ins Kino, denn das Wetter ist schlecht."
+      },
+      {
+        "question": "Der Film gefällt ihnen nicht, • das Popcorn • gut • schmeckt • aber • .",
+        "options": [],
+        "reponse": "Der Film gefällt ihnen nicht, aber das Popcorn schmeckt gut."
+      },
+      {
+        "question": "Nach dem Kino gehen sie in einen Club, • müde • noch nicht • denn • sie • sind • .",
+        "options": [],
+        "reponse": "Nach dem Kino gehen sie in einen Club, denn sie sind noch nicht müde."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "konj-pos0-03",
+    "theme": "Konjunktionen",
+    "sous_theme": "Städte in Deutschland",
+    "niveau": "A1",
+    "type": "completer",
+    "consigne": "STÄDTE IN DEUTSCHLAND. Ergänzen Sie die Konjunktionen: aber • und • denn • oder • denn • und.",
+    "questions": [
+      {
+        "question": "Frankfurt ist nicht so groß wie Berlin, ___ Frankfurt hat einen größeren Flughafen.",
+        "options": ["aber", "denn", "und", "oder"],
+        "reponse": "aber"
+      },
+      {
+        "question": "Berlin hat die meisten Museen ___ die meisten Theater.",
+        "options": ["und", "aber", "denn", "oder"],
+        "reponse": "und"
+      },
+      {
+        "question": "Viele Leute wollen in Berlin arbeiten ___ viele Touristen kommen nach Berlin.",
+        "options": ["und", "aber", "denn", "oder"],
+        "reponse": "und"
+      },
+      {
+        "question": "Viele Leute kommen nach Berlin, ___ Berlin ist die Hauptstadt von Deutschland.",
+        "options": ["denn", "aber", "und", "oder"],
+        "reponse": "denn"
+      },
+      {
+        "question": "Morgens um 5 Uhr können Sie in Hamburg noch auf die Reeperbahn gehen ___ Sie besuchen den Fischmarkt.",
+        "options": ["oder", "und", "aber", "denn"],
+        "reponse": "oder"
+      },
+      {
+        "question": "Ich wohne gerne in München, ___ dort kann ich im Winter in die Alpen zum Ski fahren.",
+        "options": ["denn", "aber", "und", "oder"],
+        "reponse": "denn"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "konj-pos0-04",
+    "theme": "Konjunktionen",
+    "sous_theme": "mit und verbinden - weglassen",
+    "niveau": "A1",
+    "type": "ordre",
+    "consigne": "Verbinden Sie die Sätze mit und. Was kann man weglassen?",
+    "questions": [
+      {
+        "question": "Ich gehe gerne ins Kino. Ich gehe gerne ins Theater.",
+        "options": [],
+        "reponse": "Ich gehe gerne ins Kino und ins Theater."
+      },
+      {
+        "question": "Er kauft ein neues Handy. Er kauft einen neuen Laptop.",
+        "options": [],
+        "reponse": "Er kauft ein neues Handy und einen neuen Laptop."
+      },
+      {
+        "question": "Sie geht heute schwimmen. Sie spielt heute Tennis.",
+        "options": [],
+        "reponse": "Sie geht heute schwimmen und spielt Tennis."
+      },
+      {
+        "question": "Mein Bruder mag gerne Jazzmusik. Ich mag gerne klassische Musik.",
+        "options": [],
+        "reponse": "Mein Bruder mag gerne Jazzmusik und ich mag gerne klassische Musik."
+      },
+      {
+        "question": "Wir wollen zusammen für die Prüfung lernen. Wir wollen zusammen in Urlaub fahren.",
+        "options": [],
+        "reponse": "Wir wollen zusammen für die Prüfung lernen und in Urlaub fahren."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "konj-pos0-05",
+    "theme": "Konjunktionen",
+    "sous_theme": "mit oder verbinden - weglassen",
+    "niveau": "A1",
+    "type": "ordre",
+    "consigne": "Verbinden Sie die Fragen mit oder. Was kann man weglassen?",
+    "questions": [
+      {
+        "question": "Gehen Sie am Samstagabend ins Kino? Gehen Sie am Samstagabend ins Theater?",
+        "options": [],
+        "reponse": "Gehen Sie am Samstagabend ins Kino oder ins Theater?"
+      },
+      {
+        "question": "Essen Sie gerne Schokolade? Essen Sie lieber Pizza?",
+        "options": [],
+        "reponse": "Essen Sie gerne Schokolade oder lieber Pizza?"
+      },
+      {
+        "question": "Möchten Sie einen Kaffee? Möchten Sie einen Tee?",
+        "options": [],
+        "reponse": "Möchten Sie einen Kaffee oder einen Tee?"
+      },
+      {
+        "question": "Möchten Sie den Kaffee mit Zucker? Möchten Sie den Kaffee ohne Zucker?",
+        "options": [],
+        "reponse": "Möchten Sie den Kaffee mit oder ohne Zucker?"
+      },
+      {
+        "question": "Soll ich das Fenster aufmachen? Ist es Ihnen zu kalt?",
+        "options": [],
+        "reponse": "Soll ich das Fenster aufmachen oder ist es Ihnen zu kalt?"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "konj-pos0-06",
+    "theme": "Konjunktionen",
+    "sous_theme": "Shopping - Text neu schreiben",
+    "niveau": "A1",
+    "type": "ordre",
+    "consigne": "SHOPPING. Schreiben Sie den Text neu. Verbinden Sie die Sätze mit denn, und, oder, aber.",
+    "questions": [
+      {
+        "question": "Ich gehe in die Stadt. Ich möchte einkaufen.",
+        "options": [],
+        "reponse": "Ich gehe in die Stadt, denn ich möchte einkaufen."
+      },
+      {
+        "question": "Ich möchte eine Hose kaufen. Ich möchte eine Bluse kaufen.",
+        "options": [],
+        "reponse": "Ich möchte eine Hose und eine Bluse kaufen."
+      },
+      {
+        "question": "Die rote Bluse ist sehr schön. Sie ist zu teuer.",
+        "options": [],
+        "reponse": "Die rote Bluse ist sehr schön, aber sie ist zu teuer."
+      },
+      {
+        "question": "Soll ich die blaue nehmen? Soll ich die grüne nehmen?",
+        "options": [],
+        "reponse": "Soll ich die blaue oder die grüne nehmen?"
+      },
+      {
+        "question": "Mir gefällt die blaue. Mir gefällt die grüne.",
+        "options": [],
+        "reponse": "Mir gefällt die blaue und die grüne."
+      },
+      {
+        "question": "Leider kann ich nur eine Bluse kaufen. Ich habe nicht so viel Geld dabei.",
+        "options": [],
+        "reponse": "Leider kann ich nur eine Bluse kaufen, denn ich habe nicht so viel Geld dabei."
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "adv-pos1-01",
+    "theme": "Adverbialkonjunktionen",
+    "sous_theme": "deshalb - Was passt zusammen?",
+    "niveau": "A2",
+    "type": "associer",
+    "consigne": "Deshalb – Was passt zusammen? Kombinieren Sie.",
+    "questions": [
+      {
+        "question": "Mein Fernseher ist kaputt.",
+        "options": ["Deshalb gehen wir ins Kino.", "Deshalb bin ich zu spät gekommen.", "Deshalb sitzen wir im Mantel auf dem Sofa.", "Deshalb gehen wir ins Restaurant.", "Deshalb musste ich mit dem Bus fahren."],
+        "reponse": "Deshalb gehen wir ins Kino."
+      },
+      {
+        "question": "Meine Uhr ist kaputt.",
+        "options": ["Deshalb bin ich zu spät gekommen.", "Deshalb gehen wir ins Kino.", "Deshalb sitzen wir im Mantel auf dem Sofa.", "Deshalb gehen wir ins Restaurant.", "Deshalb musste ich mit dem Bus fahren."],
+        "reponse": "Deshalb bin ich zu spät gekommen."
+      },
+      {
+        "question": "Mein Herd ist kaputt.",
+        "options": ["Deshalb gehen wir ins Restaurant.", "Deshalb gehen wir ins Kino.", "Deshalb bin ich zu spät gekommen.", "Deshalb sitzen wir im Mantel auf dem Sofa.", "Deshalb musste ich mit dem Bus fahren."],
+        "reponse": "Deshalb gehen wir ins Restaurant."
+      },
+      {
+        "question": "Mein Auto ist kaputt.",
+        "options": ["Deshalb musste ich mit dem Bus fahren.", "Deshalb gehen wir ins Kino.", "Deshalb bin ich zu spät gekommen.", "Deshalb sitzen wir im Mantel auf dem Sofa.", "Deshalb gehen wir ins Restaurant."],
+        "reponse": "Deshalb musste ich mit dem Bus fahren."
+      },
+      {
+        "question": "Meine Heizung ist kaputt.",
+        "options": ["Deshalb sitzen wir im Mantel auf dem Sofa.", "Deshalb gehen wir ins Kino.", "Deshalb bin ich zu spät gekommen.", "Deshalb gehen wir ins Restaurant.", "Deshalb musste ich mit dem Bus fahren."],
+        "reponse": "Deshalb sitzen wir im Mantel auf dem Sofa."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "adv-pos1-02",
+    "theme": "Adverbialkonjunktionen",
+    "sous_theme": "sonst - Was passt zusammen?",
+    "niveau": "A2",
+    "type": "associer",
+    "consigne": "Sonst – Was passt zusammen? Kombinieren Sie.",
+    "questions": [
+      {
+        "question": "Kannst du mir bitte Geld geben,",
+        "options": ["sonst kann ich die Rechnung nicht bezahlen.", "sonst haben wir heute Abend nichts zu essen.", "sonst kann ich mich nicht konzentrieren.", "sonst verpasse ich den Bus.", "sonst erkältet sich die Kollegin."],
+        "reponse": "sonst kann ich die Rechnung nicht bezahlen."
+      },
+      {
+        "question": "Geh doch bitte einkaufen,",
+        "options": ["sonst haben wir heute Abend nichts zu essen.", "sonst kann ich die Rechnung nicht bezahlen.", "sonst kann ich mich nicht konzentrieren.", "sonst verpasse ich den Bus.", "sonst erkältet sich die Kollegin."],
+        "reponse": "sonst haben wir heute Abend nichts zu essen."
+      },
+      {
+        "question": "Sei doch bitte ruhig,",
+        "options": ["sonst kann ich mich nicht konzentrieren.", "sonst haben wir heute Abend nichts zu essen.", "sonst kann ich die Rechnung nicht bezahlen.", "sonst verpasse ich den Bus.", "sonst erkältet sich die Kollegin."],
+        "reponse": "sonst kann ich mich nicht konzentrieren."
+      },
+      {
+        "question": "Mach doch bitte das Fenster zu,",
+        "options": ["sonst erkältet sich die Kollegin.", "sonst haben wir heute Abend nichts zu essen.", "sonst kann ich die Rechnung nicht bezahlen.", "sonst kann ich mich nicht konzentrieren.", "sonst verpasse ich den Bus."],
+        "reponse": "sonst erkältet sich die Kollegin."
+      },
+      {
+        "question": "Ich muss sofort gehen,",
+        "options": ["sonst verpasse ich den Bus.", "sonst haben wir heute Abend nichts zu essen.", "sonst kann ich die Rechnung nicht bezahlen.", "sonst kann ich mich nicht konzentrieren.", "sonst erkältet sich die Kollegin."],
+        "reponse": "sonst verpasse ich den Bus."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "adv-pos1-03",
+    "theme": "Adverbialkonjunktionen",
+    "sous_theme": "dann/danach - Was passt zusammen?",
+    "niveau": "A2",
+    "type": "associer",
+    "consigne": "Dann/Danach – Was passt zusammen? Kombinieren Sie.",
+    "questions": [
+      {
+        "question": "Morgens trinkt er einen Kaffee.",
+        "options": ["Dann fährt er drei Stationen mit der U-Bahn.", "Dann geht er nach Hause.", "Danach geht er zur Arbeit.", "Danach räumt er die Küche auf.", "Danach geht er schlafen."],
+        "reponse": "Dann fährt er drei Stationen mit der U-Bahn."
+      },
+      {
+        "question": "Er fährt erst mit dem Bus.",
+        "options": ["Danach geht er zur Arbeit.", "Dann fährt er drei Stationen mit der U-Bahn.", "Dann geht er nach Hause.", "Danach räumt er die Küche auf.", "Danach geht er schlafen."],
+        "reponse": "Danach geht er zur Arbeit."
+      },
+      {
+        "question": "Nach der Arbeit kauft er ein.",
+        "options": ["Dann geht er nach Hause.", "Dann fährt er drei Stationen mit der U-Bahn.", "Danach geht er zur Arbeit.", "Danach räumt er die Küche auf.", "Danach geht er schlafen."],
+        "reponse": "Dann geht er nach Hause."
+      },
+      {
+        "question": "Er isst Spaghetti mit Tomatensoße.",
+        "options": ["Danach räumt er die Küche auf.", "Dann fährt er drei Stationen mit der U-Bahn.", "Dann geht er nach Hause.", "Danach geht er zur Arbeit.", "Danach geht er schlafen."],
+        "reponse": "Danach räumt er die Küche auf."
+      },
+      {
+        "question": "Abends sieht er einen Krimi.",
+        "options": ["Danach geht er schlafen.", "Dann fährt er drei Stationen mit der U-Bahn.", "Dann geht er nach Hause.", "Danach geht er zur Arbeit.", "Danach räumt er die Küche auf."],
+        "reponse": "Danach geht er schlafen."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "adv-pos1-04",
+    "theme": "Adverbialkonjunktionen",
+    "sous_theme": "Mein Geburtstag - Sätze schreiben",
+    "niveau": "A2",
+    "type": "ordre",
+    "consigne": "MEIN GEBURTSTAG. Schreiben Sie Sätze.",
+    "questions": [
+      {
+        "question": "Heute habe ich Geburtstag. Deshalb • meine Freunde • ich • eingeladen • habe • .",
+        "options": [],
+        "reponse": "Heute habe ich Geburtstag. Deshalb habe ich meine Freunde eingeladen."
+      },
+      {
+        "question": "Wir wollen erst ins Restaurant gehen. Dann • in den Club • wollen • gehen • wir • .",
+        "options": [],
+        "reponse": "Wir wollen erst ins Restaurant gehen. Dann wollen wir in den Club gehen."
+      },
+      {
+        "question": "Ich brauche meine neuen Schuhe. Sonst • ich • nicht • tanzen • kann • .",
+        "options": [],
+        "reponse": "Ich brauche meine neuen Schuhe. Sonst kann ich nicht tanzen."
+      },
+      {
+        "question": "Hoffentlich ist die Musik gut. Dann • wir • haben • viel Spaß • .",
+        "options": [],
+        "reponse": "Hoffentlich ist die Musik gut. Dann haben wir viel Spaß."
+      },
+      {
+        "question": "Wir wollen lange feiern. Deshalb • ich • morgen lange schlafen • möchte • .",
+        "options": [],
+        "reponse": "Wir wollen lange feiern. Deshalb möchte ich morgen lange schlafen."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "adv-pos1-05",
+    "theme": "Adverbialkonjunktionen",
+    "sous_theme": "deshalb, sonst, dann - Sätze verbinden",
+    "niveau": "A2",
+    "type": "ordre",
+    "consigne": "Verbinden Sie die Sätze mit deshalb, sonst oder dann.",
+    "questions": [
+      {
+        "question": "Mein Kühlschrank ist leer. Ich muss einkaufen gehen.\n→ Konjunktion: deshalb (Grund → Folge)\n→ Beispiel: Ich bin müde. Deshalb gehe ich ins Bett.",
+        "options": [],
+        "reponse": "Mein Kühlschrank ist leer. Deshalb muss ich einkaufen gehen."
+      },
+      {
+        "question": "Ich muss mich beeilen. Ich komme zu spät.\n→ Konjunktion: sonst (Warnung/Folge ohne Aktion)\n→ Beispiel: Du musst lernen, sonst bestehst du die Prüfung nicht.",
+        "options": [],
+        "reponse": "Ich muss mich beeilen, sonst komme ich zu spät."
+      },
+      {
+        "question": "Kannst du mir dein Handy ausleihen? Ich kann meinem Mann nicht Bescheid sagen.\n→ Konjunktion: sonst (Warnung/Folge ohne Aktion)\n→ Beispiel: Nimm einen Schirm mit, sonst wirst du nass.",
+        "options": [],
+        "reponse": "Kannst du mir dein Handy ausleihen? Sonst kann ich meinem Mann nicht Bescheid sagen."
+      },
+      {
+        "question": "Lazaro muss heute lange arbeiten. Er kann nicht kommen.\n→ Konjunktion: deshalb (Grund → Folge)\n→ Beispiel: Es regnet. Deshalb bleibe ich zu Hause.",
+        "options": [],
+        "reponse": "Lazaro muss heute lange arbeiten. Deshalb kann er nicht kommen."
+      },
+      {
+        "question": "Wir besichtigen die Stadt. Wir gehen essen.\n→ Konjunktion: dann (zeitliche Abfolge)\n→ Beispiel: Ich stehe auf. Dann frühstücke ich.",
+        "options": [],
+        "reponse": "Wir besichtigen die Stadt. Dann gehen wir essen."
+      },
+      {
+        "question": "Ich schreibe die E-Mail. Ich schicke die E-Mail ab.\n→ Konjunktion: dann (zeitliche Abfolge)\n→ Beispiel: Er kocht. Dann isst er.",
+        "options": [],
+        "reponse": "Ich schreibe die E-Mail. Dann schicke ich die E-Mail ab."
+      },
+      {
+        "question": "Wir müssen einen Schirm mitnehmen. Wir werden nass.\n→ Konjunktion: sonst (Warnung/Folge ohne Aktion)\n→ Beispiel: Du musst bezahlen, sonst bekommst du keine Ware.",
+        "options": [],
+        "reponse": "Wir müssen einen Schirm mitnehmen, sonst werden wir nass."
+      },
+      {
+        "question": "Meine Tochter ist krank, sie kann heute leider nicht zur Schule kommen.\n→ Konjunktion: deshalb (Grund → Folge)\n→ Beispiel: Ich habe Hunger. Deshalb koche ich.",
+        "options": [],
+        "reponse": "Meine Tochter ist krank, deshalb kann sie heute leider nicht zur Schule kommen."
+      }
+    ],
+    "difficulty": "difficile",
+    "score": 1
+  },
+  {
+    "id": "adv-pos1-06",
+    "theme": "Adverbialkonjunktionen",
+    "sous_theme": "Bitte hilf mir! - Ergänzen",
+    "niveau": "A2",
+    "type": "completer",
+    "consigne": "BITTE HILF MIR! Ergänzen Sie sonst, deshalb oder danach.",
+    "questions": [
+      {
+        "question": "Ich habe nächste Woche meine Prüfung, ___ muss ich sehr viel lernen.",
+        "options": ["deshalb", "sonst", "danach", "dann"],
+        "reponse": "deshalb"
+      },
+      {
+        "question": "Bitte hilf mir, ___ schaffe ich die Prüfung vielleicht nicht.",
+        "options": ["sonst", "deshalb", "danach", "dann"],
+        "reponse": "sonst"
+      },
+      {
+        "question": "Wir können nachmittags lernen und ___ lade ich dich zum Essen ein.",
+        "options": ["danach", "deshalb", "sonst", "dann"],
+        "reponse": "danach"
+      },
+      {
+        "question": "Du hast die Prüfung schon geschafft, ___ kannst du mir bestimmt helfen.",
+        "options": ["deshalb", "sonst", "danach", "dann"],
+        "reponse": "deshalb"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "neben-weil-01",
+    "theme": "Nebensätze",
+    "sous_theme": "weil, wenn, dass - Sätze schreiben",
+    "niveau": "A2",
+    "type": "ordre",
+    "consigne": "Schreiben Sie Sätze.",
+    "questions": [
+      {
+        "question": "Ich glaube, • dass • er • geht • gerne • in den Club • .",
+        "options": [],
+        "reponse": "Ich glaube, dass er gerne in den Club geht."
+      },
+      {
+        "question": "Er geht in den Club, • er • will • tanzen • weil • .",
+        "options": [],
+        "reponse": "Er geht in den Club, weil er tanzen will."
+      },
+      {
+        "question": "Es macht ihm besonders viel Spaß, • seine Freunde • wenn • mitkommen • .",
+        "options": [],
+        "reponse": "Es macht ihm besonders viel Spaß, wenn seine Freunde mitkommen."
+      },
+      {
+        "question": "Er geht zum Arzt, • hat • Rückenschmerzen • er • weil • .",
+        "options": [],
+        "reponse": "Er geht zum Arzt, weil er Rückenschmerzen hat."
+      },
+      {
+        "question": "Der Arzt sagt, • soll • machen • er • dass • Gymnastik • .",
+        "options": [],
+        "reponse": "Der Arzt sagt, dass er Gymnastik machen soll."
+      },
+      {
+        "question": "Er kann auch ein Medikament nehmen, • die Schmerzen • sind • sehr stark • wenn • .",
+        "options": [],
+        "reponse": "Er kann auch ein Medikament nehmen, wenn die Schmerzen sehr stark sind."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "neben-weil-02",
+    "theme": "Nebensätze",
+    "sous_theme": "Antworten mit weil",
+    "niveau": "A2",
+    "type": "ordre",
+    "consigne": "Antworten Sie mit weil.",
+    "questions": [
+      {
+        "question": "Warum rufst du nicht an? (Der Akku von meinem Handy ist leer.)",
+        "options": [],
+        "reponse": "Ich rufe nicht an, weil der Akku von meinem Handy leer ist."
+      },
+      {
+        "question": "Warum kommst du so spät? (Ich musste so lange arbeiten.)",
+        "options": [],
+        "reponse": "Ich komme so spät, weil ich so lange arbeiten musste."
+      },
+      {
+        "question": "Warum öffnest du das Fenster? (Es ist so warm.)",
+        "options": [],
+        "reponse": "Ich öffne das Fenster, weil es so warm ist."
+      },
+      {
+        "question": "Warum geht sie nicht ans Telefon? (Sie sieht gerade fern.)",
+        "options": [],
+        "reponse": "Sie geht nicht ans Telefon, weil sie gerade fernsieht."
+      },
+      {
+        "question": "Warum hast du nicht Bescheid gesagt? (Ich wollte nicht stören.)",
+        "options": [],
+        "reponse": "Ich habe nicht Bescheid gesagt, weil ich nicht stören wollte."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "neben-dass-01",
+    "theme": "Nebensätze",
+    "sous_theme": "Ich glaube, dass... - Susi kommt nicht",
+    "niveau": "A2",
+    "type": "ordre",
+    "consigne": "SUSI KOMMT HEUTE NICHT IN DEN KURS. Was denken Sie? Schreiben Sie mit dass.",
+    "questions": [
+      {
+        "question": "Sie ist krank.",
+        "options": [],
+        "reponse": "Ich glaube, dass sie krank ist."
+      },
+      {
+        "question": "Sie hat keine Lust.",
+        "options": [],
+        "reponse": "Ich denke, dass sie keine Lust hat."
+      },
+      {
+        "question": "Ihr Kind ist krank.",
+        "options": [],
+        "reponse": "Ich glaube, dass ihr Kind krank ist."
+      },
+      {
+        "question": "Sie muss arbeiten.",
+        "options": [],
+        "reponse": "Ich denke, dass sie arbeiten muss."
+      },
+      {
+        "question": "Sie will lange schlafen.",
+        "options": [],
+        "reponse": "Ich glaube, dass sie lange schlafen will."
+      },
+      {
+        "question": "Sie kauft ein.",
+        "options": [],
+        "reponse": "Ich denke, dass sie einkauft."
+      },
+      {
+        "question": "Sie hat den Kurs vergessen.",
+        "options": [],
+        "reponse": "Ich glaube, dass sie den Kurs vergessen hat."
+      },
+      {
+        "question": "Sie hat den Bus verpasst.",
+        "options": [],
+        "reponse": "Ich denke, dass sie den Bus verpasst hat."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "neben-wenn-01",
+    "theme": "Nebensätze",
+    "sous_theme": "Was macht Marian, wenn...?",
+    "niveau": "A2",
+    "type": "ordre",
+    "consigne": "WAS MACHT MARIAN, WENN …? Schreiben Sie Antworten.",
+    "questions": [
+      {
+        "question": "Wann geht er joggen? (Die Sonne scheint.)",
+        "options": [],
+        "reponse": "Er geht joggen, wenn die Sonne scheint."
+      },
+      {
+        "question": "Wann schläft er lange? (Er hat Urlaub.)",
+        "options": [],
+        "reponse": "Er schläft lange, wenn er Urlaub hat."
+      },
+      {
+        "question": "Wann zieht er sich schick an? (Er trifft sich mit seiner Freundin.)",
+        "options": [],
+        "reponse": "Er zieht sich schick an, wenn er sich mit seiner Freundin trifft."
+      },
+      {
+        "question": "Wann ärgert er sich? (Er muss länger arbeiten.)",
+        "options": [],
+        "reponse": "Er ärgert sich, wenn er länger arbeiten muss."
+      },
+      {
+        "question": "Wann darf man ihn nicht stören? (Er sieht gerade fern.)",
+        "options": [],
+        "reponse": "Man darf ihn nicht stören, wenn er gerade fernsieht."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "neben-wenn-02",
+    "theme": "Nebensätze",
+    "sous_theme": "Nebensatz am Satzanfang",
+    "niveau": "A2",
+    "type": "ordre",
+    "consigne": "Schreiben Sie die Sätze neu. Beginnen Sie mit dem Nebensatz.",
+    "questions": [
+      {
+        "question": "Er geht joggen, wenn die Sonne scheint.",
+        "options": [],
+        "reponse": "Wenn die Sonne scheint, geht er joggen."
+      },
+      {
+        "question": "Er schläft lange, wenn er Urlaub hat.",
+        "options": [],
+        "reponse": "Wenn er Urlaub hat, schläft er lange."
+      },
+      {
+        "question": "Er zieht sich schick an, wenn er sich mit seiner Freundin trifft.",
+        "options": [],
+        "reponse": "Wenn er sich mit seiner Freundin trifft, zieht er sich schick an."
+      },
+      {
+        "question": "Er ärgert sich, wenn er länger arbeiten muss.",
+        "options": [],
+        "reponse": "Wenn er länger arbeiten muss, ärgert er sich."
+      },
+      {
+        "question": "Man darf ihn nicht stören, wenn er gerade fernsieht.",
+        "options": [],
+        "reponse": "Wenn er gerade fernsieht, darf man ihn nicht stören."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "neben-wenn-03",
+    "theme": "Nebensätze",
+    "sous_theme": "Wenn oder wann?",
+    "niveau": "A2",
+    "type": "completer",
+    "consigne": "Wenn oder wann? Ergänzen Sie.",
+    "questions": [
+      {
+        "question": "___ sind Sie geboren? – Am 23.5.2002.",
+        "options": ["Wann", "Wenn", "Als", "Dann"],
+        "reponse": "Wann"
+      },
+      {
+        "question": "___ ich morgen fit bin, können wir schwimmen gehen.",
+        "options": ["Wenn", "Wann", "Als", "Dann"],
+        "reponse": "Wenn"
+      },
+      {
+        "question": "___ kommst du? – Ich weiß noch nicht, vielleicht am Samstag, ___ ich Zeit habe.",
+        "options": ["Wann / wenn", "Wenn / wann", "Wann / wann", "Wenn / wenn"],
+        "reponse": "Wann / wenn"
+      },
+      {
+        "question": "___ beginnt die Diskussion? – Wir müssen noch warten. ___ alle da sind, können wir anfangen.",
+        "options": ["Wann / Wenn", "Wenn / Wann", "Wann / Wann", "Wenn / Wenn"],
+        "reponse": "Wann / Wenn"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "neben-all-01",
+    "theme": "Nebensätze",
+    "sous_theme": "Urlaub! - weil, dass, wenn",
+    "niveau": "A2",
+    "type": "completer",
+    "consigne": "URLAUB! Ergänzen Sie weil, dass oder wenn.",
+    "questions": [
+      {
+        "question": "Bei mir ist es wunderbar, ___ ich Urlaub habe.",
+        "options": ["weil", "dass", "wenn", "denn"],
+        "reponse": "weil"
+      },
+      {
+        "question": "Ich habe immer viel Stress, ___ ich arbeite.",
+        "options": ["wenn", "weil", "dass", "denn"],
+        "reponse": "wenn"
+      },
+      {
+        "question": "Und jetzt: Ich schlafe lange, ___ kein Wecker klingelt.",
+        "options": ["weil", "dass", "wenn", "denn"],
+        "reponse": "weil"
+      },
+      {
+        "question": "Ich stehe erst dann auf, ___ ich Lust habe.",
+        "options": ["wenn", "weil", "dass", "denn"],
+        "reponse": "wenn"
+      },
+      {
+        "question": "Ich hoffe, ___ du auch bald Urlaub bekommst.",
+        "options": ["dass", "weil", "wenn", "denn"],
+        "reponse": "dass"
+      },
+      {
+        "question": "Denkst du, ___ das möglich ist?",
+        "options": ["dass", "weil", "wenn", "denn"],
+        "reponse": "dass"
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "neben-weil-03",
+    "theme": "Nebensätze",
+    "sous_theme": "Wechselspiel - Warum...?",
+    "niveau": "A2",
+    "type": "ordre",
+    "consigne": "Schreiben Sie Antworten mit weil.",
+    "questions": [
+      {
+        "question": "Warum geht sie jeden Tag drei Stunden spazieren? (Sie hat einen Hund.)",
+        "options": [],
+        "reponse": "Weil sie einen Hund hat."
+      },
+      {
+        "question": "Warum steht er um 7 Uhr auf? (Er muss arbeiten.)",
+        "options": [],
+        "reponse": "Weil er arbeiten muss."
+      },
+      {
+        "question": "Warum schläft er bis 14 Uhr? (Er war auf einer Party.)",
+        "options": [],
+        "reponse": "Weil er auf einer Party war."
+      },
+      {
+        "question": "Warum tanzen sie auf dem Tisch? (Sie haben im Lotto gewonnen.)",
+        "options": [],
+        "reponse": "Weil sie im Lotto gewonnen haben."
+      },
+      {
+        "question": "Warum isst sie das Mittagessen nicht? (Sie hat vorher sechs große Eis gegessen.)",
+        "options": [],
+        "reponse": "Weil sie vorher sechs große Eis gegessen hat."
+      },
+      {
+        "question": "Warum steht er jeden Tag acht Stunden vor dem Spiegel? (Er ist Frisör.)",
+        "options": [],
+        "reponse": "Weil er Frisör ist."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "neben-wenn-04",
+    "theme": "Nebensätze",
+    "sous_theme": "Wechselspiel - Was macht sie/er, wenn...?",
+    "niveau": "A2",
+    "type": "ordre",
+    "consigne": "Schreiben Sie Sätze mit wenn.",
+    "questions": [
+      {
+        "question": "Was macht sie, wenn sie nervös ist? (sie mit dem Hund spazieren gehen)",
+        "options": [],
+        "reponse": "Wenn sie nervös ist, geht sie mit dem Hund spazieren."
+      },
+      {
+        "question": "Was macht er, wenn er müde ist? (er trinkt fünf Espresso)",
+        "options": [],
+        "reponse": "Wenn er müde ist, trinkt er fünf Espresso."
+      },
+      {
+        "question": "Was macht er, wenn er auf einer Party ist? (er tanzt, lacht und trinkt)",
+        "options": [],
+        "reponse": "Wenn er auf einer Party ist, tanzt, lacht und trinkt er."
+      },
+      {
+        "question": "Was machen sie, wenn sie eine Million Euro haben? (sie machen eine Weltreise)",
+        "options": [],
+        "reponse": "Wenn sie eine Million Euro haben, machen sie eine Weltreise."
+      },
+      {
+        "question": "Was macht sie, wenn sie ins Bett gehen muss? (sie protestiert und weint)",
+        "options": [],
+        "reponse": "Wenn sie ins Bett gehen muss, protestiert und weint sie."
+      },
+      {
+        "question": "Was macht er, wenn er Feierabend hat? (er geht zum Frisör oder einkaufen)",
+        "options": [],
+        "reponse": "Wenn er Feierabend hat, geht er zum Frisör oder einkaufen."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  },
+  {
+    "id": "neben-dass-02",
+    "theme": "Nebensätze",
+    "sous_theme": "Wechselspiel - Was denkt er/sie?",
+    "niveau": "A2",
+    "type": "ordre",
+    "consigne": "Schreiben Sie Sätze mit dass.",
+    "questions": [
+      {
+        "question": "Was denkt sie über Tiere? (Tiere sind besser als Menschen.)",
+        "options": [],
+        "reponse": "Sie denkt, dass Tiere besser als Menschen sind."
+      },
+      {
+        "question": "Was denkt er über seine Arbeit? (seine Arbeit beginnt zu früh)",
+        "options": [],
+        "reponse": "Er denkt, dass seine Arbeit zu früh beginnt."
+      },
+      {
+        "question": "Was denkt er über Partys? (eine Party ist immer super)",
+        "options": [],
+        "reponse": "Er denkt, dass eine Party immer super ist."
+      },
+      {
+        "question": "Was denken sie über Geld? (Geld macht manchmal glücklich)",
+        "options": [],
+        "reponse": "Sie denken, dass Geld manchmal glücklich macht."
+      },
+      {
+        "question": "Was denkt sie über ihre Mama? (ihre Mama ist lieb, aber zu streng)",
+        "options": [],
+        "reponse": "Sie denkt, dass ihre Mama lieb, aber zu streng ist."
+      },
+      {
+        "question": "Was denkt er über das Leben? (das Leben muss Spaß machen)",
+        "options": [],
+        "reponse": "Er denkt, dass das Leben Spaß machen muss."
+      }
+    ],
+    "difficulty": "moyen",
+    "score": 1
+  }
+]
