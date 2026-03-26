@@ -35,14 +35,32 @@ const InstallPwaToast = () => {
   const [visible, setVisible] = useState(false);
 
   useEffect(() => {
-    if (isStandaloneMode()) return;
+    const force = (() => {
+      try {
+        const search = typeof window !== 'undefined' ? window.location.search : '';
+        return new URLSearchParams(search).get('pwaPrompt') === '1';
+      } catch (_) {
+        return false;
+      }
+    })();
+
+    const isLocalhost = (() => {
+      try {
+        const host = typeof window !== 'undefined' ? window.location.hostname : '';
+        return host === 'localhost' || host === '127.0.0.1';
+      } catch (_) {
+        return false;
+      }
+    })();
+
+    if (!force && isStandaloneMode()) return;
 
     try {
       const key = 'opa_pwa_install_prompt_last_seen';
       const last = parseInt(localStorage.getItem(key) || '0', 10);
       const now = Date.now();
       // show at most once every 24h
-      if (Number.isFinite(last) && now - last < 24 * 60 * 60 * 1000) return;
+      if (!force && !isLocalhost && Number.isFinite(last) && now - last < 24 * 60 * 60 * 1000) return;
 
       localStorage.setItem(key, String(now));
     } catch (_) {}
